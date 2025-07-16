@@ -101,12 +101,17 @@
               "formato": "3D"
             },
             {
-              "horario": "19:25",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             },
             {
-              "horario": "22:15",
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "22:10",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             }
@@ -117,17 +122,12 @@
           "titulo": "LECCIONES DE UN PINGÜINO",
           "horarios": [
             {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "20:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "23:00",
+              "horario": "23:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -138,27 +138,17 @@
           "titulo": "SHADOW FORCE: SENTENCIA DE MUERTE",
           "horarios": [
             {
-              "horario": "16:10",
+              "horario": "21:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:25",
+              "horario": "23:40",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "471ec1ca-c1b9-4e23-a6a9-fa7b58cbe7bc"
+          "id": "16bea480-a915-4393-b2b9-e16dd63881f3"
         },
         {
           "titulo": "PRESENCIA DEMONIACA",
@@ -218,6 +208,11 @@
               "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "40ddde79-69d7-4a82-b43d-b8b15eefdb02"
@@ -231,17 +226,7 @@
               "formato": "2D"
             },
             {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "12:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -301,9 +286,14 @@
               "horario": "22:45",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "23:40",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
-          "id": "b9b46ed0-49e9-4331-84a0-0b5318a2c56a"
+          "id": "a56625b4-0dac-4e1e-8011-c3f9a8cc5e19"
         },
         {
           "titulo": "JURASSIC WORLD: RENACE",
@@ -417,14 +407,9 @@
               "horario": "13:35",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
             }
           ],
-          "id": "f9a255a9-b558-4ab2-83f6-2ea7af68b54d"
+          "id": "fb6261ea-40f4-43af-95d4-a401ae2091ee"
         }
       ],
       "ciudad": "Santa Cruz Av. Trompillo"
@@ -498,28 +483,6 @@
           "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
         },
         {
-          "titulo": "LECCIONES DE UN PINGÜINO",
-          "horarios": [
-            {
-              "horario": "22:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d3869d5e-051e-4546-9c7f-c21a225009df"
-        },
-        {
-          "titulo": "SHADOW FORCE: SENTENCIA DE MUERTE",
-          "horarios": [
-            {
-              "horario": "21:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "e000f2d8-a160-424b-a65e-247392c31faf"
-        },
-        {
           "titulo": "LILO Y STITCH",
           "horarios": [
             {
@@ -528,17 +491,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
+              "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -549,27 +502,12 @@
           "titulo": "COMO ENTRENAR A TU DRAGON",
           "horarios": [
             {
-              "horario": "12:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "15:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
+              "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -595,12 +533,32 @@
               "formato": "2D"
             },
             {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "18:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:35",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -615,23 +573,28 @@
               "formato": "2D"
             },
             {
+              "horario": "21:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "20cb50e9-af59-4513-a6b8-e23c05e367d6"
+          "id": "e813cb67-a2ce-466c-a20c-6294cb5dc900"
         },
         {
           "titulo": "ELIO",
           "horarios": [
             {
               "horario": "13:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -743,12 +706,7 @@
           "titulo": "LECCIONES DE UN PINGÜINO",
           "horarios": [
             {
-              "horario": "21:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:35",
+              "horario": "23:45",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -759,36 +717,16 @@
           "titulo": "SHADOW FORCE: SENTENCIA DE MUERTE",
           "horarios": [
             {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:45",
+              "horario": "22:15",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "315619f0-a8c7-49db-8315-6a19a3f3712d"
+          "id": "62bcdf4a-ec9e-41f1-80cc-f8b2c777d797"
         },
         {
           "titulo": "LILO Y STITCH",
           "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "17:30",
               "idioma": "DOB",
@@ -831,12 +769,12 @@
               "formato": "2D"
             },
             {
-              "horario": "18:30",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "20:45",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -932,7 +870,7 @@
               "formato": "4D E-Motion 3D"
             }
           ],
-          "id": "13d47c4c-4ac6-48a1-b892-8e3b1cdf99eb"
+          "id": "0f08d1f3-b606-4b02-b294-cae40b196eaf"
         },
         {
           "titulo": "EXTERMINIO: LA EVOLUCION",
@@ -943,7 +881,7 @@
               "formato": "2D"
             }
           ],
-          "id": "5cdf5e30-99c0-4387-a094-3aaa2ee1a314"
+          "id": "71163d90-b62d-448d-b34c-22e502ed2b66"
         }
       ],
       "ciudad": "Cochabamba"
@@ -953,6 +891,11 @@
         {
           "titulo": "SUPERMAN",
           "horarios": [
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "17:10",
               "idioma": "DOB",
@@ -970,6 +913,11 @@
           "titulo": "LILO Y STITCH",
           "horarios": [
             {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -981,6 +929,11 @@
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "17:35",
               "idioma": "DOB",
               "formato": "2D"
@@ -991,7 +944,7 @@
               "formato": "2D"
             }
           ],
-          "id": "8e2fdb96-9ad5-4ab5-a463-1b14cede8fd6"
+          "id": "116031ac-c94f-4d7a-bd22-8814e5374b31"
         },
         {
           "titulo": "M3GAN 2.0",
@@ -1069,11 +1022,6 @@
           "titulo": "SHADOW FORCE: SENTENCIA DE MUERTE",
           "horarios": [
             {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "20:45",
               "idioma": "DOB",
               "formato": "2D"
@@ -1084,7 +1032,7 @@
               "formato": "2D"
             }
           ],
-          "id": "d0bc0133-bf27-42d8-941a-bf93a5e43244"
+          "id": "539dbe8f-d74b-4b9f-bc7e-99faab9c31fd"
         },
         {
           "titulo": "LILO Y STITCH",
@@ -1110,21 +1058,6 @@
         {
           "titulo": "COMO ENTRENAR A TU DRAGON",
           "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "19:30",
               "idioma": "DOB",
@@ -1182,7 +1115,7 @@
               "formato": "2D"
             }
           ],
-          "id": "022dcfda-9b88-469a-8416-1a177ae2eb93"
+          "id": "52d5ccda-5883-4e95-9f5f-35a706580bf0"
         },
         {
           "titulo": "EXTERMINIO: LA EVOLUCION",
@@ -1198,7 +1131,7 @@
               "formato": "2D"
             }
           ],
-          "id": "787d1d08-f818-4a49-83fb-94c5af2835c0"
+          "id": "dc03ba17-c24e-45d4-9811-ff7073cf4e69"
         }
       ],
       "ciudad": "Quillacollo"
@@ -1209,12 +1142,27 @@
           "titulo": "SUPERMAN",
           "horarios": [
             {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1229,7 +1177,7 @@
               "formato": "2D"
             },
             {
-              "horario": "15:50",
+              "horario": "16:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1244,6 +1192,11 @@
               "formato": "2D"
             },
             {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
@@ -1254,73 +1207,47 @@
               "formato": "2D"
             },
             {
-              "horario": "13:30",
+              "horario": "21:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "16:20",
+              "horario": "13:50",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "19:10",
+              "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "22:00",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "18:40",
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "17:10",
               "idioma": "DOB",
               "formato": "3D"
             },
             {
-              "horario": "21:30",
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "3D"
             }
           ],
           "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
-        },
-        {
-          "titulo": "LECCIONES DE UN PINGÜINO",
-          "horarios": [
-            {
-              "horario": "14:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d3869d5e-051e-4546-9c7f-c21a225009df"
         },
         {
           "titulo": "SHADOW FORCE: SENTENCIA DE MUERTE",
@@ -1341,22 +1268,12 @@
               "formato": "2D"
             },
             {
-              "horario": "20:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "ba73d25e-3713-4a9e-b30f-342f46b3a27d"
+          "id": "abecc67a-fe3d-420d-8797-de4d9f38c950"
         },
         {
           "titulo": "PRESENCIA DEMONIACA",
@@ -1409,17 +1326,7 @@
               "formato": "2D"
             },
             {
-              "horario": "11:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "12:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1434,27 +1341,12 @@
               "formato": "2D"
             },
             {
-              "horario": "16:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1470,7 +1362,17 @@
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
-              "horario": "13:10",
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:45",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1480,12 +1382,17 @@
               "formato": "2D"
             },
             {
-              "horario": "13:50",
+              "horario": "13:55",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:05",
+              "horario": "14:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1495,12 +1402,17 @@
               "formato": "2D"
             },
             {
-              "horario": "16:45",
+              "horario": "16:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:35",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1510,12 +1422,17 @@
               "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "19:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:55",
+              "horario": "20:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1525,23 +1442,23 @@
               "formato": "2D"
             },
             {
-              "horario": "22:35",
+              "horario": "22:40",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "f7b7e7b3-9cac-4e43-8548-ff93ca10e2ba"
+          "id": "f3770885-3fa7-481c-a5c7-3dc61bd9f328"
         },
         {
           "titulo": "ELIO",
           "horarios": [
             {
-              "horario": "12:55",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "12:55",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1573,7 +1490,12 @@
           "titulo": "SUPERMAN",
           "horarios": [
             {
-              "horario": "14:20",
+              "horario": "12:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -1583,32 +1505,42 @@
               "formato": "2D"
             },
             {
-              "horario": "17:10",
+              "horario": "18:10",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "19:20",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "21:00",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "21:50",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:20",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "3D"
             },
             {
-              "horario": "16:10",
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "3D"
             }
@@ -1619,23 +1551,38 @@
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
-              "horario": "14:40",
+              "horario": "13:00",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "17:35",
+              "horario": "15:55",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
               "idioma": "SUBT",
               "formato": "2D"
             }
           ],
-          "id": "db8e9496-ed63-4d4d-8f7a-27359484ddcf"
+          "id": "9de869ea-4565-491f-8b8a-d9389695d778"
         },
         {
           "titulo": "F1 LA PELICULA",
           "horarios": [
             {
               "horario": "13:20",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1666,6 +1613,11 @@
               "formato": "2D"
             },
             {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "13:50",
               "idioma": "DOB",
               "formato": "2D"
@@ -1677,6 +1629,11 @@
             },
             {
               "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1696,6 +1653,11 @@
               "formato": "2D"
             },
             {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
@@ -1707,6 +1669,11 @@
             },
             {
               "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1729,98 +1696,15 @@
           "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
         },
         {
-          "titulo": "LECCIONES DE UN PINGÜINO",
-          "horarios": [
-            {
-              "horario": "15:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d3869d5e-051e-4546-9c7f-c21a225009df"
-        },
-        {
           "titulo": "SHADOW FORCE: SENTENCIA DE MUERTE",
           "horarios": [
             {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:10",
+              "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "3e591b15-0045-410a-940f-8e3b50204418"
-        },
-        {
-          "titulo": "PRESENCIA DEMONIACA",
-          "horarios": [
-            {
-              "horario": "18:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "1789a13a-4346-463b-9abd-8c2fc6eac152"
-        },
-        {
-          "titulo": "LILO Y STITCH",
-          "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "40ddde79-69d7-4a82-b43d-b8b15eefdb02"
+          "id": "e0348ed8-530e-4af4-a352-8e7841540bc1"
         },
         {
           "titulo": "COMO ENTRENAR A TU DRAGON",
@@ -1832,11 +1716,6 @@
             },
             {
               "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:35",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1864,11 +1743,6 @@
               "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "DOB",
-              "formato": "2D"
             }
           ],
           "id": "537ab806-d612-4dec-8996-4ba50e63822e"
@@ -1877,12 +1751,22 @@
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
+              "horario": "11:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "13:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:05",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1897,12 +1781,22 @@
               "formato": "2D"
             },
             {
+              "horario": "17:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "17:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1917,12 +1811,22 @@
               "formato": "2D"
             },
             {
-              "horario": "23:10",
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:00",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "18a13e67-b24f-4601-9f51-a50ffc0ff2f8"
+          "id": "29ce539e-e4bf-4e9a-b5f0-79eca9a08ece"
         },
         {
           "titulo": "ELIO",
@@ -1934,11 +1838,6 @@
             },
             {
               "horario": "11:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1966,5 +1865,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "15/7/2025"
+  "fecha": "16/7/2025"
 }
