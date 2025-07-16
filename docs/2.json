@@ -152,7 +152,7 @@
               "formato": "2D"
             }
           ],
-          "id": "966da4bd-1138-4628-9cf0-4a91cdd748cc"
+          "id": "60663b58-dbd2-4e38-be6e-978bcd768a34"
         },
         {
           "titulo": "COMO ENTRENAR A TU DRAGÓN",
@@ -186,86 +186,56 @@
           "id": "755a492f-9fee-41ab-a7b3-1ecca34aebb7"
         },
         {
-          "titulo": "LILO & STITCH",
+          "titulo": "PITUFOS",
           "horarios": [
             {
-              "horario": "17:30",
+              "horario": "10:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "21e9d680-bd28-46a1-ab4b-7ca5abd90a35"
+        },
+        {
+          "titulo": "LILO & STITCH",
+          "horarios": [
+            {
+              "horario": "10:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:45",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
           "id": "d619ad92-2d1d-400c-a716-e991a289c3be"
-        },
-        {
-          "titulo": "EXTERMINIO: LA EVOLUCIÓN",
-          "horarios": [
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "bc97b586-8c3c-40b3-9ccd-eb8c4171f362"
-        },
-        {
-          "titulo": "F1: LA PELÍCULA",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "8e8e83db-373a-40af-bcc1-82a1c15f32b7"
-        },
-        {
-          "titulo": "ELIO",
-          "horarios": [
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "f5faffe7-89ee-4b78-bc6b-becc28f58a0d"
-        },
-        {
-          "titulo": "M3GAN 2.0",
-          "horarios": [
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "433275f2-2f26-4564-a81b-a86c3671d1e7"
-        },
-        {
-          "titulo": "SUBMARINITOS",
-          "horarios": [
-            {
-              "horario": "11:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "19b19b99-12f7-4c4f-9333-e41fa9c13c4a"
-        },
-        {
-          "titulo": "CIGÜEÑAS",
-          "horarios": [
-            {
-              "horario": "10:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "eb227c70-3dd9-48d3-b461-db240fe452e8"
         }
       ],
       "ciudad": "El Alto"
@@ -321,11 +291,6 @@
               "formato": "2D"
             },
             {
-              "horario": "19:40",
-              "idioma": "Ingles",
-              "formato": "2D"
-            },
-            {
               "horario": "21:40",
               "idioma": "Español",
               "formato": "2D"
@@ -354,6 +319,11 @@
               "horario": "16:50",
               "idioma": "Español",
               "formato": "3D PLUS"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             },
             {
               "horario": "11:30",
@@ -507,7 +477,7 @@
               "formato": "4D E-MOTION"
             }
           ],
-          "id": "604361b3-98c1-4e8c-a16c-26b9aa195fe1"
+          "id": "6ca14344-d3d4-4dbb-881c-92c1f67a5ced"
         },
         {
           "titulo": "COMO ENTRENAR A TU DRAGÓN",
@@ -566,6 +536,37 @@
           "id": "755a492f-9fee-41ab-a7b3-1ecca34aebb7"
         },
         {
+          "titulo": "LILO & STITCH",
+          "horarios": [
+            {
+              "horario": "13:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "d619ad92-2d1d-400c-a716-e991a289c3be"
+        },
+        {
           "titulo": "F1: LA PELÍCULA",
           "horarios": [
             {
@@ -589,33 +590,38 @@
               "formato": "2D PLUS"
             }
           ],
-          "id": "af835369-b220-4903-a9f9-fe0aa9252c6c"
+          "id": "932773b6-6ed6-41ef-b584-de8e251ec3c4"
         },
         {
-          "titulo": "LILO & STITCH",
+          "titulo": "PITUFOS",
           "horarios": [
             {
-              "horario": "13:15",
+              "horario": "11:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:50",
+              "horario": "13:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "15:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:20",
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "d619ad92-2d1d-400c-a716-e991a289c3be"
+          "id": "21e9d680-bd28-46a1-ab4b-7ca5abd90a35"
         },
         {
           "titulo": "EXTERMINIO: LA EVOLUCIÓN",
@@ -631,39 +637,18 @@
               "formato": "2D"
             }
           ],
-          "id": "d4342f31-d2d3-49b6-bcd4-f32e18cd2200"
+          "id": "2eed6ebb-cdfa-47d6-8b57-314decf44258"
         },
         {
-          "titulo": "SHADOW FORCE: SENTENCIA DE MUERTE",
+          "titulo": "M3GAN 2.0",
           "horarios": [
             {
-              "horario": "16:25",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:45",
+              "horario": "22:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "4c8b6b6e-1e96-415d-865f-e5f59a4ae8c7"
-        },
-        {
-          "titulo": "PRESENCIA DEMONÍACA",
-          "horarios": [
-            {
-              "horario": "12:25",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "d52c3ee9-d163-4382-ac9f-0dc00d8dae85"
+          "id": "433275f2-2f26-4564-a81b-a86c3671d1e7"
         },
         {
           "titulo": "SUBMARINITOS",
@@ -680,33 +665,6 @@
             }
           ],
           "id": "19b19b99-12f7-4c4f-9333-e41fa9c13c4a"
-        },
-        {
-          "titulo": "LECCIONES DE UN PINGÜINO",
-          "horarios": [
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "d3869d5e-051e-4546-9c7f-c21a225009df"
-        },
-        {
-          "titulo": "M3GAN 2.0",
-          "horarios": [
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "433275f2-2f26-4564-a81b-a86c3671d1e7"
         },
         {
           "titulo": "ELIO",
@@ -729,17 +687,6 @@
             }
           ],
           "id": "eb227c70-3dd9-48d3-b461-db240fe452e8"
-        },
-        {
-          "titulo": "PIE PEQUEÑO",
-          "horarios": [
-            {
-              "horario": "10:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "a953094d-19d9-42f0-bacc-1b478a8b5108"
         },
         {
           "titulo": "DC LIGA DE SUPERMASCOTAS",
@@ -872,6 +819,11 @@
               "formato": "2D"
             },
             {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "20:15",
               "idioma": "Español",
               "formato": "2D"
@@ -882,17 +834,22 @@
               "formato": "2D"
             },
             {
-              "horario": "15:20",
+              "horario": "22:25",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D"
             },
             {
               "horario": "22:50",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "3D"
             }
           ],
-          "id": "52561ec8-0641-4bc1-8176-d4a130aa6a86"
+          "id": "db143ad8-e614-4c29-9397-0cf414626005"
         },
         {
           "titulo": "COMO ENTRENAR A TU DRAGÓN",
@@ -949,7 +906,33 @@
               "formato": "2D"
             }
           ],
-          "id": "6124de23-2a0b-44c4-80f2-00b8472b3309"
+          "id": "1a971ac0-bad1-4df6-a94b-993a152d4f93"
+        },
+        {
+          "titulo": "PITUFOS",
+          "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "21e9d680-bd28-46a1-ab4b-7ca5abd90a35"
         },
         {
           "titulo": "LILO & STITCH",
@@ -960,60 +943,17 @@
               "formato": "2D"
             },
             {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "18:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
           "id": "d619ad92-2d1d-400c-a716-e991a289c3be"
-        },
-        {
-          "titulo": "SHADOW FORCE: SENTENCIA DE MUERTE",
-          "horarios": [
-            {
-              "horario": "16:25",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "c6664a19-30f7-4bc3-8dfd-23e7a12911e4"
-        },
-        {
-          "titulo": "PRESENCIA DEMONÍACA",
-          "horarios": [
-            {
-              "horario": "12:25",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "d52c3ee9-d163-4382-ac9f-0dc00d8dae85"
-        },
-        {
-          "titulo": "LECCIONES DE UN PINGÜINO",
-          "horarios": [
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "d3869d5e-051e-4546-9c7f-c21a225009df"
         },
         {
           "titulo": "ELIO",
@@ -1035,7 +975,7 @@
               "formato": "2D"
             }
           ],
-          "id": "c8af6c42-f39f-45e6-bd02-e4810975406b"
+          "id": "178decd3-3fe1-4e8a-8cfd-3af031508c2c"
         },
         {
           "titulo": "M3GAN 2.0",
@@ -1043,7 +983,7 @@
             {
               "horario": "13:00",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D"
             }
           ],
           "id": "433275f2-2f26-4564-a81b-a86c3671d1e7"
@@ -1060,23 +1000,12 @@
           "id": "eb227c70-3dd9-48d3-b461-db240fe452e8"
         },
         {
-          "titulo": "PIE PEQUEÑO",
-          "horarios": [
-            {
-              "horario": "10:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "a953094d-19d9-42f0-bacc-1b478a8b5108"
-        },
-        {
           "titulo": "DC LIGA DE SUPERMASCOTAS",
           "horarios": [
             {
               "horario": "10:50",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D"
             }
           ],
           "id": "477706dd-b99f-45a6-b879-88e1e0d77d18"
@@ -1086,5 +1015,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "15/7/2025"
+  "fecha": "16/7/2025"
 }
