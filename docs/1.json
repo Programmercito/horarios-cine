@@ -3,7 +3,7 @@
     {
       "peliculas": [
         {
-          "titulo": "SUPERMAN",
+          "titulo": "PITUFOS",
           "horarios": [
             {
               "horario": "10:00",
@@ -16,88 +16,73 @@
               "formato": "2D"
             },
             {
-              "horario": "12:50",
+              "horario": "11:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:20",
+              "horario": "12:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:40",
+              "horario": "12:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:10",
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:30",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "15:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:20",
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:50",
+              "horario": "20:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "11:30",
+              "horario": "10:00",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "4D E-Motion 2D"
             },
             {
-              "horario": "14:20",
+              "horario": "12:15",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "17:25",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "23:10",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
+              "formato": "4D E-Motion 2D"
             }
           ],
-          "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
+          "id": "73e5cb30-4682-42d8-bb41-3c8ea3c9e6e0"
         },
         {
-          "titulo": "PRESENCIA DEMONIACA",
+          "titulo": "SE LO QUE HICIERON EL VERANO PASADO",
           "horarios": [
             {
-              "horario": "20:00",
+              "horario": "14:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:35",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -105,15 +90,56 @@
               "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:10",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
-          "id": "1789a13a-4346-463b-9abd-8c2fc6eac152"
+          "id": "b3f86782-6e53-41cc-aaec-0004da837915"
+        },
+        {
+          "titulo": "INVASION ZOMBIE: HIJOS DEL APOCALIPSIS",
+          "horarios": [
+            {
+              "horario": "17:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "3e9a5865-2966-44d6-aa1c-35cc5da053b1"
         },
         {
           "titulo": "LILO Y STITCH",
           "horarios": [
             {
-              "horario": "12:45",
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -123,7 +149,7 @@
               "formato": "2D"
             },
             {
-              "horario": "15:05",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -190,7 +216,7 @@
               "formato": "2D"
             }
           ],
-          "id": "217f6dfa-ce89-431f-80a5-b1308ef64aaf"
+          "id": "cd4a2f01-a5a0-4269-bae8-a74f9e45fc8f"
         },
         {
           "titulo": "JURASSIC WORLD: RENACE",
@@ -301,18 +327,23 @@
               "formato": "4D E-Motion 3D"
             }
           ],
-          "id": "d2377eeb-3d59-4be2-ba35-c6031c2c5ef9"
-        }
-      ],
-      "ciudad": "Santa Cruz Av. Trompillo"
-    },
-    {
-      "peliculas": [
+          "id": "31db17c8-178f-4c32-935c-9c995978bb5c"
+        },
         {
           "titulo": "SUPERMAN",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -322,7 +353,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:50",
+              "horario": "15:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -332,7 +363,7 @@
               "formato": "2D"
             },
             {
-              "horario": "17:40",
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -342,22 +373,120 @@
               "formato": "2D"
             },
             {
-              "horario": "20:20",
+              "horario": "21:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:00",
+              "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "22:50",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "17:25",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "23:10",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            }
+          ],
+          "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
+        },
+        {
+          "titulo": "PRESENCIA DEMONIACA",
+          "horarios": [
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
+          "id": "1789a13a-4346-463b-9abd-8c2fc6eac152"
+        }
+      ],
+      "ciudad": "Santa Cruz Av. Trompillo"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "PITUFOS",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "73e5cb30-4682-42d8-bb41-3c8ea3c9e6e0"
+        },
+        {
+          "titulo": "SE LO QUE HICIERON EL VERANO PASADO",
+          "horarios": [
+            {
+              "horario": "17:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "b3f86782-6e53-41cc-aaec-0004da837915"
         },
         {
           "titulo": "LILO Y STITCH",
@@ -450,7 +579,7 @@
               "formato": "2D CXC Atmos"
             }
           ],
-          "id": "0c6451fa-ebce-450c-b8c0-fb951256ff31"
+          "id": "31db17c8-178f-4c32-935c-9c995978bb5c"
         },
         {
           "titulo": "ELIO",
@@ -472,17 +601,12 @@
             }
           ],
           "id": "f5faffe7-89ee-4b78-bc6b-becc28f58a0d"
-        }
-      ],
-      "ciudad": "Santa Cruz Av. Brasil"
-    },
-    {
-      "peliculas": [
+        },
         {
           "titulo": "SUPERMAN",
           "horarios": [
             {
-              "horario": "10:30",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -492,7 +616,17 @@
               "formato": "2D"
             },
             {
+              "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "16:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -502,47 +636,120 @@
               "formato": "2D"
             },
             {
-              "horario": "21:50",
+              "horario": "20:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "11:30",
+              "horario": "21:00",
               "idioma": "DOB",
-              "formato": "2D CXC"
+              "formato": "2D"
             },
             {
-              "horario": "14:20",
+              "horario": "21:40",
               "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "17:25",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "23:10",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
+              "formato": "2D"
             }
           ],
           "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
+        }
+      ],
+      "ciudad": "Santa Cruz Av. Brasil"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "PITUFOS",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            },
+            {
+              "horario": "12:15",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            }
+          ],
+          "id": "73e5cb30-4682-42d8-bb41-3c8ea3c9e6e0"
+        },
+        {
+          "titulo": "SE LO QUE HICIERON EL VERANO PASADO",
+          "horarios": [
+            {
+              "horario": "14:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "b3f86782-6e53-41cc-aaec-0004da837915"
+        },
+        {
+          "titulo": "INVASION ZOMBIE: HIJOS DEL APOCALIPSIS",
+          "horarios": [
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "3e9a5865-2966-44d6-aa1c-35cc5da053b1"
         },
         {
           "titulo": "LILO Y STITCH",
@@ -690,7 +897,73 @@
               "formato": "4D E-Motion 3D"
             }
           ],
-          "id": "c9086f18-e525-4dd4-ad0c-91aa3e29beb0"
+          "id": "31db17c8-178f-4c32-935c-9c995978bb5c"
+        },
+        {
+          "titulo": "SUPERMAN",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "22:50",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "17:25",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "23:10",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            }
+          ],
+          "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
         }
       ],
       "ciudad": "Cochabamba"
@@ -698,15 +971,31 @@
     {
       "peliculas": [
         {
-          "titulo": "SUPERMAN",
+          "titulo": "PITUFOS",
           "horarios": [
             {
-              "horario": "20:00",
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:45",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
+          "id": "73e5cb30-4682-42d8-bb41-3c8ea3c9e6e0"
+        },
+        {
+          "titulo": "SE LO QUE HICIERON EL VERANO PASADO",
+          "horarios": [
+            {
+              "horario": "19:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "b3f86782-6e53-41cc-aaec-0004da837915"
         },
         {
           "titulo": "JURASSIC WORLD: RENACE",
@@ -722,7 +1011,18 @@
               "formato": "2D"
             }
           ],
-          "id": "7519f392-458a-48ca-b506-92fd393af247"
+          "id": "31db17c8-178f-4c32-935c-9c995978bb5c"
+        },
+        {
+          "titulo": "SUPERMAN",
+          "horarios": [
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
         }
       ],
       "ciudad": "Riberalta"
@@ -730,7 +1030,7 @@
     {
       "peliculas": [
         {
-          "titulo": "SUPERMAN",
+          "titulo": "PITUFOS",
           "horarios": [
             {
               "horario": "11:00",
@@ -738,52 +1038,53 @@
               "formato": "2D"
             },
             {
-              "horario": "11:30",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:50",
+              "horario": "14:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:20",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:50",
+              "horario": "18:45",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
+          "id": "73e5cb30-4682-42d8-bb41-3c8ea3c9e6e0"
+        },
+        {
+          "titulo": "SE LO QUE HICIERON EL VERANO PASADO",
+          "horarios": [
+            {
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "b3f86782-6e53-41cc-aaec-0004da837915"
         },
         {
           "titulo": "COMO ENTRENAR A TU DRAGON",
@@ -850,224 +1151,8 @@
               "formato": "2D"
             }
           ],
-          "id": "73817851-aaf3-44f2-9b66-84220b515db0"
-        }
-      ],
-      "ciudad": "Quillacollo"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            }
-          ],
-          "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
+          "id": "31db17c8-178f-4c32-935c-9c995978bb5c"
         },
-        {
-          "titulo": "COMO ENTRENAR A TU DRAGON",
-          "horarios": [
-            {
-              "horario": "13:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "537ab806-d612-4dec-8996-4ba50e63822e"
-        },
-        {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
-            {
-              "horario": "13:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "97810dc7-9f0c-4796-94ad-fc75d1338973"
-        },
-        {
-          "titulo": "F1 LA PELICULA",
-          "horarios": [
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "8ca99ce5-7837-4904-a7ac-8473ba5e9679"
-        }
-      ],
-      "ciudad": "La Paz"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "14:20",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "DOB",
-              "formato": "3D"
-            }
-          ],
-          "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
-        },
-        {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:55",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:50",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "8a7d242e-e574-47fa-ae91-922df3b63e59"
-        }
-      ],
-      "ciudad": "La Paz VIP"
-    },
-    {
-      "peliculas": [
         {
           "titulo": "SUPERMAN",
           "horarios": [
@@ -1123,9 +1208,266 @@
             }
           ],
           "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
+        }
+      ],
+      "ciudad": "Quillacollo"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "PITUFOS",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "73e5cb30-4682-42d8-bb41-3c8ea3c9e6e0"
         },
         {
-          "titulo": "PRESENCIA DEMONIACA",
+          "titulo": "SE LO QUE HICIERON EL VERANO PASADO",
+          "horarios": [
+            {
+              "horario": "11:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "b3f86782-6e53-41cc-aaec-0004da837915"
+        },
+        {
+          "titulo": "INVASION ZOMBIE: HIJOS DEL APOCALIPSIS",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "3e9a5865-2966-44d6-aa1c-35cc5da053b1"
+        },
+        {
+          "titulo": "LILO Y STITCH",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "40ddde79-69d7-4a82-b43d-b8b15eefdb02"
+        },
+        {
+          "titulo": "COMO ENTRENAR A TU DRAGON",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "537ab806-d612-4dec-8996-4ba50e63822e"
+        },
+        {
+          "titulo": "JURASSIC WORLD: RENACE",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "31db17c8-178f-4c32-935c-9c995978bb5c"
+        },
+        {
+          "titulo": "ELIO",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f5faffe7-89ee-4b78-bc6b-becc28f58a0d"
+        },
+        {
+          "titulo": "F1 LA PELICULA",
           "horarios": [
             {
               "horario": "18:30",
@@ -1133,17 +1475,350 @@
               "formato": "2D"
             },
             {
-              "horario": "20:40",
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:50",
+              "horario": "22:15",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "1789a13a-4346-463b-9abd-8c2fc6eac152"
+          "id": "fda2635f-8734-4c18-8efb-f79a67222016"
+        },
+        {
+          "titulo": "SUPERMAN",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            }
+          ],
+          "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
+        }
+      ],
+      "ciudad": "La Paz"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "PITUFOS",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "73e5cb30-4682-42d8-bb41-3c8ea3c9e6e0"
+        },
+        {
+          "titulo": "SE LO QUE HICIERON EL VERANO PASADO",
+          "horarios": [
+            {
+              "horario": "19:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:05",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "b3f86782-6e53-41cc-aaec-0004da837915"
+        },
+        {
+          "titulo": "JURASSIC WORLD: RENACE",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:55",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "31db17c8-178f-4c32-935c-9c995978bb5c"
+        },
+        {
+          "titulo": "SUPERMAN",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "3D"
+            }
+          ],
+          "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
+        }
+      ],
+      "ciudad": "La Paz VIP"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "PITUFOS",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "73e5cb30-4682-42d8-bb41-3c8ea3c9e6e0"
+        },
+        {
+          "titulo": "SE LO QUE HICIERON EL VERANO PASADO",
+          "horarios": [
+            {
+              "horario": "15:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "b3f86782-6e53-41cc-aaec-0004da837915"
+        },
+        {
+          "titulo": "INVASION ZOMBIE: HIJOS DEL APOCALIPSIS",
+          "horarios": [
+            {
+              "horario": "17:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "3e9a5865-2966-44d6-aa1c-35cc5da053b1"
         },
         {
           "titulo": "LILO Y STITCH",
@@ -1271,7 +1946,7 @@
               "formato": "2D"
             }
           ],
-          "id": "2bd2a946-9666-40b8-8fb2-16be51007717"
+          "id": "31db17c8-178f-4c32-935c-9c995978bb5c"
         },
         {
           "titulo": "ELIO",
@@ -1298,12 +1973,89 @@
               "formato": "2D"
             }
           ],
-          "id": "8ca99ce5-7837-4904-a7ac-8473ba5e9679"
+          "id": "fda2635f-8734-4c18-8efb-f79a67222016"
+        },
+        {
+          "titulo": "SUPERMAN",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
+        },
+        {
+          "titulo": "PRESENCIA DEMONIACA",
+          "horarios": [
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "1789a13a-4346-463b-9abd-8c2fc6eac152"
         }
       ],
       "ciudad": "Tarija"
     }
   ],
   "cine": "MEGA",
-  "fecha": "17/7/2025"
+  "fecha": "18/7/2025"
 }
