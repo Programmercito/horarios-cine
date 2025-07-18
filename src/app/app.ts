@@ -5,6 +5,7 @@ import { RouterOutlet } from '@angular/router';
 import { catchError } from 'rxjs/operators';
 import { of, EMPTY } from 'rxjs';
 import { CinemaListComponent } from './cinema-list/cinema-list.component';
+import { CityFilterService } from './shared/citys/city-filter.service';
 
 @Component({
   selector: 'app-root',
@@ -19,7 +20,7 @@ export class App implements OnInit {
   private fileIndex = 1;
   private allCities = new Set<string>();
 
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient, private cityFilterService: CityFilterService) {}
 
   ngOnInit() {
     this.fetchJsonFiles();
@@ -30,7 +31,7 @@ export class App implements OnInit {
       catchError(error => {
         if (error.status === 404) {
           console.warn(`File /${this.fileIndex}.json not found (404). Stopping.`);
-          this.cities = Array.from(this.allCities); // Finalize cities list
+          this.cities = this.cityFilterService.filterCities(Array.from(this.allCities)); // Finalize and filter cities list
           return EMPTY; // Complete the observable, stopping further emissions
         }
         console.error(`Error fetching /${this.fileIndex}.json:`, error);
@@ -47,4 +48,5 @@ export class App implements OnInit {
       this.fetchJsonFiles(); // Recursively call for the next file
     });
   }
+
 }
