@@ -3,72 +3,16 @@
     {
       "peliculas": [
         {
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            }
-          ],
-          "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
-        },
-        {
           "titulo": "PITUFOS",
           "horarios": [
             {
               "horario": "10:10",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D - 2D KRONOS"
             },
             {
               "horario": "12:20",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D - 2D KRONOS"
             },
             {
@@ -98,7 +42,7 @@
             },
             {
               "horario": "11:10",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
@@ -117,14 +61,14 @@
               "formato": "2D"
             }
           ],
-          "id": "73e5cb30-4682-42d8-bb41-3c8ea3c9e6e0"
+          "id": "7d985bde-967b-49b8-9eec-77576e44a9de"
         },
         {
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
               "horario": "10:30",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "3D - 3D KRONOS"
             },
             {
@@ -149,7 +93,7 @@
             },
             {
               "horario": "11:30",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D - 2D KRONOS"
             },
             {
@@ -173,14 +117,70 @@
               "formato": "2D - 2D KRONOS"
             }
           ],
-          "id": "31db17c8-178f-4c32-935c-9c995978bb5c"
+          "id": "d575a327-ed79-4def-9c45-36eba7299931"
+        },
+        {
+          "titulo": "SUPERMAN",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "Cerrado",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Cerrado",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:40",
+              "idioma": "Cerrado",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            }
+          ],
+          "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
         },
         {
           "titulo": "COMO ENTRENAR A TU DRAGÓN",
           "horarios": [
             {
               "horario": "11:30",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
@@ -230,7 +230,7 @@
               "formato": "2D"
             }
           ],
-          "id": "9595d263-e55f-4ed2-9beb-8be0e326a0d2"
+          "id": "04d184eb-f6f1-44d4-96c3-707849b973d7"
         },
         {
           "titulo": "LILO & STITCH",
@@ -246,7 +246,7 @@
               "formato": "2D"
             }
           ],
-          "id": "13df1ead-5383-4984-bae2-5547ea278d15"
+          "id": "54eaac66-627e-4af9-b760-a9d19f3ae083"
         },
         {
           "titulo": "INVASIÓN ZOMBIE: HIJOS DEL APOCALÍPSIS",
@@ -257,18 +257,18 @@
               "formato": "2D"
             }
           ],
-          "id": "dfcfc026-bcab-47fb-8117-7b08534143fa"
+          "id": "caa7e991-4b8a-4972-bbb0-5c55ad838788"
         },
         {
           "titulo": "ELIO",
           "horarios": [
             {
               "horario": "11:00",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             }
           ],
-          "id": "f5faffe7-89ee-4b78-bc6b-becc28f58a0d"
+          "id": "a6c52069-6635-4671-8276-7bbb60e84d10"
         }
       ],
       "ciudad": "El Alto"
@@ -280,12 +280,12 @@
           "horarios": [
             {
               "horario": "11:00",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
               "horario": "12:30",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
@@ -310,7 +310,7 @@
             },
             {
               "horario": "11:30",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D PLUS"
             },
             {
@@ -325,7 +325,7 @@
             },
             {
               "horario": "12:50",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "3D"
             },
             {
@@ -360,7 +360,7 @@
             },
             {
               "horario": "11:30",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "4D E-MOTION"
             },
             {
@@ -375,7 +375,7 @@
             },
             {
               "horario": "12:00",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D XL"
             },
             {
@@ -406,12 +406,12 @@
           "horarios": [
             {
               "horario": "10:20",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
               "horario": "11:50",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
@@ -436,7 +436,7 @@
             },
             {
               "horario": "11:00",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D PLUS"
             },
             {
@@ -456,7 +456,7 @@
             },
             {
               "horario": "10:30",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "3D XL"
             },
             {
@@ -490,24 +490,24 @@
               "formato": "4D E-MOTION"
             }
           ],
-          "id": "31db17c8-178f-4c32-935c-9c995978bb5c"
+          "id": "d575a327-ed79-4def-9c45-36eba7299931"
         },
         {
           "titulo": "PITUFOS",
           "horarios": [
             {
               "horario": "10:10",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
               "horario": "11:10",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
               "horario": "12:20",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
@@ -552,7 +552,7 @@
             },
             {
               "horario": "11:45",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D PLUS"
             },
             {
@@ -571,19 +571,19 @@
               "formato": "2D PLUS"
             }
           ],
-          "id": "73e5cb30-4682-42d8-bb41-3c8ea3c9e6e0"
+          "id": "7d985bde-967b-49b8-9eec-77576e44a9de"
         },
         {
           "titulo": "COMO ENTRENAR A TU DRAGÓN",
           "horarios": [
             {
               "horario": "10:00",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
               "horario": "12:20",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
@@ -624,12 +624,12 @@
           "horarios": [
             {
               "horario": "10:20",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
               "horario": "12:50",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
@@ -653,7 +653,7 @@
               "formato": "2D"
             }
           ],
-          "id": "9595d263-e55f-4ed2-9beb-8be0e326a0d2"
+          "id": "04d184eb-f6f1-44d4-96c3-707849b973d7"
         },
         {
           "titulo": "LILO & STITCH",
@@ -679,7 +679,7 @@
               "formato": "2D"
             }
           ],
-          "id": "13df1ead-5383-4984-bae2-5547ea278d15"
+          "id": "54eaac66-627e-4af9-b760-a9d19f3ae083"
         },
         {
           "titulo": "F1: LA PELÍCULA",
@@ -695,29 +695,7 @@
               "formato": "2D PLUS"
             }
           ],
-          "id": "1fdc0d04-d48f-4c09-8c7d-f45207e1358e"
-        },
-        {
-          "titulo": "EXTERMINIO: LA EVOLUCIÓN",
-          "horarios": [
-            {
-              "horario": "22:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "1fc20277-5847-4a9d-89af-06dcd579ae54"
-        },
-        {
-          "titulo": "INVASIÓN ZOMBIE: HIJOS DEL APOCALÍPSIS",
-          "horarios": [
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "dfcfc026-bcab-47fb-8117-7b08534143fa"
+          "id": "a74e8a4a-9d1a-40b6-a22b-ef84ab09c681"
         },
         {
           "titulo": "ELIO",
@@ -728,7 +706,29 @@
               "formato": "2D"
             }
           ],
-          "id": "f5faffe7-89ee-4b78-bc6b-becc28f58a0d"
+          "id": "a6c52069-6635-4671-8276-7bbb60e84d10"
+        },
+        {
+          "titulo": "EXTERMINIO: LA EVOLUCIÓN",
+          "horarios": [
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "f0f188a2-9913-4b60-92da-217a96675db5"
+        },
+        {
+          "titulo": "INVASIÓN ZOMBIE: HIJOS DEL APOCALÍPSIS",
+          "horarios": [
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "caa7e991-4b8a-4972-bbb0-5c55ad838788"
         }
       ],
       "ciudad": "La Paz"
@@ -736,92 +736,21 @@
     {
       "peliculas": [
         {
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "20:10",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
-        },
-        {
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
               "horario": "10:10",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
               "horario": "11:20",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
               "horario": "12:20",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
@@ -865,24 +794,95 @@
               "formato": "2D SUB"
             }
           ],
-          "id": "31db17c8-178f-4c32-935c-9c995978bb5c"
+          "id": "d575a327-ed79-4def-9c45-36eba7299931"
+        },
+        {
+          "titulo": "SUPERMAN",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "Cerrado",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "Cerrado",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Cerrado",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
         },
         {
           "titulo": "PITUFOS",
           "horarios": [
             {
               "horario": "10:10",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
               "horario": "11:10",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
               "horario": "12:20",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
@@ -916,19 +916,19 @@
               "formato": "2D"
             }
           ],
-          "id": "73e5cb30-4682-42d8-bb41-3c8ea3c9e6e0"
+          "id": "7d985bde-967b-49b8-9eec-77576e44a9de"
         },
         {
           "titulo": "COMO ENTRENAR A TU DRAGÓN",
           "horarios": [
             {
               "horario": "10:00",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
               "horario": "12:45",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
@@ -954,7 +954,7 @@
           "horarios": [
             {
               "horario": "12:50",
-              "idioma": "Español",
+              "idioma": "Cerrado",
               "formato": "2D"
             },
             {
@@ -973,23 +973,7 @@
               "formato": "2D"
             }
           ],
-          "id": "9595d263-e55f-4ed2-9beb-8be0e326a0d2"
-        },
-        {
-          "titulo": "F1: LA PELÍCULA",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "1fdc0d04-d48f-4c09-8c7d-f45207e1358e"
+          "id": "04d184eb-f6f1-44d4-96c3-707849b973d7"
         },
         {
           "titulo": "LILO & STITCH",
@@ -1005,29 +989,23 @@
               "formato": "2D"
             }
           ],
-          "id": "13df1ead-5383-4984-bae2-5547ea278d15"
+          "id": "54eaac66-627e-4af9-b760-a9d19f3ae083"
         },
         {
-          "titulo": "EXTERMINIO: LA EVOLUCIÓN",
+          "titulo": "F1: LA PELÍCULA",
           "horarios": [
             {
-              "horario": "22:40",
+              "horario": "13:00",
+              "idioma": "Cerrado",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:45",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "1fc20277-5847-4a9d-89af-06dcd579ae54"
-        },
-        {
-          "titulo": "INVASIÓN ZOMBIE: HIJOS DEL APOCALÍPSIS",
-          "horarios": [
-            {
-              "horario": "22:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "dfcfc026-bcab-47fb-8117-7b08534143fa"
+          "id": "a74e8a4a-9d1a-40b6-a22b-ef84ab09c681"
         },
         {
           "titulo": "ELIO",
@@ -1038,7 +1016,29 @@
               "formato": "2D"
             }
           ],
-          "id": "f5faffe7-89ee-4b78-bc6b-becc28f58a0d"
+          "id": "a6c52069-6635-4671-8276-7bbb60e84d10"
+        },
+        {
+          "titulo": "EXTERMINIO: LA EVOLUCIÓN",
+          "horarios": [
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "f0f188a2-9913-4b60-92da-217a96675db5"
+        },
+        {
+          "titulo": "INVASIÓN ZOMBIE: HIJOS DEL APOCALÍPSIS",
+          "horarios": [
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "caa7e991-4b8a-4972-bbb0-5c55ad838788"
         }
       ],
       "ciudad": "Santa Cruz"
