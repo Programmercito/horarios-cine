@@ -3,239 +3,272 @@
     {
       "peliculas": [
         {
-          "titulo": "PITUFOS",
-          "horarios": [
-            {
-              "horario": "10:10",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:10",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            }
-          ],
-          "id": "21e9d680-bd28-46a1-ab4b-7ca5abd90a35"
-        },
-        {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "Cerrado",
-              "formato": "3D"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "Cerrado",
-              "formato": "3D"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "Cerrado",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Cerrado",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Cerrado",
-              "formato": "3D"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "Cerrado",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "Cerrado",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "Cerrado",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Cerrado",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Cerrado",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            }
-          ],
-          "id": "6c31c080-7a79-4b20-bbe9-ea522d400280"
-        },
-        {
           "titulo": "SUPERMAN",
           "horarios": [
             {
               "horario": "10:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "12:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "15:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "18:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "20:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "11:00",
-              "idioma": "Cerrado",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Cerrado",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Cerrado",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Cerrado",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Cerrado",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Cerrado",
+              "horario": "11:40",
+              "idioma": "Español",
               "formato": "3D XL - 3D XL KRONOS"
             },
             {
-              "horario": "14:40",
-              "idioma": "Cerrado",
+              "horario": "14:20",
+              "idioma": "Español",
               "formato": "3D XL - 3D XL KRONOS"
             },
             {
-              "horario": "17:20",
-              "idioma": "Cerrado",
+              "horario": "17:00",
+              "idioma": "Español",
               "formato": "3D XL - 3D XL KRONOS"
             },
             {
-              "horario": "20:00",
-              "idioma": "Cerrado",
+              "horario": "19:40",
+              "idioma": "Español",
               "formato": "3D XL - 3D XL KRONOS"
             },
             {
-              "horario": "22:40",
-              "idioma": "Cerrado",
+              "horario": "22:20",
+              "idioma": "Español",
               "formato": "3D XL - 3D XL KRONOS"
             }
           ],
           "id": "cef9dde9-82f7-4d3e-b8cc-04c82a7e24fa"
         },
         {
+          "titulo": "PITUFOS",
+          "horarios": [
+            {
+              "horario": "10:10",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "73e5cb30-4682-42d8-bb41-3c8ea3c9e6e0"
+        },
+        {
+          "titulo": "JURASSIC WORLD: RENACE",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            }
+          ],
+          "id": "31db17c8-178f-4c32-935c-9c995978bb5c"
+        },
+        {
           "titulo": "COMO ENTRENAR A TU DRAGÓN",
           "horarios": [
             {
               "horario": "11:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "14:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "16:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "19:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "21:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "755a492f-9fee-41ab-a7b3-1ecca34aebb7"
+          "id": "89155ab0-b1a2-4bbe-90be-1f122db9ae7b"
+        },
+        {
+          "titulo": "SÉ LO QUE HICIERON EL VERANO PASADO",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "9595d263-e55f-4ed2-9beb-8be0e326a0d2"
         },
         {
           "titulo": "LILO & STITCH",
           "horarios": [
             {
-              "horario": "10:40",
-              "idioma": "Cerrado",
+              "horario": "15:20",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "12:50",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:45",
-              "idioma": "Cerrado",
+              "horario": "19:50",
+              "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "d619ad92-2d1d-400c-a716-e991a289c3be"
+          "id": "13df1ead-5383-4984-bae2-5547ea278d15"
+        },
+        {
+          "titulo": "INVASIÓN ZOMBIE: HIJOS DEL APOCALÍPSIS",
+          "horarios": [
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "dfcfc026-bcab-47fb-8117-7b08534143fa"
+        },
+        {
+          "titulo": "ELIO",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "f5faffe7-89ee-4b78-bc6b-becc28f58a0d"
         }
       ],
       "ciudad": "El Alto"
@@ -246,123 +279,123 @@
           "titulo": "SUPERMAN",
           "horarios": [
             {
-              "horario": "10:00",
-              "idioma": "Cerrado",
-              "formato": "3D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "Cerrado",
-              "formato": "3D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Cerrado",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Cerrado",
-              "formato": "3D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "Cerrado",
-              "formato": "3D"
-            },
-            {
               "horario": "11:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "13:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "16:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "19:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "21:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "11:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
               "horario": "19:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
               "horario": "22:10",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
               "horario": "14:10",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "3D PLUS"
             },
             {
               "horario": "16:50",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "3D PLUS"
             },
             {
               "horario": "19:40",
-              "idioma": "Cerrado",
+              "idioma": "Ingles",
               "formato": "2D SUB"
             },
             {
               "horario": "11:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "4D E-MOTION"
             },
             {
               "horario": "14:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "4D E-MOTION"
             },
             {
               "horario": "19:10",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "4D E-MOTION"
             },
             {
               "horario": "12:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D XL"
             },
             {
               "horario": "14:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D XL"
             },
             {
               "horario": "17:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D XL"
             },
             {
               "horario": "20:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D XL"
             },
             {
               "horario": "22:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D XL"
             }
           ],
@@ -372,283 +405,330 @@
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
-              "horario": "10:50",
-              "idioma": "Cerrado",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "13:30",
-              "idioma": "Cerrado",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Cerrado",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "18:50",
-              "idioma": "Cerrado",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Cerrado",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Cerrado",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Cerrado",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "Cerrado",
-              "formato": "3D PLUS"
+              "horario": "10:20",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "11:50",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "14:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "17:10",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "19:50",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "22:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "12:50",
-              "idioma": "Cerrado",
-              "formato": "3D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Cerrado",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "Cerrado",
-              "formato": "3D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Cerrado",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Cerrado",
+              "horario": "11:00",
+              "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "22:30",
-              "idioma": "Cerrado",
+              "horario": "19:20",
+              "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
               "horario": "16:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
               "formato": "4D E-MOTION"
             },
             {
               "horario": "21:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "4D E-MOTION"
             }
           ],
-          "id": "03153843-0b8d-40a1-a02b-d739d1b731b1"
+          "id": "31db17c8-178f-4c32-935c-9c995978bb5c"
         },
         {
           "titulo": "PITUFOS",
           "horarios": [
             {
-              "horario": "11:20",
-              "idioma": "Cerrado",
+              "horario": "10:10",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:30",
-              "idioma": "Cerrado",
+              "horario": "11:10",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:40",
-              "idioma": "Cerrado",
+              "horario": "12:20",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:50",
-              "idioma": "Cerrado",
+              "horario": "13:20",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
-              "idioma": "Cerrado",
+              "horario": "14:30",
+              "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:45",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
             }
           ],
-          "id": "21e9d680-bd28-46a1-ab4b-7ca5abd90a35"
+          "id": "73e5cb30-4682-42d8-bb41-3c8ea3c9e6e0"
         },
         {
           "titulo": "COMO ENTRENAR A TU DRAGÓN",
           "horarios": [
             {
-              "horario": "11:45",
-              "idioma": "Cerrado",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "Cerrado",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "12:20",
-              "idioma": "Cerrado",
+              "horario": "10:00",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:50",
-              "idioma": "Cerrado",
+              "horario": "12:20",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "14:50",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "16:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "17:20",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:50",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "19:50",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "22:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "89155ab0-b1a2-4bbe-90be-1f122db9ae7b"
+        },
+        {
+          "titulo": "SÉ LO QUE HICIERON EL VERANO PASADO",
+          "horarios": [
+            {
+              "horario": "10:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "755a492f-9fee-41ab-a7b3-1ecca34aebb7"
+          "id": "9595d263-e55f-4ed2-9beb-8be0e326a0d2"
         },
         {
           "titulo": "LILO & STITCH",
           "horarios": [
             {
-              "horario": "13:15",
-              "idioma": "Cerrado",
+              "horario": "17:15",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:50",
-              "idioma": "Cerrado",
+              "horario": "18:50",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
-              "idioma": "Cerrado",
+              "horario": "21:00",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:20",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Cerrado",
+              "horario": "22:45",
+              "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "d619ad92-2d1d-400c-a716-e991a289c3be"
+          "id": "13df1ead-5383-4984-bae2-5547ea278d15"
         },
         {
           "titulo": "F1: LA PELÍCULA",
           "horarios": [
             {
-              "horario": "14:10",
-              "idioma": "Cerrado",
+              "horario": "13:10",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:20",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Cerrado",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:10",
-              "idioma": "Cerrado",
+              "horario": "20:20",
+              "idioma": "Español",
               "formato": "2D PLUS"
             }
           ],
-          "id": "e1e8f437-46b4-4084-8d5a-ef6109b06786"
-        },
-        {
-          "titulo": "ELIO",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            }
-          ],
-          "id": "f5faffe7-89ee-4b78-bc6b-becc28f58a0d"
+          "id": "1fdc0d04-d48f-4c09-8c7d-f45207e1358e"
         },
         {
           "titulo": "EXTERMINIO: LA EVOLUCIÓN",
           "horarios": [
             {
-              "horario": "17:10",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Cerrado",
+              "horario": "22:15",
+              "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "0e5712e7-f922-43ea-a5fd-ec21bca50b0a"
+          "id": "1fc20277-5847-4a9d-89af-06dcd579ae54"
+        },
+        {
+          "titulo": "INVASIÓN ZOMBIE: HIJOS DEL APOCALÍPSIS",
+          "horarios": [
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "dfcfc026-bcab-47fb-8117-7b08534143fa"
+        },
+        {
+          "titulo": "ELIO",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "f5faffe7-89ee-4b78-bc6b-becc28f58a0d"
         }
       ],
       "ciudad": "La Paz"
@@ -659,73 +739,68 @@
           "titulo": "SUPERMAN",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "Cerrado",
+              "horario": "10:00",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:40",
-              "idioma": "Cerrado",
+              "horario": "11:00",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "16:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "19:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "21:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "12:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D XL"
             },
             {
               "horario": "14:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D XL"
             },
             {
               "horario": "17:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D XL"
             },
             {
               "horario": "20:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D XL"
             },
             {
               "horario": "22:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "18:00",
-              "idioma": "Cerrado",
+              "horario": "13:40",
+              "idioma": "Español",
               "formato": "3D"
             },
             {
-              "horario": "20:40",
-              "idioma": "Cerrado",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Cerrado",
+              "horario": "17:30",
+              "idioma": "Ingles",
               "formato": "2D SUB"
             },
             {
-              "horario": "22:20",
-              "idioma": "Cerrado",
+              "horario": "20:10",
+              "idioma": "Ingles",
               "formato": "2D SUB"
             }
           ],
@@ -735,208 +810,240 @@
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
+              "horario": "10:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "11:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "12:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "14:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "15:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "16:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "17:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "19:20",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "20:15",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "22:00",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:25",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "22:50",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Cerrado",
-              "formato": "3D"
-            },
-            {
-              "horario": "23:15",
-              "idioma": "Cerrado",
-              "formato": "3D"
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             }
           ],
-          "id": "6d31d096-85e2-4424-855a-a3ddd5d9ec74"
+          "id": "31db17c8-178f-4c32-935c-9c995978bb5c"
         },
         {
           "titulo": "PITUFOS",
           "horarios": [
             {
-              "horario": "11:20",
-              "idioma": "Cerrado",
+              "horario": "10:10",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:30",
-              "idioma": "Cerrado",
+              "horario": "11:10",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:40",
-              "idioma": "Cerrado",
+              "horario": "12:20",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:50",
-              "idioma": "Cerrado",
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:45",
+              "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "21e9d680-bd28-46a1-ab4b-7ca5abd90a35"
+          "id": "73e5cb30-4682-42d8-bb41-3c8ea3c9e6e0"
         },
         {
           "titulo": "COMO ENTRENAR A TU DRAGÓN",
           "horarios": [
             {
               "horario": "10:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "12:45",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:15",
-              "idioma": "Cerrado",
+              "horario": "15:20",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:45",
-              "idioma": "Cerrado",
+              "horario": "18:00",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:15",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:45",
-              "idioma": "Cerrado",
+              "horario": "20:30",
+              "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "755a492f-9fee-41ab-a7b3-1ecca34aebb7"
+          "id": "89155ab0-b1a2-4bbe-90be-1f122db9ae7b"
         },
         {
-          "titulo": "LILO & STITCH",
+          "titulo": "SÉ LO QUE HICIERON EL VERANO PASADO",
           "horarios": [
             {
-              "horario": "12:00",
-              "idioma": "Cerrado",
+              "horario": "12:50",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:10",
-              "idioma": "Cerrado",
+              "horario": "17:20",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:30",
-              "idioma": "Cerrado",
+              "horario": "19:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "d619ad92-2d1d-400c-a716-e991a289c3be"
+          "id": "9595d263-e55f-4ed2-9beb-8be0e326a0d2"
         },
         {
           "titulo": "F1: LA PELÍCULA",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Cerrado",
+              "horario": "13:00",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "20:45",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "c8082a00-2a22-4b24-8fff-8c1552bcc68d"
+          "id": "1fdc0d04-d48f-4c09-8c7d-f45207e1358e"
         },
         {
-          "titulo": "ELIO",
+          "titulo": "LILO & STITCH",
           "horarios": [
             {
-              "horario": "14:10",
-              "idioma": "Cerrado",
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "f5faffe7-89ee-4b78-bc6b-becc28f58a0d"
+          "id": "13df1ead-5383-4984-bae2-5547ea278d15"
         },
         {
           "titulo": "EXTERMINIO: LA EVOLUCIÓN",
           "horarios": [
             {
-              "horario": "14:00",
-              "idioma": "Cerrado",
+              "horario": "22:40",
+              "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "ea5b114c-2843-4fec-bf0e-3df001975460"
+          "id": "1fc20277-5847-4a9d-89af-06dcd579ae54"
+        },
+        {
+          "titulo": "INVASIÓN ZOMBIE: HIJOS DEL APOCALÍPSIS",
+          "horarios": [
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "dfcfc026-bcab-47fb-8117-7b08534143fa"
+        },
+        {
+          "titulo": "ELIO",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "f5faffe7-89ee-4b78-bc6b-becc28f58a0d"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "16/7/2025"
+  "fecha": "18/7/2025"
 }
