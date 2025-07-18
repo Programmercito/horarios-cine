@@ -1,3 +1,96 @@
 {
-
+  "ciudades": [
+    {
+      "peliculas": [
+        {
+          "id": "b70b5c25-9c46-4298-9e57-40e4714e202a",
+          "titulo": "SE LO QUE PASO EL VERANO PASADO",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "9276363b-585d-4698-aa74-c9f2244d6e63",
+          "titulo": "PITUFOS",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8",
+          "titulo": "SUPERMAN",
+          "horarios": [
+            {
+              "horario": "12:55",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "21:55",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "8fa869e3-fbe0-4d07-8052-b0a664c2e2ac",
+          "titulo": "COMO ENTRENAR A TU DRAGON",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "969d2290-ba56-462f-9844-a5dcdea06031",
+          "titulo": "JURASSIC WORLD: EL RENACER",
+          "horarios": [
+            {
+              "horario": "15:35",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "21:05",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "10:20",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "16:55",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            }
+          ]
+        }
+      ],
+      "ciudad": "La Paz"
+    }
+  ],
+  "cine": "MONJE",
+  "fecha": "18/7/2025"
 }
