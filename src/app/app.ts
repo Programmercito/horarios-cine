@@ -5,7 +5,7 @@ import { ScheduleListComponent } from './schedule-list/schedule-list.component';
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, ScheduleListComponent],
+  imports: [RouterOutlet],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
