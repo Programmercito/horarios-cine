@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
 import { catchError } from 'rxjs';
 import { CommonModule } from '@angular/common';
 import { CineData, Ciudad, Pelicula } from '../shared/models';
@@ -20,7 +20,8 @@ export class ScheduleListComponent implements OnInit {
   pelidata: Pelicula[] = [];
   ciudadesFiltradas: Ciudad[] = [];
   constructor(private route: ActivatedRoute,
-    private http: HttpClient
+    private http: HttpClient,
+    private router: Router
   ) { }
 
   ngOnInit(): void {
@@ -80,5 +81,9 @@ export class ScheduleListComponent implements OnInit {
       console.log(this.ciudadesFiltradas);
 
     }
+  }
+
+  goBack() {
+    this.router.navigate(['/cinemas', this.city]);
   }
 }
