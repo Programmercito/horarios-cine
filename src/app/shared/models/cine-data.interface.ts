@@ -1,3 +1,5 @@
+import { Pelicula } from "./pelicula.interface";
+
 export interface Horario {
   horario: string;
   idioma: string;
@@ -19,4 +21,5 @@ export interface CineData {
   ciudades: Ciudad[];
   cine: string;
   fecha: string;
+  pelidata: Pelicula | null;
 }
