@@ -1,4 +1,7 @@
 <div class="container">
+  <div class="navigation">
+    <button class="back-button" (click)="goBack()">← Volver a ciudades</button>
+  </div>
   <h1>Cines en {{ selectedCity }}</h1>
   <div *ngIf="cinemas.length > 0; else noCinemas">
     <div class="cinema-buttons">
@@ -9,6 +12,6 @@
     </div>
   </div>
   <ng-template #noCinemas>
-    <p>No se encontraron cines para {{ selectedCity }}.</p>
+    <p class="no-data">No se encontraron cines para {{ selectedCity }}.</p>
   </ng-template>
 </div>
