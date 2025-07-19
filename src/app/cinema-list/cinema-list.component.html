@@ -2,10 +2,10 @@
   <h1>Cines en {{ selectedCity }}</h1>
   <div *ngIf="cinemas.length > 0; else noCinemas">
     <div class="cinema-buttons">
-      <button *ngFor="let cinema of cinemas" class="cinema-button">
+      <a *ngFor="let cinema of cinemas" class="cinema-button" [routerLink]="['/schedule', selectedCity, cinema.name]">
         <img src="/{{ cinema.image }}" alt="{{ cinema.name }} logo">
         <span>{{ cinema.name }}</span>
-      </button>
+      </a>
     </div>
   </div>
   <ng-template #noCinemas>

@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { ActivatedRoute } from '@angular/router';
+import { ActivatedRoute, RouterLink } from '@angular/router';
 import { HttpClient } from '@angular/common/http';
 import { catchError, EMPTY, forkJoin, map, of } from 'rxjs';
 import { Cinema } from './cinema-model';
@@ -8,7 +8,7 @@ import { Cinema } from './cinema-model';
 @Component({
   selector: 'app-cinema-list',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, RouterLink],
   templateUrl: './cinema-list.component.html',
   styleUrl: './cinema-list.component.css'
 })
