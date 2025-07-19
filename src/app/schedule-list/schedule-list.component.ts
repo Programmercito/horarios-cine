@@ -68,6 +68,8 @@ export class ScheduleListComponent implements OnInit {
           let data = this.pelidata.find(p => p.id === pelicula.id);
           if (data) {
             pelicula.datos = data;
+          }else{
+            console.warn(`Pelicula con id ${pelicula.id} no encontrada en pelidata`);
           }
         });
       });
