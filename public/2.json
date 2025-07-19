@@ -7,17 +7,17 @@
           "horarios": [
             {
               "horario": "10:10",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
             {
               "horario": "12:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
             {
               "horario": "14:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
             {
@@ -42,12 +42,12 @@
             },
             {
               "horario": "11:10",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "13:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
@@ -68,12 +68,12 @@
           "horarios": [
             {
               "horario": "10:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "3D - 3D KRONOS"
             },
             {
               "horario": "13:10",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "3D - 3D KRONOS"
             },
             {
@@ -93,12 +93,12 @@
             },
             {
               "horario": "11:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
             {
               "horario": "14:10",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
             {
@@ -124,12 +124,12 @@
           "horarios": [
             {
               "horario": "10:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "12:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
@@ -149,12 +149,12 @@
             },
             {
               "horario": "11:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "3D XL - 3D XL KRONOS"
             },
             {
               "horario": "14:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "3D XL - 3D XL KRONOS"
             },
             {
@@ -180,12 +180,12 @@
           "horarios": [
             {
               "horario": "11:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "14:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
@@ -211,7 +211,7 @@
           "horarios": [
             {
               "horario": "13:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
@@ -249,6 +249,17 @@
           "id": "6133e95a-cd27-4006-996e-f06b6ca78cf2"
         },
         {
+          "titulo": "ELIO",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6ab8dc18-2fec-419f-bd34-b38b4466ef6d"
+        },
+        {
           "titulo": "INVASIÓN ZOMBIE: HIJOS DEL APOCALÍPSIS",
           "horarios": [
             {
@@ -258,17 +269,6 @@
             }
           ],
           "id": "bd7bab2d-30ed-42f2-be16-7b4a9c7550e7"
-        },
-        {
-          "titulo": "ELIO",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            }
-          ],
-          "id": "6ab8dc18-2fec-419f-bd34-b38b4466ef6d"
         }
       ],
       "ciudad": "El Alto"
@@ -279,18 +279,43 @@
           "titulo": "SUPERMAN",
           "horarios": [
             {
+              "horario": "10:00",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
               "horario": "11:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "12:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "13:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
@@ -310,7 +335,7 @@
             },
             {
               "horario": "11:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
@@ -324,28 +349,8 @@
               "formato": "2D PLUS"
             },
             {
-              "horario": "12:50",
-              "idioma": "Cerrado",
-              "formato": "3D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Cerrado",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
               "horario": "14:10",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "3D PLUS"
             },
             {
@@ -360,12 +365,12 @@
             },
             {
               "horario": "11:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "4D E-MOTION"
             },
             {
               "horario": "14:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "4D E-MOTION"
             },
             {
@@ -375,12 +380,12 @@
             },
             {
               "horario": "12:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D XL"
             },
             {
               "horario": "14:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D XL"
             },
             {
@@ -406,17 +411,17 @@
           "horarios": [
             {
               "horario": "10:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "11:50",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "14:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
@@ -436,7 +441,7 @@
             },
             {
               "horario": "11:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
@@ -456,12 +461,12 @@
             },
             {
               "horario": "10:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "3D XL"
             },
             {
               "horario": "13:10",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "3D XL"
             },
             {
@@ -497,27 +502,27 @@
           "horarios": [
             {
               "horario": "10:10",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "11:10",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "12:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "13:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "14:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
@@ -552,12 +557,12 @@
             },
             {
               "horario": "11:45",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
               "horario": "13:50",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
@@ -578,17 +583,17 @@
           "horarios": [
             {
               "horario": "10:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "12:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "14:50",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
@@ -613,7 +618,7 @@
             },
             {
               "horario": "13:50",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D PLUS"
             }
           ],
@@ -624,17 +629,17 @@
           "horarios": [
             {
               "horario": "10:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "12:50",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "15:15",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
@@ -686,7 +691,7 @@
           "horarios": [
             {
               "horario": "13:10",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
@@ -702,7 +707,7 @@
           "horarios": [
             {
               "horario": "15:10",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             }
           ],
@@ -740,27 +745,27 @@
           "horarios": [
             {
               "horario": "10:10",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "11:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "12:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "14:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "15:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
@@ -789,6 +794,16 @@
               "formato": "2D"
             },
             {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
               "horario": "22:50",
               "idioma": "Ingles",
               "formato": "2D SUB"
@@ -801,12 +816,12 @@
           "horarios": [
             {
               "horario": "10:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "11:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
@@ -826,21 +841,11 @@
             },
             {
               "horario": "12:00",
-              "idioma": "Cerrado",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "Cerrado",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "17:20",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "20:00",
+              "horario": "17:20",
               "idioma": "Español",
               "formato": "2D XL"
             },
@@ -851,7 +856,7 @@
             },
             {
               "horario": "13:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "3D"
             },
             {
@@ -872,32 +877,32 @@
           "horarios": [
             {
               "horario": "10:10",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "11:10",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "12:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "13:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "14:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "15:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
@@ -923,17 +928,17 @@
           "horarios": [
             {
               "horario": "10:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "12:45",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "15:20",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
@@ -954,7 +959,7 @@
           "horarios": [
             {
               "horario": "12:50",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
@@ -996,7 +1001,7 @@
           "horarios": [
             {
               "horario": "13:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
@@ -1012,7 +1017,7 @@
           "horarios": [
             {
               "horario": "15:10",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             }
           ],
@@ -1045,5 +1050,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "18/7/2025"
+  "fecha": "19/7/2025"
 }
