@@ -41,13 +41,13 @@ export class ScheduleListComponent implements OnInit {
 
   }
   fetchMovieData() {
-    this.http.get<any>(`peliculas.json`).pipe(
+    this.http.get<any>(`/peliculas.json`).pipe(
       catchError(error => {
         console.error(`Error fetching /peliculas.json:`, error);
         return [];
       })
     ).subscribe(data => {
-      this.pelidata = data.peliculas || [];
+      this.pelidata = data || [];
       this.makeSchedule();
     }
     );
@@ -65,13 +65,13 @@ export class ScheduleListComponent implements OnInit {
       this.ciudadesFiltradas.forEach(ciudad => {
         ciudad.peliculas.forEach(pelicula=>{
           // busco la pelicula en this.pelidata
-          let pelidata = this.pelidata.find(p => p.id === pelicula.id);
-          if (pelidata) {
-            pelicula.datos = pelidata;
+          let data = this.pelidata.find(p => p.id === pelicula.id);
+          if (data) {
+            pelicula.datos = data;
           }
         });
       });
-      
+      console.log(this.ciudadesFiltradas);
 
     }
   }
