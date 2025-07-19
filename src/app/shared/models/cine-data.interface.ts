@@ -10,6 +10,7 @@ export interface PeliculaHorario {
   titulo: string;
   horarios: Horario[];
   id: string;
+  datos: Pelicula | null;
 }
 
 export interface Ciudad {
@@ -21,5 +22,5 @@ export interface CineData {
   ciudades: Ciudad[];
   cine: string;
   fecha: string;
-  pelidata: Pelicula | null;
+
 }

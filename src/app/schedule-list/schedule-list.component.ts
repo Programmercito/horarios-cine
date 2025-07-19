@@ -66,10 +66,12 @@ export class ScheduleListComponent implements OnInit {
         ciudad.peliculas.forEach(pelicula=>{
           // busco la pelicula en this.pelidata
           let pelidata = this.pelidata.find(p => p.id === pelicula.id);
-          pelicula.extras = pelidata ? pelidata.extras : null;
-
+          if (pelidata) {
+            pelicula.datos = pelidata;
+          }
         });
       });
+      
 
     }
   }
