@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 import { ActivatedRoute, RouterLink } from '@angular/router';
 import { HttpClient } from '@angular/common/http';
 import { catchError, EMPTY, forkJoin, map, of } from 'rxjs';
-import { Cinema } from './cinema-model';
+import { Cinema } from '../shared/models';
 
 @Component({
   selector: 'app-cinema-list',
