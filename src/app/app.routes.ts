@@ -6,5 +6,5 @@ import { ScheduleListComponent } from './schedule-list/schedule-list.component';
 export const routes: Routes = [
     { path: '', component: CityListComponent },
     { path: 'cinemas/:city', component: CinemaListComponent },
-    { path: 'schedule/:city/:cinemaName', component: ScheduleListComponent }
+    { path: 'schedule/:city/:id', component: ScheduleListComponent }
 ];
