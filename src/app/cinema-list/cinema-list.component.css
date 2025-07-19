@@ -1,1 +1,47 @@
-/* Add styles for cinema list here */
+.container {
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.cinema-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+.cinema-button {
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  width: 150px; /* Fixed width for buttons */
+  text-align: center;
+}
+
+.cinema-button:hover {
+  background-color: #e0e0e0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.cinema-button img {
+  width: 80px; /* Adjust image size as needed */
+  height: 80px; /* Adjust image size as needed */
+  object-fit: contain;
+  margin-bottom: 10px;
+}
+
+.cinema-button span {
+  font-weight: bold;
+  color: #555;
+}

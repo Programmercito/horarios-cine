@@ -1,2 +1,14 @@
-<h2>Cines en [Ciudad Seleccionada]</h2>
-<p>Lista de cines irá aquí.</p>
+<div class="container">
+  <h1>Cines en {{ selectedCity }}</h1>
+  <div *ngIf="cinemas.length > 0; else noCinemas">
+    <div class="cinema-buttons">
+      <button *ngFor="let cinema of cinemas" class="cinema-button">
+        <img src="/{{ cinema.image }}" alt="{{ cinema.name }} logo">
+        <span>{{ cinema.name }}</span>
+      </button>
+    </div>
+  </div>
+  <ng-template #noCinemas>
+    <p>No se encontraron cines para {{ selectedCity }}.</p>
+  </ng-template>
+</div>

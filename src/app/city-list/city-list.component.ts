@@ -1,8 +1,9 @@
-import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HttpClient } from '@angular/common/http';
+import { Router } from '@angular/router';
 import { CityFilterService } from '../shared/citys/city-filter.service';
 import { catchError, EMPTY } from 'rxjs';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-city-list',
@@ -16,7 +17,7 @@ export class CityListComponent implements OnInit {
   private fileIndex = 1;
   private allCities = new Set<string>();
 
-  constructor(private http: HttpClient, private cityFilterService: CityFilterService) {}
+  constructor(private http: HttpClient, private cityFilterService: CityFilterService, private router: Router) {}
 
   ngOnInit() {
     this.fetchJsonFiles();
@@ -43,5 +44,9 @@ export class CityListComponent implements OnInit {
       this.fileIndex++;
       this.fetchJsonFiles(); // Recursively call for the next file
     });
+  }
+
+  goToCinemas(city: string) {
+    this.router.navigate(['/cinemas', city]);
   }
 }
