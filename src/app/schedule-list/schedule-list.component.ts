@@ -2,7 +2,7 @@ import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { catchError } from 'rxjs';
-import { CineData } from '../shared/models';
+import { CineData, Ciudad, Pelicula } from '../shared/models';
 
 @Component({
   selector: 'app-schedule-list',
@@ -13,9 +13,9 @@ export class ScheduleListComponent implements OnInit {
   city: string = '';
   cinemid: string = '';
   cinemaName: string = '';
-  cinemaData:CineData | null = null;
-  pelidata: any;
-
+  cinemaData: CineData | null = null;
+  pelidata: Pelicula[] = [];
+  ciudadesFiltradas: Ciudad[] = [];
   constructor(private route: ActivatedRoute,
     private http: HttpClient
   ) { }
@@ -48,7 +48,29 @@ export class ScheduleListComponent implements OnInit {
       })
     ).subscribe(data => {
       this.pelidata = data.peliculas || [];
+      this.makeSchedule();
     }
     );
+  }
+  makeSchedule() {
+    if (this.cinemaData && this.pelidata.length > 0) {
+      let ciudades = this.cinemaData.ciudades;
+
+      ciudades.forEach(ciudad => {
+        if (ciudad.ciudad.toLowerCase().startsWith(this.city.toLowerCase())) {
+          // remuevo la ciudad de this.cinemaData.ciudades
+          this.ciudadesFiltradas.push(ciudad);
+        }
+      });
+      this.ciudadesFiltradas.forEach(ciudad => {
+        ciudad.peliculas.forEach(pelicula=>{
+          // busco la pelicula en this.pelidata
+          let pelidata = this.pelidata.find(p => p.id === pelicula.id);
+          pelicula.extras = pelidata ? pelidata.extras : null;
+
+        });
+      });
+
+    }
   }
 }
