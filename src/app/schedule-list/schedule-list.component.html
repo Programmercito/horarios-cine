@@ -1,1 +1,33 @@
-<h2>Schedule for {{ cinemaName }} in {{ city }}</h2>
+<div class="schedule-container">
+  <h2 class="main-title">Schedule for {{ cinemaName }} in {{ city }}</h2>
+  
+  <div class="cities-grid" *ngIf="ciudadesFiltradas.length > 0">
+    <div class="city-card" *ngFor="let ciudad of ciudadesFiltradas">
+      <div class="city-header">
+        <h3 class="city-name">📍 {{ ciudad.ciudad }}</h3>
+      </div>
+      
+      <div class="movies-section">
+        <div class="movie-card" *ngFor="let pelicula of ciudad.peliculas">
+          <div class="movie-header">
+            <h4 class="movie-title">🎬 {{ pelicula.titulo }}</h4>
+          </div>
+          
+          <div class="schedules-grid">
+            <div class="schedule-item" *ngFor="let horario of pelicula.horarios">
+              <div class="schedule-time">⏰ {{ horario.horario }}</div>
+              <div class="schedule-details">
+                <span class="format-badge">{{ horario.formato }}</span>
+                <span class="language-badge">{{ horario.idioma }}</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="no-data" *ngIf="ciudadesFiltradas.length === 0">
+    <p>No schedules found for this location.</p>
+  </div>
+</div>

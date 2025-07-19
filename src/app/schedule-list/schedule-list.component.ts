@@ -2,10 +2,13 @@ import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { catchError } from 'rxjs';
+import { CommonModule } from '@angular/common';
 import { CineData, Ciudad, Pelicula } from '../shared/models';
 
 @Component({
   selector: 'app-schedule-list',
+  standalone: true,
+  imports: [CommonModule],
   templateUrl: './schedule-list.component.html',
   styleUrls: ['./schedule-list.component.css']
 })
@@ -35,6 +38,7 @@ export class ScheduleListComponent implements OnInit {
       })
     ).subscribe(data => {
       this.cinemaData = data;
+      this.cinemaName = data?.cine || 'Cinema';
       this.fetchMovieData();
     }
     );
