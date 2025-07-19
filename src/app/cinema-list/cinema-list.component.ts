@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { ActivatedRoute, RouterLink } from '@angular/router';
+import { ActivatedRoute, Router, RouterLink } from '@angular/router';
 import { HttpClient } from '@angular/common/http';
 import { catchError, EMPTY, forkJoin, map, of } from 'rxjs';
 import { Cinema } from '../shared/models';
@@ -19,6 +19,7 @@ export class CinemaListComponent implements OnInit {
 
   constructor(
     private route: ActivatedRoute,
+    private router: Router,
     private http: HttpClient
   ) { }
 
@@ -70,5 +71,9 @@ export class CinemaListComponent implements OnInit {
     };
 
     fetchFile(); // Iniciar la ejecución
+  }
+
+  goBack() {
+    this.router.navigate(['/']);
   }
 }

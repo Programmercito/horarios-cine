@@ -1,11 +1,15 @@
 .container {
   padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 h1 {
   color: #333;
   text-align: center;
   margin-bottom: 20px;
+  font-size: 2rem;
+  font-weight: bold;
 }
 
 .city-buttons {
@@ -20,12 +24,46 @@ h1 {
   color: white;
   border: none;
   padding: 10px 20px;
-  border-radius: 5px;
+  border-radius: 8px;
   cursor: pointer;
   font-size: 16px;
-  transition: background-color 0.3s ease;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .city-button:hover {
   background-color: #0056b3;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .container {
+    padding: 15px;
+  }
+  
+  h1 {
+    font-size: 1.6rem;
+  }
+  
+  .city-button {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 10px;
+  }
+  
+  h1 {
+    font-size: 1.4rem;
+  }
+  
+  .city-button {
+    font-size: 13px;
+    padding: 8px 14px;
+  }
 }

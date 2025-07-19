@@ -1,17 +1,43 @@
 .container {
   padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.navigation {
+  margin-bottom: 15px;
+}
+
+.back-button {
+  background-color: #6c757d;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.back-button:hover {
+  background-color: #545b62;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
 }
 
 h1 {
   color: #333;
   text-align: center;
   margin-bottom: 20px;
+  font-size: 2rem;
+  font-weight: bold;
 }
 
 .cinema-buttons {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 15px;
   justify-content: center;
 }
 
@@ -25,18 +51,21 @@ h1 {
   align-items: center;
   cursor: pointer;
   transition: all 0.3s ease;
-  width: 150px; /* Fixed width for buttons */
+  width: 150px;
   text-align: center;
+  text-decoration: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .cinema-button:hover {
   background-color: #e0e0e0;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
 }
 
 .cinema-button img {
-  width: 80px; /* Adjust image size as needed */
-  height: 80px; /* Adjust image size as needed */
+  width: 80px;
+  height: 80px;
   object-fit: contain;
   margin-bottom: 10px;
 }
@@ -44,4 +73,73 @@ h1 {
 .cinema-button span {
   font-weight: bold;
   color: #555;
+}
+
+.no-data {
+  text-align: center;
+  padding: 40px 20px;
+  color: #666;
+  font-size: 1.1rem;
+  background: #f9f9f9;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .container {
+    padding: 15px;
+  }
+  
+  h1 {
+    font-size: 1.6rem;
+  }
+  
+  .back-button {
+    font-size: 13px;
+    padding: 6px 12px;
+  }
+  
+  .cinema-button {
+    width: 130px;
+    padding: 12px;
+  }
+  
+  .cinema-button img {
+    width: 70px;
+    height: 70px;
+  }
+  
+  .cinema-button span {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 10px;
+  }
+  
+  h1 {
+    font-size: 1.4rem;
+  }
+  
+  .back-button {
+    font-size: 12px;
+    padding: 6px 10px;
+  }
+  
+  .cinema-button {
+    width: 110px;
+    padding: 10px;
+  }
+  
+  .cinema-button img {
+    width: 60px;
+    height: 60px;
+  }
+  
+  .cinema-button span {
+    font-size: 13px;
+  }
 }
