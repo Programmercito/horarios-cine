@@ -4,5 +4,5 @@ import { CinemaListComponent } from './cinema-list/cinema-list.component';
 
 export const routes: Routes = [
     { path: '', component: CityListComponent },
-    { path: 'cinemas', component: CinemaListComponent }
+    { path: 'cinemas/:city', component: CinemaListComponent }
 ];
