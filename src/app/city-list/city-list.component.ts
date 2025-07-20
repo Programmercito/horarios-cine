@@ -41,11 +41,24 @@ export class CityListComponent implements OnInit {
           this.allCities.add(cityData.ciudad);
         });
       }
+      localStorage.setItem('cine_'+this.fileIndex,btoa(JSON.stringify(data)));
+      this.loadPeliculasData();
       this.fileIndex++;
       this.fetchJsonFiles(); // Recursively call for the next file
     });
   }
-
+  loadPeliculasData() {
+    this.http.get<any>('/peliculas.json').pipe(
+      catchError(error => {
+        console.error('Error fetching peliculas.json:', error);
+        return EMPTY;
+      })
+    ).subscribe(data => {
+      if (data) {
+        localStorage.setItem('peliculas', btoa(JSON.stringify(data)));
+      }
+    });
+  }
   goToCinemas(city: string) {
     this.router.navigate(['/cinemas', city]);
   }
