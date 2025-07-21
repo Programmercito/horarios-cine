@@ -25,7 +25,7 @@
         @for (ciudad of ciudadesFiltradas; track ciudad.ciudad) {
           <div class="city-section">
             <div class="city-header">
-              <h3 class="city-name">{{ ciudad.ciudad }}</h3>
+              <h3 class="city-name">{{ ciudad.ciudad | uppercase }}</h3>
             </div>
             
             <div class="movies-grid">
