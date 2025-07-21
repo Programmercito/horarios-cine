@@ -16,6 +16,7 @@ export class ScheduleListComponent implements OnInit {
   city: string = '';
   cinemid: string = '';
   cinemaName: string = '';
+  cinemaDate: string = '';
   cinemaData: CineData | null = null;
   pelidata: Pelicula[] = [];
   ciudadesFiltradas: Ciudad[] = [];
@@ -79,6 +80,7 @@ export class ScheduleListComponent implements OnInit {
   private processCinemaData(data: any) {
     this.cinemaData = data;
     this.cinemaName = data?.cine || 'Cinema';
+    this.cinemaDate = data?.fecha || '';
     this.fetchMovieData();
   }
   fetchMovieData() {
@@ -143,5 +145,27 @@ export class ScheduleListComponent implements OnInit {
 
   goBack() {
     this.router.navigate(['/cinemas', this.city]);
+  }
+
+  refreshData() {
+    // Borrar todas las variables de localStorage relacionadas con cines y películas
+    const keysToRemove: string[] = [];
+    
+    // Buscar todas las claves que empiecen con 'cine_'
+    for (let i = 0; i < localStorage.length; i++) {
+      const key = localStorage.key(i);
+      if (key && key.startsWith('cine_')) {
+        keysToRemove.push(key);
+      }
+    }
+    
+    // Remover las claves encontradas
+    keysToRemove.forEach(key => localStorage.removeItem(key));
+    
+    // Remover también las películas
+    localStorage.removeItem('peliculas');
+    
+    // Recargar la página
+    window.location.reload();
   }
 }
