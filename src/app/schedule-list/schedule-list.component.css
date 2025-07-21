@@ -278,6 +278,25 @@
     padding: 1rem;
   }
   
+  .movie-info-btn {
+    width: 32px;
+    height: 32px;
+    transition: none !important;
+  }
+  
+  .movie-info-btn:hover {
+    transform: none !important;
+  }
+  
+  .movie-info-btn::before {
+    display: none;
+  }
+  
+  .info-icon {
+    width: 18px;
+    height: 18px;
+  }
+  
   .city-section {
     padding: 1.2rem;
   }
@@ -325,4 +344,85 @@
   .schedule-language {
     font-size: 0.8rem;
   }
+}
+
+/* Movie Info Button */
+.movie-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.movie-info-btn {
+  background: linear-gradient(145deg, #4caf50, #45a049);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 3px 10px rgba(76, 175, 80, 0.3);
+  position: relative;
+  overflow: hidden;
+}
+
+.movie-info-btn::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
+  transition: left 0.5s;
+}
+
+.movie-info-btn:hover::before {
+  left: 100%;
+}
+
+.movie-info-btn:hover {
+  background: linear-gradient(145deg, #45a049, #388e3c);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(76, 175, 80, 0.4);
+}
+
+.movie-info-btn:active {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(76, 175, 80, 0.5);
+}
+
+.info-icon {
+  width: 20px;
+  height: 20px;
+  pointer-events: none;
+  filter: drop-shadow(0 1px 2px rgba(0,0,0,0.2));
+}
+
+/* Movie Popup (básico) */
+.movie-popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(5px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.movie-popup {
+  background: linear-gradient(135deg, #1e3a2e 0%, #2d5a3d 50%, #1e3a2e 100%);
+  border-radius: 20px;
+  padding: 2rem;
+  color: white;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.1);
 }
