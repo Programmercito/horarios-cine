@@ -1,17 +1,37 @@
 <div class="container">
-  <div class="navigation">
-    <button class="back-button" (click)="goBack()">← Volver a ciudades</button>
-  </div>
-  <h1>Cines en {{ selectedCity }}</h1>
-  <div *ngIf="cinemas.length > 0; else noCinemas">
-    <div class="cinema-buttons">
-      <a *ngFor="let cinema of cinemas" class="cinema-button" [routerLink]="['/schedule',selectedCity, cinema.id]">
-        <img src="/{{ cinema.image }}" alt="{{ cinema.name }} logo">
-        <span>{{ cinema.name }}</span>
-      </a>
+  <div class="header">
+    <div class="logo-section">
+      <img src="/logo.png" alt="Cinema Bo Logo" class="logo">
+      <h1 class="app-title">Cinema Bo</h1>
     </div>
   </div>
-  <ng-template #noCinemas>
-    <p class="no-data">No se encontraron cines para {{ selectedCity }}.</p>
-  </ng-template>
+  
+  <div class="navigation">
+    <button class="back-button" (click)="goBack()">
+      <span class="arrow">←</span>
+      <span>Volver a ciudades</span>
+    </button>
+  </div>
+  
+  <div class="content">
+    <h2 class="page-title">Cines en {{ selectedCity }}</h2>
+    
+    @if (cinemas.length > 0) {
+      <div class="cinema-grid">
+        @for (cinema of cinemas; track cinema.id) {
+          <a class="cinema-card" [routerLink]="['/schedule',selectedCity, cinema.id]">
+            <div class="cinema-info">
+              <span class="cinema-name">{{ cinema.name }}</span>
+              <span class="arrow">→</span>
+            </div>
+          </a>
+        }
+      </div>
+    } @else {
+      <div class="no-data">
+        <p>No se encontraron cines para {{ selectedCity }}</p>
+        <p class="no-data-subtitle">Intenta con otra ciudad</p>
+      </div>
+    }
+  </div>
 </div>

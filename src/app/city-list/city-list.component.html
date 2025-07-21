@@ -1,6 +1,21 @@
 <div class="container">
-  <h1>Horarios Cine</h1>
-  <div class="city-buttons">
-    <button *ngFor="let city of cities" class="city-button" (click)="goToCinemas(city)">{{ city }}</button>
+  <div class="header">
+    <div class="logo-section">
+      <img src="/logo.png" alt="Cinema Bo Logo" class="logo">
+      <h1 class="app-title">Cinema Bo</h1>
+    </div>
+    <p class="subtitle">Encuentra los horarios de tu cine favorito</p>
+  </div>
+  
+  <div class="content">
+    <h2 class="page-title">Selecciona tu ciudad</h2>
+    <div class="city-buttons">
+      @for (city of cities; track city) {
+        <button class="city-button" (click)="goToCinemas(city)">
+          <span class="city-name">{{ city }}</span>
+          <span class="arrow">→</span>
+        </button>
+      }
+    </div>
   </div>
 </div>

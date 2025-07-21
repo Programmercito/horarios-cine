@@ -1,34 +1,125 @@
 <div class="container">
-  <div class="navigation">
-    <button class="back-button" (click)="goBack()">← Volver a cines</button>
-  </div>
-  <h1>{{ cinemaName }} - {{ city }}</h1>
-  
-  <div class="cities-grid" *ngIf="ciudadesFiltradas.length > 0">
-    <div class="city-card" *ngFor="let ciudad of ciudadesFiltradas">
-      <div class="city-header">
-        <h3 class="city-name">{{ ciudad.ciudad }}</h3>
-      </div>
-      
-      <div class="movies-section">
-        <div class="movie-card" *ngFor="let pelicula of ciudad.peliculas">
-          <div class="movie-header">
-            <h4 class="movie-title">{{ pelicula.titulo }}</h4>
-          </div>
-          
-          <div class="schedules-list">
-            <div class="schedule-item" *ngFor="let horario of pelicula.horarios">
-              <span class="schedule-time">{{ horario.horario }}</span>
-              <span class="schedule-format">{{ horario.formato }}</span>
-              <span class="schedule-language">{{ horario.idioma }}</span>
-            </div>
-          </div>
-        </div>
-      </div>
+  <div class="header">
+    <div class="logo-section">
+      <img src="/logo.png" alt="Cinema Bo Logo" class="logo">
+      <h1 class="app-title">Cinema Bo</h1>
     </div>
   </div>
   
-  <div class="no-data" *ngIf="ciudadesFiltradas.length === 0">
-    <p>No se encontraron horarios para esta ubicación.</p>
+  <div class="navigation">
+    <button class="nav-button back-button" (click)="goBack()">
+      <span class="arrow">←</span>
+      <span>Volver a cines</span>
+    </button>
+    <button class="nav-button refresh-button" (click)="refreshData()">
+      <span class="refresh-icon">🔄</span>
+      <span>Refrescar</span>
+    </button>
   </div>
+  
+  <div class="content">
+    <h2 class="page-title">{{ cinemaName }}@if (cinemaDate) {<span class="cinema-date"> - {{ cinemaDate }}</span>}</h2>
+    
+    @if (ciudadesFiltradas.length > 0) {
+      <div class="schedules-container">
+        @for (ciudad of ciudadesFiltradas; track ciudad.ciudad) {
+          <div class="city-section">
+            <div class="city-header">
+              <h3 class="city-name">{{ ciudad.ciudad | uppercase }}</h3>
+            </div>
+            
+            <div class="movies-grid">
+              @for (pelicula of ciudad.peliculas; track pelicula.id) {
+                <div class="movie-card">
+                  <div class="movie-header">
+                    <div class="movie-title-with-info">
+                      <h4 class="movie-title">{{ pelicula.titulo }}</h4>
+                      <button class="movie-info-btn" (click)="loadMovieData(pelicula.id)" title="Ver información de la película">
+                        <img src="/info.svg" alt="Info" class="info-icon">
+                      </button>
+                    </div>
+                  </div>
+                  
+                  <div class="schedules-grid">
+                    @for (horario of pelicula.horarios; track horario.horario) {
+                      <div class="schedule-badge">
+                        <div class="schedule-time">{{ horario.horario }}</div>
+                        <div class="schedule-details">
+                          <span class="schedule-format">{{ horario.formato }}</span>
+                          <span class="schedule-language">{{ horario.idioma }}</span>
+                        </div>
+                      </div>
+                    }
+                  </div>
+                </div>
+              }
+            </div>
+          </div>
+        }
+      </div>
+    } @else {
+      <div class="no-data">
+        <p>No se encontraron horarios para esta ubicación</p>
+        <p class="no-data-subtitle">Verifica la conexión o intenta más tarde</p>
+      </div>
+    }
+  </div>
+
+  <!-- Movie Popup (vacío por ahora) -->
+  @if (showMoviePopup) {
+    <div class="movie-popup-overlay" (click)="showMoviePopup = false">
+      <div class="movie-popup" (click)="$event.stopPropagation()">
+        <!-- Botón de cerrar -->
+        <button class="close-btn" (click)="showMoviePopup = false" title="Cerrar">✕</button>
+        
+        <!-- Mostrar título de la película -->
+        @if (currentPeli) {
+          <h2>{{ currentPeli.titulo }}</h2>
+          <!-- Fecha de estreno -->
+          @if (currentPeli.extras?.release_date) {
+            <div class="release-date">
+              <span>Estreno: {{ currentPeli.extras?.release_date | date:'dd/MM/yyyy' }}</span>
+              @if (currentPeli.extras?.adult) {
+                <span class="adult-badge">+18</span>
+              }
+            </div>
+          }
+          <!-- Video de YouTube embedido -->
+          @if (currentPeli.video) {
+            <div class="video-container">
+              <iframe 
+                [src]="getYouTubeUrl(currentPeli.video)" 
+                title="YouTube video player" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                allowfullscreen>
+              </iframe>
+            </div>
+          }
+          
+          <!-- Poster y descripción -->
+          @if (currentPeli.extras) {
+            <div class="movie-details">
+              <div class="poster-and-overview">
+                @if (currentPeli.extras.poster_path) {
+                  <img 
+                    [src]="'https://image.tmdb.org/t/p/w200' + currentPeli.extras.poster_path" 
+                    [alt]="currentPeli.titulo + ' poster'"
+                    class="movie-poster">
+                }
+                @if (currentPeli.extras.overview) {
+                  <div class="movie-overview">
+                    <h3>Sinopsis</h3>
+                    <p>{{ currentPeli.extras.overview }}</p>
+                  </div>
+                }
+              </div>
+            </div>
+          }
+        } @else {
+          <p>No se encontró información de la película</p>
+        }
+      </div>
+    </div>
+  }
 </div>

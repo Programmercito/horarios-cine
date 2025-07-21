@@ -1,1 +1,199 @@
-/* You can add global styles to this file, and also import other style files */
+/* Cinema Bo - Global Styles */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Space+Grotesk:wght@300;400;500;600;700&family=Exo+2:wght@300;400;500;600;700;800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Space Grotesk', 'Exo 2', sans-serif;
+}
+
+body {
+  font-family: 'Space Grotesk', 'Exo 2', sans-serif;
+  background: linear-gradient(135deg, #1e3a2e 0%, #2d5a3d 50%, #1e3a2e 100%);
+  min-height: 100vh;
+  color: #ffffff;
+  overflow-x: hidden;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  font-size: 16px;
+}
+
+html, body {
+  height: 100%;
+}
+
+/* Global font inheritance for all elements */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+p, span, div, a, button, input, select, textarea, label {
+  font-family: 'Space Grotesk', sans-serif;
+  letter-spacing: 0.3px;
+}
+
+/* Make titles extra cool */
+h1 {
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-weight: 600;
+  letter-spacing: 0.8px;
+}
+
+/* Buttons and interactive elements */
+button, .btn {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #4caf50, #388e3c);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #66bb6a, #4caf50);
+}
+
+/* Focus styles */
+button:focus,
+a:focus {
+  outline: 2px solid #4caf50;
+  outline-offset: 2px;
+}
+
+/* Global animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.6s ease-out;
+}
+
+/* Loading animation */
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.loading {
+  animation: pulse 1.5s ease-in-out infinite;
+}
+
+/* Utility classes */
+.text-center {
+  text-align: center;
+}
+
+/* Cool typography classes */
+.title-font {
+  font-family: 'Orbitron', monospace;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.subtitle-font {
+  font-family: 'Exo 2', sans-serif;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.body-font {
+  font-family: 'Exo 2', sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+.light-font {
+  font-family: 'Exo 2', sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.8px;
+}
+
+.bold-font {
+  font-family: 'Exo 2', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+}
+
+/* Text effects */
+.text-glow {
+  text-shadow: 0 0 10px rgba(76, 175, 80, 0.3),
+               0 0 20px rgba(76, 175, 80, 0.2),
+               0 0 30px rgba(76, 175, 80, 0.1);
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.mb-1 { margin-bottom: 0.5rem; }
+.mb-2 { margin-bottom: 1rem; }
+.mb-3 { margin-bottom: 1.5rem; }
+.mb-4 { margin-bottom: 2rem; }
+
+.mt-1 { margin-top: 0.5rem; }
+.mt-2 { margin-top: 1rem; }
+.mt-3 { margin-top: 1.5rem; }
+.mt-4 { margin-top: 2rem; }
+
+/* Mobile Performance - Disable animations on small screens */
+@media (max-width: 768px) {
+  /* Reduce motion for better mobile performance */
+  .fade-in {
+    animation: none !important;
+  }
+  
+  .loading {
+    animation: pulse 1.5s ease-in-out infinite;
+  }
+}
+
+@media (max-width: 480px) {
+  /* Complete animation disable for very small screens */
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  
+  .loading {
+    animation: pulse 1s ease-in-out infinite;
+  }
+}

@@ -17,10 +17,19 @@ export class CityListComponent implements OnInit {
   private fileIndex = 1;
   private allCities = new Set<string>();
 
-  constructor(private http: HttpClient, private cityFilterService: CityFilterService, private router: Router) {}
+  constructor(private http: HttpClient, private cityFilterService: CityFilterService, private router: Router) { }
 
   ngOnInit() {
+    // Verificar si hay una ciudad guardada para redirección automática
+    const savedCity = localStorage.getItem('selected_city');
+    if (savedCity) {
+      // Redirigir automáticamente a la ciudad guardada
+      this.router.navigate(['/cinemas', savedCity]);
+      return;
+    }
+    
     this.fetchJsonFiles();
+    this.loadPeliculasData();
   }
 
   private fetchJsonFiles() {
@@ -41,12 +50,31 @@ export class CityListComponent implements OnInit {
           this.allCities.add(cityData.ciudad);
         });
       }
+      localStorage.setItem('cine_' + this.fileIndex, btoa(JSON.stringify(data)));
       this.fileIndex++;
       this.fetchJsonFiles(); // Recursively call for the next file
     });
   }
-
+  loadPeliculasData() {
+    this.http.get<any>('/peliculas.json').pipe(
+      catchError(error => {
+        console.error('Error fetching peliculas.json:', error);
+        return EMPTY;
+      })
+    ).subscribe(data => {
+      if (data) {
+        localStorage.setItem('peliculas', btoa(JSON.stringify(data)));
+      }
+    });
+  }
   goToCinemas(city: string) {
+    // Guardar la ciudad seleccionada en localStorage
+    localStorage.setItem('selected_city', city);
     this.router.navigate(['/cinemas', city]);
+  }
+
+  // Método público para limpiar la ciudad guardada (por si se necesita)
+  clearSavedCity() {
+    localStorage.removeItem('selected_city');
   }
 }
