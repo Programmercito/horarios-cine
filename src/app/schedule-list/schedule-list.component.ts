@@ -20,6 +20,9 @@ export class ScheduleListComponent implements OnInit {
   cinemaData: CineData | null = null;
   pelidata: Pelicula[] = [];
   ciudadesFiltradas: Ciudad[] = [];
+  
+  // Popup variables
+  showMoviePopup: boolean = false;
   constructor(private route: ActivatedRoute,
     private http: HttpClient,
     private router: Router
@@ -167,5 +170,11 @@ export class ScheduleListComponent implements OnInit {
     
     // Recargar la página
     window.location.reload();
+  }
+
+  // Movie data method
+  loadMovieData() {
+    // Por ahora no hace nada
+    this.showMoviePopup = true;
   }
 }

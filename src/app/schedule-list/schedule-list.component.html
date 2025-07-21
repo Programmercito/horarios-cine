@@ -30,6 +30,9 @@
           <div class="movie-card" *ngFor="let pelicula of ciudad.peliculas">
             <div class="movie-header">
               <h4 class="movie-title">{{ pelicula.titulo }}</h4>
+              <button class="movie-info-btn" (click)="loadMovieData()" title="Ver información de la película">
+                <img src="/info.svg" alt="Info" class="info-icon">
+              </button>
             </div>
             
             <div class="schedules-grid">
@@ -52,5 +55,13 @@
         <p class="no-data-subtitle">Verifica la conexión o intenta más tarde</p>
       </div>
     </ng-template>
+  </div>
+
+  <!-- Movie Popup (vacío por ahora) -->
+  <div class="movie-popup-overlay" *ngIf="showMoviePopup" (click)="showMoviePopup = false">
+    <div class="movie-popup" (click)="$event.stopPropagation()">
+      <!-- Popup vacío por ahora -->
+      <p>Popup vacío</p>
+    </div>
   </div>
 </div>
