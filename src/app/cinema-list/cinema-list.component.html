@@ -6,13 +6,6 @@
     </div>
   </div>
   
-  <div class="navigation">
-    <button class="back-button" (click)="goBack()">
-      <span class="arrow">←</span>
-      <span>Volver a ciudades</span>
-    </button>
-  </div>
-  
   <div class="content">
     <h2 class="page-title">Cines en {{ selectedCity }}</h2>
     
@@ -33,5 +26,12 @@
         <p class="no-data-subtitle">Intenta con otra ciudad</p>
       </div>
     }
+    
+    <div class="navigation">
+      <button class="back-button" (click)="goBack()">
+        <span class="arrow">←</span>
+        <span>Volver a ciudades</span>
+      </button>
+    </div>
   </div>
 </div>
