@@ -7,14 +7,18 @@
   </div>
   
   <div class="navigation">
-    <button class="back-button" (click)="goBack()">
+    <button class="nav-button back-button" (click)="goBack()">
       <span class="arrow">←</span>
       <span>Volver a cines</span>
+    </button>
+    <button class="nav-button refresh-button" (click)="refreshData()">
+      <span class="refresh-icon">🔄</span>
+      <span>Refrescar</span>
     </button>
   </div>
   
   <div class="content">
-    <h2 class="page-title">{{ cinemaName }} - {{ city }}</h2>
+    <h2 class="page-title">{{ cinemaName }}<span class="cinema-date" *ngIf="cinemaDate"> - {{ cinemaDate }}</span></h2>
     
     <div class="schedules-container" *ngIf="ciudadesFiltradas.length > 0; else noSchedules">
       <div class="city-section" *ngFor="let ciudad of ciudadesFiltradas">

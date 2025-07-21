@@ -40,9 +40,12 @@
 .navigation {
   padding: 1rem 2rem;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-.back-button {
+.nav-button {
   background: linear-gradient(145deg, #455a64, #37474f);
   color: white;
   border: none;
@@ -58,13 +61,13 @@
   gap: 8px;
 }
 
-.back-button:hover {
+.nav-button:hover {
   background: linear-gradient(145deg, #546e7a, #455a64);
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
   transform: translateY(-2px);
 }
 
-.arrow {
+.arrow, .refresh-icon {
   font-size: 1.2rem;
   font-weight: bold;
 }
@@ -82,6 +85,12 @@
   font-weight: 600;
   margin-bottom: 2rem;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.cinema-date {
+  color: #a5d6a7;
+  font-size: 1.2rem;
+  font-weight: 400;
 }
 
 .schedules-container {
@@ -228,13 +237,29 @@
     box-shadow: 0 6px 20px rgba(46, 125, 50, 0.3) !important;
   }
   
-  .back-button {
+  .back-button, .refresh-button {
     transition: none !important;
   }
   
-  .back-button:hover {
+  .back-button:hover, .refresh-button:hover {
     transform: none !important;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2) !important;
+  }
+
+  .navigation {
+    padding: 1rem;
+    justify-content: space-between;
+    gap: 0.5rem;
+  }
+  
+  .nav-button {
+    flex: 1;
+    justify-content: center;
+    padding: 8px 10px;
+    font-size: 0.8rem;
+  }
+  
+  .arrow, .refresh-icon {
+    font-size: 1rem;
   }
 
   .header {
