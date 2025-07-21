@@ -254,8 +254,8 @@
   .nav-button {
     flex: 1;
     justify-content: center;
-    padding: 8px 10px;
-    font-size: 0.8rem;
+    padding: 12px 20px;
+    font-size: 1rem;
   }
   
   .arrow, .refresh-icon {
