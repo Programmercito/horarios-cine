@@ -14,7 +14,7 @@ import { Cinema } from '../shared/models';
 })
 export class CinemaListComponent implements OnInit {
   cinemas: Cinema[] = [];
-  
+
   selectedCity: string | null = null;
 
   constructor(
@@ -36,44 +36,84 @@ export class CinemaListComponent implements OnInit {
     let fileIndex = 1;
 
     const fetchFile = () => {
+      // Check localStorage first
+      let storedData: string | null = null;
+      storedData = localStorage.getItem('cine_' + fileIndex);
+      if (storedData) {
+        do {
+          try {
+            const data = JSON.parse(atob(storedData));
+            this.processCinemaData(data, fileIndex, city);
+            fileIndex++;
+            storedData = localStorage.getItem('cine_' + fileIndex);
+
+          } catch (error) {
+            console.error('Error parsing stored data:', error);
+          }
+        } while (storedData);
+      } else {
+        this.fetchRemoteCinemas(city);
+      }
+    };
+
+    fetchFile();
+  }
+  private fetchRemoteCinemas(city: string) {
+    let fileIndex = 1;
+    const fetchremote = () => {
       this.http.get<any>(`/${fileIndex}.json`).pipe(
         catchError(error => {
           if (error.status === 404) {
             return EMPTY; // Stop fetching on 404
           }
           console.error(`Error fetching /${fileIndex}.json:`, error);
-          return of(null); // Continue with null on other errors
+          return of(null);
         })
       ).subscribe(data => {
         if (data) {
-          if (data.ciudades) {
-            let cinemaname=data.cine || 'Unknown Cinema';
-            console.log("cinemaname ", cinemaname);
-            data.ciudades.map((cityData: any) => {
-              if (cityData.ciudad.toLowerCase().startsWith(city.toLowerCase())) {
-                let cinema: Cinema = {
-                  id: fileIndex,
-                  name: cinemaname,
-                  image: fileIndex + '.png'
-                };
-                // Verificar si ya existe un cinema con el mismo name para evitar duplicados
-                const existingCinema = this.cinemas.find(c => c.name === cinema.name);
-                if (!existingCinema) {
-                  this.cinemas.push(cinema);
-                }
-              }
-            });
-          }
+          this.processCinemaData(data, fileIndex, city);
+          localStorage.setItem('cine_' + fileIndex, btoa(JSON.stringify(data)));
           fileIndex++;
-          fetchFile(); // Recursively call for the next file
+          fetchremote();
         }
       });
-    };
-
-    fetchFile(); // Iniciar la ejecución
+    }
+    fetchremote();
+    this.loadPeliculasData();     
+  }
+  private processCinemaData(data: any, fileIndex: number, city: string) {
+    if (data && data.ciudades) {
+      let cinemaname = data.cine || 'Unknown Cinema';
+      console.log("cinemaname ", cinemaname);
+      data.ciudades.map((cityData: any) => {
+        if (cityData.ciudad.toLowerCase().startsWith(city.toLowerCase())) {
+          let cinema: Cinema = {
+            id: fileIndex,
+            name: cinemaname,
+            image: fileIndex + '.png'
+          };
+          const existingCinema = this.cinemas.find(c => c.name === cinema.name);
+          if (!existingCinema) {
+            this.cinemas.push(cinema);
+          }
+        }
+      });
+    }
   }
 
   goBack() {
     this.router.navigate(['/']);
+  }
+  loadPeliculasData() {
+    this.http.get<any>('/peliculas.json').pipe(
+      catchError(error => {
+        console.error('Error fetching peliculas.json:', error);
+        return EMPTY;
+      })
+    ).subscribe(data => {
+      if (data) {
+        localStorage.setItem('peliculas', btoa(JSON.stringify(data)));
+      }
+    });
   }
 }
