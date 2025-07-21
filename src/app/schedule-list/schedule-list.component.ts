@@ -1,8 +1,9 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
-import { catchError } from 'rxjs';
+import { catchError, EMPTY, of } from 'rxjs';
 import { CommonModule } from '@angular/common';
+import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
 import { CineData, Ciudad, Pelicula } from '../shared/models';
 
 @Component({
@@ -16,12 +17,18 @@ export class ScheduleListComponent implements OnInit {
   city: string = '';
   cinemid: string = '';
   cinemaName: string = '';
+  cinemaDate: string = '';
   cinemaData: CineData | null = null;
   pelidata: Pelicula[] = [];
   ciudadesFiltradas: Ciudad[] = [];
+  
+  // Popup variables
+  showMoviePopup: boolean = false;
+  currentPeli: Pelicula | null = null;
   constructor(private route: ActivatedRoute,
     private http: HttpClient,
-    private router: Router
+    private router: Router,
+    private sanitizer: DomSanitizer
   ) { }
 
   ngOnInit(): void {
@@ -32,30 +39,89 @@ export class ScheduleListComponent implements OnInit {
     });
   }
   fetchcinema(cinemid: string, city: string) {
-    this.http.get<any>(`/${cinemid}.json`).pipe(
-      catchError(error => {
-        console.error(`Error fetching /${cinemid}.json:`, error);
-        return [];
-      })
-    ).subscribe(data => {
-      this.cinemaData = data;
-      this.cinemaName = data?.cine || 'Cinema';
-      this.fetchMovieData();
+    // Check localStorage first
+    const storedData = localStorage.getItem('cine_' + cinemid);
+    if (storedData) {
+      try {
+        const data = JSON.parse(atob(storedData));
+        this.processCinemaData(data);
+      } catch (error) {
+        console.error('Error parsing stored cinema data:', error);
+        this.fetchAllRemoteCinemas(cinemid);
+      }
+    } else {
+      this.fetchAllRemoteCinemas(cinemid);
     }
-    );
+  }
 
+  private fetchAllRemoteCinemas(targetCinemId: string) {
+    let fileIndex = 1;
+    const fetchRemote = () => {
+      this.http.get<any>(`/${fileIndex}.json`).pipe(
+        catchError(error => {
+          if (error.status === 404) {
+            return EMPTY; // Stop fetching on 404
+          }
+          console.error(`Error fetching /${fileIndex}.json:`, error);
+          return of(null);
+        })
+      ).subscribe(data => {
+        if (data) {
+          // Store in localStorage
+          localStorage.setItem('cine_' + fileIndex, btoa(JSON.stringify(data)));
+          
+          // If this is the cinema we need, process it
+          if (fileIndex.toString() === targetCinemId) {
+            this.processCinemaData(data);
+          }
+          
+          fileIndex++;
+          fetchRemote();
+        }
+      });
+    };
+    fetchRemote();
+  }
+
+  private processCinemaData(data: any) {
+    this.cinemaData = data;
+    this.cinemaName = data?.cine || 'Cinema';
+    this.cinemaDate = data?.fecha || '';
+    this.fetchMovieData();
   }
   fetchMovieData() {
+    // Check localStorage first
+    const storedPeliculas = localStorage.getItem('peliculas');
+    if (storedPeliculas) {
+      try {
+        const data = JSON.parse(atob(storedPeliculas));
+        this.processPeliculasData(data);
+      } catch (error) {
+        console.error('Error parsing stored peliculas data:', error);
+        this.fetchRemotePeliculas();
+      }
+    } else {
+      this.fetchRemotePeliculas();
+    }
+  }
+
+  private fetchRemotePeliculas() {
     this.http.get<any>(`/peliculas.json`).pipe(
       catchError(error => {
         console.error(`Error fetching /peliculas.json:`, error);
-        return [];
+        return of(null);
       })
     ).subscribe(data => {
-      this.pelidata = data || [];
-      this.makeSchedule();
-    }
-    );
+      if (data) {
+        this.processPeliculasData(data);
+        localStorage.setItem('peliculas', btoa(JSON.stringify(data)));
+      }
+    });
+  }
+
+  private processPeliculasData(data: any) {
+    this.pelidata = data || [];
+    this.makeSchedule();
   }
   makeSchedule() {
     if (this.cinemaData && this.pelidata.length > 0) {
@@ -85,5 +151,40 @@ export class ScheduleListComponent implements OnInit {
 
   goBack() {
     this.router.navigate(['/cinemas', this.city]);
+  }
+
+  refreshData() {
+    // Borrar todas las variables de localStorage relacionadas con cines y películas
+    const keysToRemove: string[] = [];
+    
+    // Buscar todas las claves que empiecen con 'cine_'
+    for (let i = 0; i < localStorage.length; i++) {
+      const key = localStorage.key(i);
+      if (key && key.startsWith('cine_')) {
+        keysToRemove.push(key);
+      }
+    }
+    
+    // Remover las claves encontradas
+    keysToRemove.forEach(key => localStorage.removeItem(key));
+    
+    // Remover también las películas
+    localStorage.removeItem('peliculas');
+    
+    // Recargar la página
+    window.location.reload();
+  }
+
+  // Movie data method
+  loadMovieData(movieId: string) {
+    // Buscar la película en pelidata por ID
+    this.currentPeli = this.pelidata.find(p => p.id === movieId) || null;
+    this.showMoviePopup = true;
+  }
+
+  // Sanitize YouTube URL
+  getYouTubeUrl(videoId: string): SafeResourceUrl {
+    const url = `https://www.youtube.com/embed/${videoId}`;
+    return this.sanitizer.bypassSecurityTrustResourceUrl(url);
   }
 }
