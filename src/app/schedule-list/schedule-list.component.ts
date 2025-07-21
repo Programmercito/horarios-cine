@@ -142,6 +142,19 @@ export class ScheduleListComponent implements OnInit {
           }else{
             console.warn(`Pelicula con id ${pelicula.id} no encontrada en pelidata`);
           }
+          
+          // Ordenar horarios por hora
+          if (pelicula.horarios && pelicula.horarios.length > 0) {
+            pelicula.horarios.sort((a, b) => {
+              // Convertir horarios a minutos para comparar (ej: "14:30" -> 870 minutos)
+              const timeToMinutes = (time: string): number => {
+                const [hours, minutes] = time.split(':').map(Number);
+                return hours * 60 + minutes;
+              };
+              
+              return timeToMinutes(a.horario) - timeToMinutes(b.horario);
+            });
+          }
         });
       });
       console.log(this.ciudadesFiltradas);
