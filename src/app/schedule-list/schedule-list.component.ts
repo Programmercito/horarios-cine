@@ -25,6 +25,11 @@ export class ScheduleListComponent implements OnInit {
   // Popup variables
   showMoviePopup: boolean = false;
   currentPeli: Pelicula | null = null;
+  
+  // Schedule popup variables
+  showSchedulePopup: boolean = false;
+  currentSchedule: any = null;
+  currentMovieTitle: string = '';
   constructor(private route: ActivatedRoute,
     private http: HttpClient,
     private router: Router,
@@ -193,6 +198,13 @@ export class ScheduleListComponent implements OnInit {
     // Buscar la película en pelidata por ID
     this.currentPeli = this.pelidata.find(p => p.id === movieId) || null;
     this.showMoviePopup = true;
+  }
+
+  // Schedule popup method
+  showScheduleDetails(schedule: any, movieTitle: string) {
+    this.currentSchedule = schedule;
+    this.currentMovieTitle = movieTitle;
+    this.showSchedulePopup = true;
   }
 
   // Sanitize YouTube URL

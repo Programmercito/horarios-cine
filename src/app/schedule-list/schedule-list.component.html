@@ -42,7 +42,7 @@
                   
                   <div class="schedules-grid">
                     @for (horario of pelicula.horarios; track horario.horario) {
-                      <div class="schedule-badge">
+                      <div class="schedule-badge" (click)="showScheduleDetails(horario, pelicula.titulo)">
                         <div class="schedule-time">{{ horario.horario }}</div>
                         <div class="schedule-details">
                           <span class="schedule-format">{{ horario.formato }}</span>
@@ -123,3 +123,27 @@
     </div>
   }
 </div>
+
+<!-- Schedule Popup -->
+@if (showSchedulePopup) {
+  <div class="schedule-popup-overlay" (click)="showSchedulePopup = false">
+    <div class="schedule-popup" (click)="$event.stopPropagation()">
+      <button class="close-btn" (click)="showSchedulePopup = false">×</button>
+      
+      <h2>{{ currentMovieTitle }}</h2>
+      
+      <div class="schedule-info">
+        <div class="schedule-time-large">{{ currentSchedule?.horario }}</div>
+        
+        <div class="schedule-details-large">
+          <div class="detail-item">
+            <span class="detail-value-only">{{ currentSchedule?.formato }}</span>
+          </div>
+          <div class="detail-item">
+            <span class="detail-value-only">{{ currentSchedule?.idioma }}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+}
