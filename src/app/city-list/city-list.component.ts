@@ -20,6 +20,14 @@ export class CityListComponent implements OnInit {
   constructor(private http: HttpClient, private cityFilterService: CityFilterService, private router: Router) { }
 
   ngOnInit() {
+    // Verificar si hay una ciudad guardada para redirección automática
+    const savedCity = localStorage.getItem('selected_city');
+    if (savedCity) {
+      // Redirigir automáticamente a la ciudad guardada
+      this.router.navigate(['/cinemas', savedCity]);
+      return;
+    }
+    
     this.fetchJsonFiles();
     this.loadPeliculasData();
   }
@@ -60,6 +68,13 @@ export class CityListComponent implements OnInit {
     });
   }
   goToCinemas(city: string) {
+    // Guardar la ciudad seleccionada en localStorage
+    localStorage.setItem('selected_city', city);
     this.router.navigate(['/cinemas', city]);
+  }
+
+  // Método público para limpiar la ciudad guardada (por si se necesita)
+  clearSavedCity() {
+    localStorage.removeItem('selected_city');
   }
 }
