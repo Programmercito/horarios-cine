@@ -17,10 +17,11 @@ export class CityListComponent implements OnInit {
   private fileIndex = 1;
   private allCities = new Set<string>();
 
-  constructor(private http: HttpClient, private cityFilterService: CityFilterService, private router: Router) {}
+  constructor(private http: HttpClient, private cityFilterService: CityFilterService, private router: Router) { }
 
   ngOnInit() {
     this.fetchJsonFiles();
+    this.loadPeliculasData();
   }
 
   private fetchJsonFiles() {
@@ -41,8 +42,7 @@ export class CityListComponent implements OnInit {
           this.allCities.add(cityData.ciudad);
         });
       }
-      localStorage.setItem('cine_'+this.fileIndex,btoa(JSON.stringify(data)));
-      this.loadPeliculasData();
+      localStorage.setItem('cine_' + this.fileIndex, btoa(JSON.stringify(data)));
       this.fileIndex++;
       this.fetchJsonFiles(); // Recursively call for the next file
     });
