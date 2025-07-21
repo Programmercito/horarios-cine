@@ -1,34 +1,52 @@
 <div class="container">
-  <div class="navigation">
-    <button class="back-button" (click)="goBack()">← Volver a cines</button>
+  <div class="header">
+    <div class="logo-section">
+      <img src="/logo.png" alt="Cinema Bo Logo" class="logo">
+      <h1 class="app-title">Cinema Bo</h1>
+    </div>
   </div>
-  <h1>{{ cinemaName }} - {{ city }}</h1>
   
-  <div class="cities-grid" *ngIf="ciudadesFiltradas.length > 0">
-    <div class="city-card" *ngFor="let ciudad of ciudadesFiltradas">
-      <div class="city-header">
-        <h3 class="city-name">{{ ciudad.ciudad }}</h3>
-      </div>
-      
-      <div class="movies-section">
-        <div class="movie-card" *ngFor="let pelicula of ciudad.peliculas">
-          <div class="movie-header">
-            <h4 class="movie-title">{{ pelicula.titulo }}</h4>
-          </div>
-          
-          <div class="schedules-list">
-            <div class="schedule-item" *ngFor="let horario of pelicula.horarios">
-              <span class="schedule-time">{{ horario.horario }}</span>
-              <span class="schedule-format">{{ horario.formato }}</span>
-              <span class="schedule-language">{{ horario.idioma }}</span>
+  <div class="navigation">
+    <button class="back-button" (click)="goBack()">
+      <span class="arrow">←</span>
+      <span>Volver a cines</span>
+    </button>
+  </div>
+  
+  <div class="content">
+    <h2 class="page-title">{{ cinemaName }} - {{ city }}</h2>
+    
+    <div class="schedules-container" *ngIf="ciudadesFiltradas.length > 0; else noSchedules">
+      <div class="city-section" *ngFor="let ciudad of ciudadesFiltradas">
+        <div class="city-header">
+          <h3 class="city-name">{{ ciudad.ciudad }}</h3>
+        </div>
+        
+        <div class="movies-grid">
+          <div class="movie-card" *ngFor="let pelicula of ciudad.peliculas">
+            <div class="movie-header">
+              <h4 class="movie-title">{{ pelicula.titulo }}</h4>
+            </div>
+            
+            <div class="schedules-grid">
+              <div class="schedule-badge" *ngFor="let horario of pelicula.horarios">
+                <div class="schedule-time">{{ horario.horario }}</div>
+                <div class="schedule-details">
+                  <span class="schedule-format">{{ horario.formato }}</span>
+                  <span class="schedule-language">{{ horario.idioma }}</span>
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </div>
     </div>
-  </div>
-  
-  <div class="no-data" *ngIf="ciudadesFiltradas.length === 0">
-    <p>No se encontraron horarios para esta ubicación.</p>
+    
+    <ng-template #noSchedules>
+      <div class="no-data">
+        <p>No se encontraron horarios para esta ubicación</p>
+        <p class="no-data-subtitle">Verifica la conexión o intenta más tarde</p>
+      </div>
+    </ng-template>
   </div>
 </div>
