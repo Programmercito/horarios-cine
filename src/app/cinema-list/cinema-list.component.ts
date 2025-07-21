@@ -89,8 +89,7 @@ export class CinemaListComponent implements OnInit {
         if (cityData.ciudad.toLowerCase().startsWith(city.toLowerCase())) {
           let cinema: Cinema = {
             id: fileIndex,
-            name: cinemaname,
-            image: fileIndex + '.png'
+            name: cinemaname
           };
           const existingCinema = this.cinemas.find(c => c.name === cinema.name);
           if (!existingCinema) {
