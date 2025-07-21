@@ -3,6 +3,7 @@ import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { catchError, EMPTY, of } from 'rxjs';
 import { CommonModule } from '@angular/common';
+import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
 import { CineData, Ciudad, Pelicula } from '../shared/models';
 
 @Component({
@@ -26,7 +27,8 @@ export class ScheduleListComponent implements OnInit {
   currentPeli: Pelicula | null = null;
   constructor(private route: ActivatedRoute,
     private http: HttpClient,
-    private router: Router
+    private router: Router,
+    private sanitizer: DomSanitizer
   ) { }
 
   ngOnInit(): void {
@@ -178,5 +180,11 @@ export class ScheduleListComponent implements OnInit {
     // Buscar la película en pelidata por ID
     this.currentPeli = this.pelidata.find(p => p.id === movieId) || null;
     this.showMoviePopup = true;
+  }
+
+  // Sanitize YouTube URL
+  getYouTubeUrl(videoId: string): SafeResourceUrl {
+    const url = `https://www.youtube.com/embed/${videoId}`;
+    return this.sanitizer.bypassSecurityTrustResourceUrl(url);
   }
 }

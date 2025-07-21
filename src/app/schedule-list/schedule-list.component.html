@@ -70,6 +70,18 @@
         <!-- Mostrar título de la película -->
         @if (currentPeli) {
           <h2>{{ currentPeli.titulo }}</h2>
+          <!-- Video de YouTube embedido -->
+          @if (currentPeli.video) {
+            <div class="video-container">
+              <iframe 
+                [src]="getYouTubeUrl(currentPeli.video)" 
+                title="YouTube video player" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                allowfullscreen>
+              </iframe>
+            </div>
+          }
         } @else {
           <p>No se encontró información de la película</p>
         }
