@@ -133,6 +133,28 @@
 
 /* Responsive Design */
 @media (max-width: 768px) {
+  /* Disable animations on mobile for better performance */
+  .city-button {
+    transition: none !important;
+  }
+  
+  .city-button::before {
+    display: none !important;
+  }
+  
+  .city-button:hover {
+    transform: none !important;
+    box-shadow: 0 8px 30px rgba(76, 175, 80, 0.3) !important;
+  }
+  
+  .city-button:hover .arrow {
+    transform: none !important;
+  }
+  
+  .arrow {
+    transition: none !important;
+  }
+
   .header {
     padding: 1.5rem 1rem;
   }
@@ -157,6 +179,16 @@
 }
 
 @media (max-width: 480px) {
+  /* Extra mobile optimizations - no animations */
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+  
+  .city-button::before {
+    display: none !important;
+  }
+
   .logo {
     width: 60px;
     height: 60px;

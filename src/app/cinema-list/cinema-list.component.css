@@ -180,6 +180,37 @@
 
 /* Responsive Design */
 @media (max-width: 768px) {
+  /* Disable animations on mobile for better performance */
+  .cinema-card {
+    transition: none !important;
+  }
+  
+  .cinema-card::before {
+    display: none !important;
+  }
+  
+  .cinema-card:hover {
+    transform: none !important;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2) !important;
+  }
+  
+  .cinema-info .arrow {
+    transition: none !important;
+  }
+  
+  .cinema-card:hover .arrow {
+    transform: none !important;
+  }
+  
+  .back-button {
+    transition: none !important;
+  }
+  
+  .back-button:hover {
+    transform: none !important;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2) !important;
+  }
+
   .header {
     padding: 1rem;
   }
@@ -207,6 +238,16 @@
 }
 
 @media (max-width: 480px) {
+  /* Extra mobile optimizations - no animations */
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+  
+  .cinema-card::before {
+    display: none !important;
+  }
+
   .logo {
     width: 40px;
     height: 40px;
@@ -218,10 +259,5 @@
   
   .cinema-grid {
     grid-template-columns: 1fr;
-  }
-  
-  .cinema-image {
-    width: 80px;
-    height: 80px;
   }
 }

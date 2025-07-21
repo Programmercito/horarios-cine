@@ -217,6 +217,25 @@
 
 /* Responsive Design */
 @media (max-width: 768px) {
+  /* Disable animations on mobile for better performance */
+  .schedule-badge {
+    transition: none !important;
+  }
+  
+  .schedule-badge:hover {
+    transform: none !important;
+    box-shadow: 0 6px 20px rgba(46, 125, 50, 0.3) !important;
+  }
+  
+  .back-button {
+    transition: none !important;
+  }
+  
+  .back-button:hover {
+    transform: none !important;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2) !important;
+  }
+
   .header {
     padding: 1rem;
   }
@@ -248,6 +267,12 @@
 }
 
 @media (max-width: 480px) {
+  /* Extra mobile optimizations - no animations */
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+
   .logo {
     width: 40px;
     height: 40px;
