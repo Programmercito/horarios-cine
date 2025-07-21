@@ -10,10 +10,12 @@
   <div class="content">
     <h2 class="page-title">Selecciona tu ciudad</h2>
     <div class="city-buttons">
-      <button *ngFor="let city of cities" class="city-button" (click)="goToCinemas(city)">
-        <span class="city-name">{{ city }}</span>
-        <span class="arrow">→</span>
-      </button>
+      @for (city of cities; track city) {
+        <button class="city-button" (click)="goToCinemas(city)">
+          <span class="city-name">{{ city }}</span>
+          <span class="arrow">→</span>
+        </button>
+      }
     </div>
   </div>
 </div>

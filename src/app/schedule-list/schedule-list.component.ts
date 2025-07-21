@@ -23,6 +23,7 @@ export class ScheduleListComponent implements OnInit {
   
   // Popup variables
   showMoviePopup: boolean = false;
+  currentPeli: Pelicula | null = null;
   constructor(private route: ActivatedRoute,
     private http: HttpClient,
     private router: Router
@@ -173,8 +174,9 @@ export class ScheduleListComponent implements OnInit {
   }
 
   // Movie data method
-  loadMovieData() {
-    // Por ahora no hace nada
+  loadMovieData(movieId: string) {
+    // Buscar la película en pelidata por ID
+    this.currentPeli = this.pelidata.find(p => p.id === movieId) || null;
     this.showMoviePopup = true;
   }
 }

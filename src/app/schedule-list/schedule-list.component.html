@@ -18,50 +18,62 @@
   </div>
   
   <div class="content">
-    <h2 class="page-title">{{ cinemaName }}<span class="cinema-date" *ngIf="cinemaDate"> - {{ cinemaDate }}</span></h2>
+    <h2 class="page-title">{{ cinemaName }}@if (cinemaDate) {<span class="cinema-date"> - {{ cinemaDate }}</span>}</h2>
     
-    <div class="schedules-container" *ngIf="ciudadesFiltradas.length > 0; else noSchedules">
-      <div class="city-section" *ngFor="let ciudad of ciudadesFiltradas">
-        <div class="city-header">
-          <h3 class="city-name">{{ ciudad.ciudad }}</h3>
-        </div>
-        
-        <div class="movies-grid">
-          <div class="movie-card" *ngFor="let pelicula of ciudad.peliculas">
-            <div class="movie-header">
-              <h4 class="movie-title">{{ pelicula.titulo }}</h4>
-              <button class="movie-info-btn" (click)="loadMovieData()" title="Ver información de la película">
-                <img src="/info.svg" alt="Info" class="info-icon">
-              </button>
+    @if (ciudadesFiltradas.length > 0) {
+      <div class="schedules-container">
+        @for (ciudad of ciudadesFiltradas; track ciudad.ciudad) {
+          <div class="city-section">
+            <div class="city-header">
+              <h3 class="city-name">{{ ciudad.ciudad }}</h3>
             </div>
             
-            <div class="schedules-grid">
-              <div class="schedule-badge" *ngFor="let horario of pelicula.horarios">
-                <div class="schedule-time">{{ horario.horario }}</div>
-                <div class="schedule-details">
-                  <span class="schedule-format">{{ horario.formato }}</span>
-                  <span class="schedule-language">{{ horario.idioma }}</span>
+            <div class="movies-grid">
+              @for (pelicula of ciudad.peliculas; track pelicula.id) {
+                <div class="movie-card">
+                  <div class="movie-header">
+                    <h4 class="movie-title">{{ pelicula.titulo }}</h4>
+                    <button class="movie-info-btn" (click)="loadMovieData(pelicula.id)" title="Ver información de la película">
+                      <img src="/info.svg" alt="Info" class="info-icon">
+                    </button>
+                  </div>
+                  
+                  <div class="schedules-grid">
+                    @for (horario of pelicula.horarios; track horario.horario) {
+                      <div class="schedule-badge">
+                        <div class="schedule-time">{{ horario.horario }}</div>
+                        <div class="schedule-details">
+                          <span class="schedule-format">{{ horario.formato }}</span>
+                          <span class="schedule-language">{{ horario.idioma }}</span>
+                        </div>
+                      </div>
+                    }
+                  </div>
                 </div>
-              </div>
+              }
             </div>
           </div>
-        </div>
+        }
       </div>
-    </div>
-    
-    <ng-template #noSchedules>
+    } @else {
       <div class="no-data">
         <p>No se encontraron horarios para esta ubicación</p>
         <p class="no-data-subtitle">Verifica la conexión o intenta más tarde</p>
       </div>
-    </ng-template>
+    }
   </div>
 
   <!-- Movie Popup (vacío por ahora) -->
-  <div class="movie-popup-overlay" *ngIf="showMoviePopup" (click)="showMoviePopup = false">
-    <div class="movie-popup" (click)="$event.stopPropagation()">
-      <!-- Popup vacío por ahora -->
-      <p>Popup vacío</p>
+  @if (showMoviePopup) {
+    <div class="movie-popup-overlay" (click)="showMoviePopup = false">
+      <div class="movie-popup" (click)="$event.stopPropagation()">
+        <!-- Mostrar título de la película -->
+        @if (currentPeli) {
+          <h2>{{ currentPeli.titulo }}</h2>
+        } @else {
+          <p>No se encontró información de la película</p>
+        }
+      </div>
     </div>
-  </div>
+  }
 </div>

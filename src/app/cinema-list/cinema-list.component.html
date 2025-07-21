@@ -16,22 +16,22 @@
   <div class="content">
     <h2 class="page-title">Cines en {{ selectedCity }}</h2>
     
-    <div *ngIf="cinemas.length > 0; else noCinemas">
+    @if (cinemas.length > 0) {
       <div class="cinema-grid">
-        <a *ngFor="let cinema of cinemas" class="cinema-card" [routerLink]="['/schedule',selectedCity, cinema.id]">
-          <div class="cinema-info">
-            <span class="cinema-name">{{ cinema.name }}</span>
-            <span class="arrow">→</span>
-          </div>
-        </a>
+        @for (cinema of cinemas; track cinema.id) {
+          <a class="cinema-card" [routerLink]="['/schedule',selectedCity, cinema.id]">
+            <div class="cinema-info">
+              <span class="cinema-name">{{ cinema.name }}</span>
+              <span class="arrow">→</span>
+            </div>
+          </a>
+        }
       </div>
-    </div>
-    
-    <ng-template #noCinemas>
+    } @else {
       <div class="no-data">
         <p>No se encontraron cines para {{ selectedCity }}</p>
         <p class="no-data-subtitle">Intenta con otra ciudad</p>
       </div>
-    </ng-template>
+    }
   </div>
 </div>
