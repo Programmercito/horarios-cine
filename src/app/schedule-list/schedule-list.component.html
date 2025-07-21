@@ -32,10 +32,12 @@
               @for (pelicula of ciudad.peliculas; track pelicula.id) {
                 <div class="movie-card">
                   <div class="movie-header">
-                    <h4 class="movie-title">{{ pelicula.titulo }}</h4>
-                    <button class="movie-info-btn" (click)="loadMovieData(pelicula.id)" title="Ver información de la película">
-                      <img src="/info.svg" alt="Info" class="info-icon">
-                    </button>
+                    <div class="movie-title-with-info">
+                      <h4 class="movie-title">{{ pelicula.titulo }}</h4>
+                      <button class="movie-info-btn" (click)="loadMovieData(pelicula.id)" title="Ver información de la película">
+                        <img src="/info.svg" alt="Info" class="info-icon">
+                      </button>
+                    </div>
                   </div>
                   
                   <div class="schedules-grid">
@@ -67,6 +69,9 @@
   @if (showMoviePopup) {
     <div class="movie-popup-overlay" (click)="showMoviePopup = false">
       <div class="movie-popup" (click)="$event.stopPropagation()">
+        <!-- Botón de cerrar -->
+        <button class="close-btn" (click)="showMoviePopup = false" title="Cerrar">✕</button>
+        
         <!-- Mostrar título de la película -->
         @if (currentPeli) {
           <h2>{{ currentPeli.titulo }}</h2>
