@@ -70,6 +70,12 @@
         <!-- Mostrar título de la película -->
         @if (currentPeli) {
           <h2>{{ currentPeli.titulo }}</h2>
+          <!-- Fecha de estreno -->
+          @if (currentPeli.extras?.release_date) {
+            <div class="release-date">
+              <span>Estreno: {{ currentPeli.extras?.release_date | date:'dd/MM/yyyy' }}</span>
+            </div>
+          }
           <!-- Video de YouTube embedido -->
           @if (currentPeli.video) {
             <div class="video-container">
@@ -80,6 +86,26 @@
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                 allowfullscreen>
               </iframe>
+            </div>
+          }
+          
+          <!-- Poster y descripción -->
+          @if (currentPeli.extras) {
+            <div class="movie-details">
+              <div class="poster-and-overview">
+                @if (currentPeli.extras.poster_path) {
+                  <img 
+                    [src]="'https://image.tmdb.org/t/p/w200' + currentPeli.extras.poster_path" 
+                    [alt]="currentPeli.titulo + ' poster'"
+                    class="movie-poster">
+                }
+                @if (currentPeli.extras.overview) {
+                  <div class="movie-overview">
+                    <h3>Sinopsis</h3>
+                    <p>{{ currentPeli.extras.overview }}</p>
+                  </div>
+                }
+              </div>
             </div>
           }
         } @else {
