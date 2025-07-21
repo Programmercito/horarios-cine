@@ -101,6 +101,8 @@ export class CinemaListComponent implements OnInit {
   }
 
   goBack() {
+    // Limpiar la ciudad guardada para mostrar la lista de ciudades
+    localStorage.removeItem('selected_city');
     this.router.navigate(['/']);
   }
   loadPeliculasData() {
