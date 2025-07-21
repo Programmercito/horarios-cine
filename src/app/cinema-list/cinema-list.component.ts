@@ -43,12 +43,22 @@ export class CinemaListComponent implements OnInit {
         do {
           try {
             const data = JSON.parse(atob(storedData));
-            this.processCinemaData(data, fileIndex, city);
-            fileIndex++;
-            storedData = localStorage.getItem('cine_' + fileIndex);
-
+            // Verificar si la fecha almacenada es actual
+            if (this.isDataCurrent(data)) {
+              this.processCinemaData(data, fileIndex, city);
+              fileIndex++;
+              storedData = localStorage.getItem('cine_' + fileIndex);
+            } else {
+              // Si la fecha no es actual, recargar desde remoto
+              console.log(`Data for cine_${fileIndex} is outdated, fetching from remote...`);
+              this.fetchRemoteCinemas(city);
+              return; // Salir del bucle para evitar procesar datos antiguos
+            }
           } catch (error) {
             console.error('Error parsing stored data:', error);
+            // Si hay error, recargar desde remoto
+            this.fetchRemoteCinemas(city);
+            return;
           }
         } while (storedData);
       } else {
@@ -57,6 +67,20 @@ export class CinemaListComponent implements OnInit {
     };
 
     fetchFile();
+  }
+
+  private isDataCurrent(data: any): boolean {
+    if (!data || !data.fecha) {
+      return false; // Si no hay fecha, consideramos que no es actual
+    }
+    
+    const today = new Date();
+    const dataDate = new Date(data.fecha);
+    
+    // Comparar solo año, mes y día (ignorar hora)
+    return today.getFullYear() === dataDate.getFullYear() &&
+           today.getMonth() === dataDate.getMonth() &&
+           today.getDate() === dataDate.getDate();
   }
   private fetchRemoteCinemas(city: string) {
     let fileIndex = 1;
@@ -106,6 +130,26 @@ export class CinemaListComponent implements OnInit {
     this.router.navigate(['/']);
   }
   loadPeliculasData() {
+    // Check localStorage first
+    const storedPeliculas = localStorage.getItem('peliculas');
+    if (storedPeliculas) {
+      try {
+        const data = JSON.parse(atob(storedPeliculas));
+        // Verificar si alguna película tiene fecha actual
+        const hasCurrentData = data.some((pelicula: any) => this.isDataCurrentFromArray(pelicula));
+        
+        if (hasCurrentData) {
+          console.log('Peliculas data is current, using localStorage');
+          return; // Los datos están actuales, no necesitamos recargar
+        } else {
+          console.log('Peliculas data is outdated, fetching from remote...');
+        }
+      } catch (error) {
+        console.error('Error parsing stored peliculas data:', error);
+      }
+    }
+    
+    // Cargar desde remoto si no hay datos o están desactualizados
     this.http.get<any>('/peliculas.json').pipe(
       catchError(error => {
         console.error('Error fetching peliculas.json:', error);
@@ -116,5 +160,19 @@ export class CinemaListComponent implements OnInit {
         localStorage.setItem('peliculas', btoa(JSON.stringify(data)));
       }
     });
+  }
+
+  private isDataCurrentFromArray(item: any): boolean {
+    if (!item || !item.fecha) {
+      return false;
+    }
+    
+    const today = new Date();
+    const itemDate = new Date(item.fecha);
+    
+    // Comparar solo año, mes y día (ignorar hora)
+    return today.getFullYear() === itemDate.getFullYear() &&
+           today.getMonth() === itemDate.getMonth() &&
+           today.getDate() === itemDate.getDate();
   }
 }

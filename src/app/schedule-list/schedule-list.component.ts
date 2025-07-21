@@ -49,7 +49,14 @@ export class ScheduleListComponent implements OnInit {
     if (storedData) {
       try {
         const data = JSON.parse(atob(storedData));
-        this.processCinemaData(data);
+        // Verificar si la fecha almacenada es actual
+        if (this.isDataCurrent(data)) {
+          this.processCinemaData(data);
+        } else {
+          // Si la fecha no es actual, recargar desde remoto
+          console.log(`Data for cine_${cinemid} is outdated, fetching from remote...`);
+          this.fetchAllRemoteCinemas(cinemid);
+        }
       } catch (error) {
         console.error('Error parsing stored cinema data:', error);
         this.fetchAllRemoteCinemas(cinemid);
@@ -57,6 +64,20 @@ export class ScheduleListComponent implements OnInit {
     } else {
       this.fetchAllRemoteCinemas(cinemid);
     }
+  }
+
+  private isDataCurrent(data: any): boolean {
+    if (!data || !data.fecha) {
+      return false; // Si no hay fecha, consideramos que no es actual
+    }
+    
+    const today = new Date();
+    const dataDate = new Date(data.fecha);
+    
+    // Comparar solo año, mes y día (ignorar hora)
+    return today.getFullYear() === dataDate.getFullYear() &&
+           today.getMonth() === dataDate.getMonth() &&
+           today.getDate() === dataDate.getDate();
   }
 
   private fetchAllRemoteCinemas(targetCinemId: string) {
@@ -100,14 +121,37 @@ export class ScheduleListComponent implements OnInit {
     if (storedPeliculas) {
       try {
         const data = JSON.parse(atob(storedPeliculas));
-        this.processPeliculasData(data);
+        // Verificar si alguna película tiene fecha actual
+        const hasCurrentData = data.some((pelicula: any) => this.isDataCurrentFromArray(pelicula));
+        
+        if (hasCurrentData) {
+          console.log('Peliculas data is current, using localStorage');
+          this.processPeliculasData(data);
+          return; // Los datos están actuales, no necesitamos recargar
+        } else {
+          console.log('Peliculas data is outdated, fetching from remote...');
+        }
       } catch (error) {
         console.error('Error parsing stored peliculas data:', error);
-        this.fetchRemotePeliculas();
       }
-    } else {
-      this.fetchRemotePeliculas();
     }
+    
+    // Cargar desde remoto si no hay datos o están desactualizados
+    this.fetchRemotePeliculas();
+  }
+
+  private isDataCurrentFromArray(item: any): boolean {
+    if (!item || !item.fecha) {
+      return false;
+    }
+    
+    const today = new Date();
+    const itemDate = new Date(item.fecha);
+    
+    // Comparar solo año, mes y día (ignorar hora)
+    return today.getFullYear() === itemDate.getFullYear() &&
+           today.getMonth() === itemDate.getMonth() &&
+           today.getDate() === itemDate.getDate();
   }
 
   private fetchRemotePeliculas() {
