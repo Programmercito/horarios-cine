@@ -19,9 +19,6 @@
     <div *ngIf="cinemas.length > 0; else noCinemas">
       <div class="cinema-grid">
         <a *ngFor="let cinema of cinemas" class="cinema-card" [routerLink]="['/schedule',selectedCity, cinema.id]">
-          <div class="cinema-image">
-            <img src="/{{ cinema.image }}" alt="{{ cinema.name }} logo">
-          </div>
           <div class="cinema-info">
             <span class="cinema-name">{{ cinema.name }}</span>
             <span class="arrow">→</span>
