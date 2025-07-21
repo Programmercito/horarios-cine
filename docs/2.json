@@ -3,6 +3,62 @@
     {
       "peliculas": [
         {
+          "titulo": "SUPERMAN",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            }
+          ],
+          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
+        },
+        {
           "titulo": "PITUFOS",
           "horarios": [
             {
@@ -118,62 +174,6 @@
             }
           ],
           "id": "282e9f56-99ec-4606-809f-117194973c15"
-        },
-        {
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            }
-          ],
-          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
         },
         {
           "titulo": "COMO ENTRENAR A TU DRAGÓN",
@@ -942,11 +942,6 @@
               "formato": "2D"
             },
             {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "20:30",
               "idioma": "Español",
               "formato": "2D"
@@ -1050,5 +1045,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "20/7/2025"
+  "fecha": "21/7/2025"
 }
