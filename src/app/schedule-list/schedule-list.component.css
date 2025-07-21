@@ -462,6 +462,11 @@
 .release-date {
   text-align: center;
   margin-bottom: 1.5rem;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 .release-date span {
@@ -473,6 +478,14 @@
   font-weight: 500;
   border: 1px solid rgba(76, 175, 80, 0.3);
   display: inline-block;
+}
+
+.adult-badge {
+  background: rgba(244, 67, 54, 0.2) !important;
+  color: #f48fb1 !important;
+  border: 1px solid rgba(244, 67, 54, 0.4) !important;
+  font-weight: 700 !important;
+  font-size: 0.8rem !important;
 }
 
 .video-container {
