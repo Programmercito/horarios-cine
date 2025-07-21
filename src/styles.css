@@ -172,3 +172,28 @@ a:focus {
 .mt-2 { margin-top: 1rem; }
 .mt-3 { margin-top: 1.5rem; }
 .mt-4 { margin-top: 2rem; }
+
+/* Mobile Performance - Disable animations on small screens */
+@media (max-width: 768px) {
+  /* Reduce motion for better mobile performance */
+  .fade-in {
+    animation: none !important;
+  }
+  
+  .loading {
+    animation: pulse 1.5s ease-in-out infinite;
+  }
+}
+
+@media (max-width: 480px) {
+  /* Complete animation disable for very small screens */
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  
+  .loading {
+    animation: pulse 1s ease-in-out infinite;
+  }
+}
