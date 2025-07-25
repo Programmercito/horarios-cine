@@ -145,37 +145,6 @@
           "id": "282e9f56-99ec-4606-809f-117194973c15"
         },
         {
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "3D"
-            }
-          ],
-          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
-        },
-        {
           "titulo": "COMO ENTRENAR A TU DRAGÓN",
           "horarios": [
             {
@@ -205,6 +174,37 @@
             }
           ],
           "id": "825d903d-4464-48bf-ac66-677b3c9e27f8"
+        },
+        {
+          "titulo": "SUPERMAN",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "3D"
+            }
+          ],
+          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
         },
         {
           "titulo": "PITUFOS",
@@ -278,11 +278,6 @@
               "formato": "2D"
             },
             {
-              "horario": "10:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "12:20",
               "idioma": "Español",
               "formato": "2D"
@@ -318,19 +313,9 @@
               "formato": "2D"
             },
             {
-              "horario": "12:00",
+              "horario": "10:40",
               "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "3D PLUS"
+              "formato": "3D"
             },
             {
               "horario": "13:10",
@@ -351,6 +336,21 @@
               "horario": "20:40",
               "idioma": "Español",
               "formato": "3D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "3D PLUS"
             },
             {
               "horario": "19:40",
@@ -434,17 +434,17 @@
               "formato": "3D XL"
             },
             {
-              "horario": "15:50",
+              "horario": "16:00",
               "idioma": "Español",
               "formato": "3D XL"
             },
             {
-              "horario": "18:30",
+              "horario": "18:50",
               "idioma": "Español",
               "formato": "3D XL"
             },
             {
-              "horario": "21:10",
+              "horario": "21:30",
               "idioma": "Español",
               "formato": "3D XL"
             },
@@ -581,6 +581,11 @@
           "titulo": "COMO ENTRENAR A TU DRAGÓN",
           "horarios": [
             {
+              "horario": "11:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:50",
               "idioma": "Español",
               "formato": "2D"
@@ -622,11 +627,6 @@
               "formato": "2D"
             },
             {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "17:50",
               "idioma": "Español",
               "formato": "2D"
@@ -638,6 +638,22 @@
             }
           ],
           "id": "9276363b-585d-4698-aa74-c9f2244d6e63"
+        },
+        {
+          "titulo": "SÉ LO QUE HICIERON EL VERANO PASADO",
+          "horarios": [
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "0dd7a02c-abf0-4861-ad44-84dd78b000fe"
         },
         {
           "titulo": "LILO & STITCH",
@@ -659,22 +675,6 @@
             }
           ],
           "id": "6133e95a-cd27-4006-996e-f06b6ca78cf2"
-        },
-        {
-          "titulo": "SÉ LO QUE HICIERON EL VERANO PASADO",
-          "horarios": [
-            {
-              "horario": "20:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "0dd7a02c-abf0-4861-ad44-84dd78b000fe"
         },
         {
           "titulo": "F1: LA PELÍCULA",
@@ -823,11 +823,6 @@
               "formato": "2D"
             },
             {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "16:40",
               "idioma": "Español",
               "formato": "2D"
@@ -960,17 +955,6 @@
           "id": "9276363b-585d-4698-aa74-c9f2244d6e63"
         },
         {
-          "titulo": "LILO & STITCH",
-          "horarios": [
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6133e95a-cd27-4006-996e-f06b6ca78cf2"
-        },
-        {
           "titulo": "SÉ LO QUE HICIERON EL VERANO PASADO",
           "horarios": [
             {
@@ -982,20 +966,20 @@
           "id": "0dd7a02c-abf0-4861-ad44-84dd78b000fe"
         },
         {
-          "titulo": "ELIO",
+          "titulo": "LILO & STITCH",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "15:40",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "6ab8dc18-2fec-419f-bd34-b38b4466ef6d"
+          "id": "6133e95a-cd27-4006-996e-f06b6ca78cf2"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "24/7/2025"
+  "fecha": "25/7/2025"
 }
