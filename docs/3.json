@@ -3,28 +3,6 @@
     {
       "peliculas": [
         {
-          "id": "339cf8bf-893f-4f82-a96b-406a39257749",
-          "titulo": "SE LO QUE PASO EL VERANO PASADO",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "9276363b-585d-4698-aa74-c9f2244d6e63",
-          "titulo": "PITUFOS",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8",
           "titulo": "SUPERMAN",
           "horarios": [
@@ -37,27 +15,6 @@
               "horario": "18:20",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:55",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            }
-          ]
-        },
-        {
-          "id": "a5c5a265-7e6d-484c-884f-0ceef14e6c64",
-          "titulo": "COMO ENTRENAR A TU DRAGON",
-          "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
             }
           ]
         },
@@ -66,24 +23,55 @@
           "titulo": "JURASSIC WORLD: EL RENACER",
           "horarios": [
             {
+              "horario": "10:25",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
               "horario": "15:35",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             },
             {
-              "horario": "21:05",
+              "horario": "21:00",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "865bb06d-0cdc-48ad-be45-8dc4dd4eb067",
+          "titulo": "LOS 4 FANTASTICOS : PRIMEROS PASOS",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
             },
             {
-              "horario": "10:20",
+              "horario": "12:45",
               "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
+              "formato": "2D"
             },
             {
-              "horario": "16:55",
+              "horario": "15:00",
               "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:55",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
             }
           ]
         }
@@ -92,5 +80,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "24/7/2025"
+  "fecha": "25/7/2025"
 }
