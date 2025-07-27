@@ -16,6 +16,11 @@
               "formato": "2D"
             },
             {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "12:40",
               "idioma": "DOB",
               "formato": "2D"
@@ -76,12 +81,17 @@
               "formato": "2D Atmos"
             },
             {
-              "horario": "13:30",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
             {
-              "horario": "16:15",
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "16:20",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
@@ -106,12 +116,12 @@
               "formato": "3D"
             },
             {
-              "horario": "19:35",
+              "horario": "16:40",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             },
             {
-              "horario": "22:15",
+              "horario": "19:20",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             }
@@ -219,6 +229,11 @@
               "formato": "2D"
             },
             {
+              "horario": "13:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "15:50",
               "idioma": "DOB",
               "formato": "2D"
@@ -247,16 +262,6 @@
               "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "13:45",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
             }
           ],
           "id": "282e9f56-99ec-4606-809f-117194973c15"
@@ -369,6 +374,11 @@
               "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
             }
           ],
           "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
@@ -661,6 +671,11 @@
               "formato": "2D"
             },
             {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -694,6 +709,11 @@
               "horario": "22:40",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D CXC"
             },
             {
               "horario": "13:40",
@@ -793,6 +813,11 @@
         {
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "10:30",
               "idioma": "DOB",
@@ -1223,7 +1248,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:40",
+              "horario": "12:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1248,7 +1273,7 @@
               "formato": "2D"
             },
             {
-              "horario": "15:20",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1273,7 +1298,7 @@
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "17:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1298,7 +1323,7 @@
               "formato": "2D"
             },
             {
-              "horario": "20:40",
+              "horario": "20:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1321,6 +1346,11 @@
               "horario": "22:40",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "11:40",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
             },
             {
               "horario": "14:20",
@@ -1375,17 +1405,17 @@
               "formato": "2D"
             },
             {
-              "horario": "15:50",
+              "horario": "15:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:40",
+              "horario": "18:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:30",
+              "horario": "21:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1603,12 +1633,7 @@
               "formato": "2D"
             },
             {
-              "horario": "16:10",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
+              "horario": "16:20",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -1618,7 +1643,12 @@
               "formato": "2D"
             },
             {
-              "horario": "19:20",
+              "horario": "18:10",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -1628,12 +1658,12 @@
               "formato": "2D"
             },
             {
-              "horario": "21:45",
+              "horario": "20:50",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "21:40",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -1669,12 +1699,12 @@
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
-              "horario": "13:30",
+              "horario": "10:50",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "18:50",
+              "horario": "13:30",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1685,12 +1715,12 @@
           "titulo": "SUPERMAN",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "12:30",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "13:50",
+              "horario": "15:20",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1844,12 +1874,17 @@
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "11:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:40",
+              "horario": "14:25",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1859,7 +1894,7 @@
               "formato": "2D"
             },
             {
-              "horario": "15:35",
+              "horario": "17:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1869,17 +1904,12 @@
               "formato": "2D"
             },
             {
-              "horario": "18:30",
+              "horario": "20:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:25",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2015,6 +2045,11 @@
               "formato": "2D"
             },
             {
+              "horario": "23:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "23:20",
               "idioma": "DOB",
               "formato": "2D"
@@ -2027,5 +2062,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "26/7/2025"
+  "fecha": "27/7/2025"
 }
