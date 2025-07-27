@@ -421,82 +421,6 @@
           "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
         },
         {
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "19:45",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
-        },
-        {
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
@@ -576,6 +500,82 @@
             }
           ],
           "id": "282e9f56-99ec-4606-809f-117194973c15"
+        },
+        {
+          "titulo": "SUPERMAN",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
         },
         {
           "titulo": "COMO ENTRENAR A TU DRAGÓN",
@@ -661,6 +661,27 @@
           "id": "0dd7a02c-abf0-4861-ad44-84dd78b000fe"
         },
         {
+          "titulo": "LILO & STITCH",
+          "horarios": [
+            {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6133e95a-cd27-4006-996e-f06b6ca78cf2"
+        },
+        {
           "titulo": "F1: LA PELÍCULA",
           "horarios": [
             {
@@ -675,22 +696,6 @@
             }
           ],
           "id": "030c1708-b411-4042-b802-9084da6de22d"
-        },
-        {
-          "titulo": "LILO & STITCH",
-          "horarios": [
-            {
-              "horario": "15:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6133e95a-cd27-4006-996e-f06b6ca78cf2"
         },
         {
           "titulo": "ELIO",
@@ -798,11 +803,6 @@
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
-              "horario": "10:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "11:20",
               "idioma": "Español",
               "formato": "2D"
@@ -819,6 +819,11 @@
             },
             {
               "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -992,5 +997,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "26/7/2025"
+  "fecha": "27/7/2025"
 }
