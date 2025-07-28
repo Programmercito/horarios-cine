@@ -145,37 +145,6 @@
           "id": "282e9f56-99ec-4606-809f-117194973c15"
         },
         {
-          "titulo": "COMO ENTRENAR A TU DRAGÓN",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "825d903d-4464-48bf-ac66-677b3c9e27f8"
-        },
-        {
           "titulo": "SUPERMAN",
           "horarios": [
             {
@@ -205,6 +174,32 @@
             }
           ],
           "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
+        },
+        {
+          "titulo": "COMO ENTRENAR A TU DRAGÓN",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "825d903d-4464-48bf-ac66-677b3c9e27f8"
         },
         {
           "titulo": "PITUFOS",
@@ -240,11 +235,6 @@
         {
           "titulo": "LILO & STITCH",
           "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "22:15",
               "idioma": "Español",
@@ -803,6 +793,11 @@
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
+              "horario": "10:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "11:20",
               "idioma": "Español",
               "formato": "2D"
@@ -997,5 +992,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "27/7/2025"
+  "fecha": "28/7/2025"
 }
