@@ -184,6 +184,11 @@
               "formato": "2D"
             },
             {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "17:10",
               "idioma": "Español",
               "formato": "2D"
@@ -235,6 +240,11 @@
         {
           "titulo": "LILO & STITCH",
           "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "22:15",
               "idioma": "Español",
@@ -992,5 +1002,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "28/7/2025"
+  "fecha": "29/7/2025"
 }
