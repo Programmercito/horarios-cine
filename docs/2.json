@@ -63,27 +63,27 @@
             {
               "horario": "11:20",
               "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
+              "formato": "2D XL"
             },
             {
               "horario": "13:50",
               "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
+              "formato": "2D XL"
             },
             {
               "horario": "16:20",
               "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
+              "formato": "2D XL"
             },
             {
               "horario": "18:50",
               "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
+              "formato": "2D XL"
             },
             {
               "horario": "21:15",
               "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
+              "formato": "2D XL"
             }
           ],
           "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
@@ -197,11 +197,6 @@
               "horario": "19:40",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ],
           "id": "825d903d-4464-48bf-ac66-677b3c9e27f8"
@@ -210,27 +205,22 @@
           "titulo": "PITUFOS",
           "horarios": [
             {
-              "horario": "10:00",
+              "horario": "10:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "12:00",
+              "horario": "12:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:00",
+              "horario": "16:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
+              "horario": "21:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -244,11 +234,6 @@
               "horario": "15:00",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "22:15",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ],
           "id": "6133e95a-cd27-4006-996e-f06b6ca78cf2"
@@ -257,12 +242,28 @@
           "titulo": "SÉ LO QUE HICIERON EL VERANO PASADO",
           "horarios": [
             {
-              "horario": "20:00",
+              "horario": "22:10",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
           "id": "0dd7a02c-abf0-4861-ad44-84dd78b000fe"
+        },
+        {
+          "titulo": "BTS ARMY: FOREVER WE ARE YOUNG",
+          "horarios": [
+            {
+              "horario": "14:40",
+              "idioma": "Coreano",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Coreano",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "b986b3a4-8e23-4252-a83a-d41edf155357"
         }
       ],
       "ciudad": "El Alto"
@@ -272,46 +273,6 @@
         {
           "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
           "horarios": [
-            {
-              "horario": "10:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "10:40",
               "idioma": "Español",
@@ -353,6 +314,36 @@
               "formato": "3D PLUS"
             },
             {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Ingles",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "19:40",
               "idioma": "Español",
               "formato": "2D PLUS"
@@ -361,11 +352,6 @@
               "horario": "22:10",
               "idioma": "Español",
               "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
             },
             {
               "horario": "11:20",
@@ -484,12 +470,12 @@
               "formato": "2D"
             },
             {
-              "horario": "17:40",
+              "horario": "19:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "21:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -535,6 +521,11 @@
               "formato": "2D"
             },
             {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "13:40",
               "idioma": "Español",
               "formato": "2D"
@@ -551,11 +542,6 @@
             },
             {
               "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:50",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -582,11 +568,6 @@
           "horarios": [
             {
               "horario": "11:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:50",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -698,6 +679,27 @@
           "id": "030c1708-b411-4042-b802-9084da6de22d"
         },
         {
+          "titulo": "BTS ARMY: FOREVER WE ARE YOUNG",
+          "horarios": [
+            {
+              "horario": "14:40",
+              "idioma": "Coreano",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "Coreano",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Coreano",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "b986b3a4-8e23-4252-a83a-d41edf155357"
+        },
+        {
           "titulo": "ELIO",
           "horarios": [
             {
@@ -802,11 +804,6 @@
         {
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
-            {
-              "horario": "10:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "11:20",
               "idioma": "Español",
@@ -936,7 +933,7 @@
           "titulo": "F1: LA PELÍCULA",
           "horarios": [
             {
-              "horario": "13:30",
+              "horario": "11:20",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -952,7 +949,7 @@
           "titulo": "PITUFOS",
           "horarios": [
             {
-              "horario": "16:30",
+              "horario": "14:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -996,11 +993,22 @@
             }
           ],
           "id": "6ab8dc18-2fec-419f-bd34-b38b4466ef6d"
+        },
+        {
+          "titulo": "BTS ARMY: FOREVER WE ARE YOUNG",
+          "horarios": [
+            {
+              "horario": "16:30",
+              "idioma": "Coreano",
+              "formato": "2D"
+            }
+          ],
+          "id": "b986b3a4-8e23-4252-a83a-d41edf155357"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "29/7/2025"
+  "fecha": "30/7/2025"
 }
