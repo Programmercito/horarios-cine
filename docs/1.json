@@ -101,27 +101,27 @@
               "formato": "2D CXC Atmos"
             },
             {
-              "horario": "21:50",
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
             {
-              "horario": "19:15",
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "3D"
             },
             {
-              "horario": "21:55",
+              "horario": "20:40",
               "idioma": "DOB",
               "formato": "3D"
             },
             {
-              "horario": "19:20",
+              "horario": "16:40",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             },
             {
-              "horario": "22:00",
+              "horario": "19:20",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             }
@@ -163,6 +163,11 @@
             },
             {
               "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -234,17 +239,12 @@
               "formato": "2D"
             },
             {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "18:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:55",
+              "horario": "19:15",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -254,12 +254,12 @@
               "formato": "2D"
             },
             {
-              "horario": "13:45",
+              "horario": "22:10",
               "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
+              "formato": "2D"
             },
             {
-              "horario": "16:40",
+              "horario": "13:45",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             }
@@ -270,12 +270,17 @@
           "titulo": "PITUFOS",
           "horarios": [
             {
+              "horario": "10:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "11:00",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -285,7 +290,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:15",
+              "horario": "14:45",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -295,17 +300,12 @@
               "formato": "2D"
             },
             {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "17:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:45",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -369,6 +369,11 @@
               "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
             }
           ],
           "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
@@ -382,12 +387,12 @@
               "formato": "2D"
             },
             {
-              "horario": "22:35",
+              "horario": "21:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "23:20",
+              "horario": "22:35",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -398,12 +403,17 @@
           "titulo": "INVASION ZOMBIE: HIJOS DEL APOCALIPSIS",
           "horarios": [
             {
-              "horario": "22:00",
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -414,24 +424,10 @@
       "ciudad": "Santa Cruz Av. Trompillo"
     },
     {
-      "peliculas": [],
-      "ciudad": "Santa Cruz Av. Brasil"
-    },
-    {
       "peliculas": [
         {
           "titulo": "LOS 4 FANTASTICOS",
           "horarios": [
-            {
-              "horario": "19:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "12:00",
               "idioma": "DOB",
@@ -443,7 +439,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:40",
+              "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -453,73 +449,177 @@
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
             },
             {
               "horario": "20:00",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D CXC Atmos"
             },
             {
-              "horario": "22:40",
+              "horario": "22:30",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D CXC Atmos"
             },
             {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "18:00",
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "3D"
             },
             {
-              "horario": "20:40",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "3D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
             },
             {
               "horario": "22:00",
               "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
+              "formato": "3D"
             }
           ],
           "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
         },
         {
-          "titulo": "LILO Y STITCH",
+          "titulo": "COMO ENTRENAR A TU DRAGON",
           "horarios": [
             {
-              "horario": "12:05",
+              "horario": "18:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "a5c5a265-7e6d-484c-884f-0ceef14e6c64"
+        },
+        {
+          "titulo": "JURASSIC WORLD: RENACE",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "282e9f56-99ec-4606-809f-117194973c15"
+        },
+        {
+          "titulo": "PITUFOS",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "9276363b-585d-4698-aa74-c9f2244d6e63"
+        },
+        {
+          "titulo": "SUPERMAN",
+          "horarios": [
+            {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
+        },
+        {
+          "titulo": "LOS 4 FANTASTICOS",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -529,7 +629,100 @@
               "formato": "2D"
             },
             {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
               "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            }
+          ],
+          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
+        },
+        {
+          "titulo": "SE LO QUE HICIERON EL VERANO PASADO",
+          "horarios": [
+            {
+              "horario": "19:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f62eae5a-c3ff-459f-8a94-47e977c66fb2"
+        }
+      ],
+      "ciudad": "Santa Cruz Av. Brasil"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "BTS ARMY: FOREVER WE ARE YOUNG",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "b986b3a4-8e23-4252-a83a-d41edf155357"
+        },
+        {
+          "titulo": "LILO Y STITCH",
+          "horarios": [
+            {
+              "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -541,26 +734,6 @@
           "horarios": [
             {
               "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -624,11 +797,6 @@
               "horario": "13:45",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
             }
           ],
           "id": "282e9f56-99ec-4606-809f-117194973c15"
@@ -637,27 +805,12 @@
           "titulo": "PITUFOS",
           "horarios": [
             {
-              "horario": "10:00",
+              "horario": "10:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:15",
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -698,18 +851,164 @@
               "formato": "2D"
             },
             {
-              "horario": "22:10",
+              "horario": "22:00",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "4D E-Motion 3D"
             }
           ],
           "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
         },
         {
+          "titulo": "LOS 4 FANTASTICOS",
+          "horarios": [
+            {
+              "horario": "19:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            }
+          ],
+          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
+        },
+        {
           "titulo": "SE LO QUE HICIERON EL VERANO PASADO",
           "horarios": [
             {
-              "horario": "22:50",
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -722,24 +1021,13 @@
     {
       "peliculas": [
         {
-          "titulo": "LOS 4 FANTASTICOS",
+          "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
-              "horario": "18:00",
+              "horario": "14:10",
               "idioma": "DOB",
               "formato": "2D"
             },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
-        },
-        {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
             {
               "horario": "17:05",
               "idioma": "DOB",
@@ -756,6 +1044,11 @@
         {
           "titulo": "PITUFOS",
           "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "17:15",
               "idioma": "DOB",
@@ -774,68 +1067,33 @@
             }
           ],
           "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
+        },
+        {
+          "titulo": "LOS 4 FANTASTICOS",
+          "horarios": [
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
         }
       ],
       "ciudad": "Riberalta"
     },
     {
       "peliculas": [
-        {
-          "titulo": "LOS 4 FANTASTICOS",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "3D"
-            }
-          ],
-          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
-        },
         {
           "titulo": "COMO ENTRENAR A TU DRAGON",
           "horarios": [
@@ -897,17 +1155,7 @@
           "titulo": "PITUFOS",
           "horarios": [
             {
-              "horario": "11:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:15",
+              "horario": "12:05",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -923,7 +1171,17 @@
               "formato": "2D"
             },
             {
+              "horario": "14:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -933,17 +1191,12 @@
               "formato": "2D"
             },
             {
-              "horario": "18:30",
+              "horario": "20:25",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:20",
+              "horario": "23:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -951,15 +1204,76 @@
           "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
         },
         {
-          "titulo": "SE LO QUE HICIERON EL VERANO PASADO",
+          "titulo": "LOS 4 FANTASTICOS",
           "horarios": [
             {
-              "horario": "22:55",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "23:20",
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "3D"
+            }
+          ],
+          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
+        },
+        {
+          "titulo": "SE LO QUE HICIERON EL VERANO PASADO",
+          "horarios": [
+            {
+              "horario": "22:55",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -972,66 +1286,31 @@
     {
       "peliculas": [
         {
-          "titulo": "LOS 4 FANTASTICOS",
+          "titulo": "BTS ARMY: FOREVER WE ARE YOUNG",
           "horarios": [
             {
-              "horario": "13:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
               "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
+              "idioma": "SUBT",
+              "formato": "2D"
             }
           ],
-          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
+          "id": "b986b3a4-8e23-4252-a83a-d41edf155357"
         },
         {
           "titulo": "LILO Y STITCH",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:30",
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1068,7 +1347,17 @@
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
+              "horario": "11:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1078,7 +1367,17 @@
               "formato": "2D"
             },
             {
+              "horario": "17:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1094,7 +1393,12 @@
           "titulo": "F1 LA PELICULA",
           "horarios": [
             {
-              "horario": "20:15",
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1105,17 +1409,27 @@
           "titulo": "PITUFOS",
           "horarios": [
             {
-              "horario": "13:30",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:45",
+              "horario": "13:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1126,7 +1440,27 @@
           "titulo": "SUPERMAN",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1136,7 +1470,22 @@
               "formato": "2D"
             },
             {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1144,9 +1493,171 @@
               "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
+        },
+        {
+          "titulo": "LOS 4 FANTASTICOS",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:40",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            }
+          ],
+          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
+        },
+        {
+          "titulo": "INVASION ZOMBIE: HIJOS DEL APOCALIPSIS",
+          "horarios": [
+            {
+              "horario": "22:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f0d57461-2aa3-4f0b-b98b-99048ea0f569"
         }
       ],
       "ciudad": "La Paz"
@@ -1154,10 +1665,57 @@
     {
       "peliculas": [
         {
+          "titulo": "JURASSIC WORLD: RENACE",
+          "horarios": [
+            {
+              "horario": "13:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "282e9f56-99ec-4606-809f-117194973c15"
+        },
+        {
+          "titulo": "SUPERMAN",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
+        },
+        {
           "titulo": "LOS 4 FANTASTICOS",
           "horarios": [
             {
               "horario": "14:40",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -1168,6 +1726,11 @@
             },
             {
               "horario": "20:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -1187,64 +1750,17 @@
               "formato": "2D"
             },
             {
-              "horario": "18:20",
+              "horario": "18:10",
               "idioma": "DOB",
               "formato": "3D"
             },
             {
-              "horario": "21:00",
+              "horario": "20:50",
               "idioma": "DOB",
               "formato": "3D"
             }
           ],
           "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
-        },
-        {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:55",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:50",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "282e9f56-99ec-4606-809f-117194973c15"
-        },
-        {
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "14:20",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
         }
       ],
       "ciudad": "La Paz VIP"
@@ -1252,85 +1768,15 @@
     {
       "peliculas": [
         {
-          "titulo": "LOS 4 FANTASTICOS",
+          "titulo": "BTS ARMY: FOREVER WE ARE YOUNG",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "DOB",
+              "horario": "17:00",
+              "idioma": "SUBT",
               "formato": "2D"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "3D"
             }
           ],
-          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
+          "id": "b986b3a4-8e23-4252-a83a-d41edf155357"
         },
         {
           "titulo": "LILO Y STITCH",
@@ -1341,12 +1787,12 @@
               "formato": "2D"
             },
             {
-              "horario": "13:30",
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:00",
+              "horario": "15:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1362,7 +1808,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:20",
+              "horario": "11:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1372,17 +1818,12 @@
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "14:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1514,20 +1955,111 @@
           "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
         },
         {
-          "titulo": "PRESENCIA DEMONIACA",
+          "titulo": "LOS 4 FANTASTICOS",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:40",
+              "horario": "19:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:50",
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "3D"
+            }
+          ],
+          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
+        },
+        {
+          "titulo": "PRESENCIA DEMONIACA",
+          "horarios": [
+            {
+              "horario": "23:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1538,17 +2070,7 @@
           "titulo": "SE LO QUE HICIERON EL VERANO PASADO",
           "horarios": [
             {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:10",
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1581,5 +2103,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "29/7/2025"
+  "fecha": "30/7/2025"
 }
