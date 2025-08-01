@@ -1,79 +1,10 @@
 {
   "ciudades": [
     {
-      "peliculas": [
-        {
-          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8",
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "12:55",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            }
-          ]
-        },
-        {
-          "id": "186f707b-8550-40cb-8b37-759a6a675cb6",
-          "titulo": "JURASSIC WORLD: EL RENACER",
-          "horarios": [
-            {
-              "horario": "15:35",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            }
-          ]
-        },
-        {
-          "id": "865bb06d-0cdc-48ad-be45-8dc4dd4eb067",
-          "titulo": "LOS 4 FANTASTICOS : PRIMEROS PASOS",
-          "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:45",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:55",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        }
-      ],
+      "peliculas": [],
       "ciudad": "La Paz"
     }
   ],
   "cine": "MONJE",
-  "fecha": "31/7/2025"
+  "fecha": "1/8/2025"
 }
