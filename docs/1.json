@@ -273,32 +273,22 @@
           "titulo": "PITUFOS",
           "horarios": [
             {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "11:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:15",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:30",
+              "horario": "15:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -395,27 +385,27 @@
               "formato": "2D"
             },
             {
-              "horario": "12:10",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "14:50",
+              "horario": "14:40",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "17:30",
+              "horario": "17:20",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "20:10",
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "22:50",
+              "horario": "22:40",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
@@ -446,17 +436,17 @@
           "titulo": "SE LO QUE HICIERON EL VERANO PASADO",
           "horarios": [
             {
-              "horario": "21:15",
+              "horario": "19:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "23:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -825,7 +815,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:40",
+              "horario": "12:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1381,7 +1371,7 @@
               "formato": "3D Atmos"
             },
             {
-              "horario": "21:25",
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "3D Atmos"
             }
@@ -1501,17 +1491,12 @@
           "titulo": "COMO ENTRENAR A TU DRAGON",
           "horarios": [
             {
-              "horario": "19:30",
+              "horario": "21:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1558,12 +1543,17 @@
               "formato": "2D"
             },
             {
-              "horario": "12:55",
+              "horario": "12:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1907,27 +1897,33 @@
           "titulo": "AMORES MATERIALISTAS",
           "horarios": [
             {
-              "horario": "14:00",
+              "horario": "17:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:40",
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
+              "horario": "22:40",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "44286bb4-b30f-4efa-a45c-31496183ae63"
+        },
+        {
+          "titulo": "BTS ARMY: FOREVER WE ARE YOUNG",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "b986b3a4-8e23-4252-a83a-d41edf155357"
         },
         {
           "titulo": "EXORCISMO: EL RITUAL",
@@ -2001,7 +1997,7 @@
           "titulo": "COMO ENTRENAR A TU DRAGON",
           "horarios": [
             {
-              "horario": "11:10",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -2204,5 +2200,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "2/8/2025"
+  "fecha": "3/8/2025"
 }
