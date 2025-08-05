@@ -149,7 +149,7 @@
           "titulo": "¿Y DÓNDE ESTÁ EL POLICIA?",
           "horarios": [
             {
-              "horario": "12:40",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -242,11 +242,6 @@
               "horario": "13:10",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ],
           "id": "9276363b-585d-4698-aa74-c9f2244d6e63"
@@ -259,6 +254,31 @@
         {
           "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
           "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "21:15",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -305,11 +325,6 @@
               "formato": "2D"
             },
             {
-              "horario": "22:20",
-              "idioma": "Ingles",
-              "formato": "2D"
-            },
-            {
               "horario": "13:10",
               "idioma": "Español",
               "formato": "3D"
@@ -340,6 +355,11 @@
               "formato": "2D PLUS"
             },
             {
+              "horario": "22:20",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
               "horario": "12:30",
               "idioma": "Español",
               "formato": "4D E-MOTION"
@@ -363,26 +383,6 @@
               "horario": "21:50",
               "idioma": "Español",
               "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "18:50",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "21:15",
-              "idioma": "Español",
-              "formato": "2D XL"
             }
           ],
           "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
@@ -390,6 +390,11 @@
         {
           "titulo": "LOS TIPOS MALOS 2",
           "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -456,6 +461,11 @@
         {
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -531,8 +541,49 @@
           "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
         },
         {
+          "titulo": "EXORCISMO: EL RITUAL",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "da8246c4-90c5-4223-9e2b-84433a4f28c3"
+        },
+        {
           "titulo": "¿Y DÓNDE ESTÁ EL POLICIA?",
           "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:10",
               "idioma": "Español",
@@ -593,37 +644,6 @@
           "id": "44286bb4-b30f-4efa-a45c-31496183ae63"
         },
         {
-          "titulo": "EXORCISMO: EL RITUAL",
-          "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "da8246c4-90c5-4223-9e2b-84433a4f28c3"
-        },
-        {
           "titulo": "COMO ENTRENAR A TU DRAGÓN",
           "horarios": [
             {
@@ -645,6 +665,22 @@
           "id": "825d903d-4464-48bf-ac66-677b3c9e27f8"
         },
         {
+          "titulo": "LILO & STITCH",
+          "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6133e95a-cd27-4006-996e-f06b6ca78cf2"
+        },
+        {
           "titulo": "PITUFOS",
           "horarios": [
             {
@@ -659,17 +695,6 @@
             }
           ],
           "id": "9276363b-585d-4698-aa74-c9f2244d6e63"
-        },
-        {
-          "titulo": "LILO & STITCH",
-          "horarios": [
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6133e95a-cd27-4006-996e-f06b6ca78cf2"
         },
         {
           "titulo": "F1: LA PELÍCULA",
@@ -691,29 +716,9 @@
           "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "11:30",
               "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Ingles",
-              "formato": "2D"
+              "formato": "2D XL"
             },
             {
               "horario": "13:50",
@@ -736,6 +741,31 @@
               "formato": "2D XL"
             },
             {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:00",
+              "idioma": "Ingles",
+              "formato": "2D"
+            },
+            {
               "horario": "22:15",
               "idioma": "Español",
               "formato": "3D"
@@ -744,49 +774,13 @@
           "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
         },
         {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "282e9f56-99ec-4606-809f-117194973c15"
-        },
-        {
           "titulo": "LOS TIPOS MALOS 2",
           "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -831,8 +825,59 @@
           "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
         },
         {
+          "titulo": "JURASSIC WORLD: RENACE",
+          "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "282e9f56-99ec-4606-809f-117194973c15"
+        },
+        {
           "titulo": "SUPERMAN",
           "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:40",
               "idioma": "Español",
@@ -855,6 +900,32 @@
             }
           ],
           "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
+        },
+        {
+          "titulo": "¿Y DÓNDE ESTÁ EL POLICIA?",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "f5ca5a8a-42ab-44b6-b9a9-98167b72f77a"
         },
         {
           "titulo": "EXORCISMO: EL RITUAL",
@@ -883,27 +954,6 @@
           "id": "da8246c4-90c5-4223-9e2b-84433a4f28c3"
         },
         {
-          "titulo": "¿Y DÓNDE ESTÁ EL POLICIA?",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "f5ca5a8a-42ab-44b6-b9a9-98167b72f77a"
-        },
-        {
           "titulo": "AMORES MATERIALISTAS",
           "horarios": [
             {
@@ -924,21 +974,10 @@
             {
               "horario": "21:50",
               "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "44286bb4-b30f-4efa-a45c-31496183ae63"
-        },
-        {
-          "titulo": "COMO ENTRENAR A TU DRAGÓN",
-          "horarios": [
-            {
-              "horario": "15:15",
-              "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "825d903d-4464-48bf-ac66-677b3c9e27f8"
+          "id": "44286bb4-b30f-4efa-a45c-31496183ae63"
         },
         {
           "titulo": "F1: LA PELÍCULA",
@@ -950,6 +989,17 @@
             }
           ],
           "id": "030c1708-b411-4042-b802-9084da6de22d"
+        },
+        {
+          "titulo": "COMO ENTRENAR A TU DRAGÓN",
+          "horarios": [
+            {
+              "horario": "15:15",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "825d903d-4464-48bf-ac66-677b3c9e27f8"
         },
         {
           "titulo": "PITUFOS",
@@ -967,5 +1017,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "4/8/2025"
+  "fecha": "5/8/2025"
 }
