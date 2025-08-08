@@ -3,22 +3,21 @@
     {
       "peliculas": [
         {
-          "id": "44286bb4-b30f-4efa-a45c-31496183ae63",
-          "titulo": "AMORES MATERIALISTAS",
+          "id": "d373700e-acf2-451a-a859-2d6e8565cefb",
+          "titulo": "WEAPONS",
           "horarios": [
             {
-              "horario": "12:55",
+              "horario": "19:35",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc",
-          "titulo": "LOS TIPOS MALOS 2",
-          "horarios": [
+            },
             {
-              "horario": "10:45",
+              "horario": "12:40",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:55",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -29,7 +28,18 @@
           "titulo": "Y DONDE ESTA EL POLICIA",
           "horarios": [
             {
-              "horario": "20:15",
+              "horario": "13:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412",
+          "titulo": "OTRO VIERNES DE LOCOS",
+          "horarios": [
+            {
+              "horario": "15:00",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
@@ -37,6 +47,22 @@
               "horario": "21:55",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc",
+          "titulo": "LOS TIPOS MALOS 2",
+          "horarios": [
+            {
+              "horario": "15:05",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
             }
           ]
         },
@@ -45,7 +71,7 @@
           "titulo": "SUPERMAN",
           "horarios": [
             {
-              "horario": "17:45",
+              "horario": "17:10",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             }
@@ -56,7 +82,7 @@
           "titulo": "JURASSIC WORLD: EL RENACER",
           "horarios": [
             {
-              "horario": "15:10",
+              "horario": "10:30",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             }
@@ -67,32 +93,12 @@
           "titulo": "LOS 4 FANTASTICOS : PRIMEROS PASOS",
           "horarios": [
             {
-              "horario": "10:30",
+              "horario": "17:15",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             },
             {
-              "horario": "12:45",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:55",
+              "horario": "10:25",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             }
@@ -103,5 +109,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "7/8/2025"
+  "fecha": "8/8/2025"
 }
