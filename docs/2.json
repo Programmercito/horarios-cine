@@ -194,6 +194,22 @@
           "id": "d2892702-8b4d-42f6-b2b3-e308295d31d3"
         },
         {
+          "titulo": "ARMAGEDDON: DIOSES DEL APOCALIPSIS",
+          "horarios": [
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "d7d66074-195c-432e-9680-c36856fb90e2"
+        },
+        {
           "titulo": "EL GRAN CICLÓN",
           "horarios": [
             {
@@ -219,22 +235,6 @@
             }
           ],
           "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
-        },
-        {
-          "titulo": "ARMAGEDDON: DIOSES DEL APOCALIPSIS",
-          "horarios": [
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "d7d66074-195c-432e-9680-c36856fb90e2"
         },
         {
           "titulo": "EL VIAJE DE CHIHIRO",
@@ -413,6 +413,11 @@
               "horario": "20:45",
               "idioma": "Español",
               "formato": "2D PLUS"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "21:20",
@@ -697,22 +702,6 @@
           "id": "030c1708-b411-4042-b802-9084da6de22d"
         },
         {
-          "titulo": "PITUFOS",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "9276363b-585d-4698-aa74-c9f2244d6e63"
-        },
-        {
           "titulo": "¿Y DÓNDE ESTÁ EL POLICIA?",
           "horarios": [
             {
@@ -727,6 +716,17 @@
             }
           ],
           "id": "f5ca5a8a-42ab-44b6-b9a9-98167b72f77a"
+        },
+        {
+          "titulo": "F1: LA PELÍCULA",
+          "horarios": [
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            }
+          ],
+          "id": "030c1708-b411-4042-b802-9084da6de22d"
         },
         {
           "titulo": "AMORES MATERIALISTAS",
@@ -932,27 +932,6 @@
           "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
         },
         {
-          "titulo": "¿Y DÓNDE ESTÁ EL POLICIA?",
-          "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "f5ca5a8a-42ab-44b6-b9a9-98167b72f77a"
-        },
-        {
           "titulo": "EXORCISMO: EL RITUAL",
           "horarios": [
             {
@@ -998,6 +977,11 @@
           "titulo": "EL VIAJE DE CHIHIRO",
           "horarios": [
             {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "18:30",
               "idioma": "Español",
               "formato": "2D"
@@ -1009,6 +993,27 @@
             }
           ],
           "id": "e97dec16-ae3a-4879-888f-510885a57611"
+        },
+        {
+          "titulo": "¿Y DÓNDE ESTÁ EL POLICIA?",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "f5ca5a8a-42ab-44b6-b9a9-98167b72f77a"
         },
         {
           "titulo": "EL GRAN CICLÓN",
@@ -1096,5 +1101,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "9/8/2025"
+  "fecha": "10/8/2025"
 }
