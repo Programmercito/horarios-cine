@@ -3,463 +3,46 @@
     {
       "peliculas": [
         {
-          "titulo": "ARMAGEDON: DIOSES DEL APOCALIPSIS",
+          "titulo": "ROSARIO: HERENCIA MALDITA",
           "horarios": [
             {
-              "horario": "14:00",
+              "horario": "16:20",
               "idioma": "DOB",
               "formato": "2D"
             },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "63158954-66eb-44f9-b131-b97c03322c9b"
+        },
+        {
+          "titulo": "ANIMALES PELIGROSOS",
+          "horarios": [
             {
               "horario": "16:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "15b5ff99-1751-4ea2-bbf2-6f647f208b9e"
-        },
-        {
-          "titulo": "OTRO VIERNES DE LOCOS",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
-            }
-          ],
-          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
-        },
-        {
-          "titulo": "EL VIAJE DE CHIHIRO",
-          "horarios": [
-            {
-              "horario": "21:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "e97dec16-ae3a-4879-888f-510885a57611"
-        },
-        {
-          "titulo": "LA HORA DE LA DESAPARICION",
-          "horarios": [
-            {
-              "horario": "14:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "234a0075-eb40-431b-94f7-7366a600355f"
-        },
-        {
-          "titulo": "EL GRAN CICLON",
-          "horarios": [
-            {
-              "horario": "17:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
+              "horario": "19:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "380bf7ff-495a-47a1-a2d2-59c2efb14b24"
-        },
-        {
-          "titulo": "LILO Y STITCH",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "194c1756-6e28-4813-a3ed-7dbea4f47f63"
-        },
-        {
-          "titulo": "COMO ENTRENAR A TU DRAGON",
-          "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a5c5a265-7e6d-484c-884f-0ceef14e6c64"
-        },
-        {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "13:25",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "19:15",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:45",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "15:05",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            }
-          ],
-          "id": "282e9f56-99ec-4606-809f-117194973c15"
-        },
-        {
-          "titulo": "PITUFOS",
-          "horarios": [
-            {
-              "horario": "10:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "9276363b-585d-4698-aa74-c9f2244d6e63"
-        },
-        {
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "13:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
-        },
-        {
-          "titulo": "LOS 4 FANTASTICOS",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "20:35",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "23:15",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            }
-          ],
-          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
-        },
-        {
-          "titulo": "LOS TIPOS MALOS 2",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:15",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            }
-          ],
-          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
-        },
-        {
-          "titulo": "AMORES MATERIALISTAS",
-          "horarios": [
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "44286bb4-b30f-4efa-a45c-31496183ae63"
-        },
-        {
-          "titulo": "EXORCISMO: EL RITUAL",
-          "horarios": [
-            {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:55",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -469,161 +52,13 @@
               "formato": "2D"
             }
           ],
-          "id": "da8246c4-90c5-4223-9e2b-84433a4f28c3"
+          "id": "6c161935-d3b5-4357-93a3-1ee2837c1ba0"
         },
         {
-          "titulo": "¿Y DONDE ESTA EL POLICIA?",
+          "titulo": "MIRACULOUS: LAS AVENTURAS DE LADYBUG &amp; CAT NOIR",
           "horarios": [
             {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "98e4ba23-40ef-4293-8950-1f7aff81c631"
-        }
-      ],
-      "ciudad": "Santa Cruz Av. Trompillo"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "ARMAGEDON: DIOSES DEL APOCALIPSIS",
-          "horarios": [
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "15b5ff99-1751-4ea2-bbf2-6f647f208b9e"
-        },
-        {
-          "titulo": "OTRO VIERNES DE LOCOS",
-          "horarios": [
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
-        },
-        {
-          "titulo": "EL VIAJE DE CHIHIRO",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "e97dec16-ae3a-4879-888f-510885a57611"
-        },
-        {
-          "titulo": "LA HORA DE LA DESAPARICION",
-          "horarios": [
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "234a0075-eb40-431b-94f7-7366a600355f"
-        },
-        {
-          "titulo": "EL GRAN CICLON",
-          "horarios": [
-            {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "380bf7ff-495a-47a1-a2d2-59c2efb14b24"
-        },
-        {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
-            {
-              "horario": "13:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "15:45",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            }
-          ],
-          "id": "282e9f56-99ec-4606-809f-117194973c15"
-        },
-        {
-          "titulo": "PITUFOS",
-          "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "9276363b-585d-4698-aa74-c9f2244d6e63"
-        },
-        {
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
+              "horario": "16:15",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -633,528 +68,17 @@
               "formato": "2D"
             }
           ],
-          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
+          "id": "0cb50c79-1159-4959-91f9-3a2632e5b6d6"
         },
         {
-          "titulo": "LOS 4 FANTASTICOS",
+          "titulo": "DRACULA: A LOVE TALE",
           "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "17:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
-        },
-        {
-          "titulo": "LOS TIPOS MALOS 2",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
-        },
-        {
-          "titulo": "AMORES MATERIALISTAS",
-          "horarios": [
-            {
-              "horario": "21:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "44286bb4-b30f-4efa-a45c-31496183ae63"
-        },
-        {
-          "titulo": "EXORCISMO: EL RITUAL",
-          "horarios": [
-            {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "da8246c4-90c5-4223-9e2b-84433a4f28c3"
-        },
-        {
-          "titulo": "¿Y DONDE ESTA EL POLICIA?",
-          "horarios": [
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "98e4ba23-40ef-4293-8950-1f7aff81c631"
-        }
-      ],
-      "ciudad": "Santa Cruz Av. Brasil"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "ARMAGEDON: DIOSES DEL APOCALIPSIS",
-          "horarios": [
-            {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "15b5ff99-1751-4ea2-bbf2-6f647f208b9e"
-        },
-        {
-          "titulo": "OTRO VIERNES DE LOCOS",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
-            }
-          ],
-          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
-        },
-        {
-          "titulo": "EL VIAJE DE CHIHIRO",
-          "horarios": [
-            {
-              "horario": "21:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "e97dec16-ae3a-4879-888f-510885a57611"
-        },
-        {
-          "titulo": "LA HORA DE LA DESAPARICION",
-          "horarios": [
-            {
-              "horario": "14:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "234a0075-eb40-431b-94f7-7366a600355f"
-        },
-        {
-          "titulo": "EL GRAN CICLON",
-          "horarios": [
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "380bf7ff-495a-47a1-a2d2-59c2efb14b24"
-        },
-        {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:05",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            }
-          ],
-          "id": "282e9f56-99ec-4606-809f-117194973c15"
-        },
-        {
-          "titulo": "PITUFOS",
-          "horarios": [
-            {
-              "horario": "10:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "9276363b-585d-4698-aa74-c9f2244d6e63"
-        },
-        {
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
-        },
-        {
-          "titulo": "LOS 4 FANTASTICOS",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "20:35",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "23:15",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            }
-          ],
-          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
-        },
-        {
-          "titulo": "LOS TIPOS MALOS 2",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:15",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            }
-          ],
-          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
-        },
-        {
-          "titulo": "¿Y DONDE ESTA EL POLICIA?",
-          "horarios": [
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "98e4ba23-40ef-4293-8950-1f7aff81c631"
-        },
-        {
-          "titulo": "EXORCISMO: EL RITUAL",
-          "horarios": [
-            {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "da8246c4-90c5-4223-9e2b-84433a4f28c3"
-        }
-      ],
-      "ciudad": "Cochabamba"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
-            {
-              "horario": "17:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "282e9f56-99ec-4606-809f-117194973c15"
-        },
-        {
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
-        },
-        {
-          "titulo": "LOS 4 FANTASTICOS",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
-        },
-        {
-          "titulo": "LOS TIPOS MALOS 2",
-          "horarios": [
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
-        }
-      ],
-      "ciudad": "Riberalta"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "ARMAGEDON: DIOSES DEL APOCALIPSIS",
-          "horarios": [
-            {
               "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -1165,567 +89,13 @@
               "formato": "2D"
             }
           ],
-          "id": "15b5ff99-1751-4ea2-bbf2-6f647f208b9e"
+          "id": "2a7bd1ca-5ae4-41e0-abdc-efd19218ffde"
         },
         {
-          "titulo": "OTRO VIERNES DE LOCOS",
+          "titulo": "EL ULTIMO RODEO",
           "horarios": [
-            {
-              "horario": "11:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
-        },
-        {
-          "titulo": "LA HORA DE LA DESAPARICION",
-          "horarios": [
-            {
-              "horario": "19:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "234a0075-eb40-431b-94f7-7366a600355f"
-        },
-        {
-          "titulo": "EL GRAN CICLON",
-          "horarios": [
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "380bf7ff-495a-47a1-a2d2-59c2efb14b24"
-        },
-        {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "282e9f56-99ec-4606-809f-117194973c15"
-        },
-        {
-          "titulo": "PITUFOS",
-          "horarios": [
-            {
-              "horario": "11:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "9276363b-585d-4698-aa74-c9f2244d6e63"
-        },
-        {
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "11:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
-        },
-        {
-          "titulo": "LOS 4 FANTASTICOS",
-          "horarios": [
-            {
-              "horario": "11:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
-        },
-        {
-          "titulo": "LOS TIPOS MALOS 2",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
-        },
-        {
-          "titulo": "EXORCISMO: EL RITUAL",
-          "horarios": [
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "da8246c4-90c5-4223-9e2b-84433a4f28c3"
-        }
-      ],
-      "ciudad": "Quillacollo"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "ARMAGEDON: DIOSES DEL APOCALIPSIS",
-          "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "15b5ff99-1751-4ea2-bbf2-6f647f208b9e"
-        },
-        {
-          "titulo": "OTRO VIERNES DE LOCOS",
-          "horarios": [
-            {
-              "horario": "11:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
-        },
-        {
-          "titulo": "EL VIAJE DE CHIHIRO",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "e97dec16-ae3a-4879-888f-510885a57611"
-        },
-        {
-          "titulo": "LA HORA DE LA DESAPARICION",
-          "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "234a0075-eb40-431b-94f7-7366a600355f"
-        },
-        {
-          "titulo": "EL GRAN CICLON",
-          "horarios": [
-            {
-              "horario": "13:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "18:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "380bf7ff-495a-47a1-a2d2-59c2efb14b24"
-        },
-        {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
-            {
-              "horario": "11:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "282e9f56-99ec-4606-809f-117194973c15"
-        },
-        {
-          "titulo": "F1 LA PELICULA",
-          "horarios": [
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            }
-          ],
-          "id": "1117836b-4b5b-4bd3-a1e6-751bbf360800"
-        },
-        {
-          "titulo": "PITUFOS",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "9276363b-585d-4698-aa74-c9f2244d6e63"
-        },
-        {
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
-        },
-        {
-          "titulo": "LOS 4 FANTASTICOS",
-          "horarios": [
-            {
-              "horario": "11:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
-        },
-        {
-          "titulo": "LOS TIPOS MALOS 2",
-          "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:25",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1735,31 +105,645 @@
               "formato": "2D"
             },
             {
-              "horario": "11:45",
+              "horario": "23:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "37eb2f0c-cf09-473e-b372-f51996ffb8b7"
+        },
+        {
+          "titulo": "ARMAGEDON: DIOSES DEL APOCALIPSIS",
+          "horarios": [
+            {
+              "horario": "20:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "15b5ff99-1751-4ea2-bbf2-6f647f208b9e"
+        },
+        {
+          "titulo": "F1 LA PELICULA",
+          "horarios": [
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "23:10",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            }
+          ],
+          "id": "1117836b-4b5b-4bd3-a1e6-751bbf360800"
+        },
+        {
+          "titulo": "JURASSIC WORLD: RENACE",
+          "horarios": [
+            {
+              "horario": "16:20",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "14:10",
+              "horario": "19:15",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
               "horario": "16:35",
               "idioma": "DOB",
-              "formato": "2D Atmos"
+              "formato": "4D E-Motion 3D"
             }
           ],
-          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
+          "id": "282e9f56-99ec-4606-809f-117194973c15"
         },
         {
-          "titulo": "AMORES MATERIALISTAS",
+          "titulo": "SUPERMAN",
           "horarios": [
             {
               "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D"
             },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
+        },
+        {
+          "titulo": "LOS 4 FANTASTICOS",
+          "horarios": [
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            }
+          ],
+          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
+        },
+        {
+          "titulo": "LOS TIPOS MALOS 2",
+          "horarios": [
+            {
+              "horario": "17:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
+        },
+        {
+          "titulo": "OTRO VIERNES DE LOCOS",
+          "horarios": [
+            {
+              "horario": "17:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
+        },
+        {
+          "titulo": "LA HORA DE LA DESAPARICION",
+          "horarios": [
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "234a0075-eb40-431b-94f7-7366a600355f"
+        },
+        {
+          "titulo": "EL GRAN CICLON",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "380bf7ff-495a-47a1-a2d2-59c2efb14b24"
+        }
+      ],
+      "ciudad": "Santa Cruz Av. Trompillo"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "ROSARIO: HERENCIA MALDITA",
+          "horarios": [
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "63158954-66eb-44f9-b131-b97c03322c9b"
+        },
+        {
+          "titulo": "ANIMALES PELIGROSOS",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "6c161935-d3b5-4357-93a3-1ee2837c1ba0"
+        },
+        {
+          "titulo": "MIRACULOUS: LAS AVENTURAS DE LADYBUG &amp; CAT NOIR",
+          "horarios": [
+            {
+              "horario": "17:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "0cb50c79-1159-4959-91f9-3a2632e5b6d6"
+        },
+        {
+          "titulo": "DRACULA: A LOVE TALE",
+          "horarios": [
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2a7bd1ca-5ae4-41e0-abdc-efd19218ffde"
+        },
+        {
+          "titulo": "EL ULTIMO RODEO",
+          "horarios": [
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "37eb2f0c-cf09-473e-b372-f51996ffb8b7"
+        },
+        {
+          "titulo": "JURASSIC WORLD: RENACE",
+          "horarios": [
+            {
+              "horario": "16:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "282e9f56-99ec-4606-809f-117194973c15"
+        },
+        {
+          "titulo": "SUPERMAN",
+          "horarios": [
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
+        },
+        {
+          "titulo": "LOS 4 FANTASTICOS",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
+        },
+        {
+          "titulo": "LOS TIPOS MALOS 2",
+          "horarios": [
+            {
+              "horario": "17:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
+        },
+        {
+          "titulo": "LA HORA DE LA DESAPARICION",
+          "horarios": [
+            {
+              "horario": "18:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "234a0075-eb40-431b-94f7-7366a600355f"
+        },
+        {
+          "titulo": "OTRO VIERNES DE LOCOS",
+          "horarios": [
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "21:35",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            }
+          ],
+          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
+        }
+      ],
+      "ciudad": "Santa Cruz Av. Brasil"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "ROSARIO: HERENCIA MALDITA",
+          "horarios": [
+            {
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "63158954-66eb-44f9-b131-b97c03322c9b"
+        },
+        {
+          "titulo": "ANIMALES PELIGROSOS",
+          "horarios": [
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "6c161935-d3b5-4357-93a3-1ee2837c1ba0"
+        },
+        {
+          "titulo": "MIRACULOUS: LAS AVENTURAS DE LADYBUG &amp; CAT NOIR",
+          "horarios": [
+            {
+              "horario": "17:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "0cb50c79-1159-4959-91f9-3a2632e5b6d6"
+        },
+        {
+          "titulo": "DRACULA: A LOVE TALE",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2a7bd1ca-5ae4-41e0-abdc-efd19218ffde"
+        },
+        {
+          "titulo": "EL ULTIMO RODEO",
+          "horarios": [
+            {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "37eb2f0c-cf09-473e-b372-f51996ffb8b7"
+        },
+        {
+          "titulo": "JURASSIC WORLD: RENACE",
+          "horarios": [
+            {
+              "horario": "19:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "282e9f56-99ec-4606-809f-117194973c15"
+        },
+        {
+          "titulo": "SUPERMAN",
+          "horarios": [
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
+        },
+        {
+          "titulo": "LOS 4 FANTASTICOS",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            }
+          ],
+          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
+        },
+        {
+          "titulo": "LOS TIPOS MALOS 2",
+          "horarios": [
+            {
+              "horario": "17:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
+        },
+        {
+          "titulo": "OTRO VIERNES DE LOCOS",
+          "horarios": [
+            {
+              "horario": "17:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
+        },
+        {
+          "titulo": "LA HORA DE LA DESAPARICION",
+          "horarios": [
+            {
+              "horario": "22:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "22:50",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            }
+          ],
+          "id": "234a0075-eb40-431b-94f7-7366a600355f"
+        }
+      ],
+      "ciudad": "Cochabamba"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "ROSARIO: HERENCIA MALDITA",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "63158954-66eb-44f9-b131-b97c03322c9b"
+        },
+        {
+          "titulo": "ANIMALES PELIGROSOS",
+          "horarios": [
+            {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "6c161935-d3b5-4357-93a3-1ee2837c1ba0"
+        },
+        {
+          "titulo": "MIRACULOUS: LAS AVENTURAS DE LADYBUG &amp; CAT NOIR",
+          "horarios": [
+            {
+              "horario": "17:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "0cb50c79-1159-4959-91f9-3a2632e5b6d6"
+        },
+        {
+          "titulo": "EL ULTIMO RODEO",
+          "horarios": [
             {
               "horario": "19:20",
               "idioma": "DOB",
@@ -1771,10 +755,58 @@
               "formato": "2D"
             }
           ],
-          "id": "44286bb4-b30f-4efa-a45c-31496183ae63"
+          "id": "37eb2f0c-cf09-473e-b372-f51996ffb8b7"
         },
         {
-          "titulo": "EXORCISMO: EL RITUAL",
+          "titulo": "DRACULA: A LOVE TALE",
+          "horarios": [
+            {
+              "horario": "18:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2a7bd1ca-5ae4-41e0-abdc-efd19218ffde"
+        },
+        {
+          "titulo": "LOS 4 FANTASTICOS",
+          "horarios": [
+            {
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
+        },
+        {
+          "titulo": "OTRO VIERNES DE LOCOS",
+          "horarios": [
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "21:35",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            }
+          ],
+          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
+        },
+        {
+          "titulo": "LA HORA DE LA DESAPARICION",
           "horarios": [
             {
               "horario": "17:40",
@@ -1782,38 +814,12 @@
               "formato": "2D"
             },
             {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "da8246c4-90c5-4223-9e2b-84433a4f28c3"
-        },
-        {
-          "titulo": "¿Y DONDE ESTA EL POLICIA?",
-          "horarios": [
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "98e4ba23-40ef-4293-8950-1f7aff81c631"
+          "id": "234a0075-eb40-431b-94f7-7366a600355f"
         }
       ],
       "ciudad": "La Paz"
@@ -1821,42 +827,31 @@
     {
       "peliculas": [
         {
-          "titulo": "EL VIAJE DE CHIHIRO",
+          "titulo": "DRACULA: A LOVE TALE",
           "horarios": [
             {
-              "horario": "20:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "e97dec16-ae3a-4879-888f-510885a57611"
-        },
-        {
-          "titulo": "LA HORA DE LA DESAPARICION",
-          "horarios": [
-            {
-              "horario": "17:40",
+              "horario": "19:40",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "22:30",
               "idioma": "SUBT",
               "formato": "2D"
             }
           ],
-          "id": "234a0075-eb40-431b-94f7-7366a600355f"
+          "id": "2a7bd1ca-5ae4-41e0-abdc-efd19218ffde"
         },
         {
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
-              "horario": "11:50",
+              "horario": "19:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:45",
+              "horario": "22:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1864,46 +859,15 @@
           "id": "282e9f56-99ec-4606-809f-117194973c15"
         },
         {
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "13:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
-        },
-        {
           "titulo": "LOS 4 FANTASTICOS",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "18:50",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "13:40",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
+              "horario": "21:30",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1911,28 +875,7 @@
           "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
         },
         {
-          "titulo": "LOS TIPOS MALOS 2",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
-        },
-        {
-          "titulo": "AMORES MATERIALISTAS",
+          "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
             {
               "horario": "19:30",
@@ -1940,12 +883,12 @@
               "formato": "2D"
             },
             {
-              "horario": "22:10",
+              "horario": "22:05",
               "idioma": "SUBT",
               "formato": "2D"
             }
           ],
-          "id": "44286bb4-b30f-4efa-a45c-31496183ae63"
+          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
         }
       ],
       "ciudad": "La Paz VIP"
@@ -1953,15 +896,63 @@
     {
       "peliculas": [
         {
-          "titulo": "ARMAGEDON: DIOSES DEL APOCALIPSIS",
+          "titulo": "ROSARIO: HERENCIA MALDITA",
           "horarios": [
             {
-              "horario": "16:20",
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:10",
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "63158954-66eb-44f9-b131-b97c03322c9b"
+        },
+        {
+          "titulo": "ANIMALES PELIGROSOS",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "6c161935-d3b5-4357-93a3-1ee2837c1ba0"
+        },
+        {
+          "titulo": "MIRACULOUS: LAS AVENTURAS DE LADYBUG &amp; CAT NOIR",
+          "horarios": [
+            {
+              "horario": "17:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "0cb50c79-1159-4959-91f9-3a2632e5b6d6"
+        },
+        {
+          "titulo": "EL ULTIMO RODEO",
+          "horarios": [
+            {
+              "horario": "19:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1971,41 +962,10 @@
               "formato": "2D"
             }
           ],
-          "id": "15b5ff99-1751-4ea2-bbf2-6f647f208b9e"
+          "id": "37eb2f0c-cf09-473e-b372-f51996ffb8b7"
         },
         {
-          "titulo": "OTRO VIERNES DE LOCOS",
-          "horarios": [
-            {
-              "horario": "11:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
-        },
-        {
-          "titulo": "EL VIAJE DE CHIHIRO",
+          "titulo": "DRACULA: A LOVE TALE",
           "horarios": [
             {
               "horario": "17:10",
@@ -2016,117 +976,18 @@
               "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
-            }
-          ],
-          "id": "e97dec16-ae3a-4879-888f-510885a57611"
-        },
-        {
-          "titulo": "LA HORA DE LA DESAPARICION",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
             },
             {
-              "horario": "14:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:20",
+              "horario": "22:50",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "234a0075-eb40-431b-94f7-7366a600355f"
-        },
-        {
-          "titulo": "EL GRAN CICLON",
-          "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "380bf7ff-495a-47a1-a2d2-59c2efb14b24"
-        },
-        {
-          "titulo": "LILO Y STITCH",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "194c1756-6e28-4813-a3ed-7dbea4f47f63"
-        },
-        {
-          "titulo": "COMO ENTRENAR A TU DRAGON",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a5c5a265-7e6d-484c-884f-0ceef14e6c64"
+          "id": "2a7bd1ca-5ae4-41e0-abdc-efd19218ffde"
         },
         {
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "19:40",
               "idioma": "DOB",
@@ -2141,41 +1002,15 @@
           "id": "282e9f56-99ec-4606-809f-117194973c15"
         },
         {
-          "titulo": "PITUFOS",
-          "horarios": [
-            {
-              "horario": "11:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "9276363b-585d-4698-aa74-c9f2244d6e63"
-        },
-        {
           "titulo": "SUPERMAN",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
+              "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2185,21 +1020,6 @@
         {
           "titulo": "LOS 4 FANTASTICOS",
           "horarios": [
-            {
-              "horario": "11:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "19:20",
               "idioma": "DOB",
@@ -2217,37 +1037,7 @@
           "titulo": "LOS TIPOS MALOS 2",
           "horarios": [
             {
-              "horario": "11:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
+              "horario": "18:45",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2255,31 +1045,47 @@
           "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
         },
         {
-          "titulo": "AMORES MATERIALISTAS",
+          "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
             {
-              "horario": "22:00",
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:50",
+              "horario": "21:35",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "44286bb4-b30f-4efa-a45c-31496183ae63"
+          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
         },
         {
           "titulo": "EXORCISMO: EL RITUAL",
           "horarios": [
             {
-              "horario": "18:40",
+              "horario": "21:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:00",
+              "horario": "23:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "da8246c4-90c5-4223-9e2b-84433a4f28c3"
+        },
+        {
+          "titulo": "LA HORA DE LA DESAPARICION",
+          "horarios": [
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -2289,23 +1095,134 @@
               "formato": "2D"
             }
           ],
-          "id": "da8246c4-90c5-4223-9e2b-84433a4f28c3"
-        },
+          "id": "234a0075-eb40-431b-94f7-7366a600355f"
+        }
+      ],
+      "ciudad": "Tarija"
+    },
+    {
+      "peliculas": [
         {
-          "titulo": "¿Y DONDE ESTA EL POLICIA?",
+          "titulo": "ROSARIO: HERENCIA MALDITA",
           "horarios": [
             {
-              "horario": "22:40",
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "98e4ba23-40ef-4293-8950-1f7aff81c631"
+          "id": "63158954-66eb-44f9-b131-b97c03322c9b"
+        },
+        {
+          "titulo": "ANIMALES PELIGROSOS",
+          "horarios": [
+            {
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "6c161935-d3b5-4357-93a3-1ee2837c1ba0"
+        },
+        {
+          "titulo": "DRACULA: A LOVE TALE",
+          "horarios": [
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2a7bd1ca-5ae4-41e0-abdc-efd19218ffde"
+        },
+        {
+          "titulo": "EL ULTIMO RODEO",
+          "horarios": [
+            {
+              "horario": "20:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "37eb2f0c-cf09-473e-b372-f51996ffb8b7"
+        },
+        {
+          "titulo": "LOS 4 FANTASTICOS",
+          "horarios": [
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
+        },
+        {
+          "titulo": "OTRO VIERNES DE LOCOS",
+          "horarios": [
+            {
+              "horario": "18:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
+        },
+        {
+          "titulo": "LA HORA DE LA DESAPARICION",
+          "horarios": [
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "234a0075-eb40-431b-94f7-7366a600355f"
         }
       ],
-      "ciudad": "Tarija"
+      "ciudad": "Quillacollo"
     }
   ],
   "cine": "MEGA",
-  "fecha": "8/8/2025"
+  "fecha": "14/8/2025"
 }
