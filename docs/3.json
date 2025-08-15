@@ -28,7 +28,12 @@
           "titulo": "Y DONDE ESTA EL POLICIA",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "12:55",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -56,13 +61,13 @@
           ]
         },
         {
-          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc",
-          "titulo": "LOS TIPOS MALOS 2",
+          "id": "4aeafe31-00b2-4cfd-9aeb-73d41ba6e828",
+          "titulo": "MIRACULOUS LAS AVENTURAS DE LADY BUG",
           "horarios": [
             {
-              "horario": "15:05",
+              "horario": "11:00",
               "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
+              "formato": "2D"
             }
           ]
         },
@@ -96,11 +101,6 @@
               "horario": "17:15",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
-            },
-            {
-              "horario": "10:25",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
             }
           ]
         }
@@ -109,5 +109,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "14/8/2025"
+  "fecha": "15/8/2025"
 }
