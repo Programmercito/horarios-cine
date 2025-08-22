@@ -3,37 +3,37 @@
     {
       "peliculas": [
         {
-          "id": "d373700e-acf2-451a-a859-2d6e8565cefb",
-          "titulo": "WEAPONS",
+          "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea",
+          "titulo": "HAZ QUE REGRESE",
           "horarios": [
             {
-              "horario": "19:35",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
               "horario": "21:55",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "dea990e1-074e-4c84-bffb-fc530aeb884f",
-          "titulo": "Y DONDE ESTA EL POLICIA",
+          "id": "d373700e-acf2-451a-a859-2d6e8565cefb",
+          "titulo": "WEAPONS",
           "horarios": [
             {
-              "horario": "12:55",
+              "horario": "19:45",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "12:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:55",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -44,12 +44,12 @@
           "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
             {
-              "horario": "15:00",
+              "horario": "10:25",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "21:55",
+              "horario": "15:15",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
@@ -61,22 +61,11 @@
           ]
         },
         {
-          "id": "4aeafe31-00b2-4cfd-9aeb-73d41ba6e828",
-          "titulo": "MIRACULOUS LAS AVENTURAS DE LADY BUG",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8",
           "titulo": "SUPERMAN",
           "horarios": [
             {
-              "horario": "17:10",
+              "horario": "17:15",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             }
@@ -87,7 +76,12 @@
           "titulo": "JURASSIC WORLD: EL RENACER",
           "horarios": [
             {
-              "horario": "10:30",
+              "horario": "12:40",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "10:15",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             }
@@ -98,7 +92,7 @@
           "titulo": "LOS 4 FANTASTICOS : PRIMEROS PASOS",
           "horarios": [
             {
-              "horario": "17:15",
+              "horario": "17:30",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             }
@@ -109,5 +103,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "21/8/2025"
+  "fecha": "22/8/2025"
 }
