@@ -122,29 +122,8 @@
           "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
         },
         {
-          "titulo": "EL CONJURO 1 (2013)",
-          "horarios": [
-            {
-              "horario": "19:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "b177b5dd-69c9-452d-991a-7c065a60ab52"
-        },
-        {
           "titulo": "LILO Y STITCH",
           "horarios": [
-            {
-              "horario": "11:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "12:00",
               "idioma": "DOB",
@@ -250,17 +229,17 @@
           "titulo": "LOS 4 FANTASTICOS",
           "horarios": [
             {
-              "horario": "11:25",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:05",
+              "horario": "13:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:45",
+              "horario": "16:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -589,7 +568,7 @@
           "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
         },
         {
-          "titulo": "EL CONJURO 1 (2013)",
+          "titulo": "EL CONJURO 2 (2016)",
           "horarios": [
             {
               "horario": "18:20",
@@ -597,12 +576,12 @@
               "formato": "2D"
             },
             {
-              "horario": "20:45",
+              "horario": "21:10",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "b177b5dd-69c9-452d-991a-7c065a60ab52"
+          "id": "b9693e4a-0fcb-4fc8-b9c0-16885863c75d"
         },
         {
           "titulo": "ROSARIO: HERENCIA MALDITA",
@@ -787,22 +766,22 @@
           "titulo": "TONY, SHELLY Y LA LINTERNA MAGICA",
           "horarios": [
             {
-              "horario": "11:05",
+              "horario": "10:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:15",
+              "horario": "12:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:15",
+              "horario": "14:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "16:55",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -852,9 +831,30 @@
               "horario": "23:00",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
             }
           ],
           "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
+        },
+        {
+          "titulo": "EL CONJURO 2 (2016)",
+          "horarios": [
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "b9693e4a-0fcb-4fc8-b9c0-16885863c75d"
         },
         {
           "titulo": "ROSARIO: HERENCIA MALDITA",
@@ -1074,7 +1074,7 @@
             {
               "horario": "22:45",
               "idioma": "DOB",
-              "formato": "2D CXC"
+              "formato": "2D CXC Atmos"
             }
           ],
           "id": "234a0075-eb40-431b-94f7-7366a600355f"
@@ -1119,17 +1119,32 @@
           "titulo": "NADIE 2",
           "horarios": [
             {
-              "horario": "17:30",
+              "horario": "11:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:50",
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1140,17 +1155,22 @@
           "titulo": "TONY, SHELLY Y LA LINTERNA MAGICA",
           "horarios": [
             {
-              "horario": "13:05",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "14:05",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:15",
+              "horario": "16:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1160,6 +1180,21 @@
         {
           "titulo": "INFIERNO EN LA TORRE",
           "horarios": [
+            {
+              "horario": "11:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "19:20",
               "idioma": "DOB",
@@ -1177,43 +1212,105 @@
           "titulo": "HAZ QUE REGRESE",
           "horarios": [
             {
-              "horario": "14:00",
+              "horario": "22:45",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
             },
             {
               "horario": "16:30",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D Atmos"
             },
             {
               "horario": "19:00",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D Atmos"
             },
             {
               "horario": "21:30",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D Atmos"
             }
           ],
           "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
         },
         {
-          "titulo": "EL CONJURO 1 (2013)",
+          "titulo": "ROSARIO: HERENCIA MALDITA",
           "horarios": [
             {
-              "horario": "19:30",
+              "horario": "15:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:05",
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "b177b5dd-69c9-452d-991a-7c065a60ab52"
+          "id": "63158954-66eb-44f9-b131-b97c03322c9b"
+        },
+        {
+          "titulo": "JURASSIC WORLD: RENACE",
+          "horarios": [
+            {
+              "horario": "11:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "282e9f56-99ec-4606-809f-117194973c15"
+        },
+        {
+          "titulo": "PITUFOS",
+          "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "9276363b-585d-4698-aa74-c9f2244d6e63"
         },
         {
           "titulo": "LOS 4 FANTASTICOS",
@@ -1245,12 +1342,32 @@
           "titulo": "LOS TIPOS MALOS 2",
           "horarios": [
             {
-              "horario": "14:40",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:05",
+              "horario": "12:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1258,8 +1375,55 @@
           "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
         },
         {
+          "titulo": "ANIMALES PELIGROSOS",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "6c161935-d3b5-4357-93a3-1ee2837c1ba0"
+        },
+        {
+          "titulo": "AMORES MATERIALISTAS",
+          "horarios": [
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "44286bb4-b30f-4efa-a45c-31496183ae63"
+        },
+        {
           "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "13:25",
               "idioma": "DOB",
@@ -1287,12 +1451,22 @@
           "titulo": "MIRACULOUS: LAS AVENTURAS DE LADYBUG &amp; CAT NOIR",
           "horarios": [
             {
-              "horario": "13:30",
+              "horario": "11:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:35",
+              "horario": "13:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:35",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1300,8 +1474,45 @@
           "id": "0cb50c79-1159-4959-91f9-3a2632e5b6d6"
         },
         {
+          "titulo": "¿Y DONDE ESTA EL POLICIA?",
+          "horarios": [
+            {
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "98e4ba23-40ef-4293-8950-1f7aff81c631"
+        },
+        {
+          "titulo": "EL VIAJE DE CHIHIRO",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e97dec16-ae3a-4879-888f-510885a57611"
+        },
+        {
           "titulo": "LA HORA DE LA DESAPARICION",
           "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "14:50",
               "idioma": "DOB",
@@ -1319,6 +1530,27 @@
             }
           ],
           "id": "234a0075-eb40-431b-94f7-7366a600355f"
+        },
+        {
+          "titulo": "DRACULA: A LOVE TALE",
+          "horarios": [
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2a7bd1ca-5ae4-41e0-abdc-efd19218ffde"
         }
       ],
       "ciudad": "La Paz"
@@ -1384,10 +1616,26 @@
           "id": "282e9f56-99ec-4606-809f-117194973c15"
         },
         {
+          "titulo": "LOS 4 FANTASTICOS",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
+        },
+        {
           "titulo": "LOS TIPOS MALOS 2",
           "horarios": [
             {
-              "horario": "13:10",
+              "horario": "11:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:15",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1407,6 +1655,11 @@
         {
           "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
+            {
+              "horario": "11:15",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
             {
               "horario": "13:50",
               "idioma": "SUBT",
@@ -1576,7 +1829,7 @@
           "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
         },
         {
-          "titulo": "EL CONJURO 1 (2013)",
+          "titulo": "EL CONJURO 2 (2016)",
           "horarios": [
             {
               "horario": "20:00",
@@ -1584,7 +1837,7 @@
               "formato": "2D"
             }
           ],
-          "id": "b177b5dd-69c9-452d-991a-7c065a60ab52"
+          "id": "b9693e4a-0fcb-4fc8-b9c0-16885863c75d"
         },
         {
           "titulo": "ROSARIO: HERENCIA MALDITA",
@@ -1985,5 +2238,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "21/8/2025"
+  "fecha": "22/8/2025"
 }
