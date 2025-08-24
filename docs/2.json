@@ -164,6 +164,22 @@
           "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
         },
         {
+          "titulo": "INFIERNO EN LA TORRE",
+          "horarios": [
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            }
+          ],
+          "id": "a5555122-e204-4ccf-90a7-a449adefb121"
+        },
+        {
           "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
             {
@@ -199,22 +215,6 @@
             }
           ],
           "id": "3a04db91-979a-44d8-a330-d7b00d96174e"
-        },
-        {
-          "titulo": "INFIERNO EN LA TORRE",
-          "horarios": [
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            }
-          ],
-          "id": "a5555122-e204-4ccf-90a7-a449adefb121"
         },
         {
           "titulo": "TONY, SHELL Y  LA LINTERNA MÁGICA",
@@ -544,37 +544,6 @@
           "id": "282e9f56-99ec-4606-809f-117194973c15"
         },
         {
-          "titulo": "NADIE 2",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "ace76537-0f91-4428-8e82-0a7aea8d10e5"
-        },
-        {
           "titulo": "HAZ QUE REGRESE",
           "horarios": [
             {
@@ -637,6 +606,37 @@
           "id": "3a04db91-979a-44d8-a330-d7b00d96174e"
         },
         {
+          "titulo": "NADIE 2",
+          "horarios": [
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "ace76537-0f91-4428-8e82-0a7aea8d10e5"
+        },
+        {
           "titulo": "LOS TIPOS MALOS 2",
           "horarios": [
             {
@@ -694,22 +694,6 @@
           "id": "a5555122-e204-4ccf-90a7-a449adefb121"
         },
         {
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            }
-          ],
-          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
-        },
-        {
           "titulo": "TONY, SHELL Y  LA LINTERNA MÁGICA",
           "horarios": [
             {
@@ -731,20 +715,31 @@
           "id": "46991036-6f68-487a-aa6b-b8a477188644"
         },
         {
-          "titulo": "EL CONJURO 3: EL DIABLO ME OBLIGÓ A HACERLO",
+          "titulo": "SUPERMAN",
           "horarios": [
             {
-              "horario": "14:50",
+              "horario": "15:20",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL"
             },
             {
-              "horario": "21:20",
+              "horario": "20:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            }
+          ],
+          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
+        },
+        {
+          "titulo": "ANIMALES PELIGROSOS",
+          "horarios": [
+            {
+              "horario": "22:20",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "32658e30-70bc-4cf5-ba6c-18f8ec2ff2a6"
+          "id": "6c161935-d3b5-4357-93a3-1ee2837c1ba0"
         },
         {
           "titulo": "F1: LA PELÍCULA",
@@ -756,17 +751,6 @@
             }
           ],
           "id": "030c1708-b411-4042-b802-9084da6de22d"
-        },
-        {
-          "titulo": "ROSARIO: HERENCIA MALDITA",
-          "horarios": [
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "63158954-66eb-44f9-b131-b97c03322c9b"
         },
         {
           "titulo": "MIRACULOUS: LAS AVENTURAS DE LADYBUG & CAT NOIR",
@@ -785,15 +769,26 @@
           "id": "1c5f19a1-d157-44fb-88b4-f37a4b8acb98"
         },
         {
-          "titulo": "ANIMALES PELIGROSOS",
+          "titulo": "ROSARIO: HERENCIA MALDITA",
           "horarios": [
             {
-              "horario": "22:20",
+              "horario": "21:50",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "6c161935-d3b5-4357-93a3-1ee2837c1ba0"
+          "id": "63158954-66eb-44f9-b131-b97c03322c9b"
+        },
+        {
+          "titulo": "EXORCISMO: EL RITUAL",
+          "horarios": [
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "da8246c4-90c5-4223-9e2b-84433a4f28c3"
         },
         {
           "titulo": "EL VIAJE DE CHIHIRO",
@@ -807,15 +802,20 @@
           "id": "e97dec16-ae3a-4879-888f-510885a57611"
         },
         {
-          "titulo": "EXORCISMO: EL RITUAL",
+          "titulo": "EL CONJURO 1",
           "horarios": [
             {
-              "horario": "14:30",
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "da8246c4-90c5-4223-9e2b-84433a4f28c3"
+          "id": "089ef608-b445-4de8-ac25-4199afae39f3"
         }
       ],
       "ciudad": "La Paz"
@@ -869,37 +869,6 @@
           "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
         },
         {
-          "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "18:50",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "21:15",
-              "idioma": "Español",
-              "formato": "2D XL"
-            }
-          ],
-          "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
-        },
-        {
           "titulo": "LA HORA DE LA DESAPARICIÓN",
           "horarios": [
             {
@@ -931,6 +900,63 @@
           "id": "d2892702-8b4d-42f6-b2b3-e308295d31d3"
         },
         {
+          "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "21:15",
+              "idioma": "Español",
+              "formato": "2D XL"
+            }
+          ],
+          "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
+        },
+        {
+          "titulo": "NADIE 2",
+          "horarios": [
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "ace76537-0f91-4428-8e82-0a7aea8d10e5"
+        },
+        {
           "titulo": "HAZ QUE REGRESE",
           "horarios": [
             {
@@ -955,6 +981,27 @@
             }
           ],
           "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
+        },
+        {
+          "titulo": "JURASSIC WORLD: RENACE",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "282e9f56-99ec-4606-809f-117194973c15"
         },
         {
           "titulo": "LOS TIPOS MALOS 2",
@@ -983,54 +1030,6 @@
           "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
         },
         {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "282e9f56-99ec-4606-809f-117194973c15"
-        },
-        {
-          "titulo": "NADIE 2",
-          "horarios": [
-            {
-              "horario": "20:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "ace76537-0f91-4428-8e82-0a7aea8d10e5"
-        },
-        {
-          "titulo": "AMORES MATERIALISTAS",
-          "horarios": [
-            {
-              "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "44286bb4-b30f-4efa-a45c-31496183ae63"
-        },
-        {
           "titulo": "TONY, SHELL Y  LA LINTERNA MÁGICA",
           "horarios": [
             {
@@ -1045,22 +1044,6 @@
             }
           ],
           "id": "46991036-6f68-487a-aa6b-b8a477188644"
-        },
-        {
-          "titulo": "EL VIAJE DE CHIHIRO",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:35",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "e97dec16-ae3a-4879-888f-510885a57611"
         },
         {
           "titulo": "INFIERNO EN LA TORRE",
@@ -1079,21 +1062,48 @@
           "id": "a5555122-e204-4ccf-90a7-a449adefb121"
         },
         {
-          "titulo": "EL CONJURO 3: EL DIABLO ME OBLIGÓ A HACERLO",
+          "titulo": "EL VIAJE DE CHIHIRO",
           "horarios": [
             {
-              "horario": "21:20",
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:15",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "32658e30-70bc-4cf5-ba6c-18f8ec2ff2a6"
+          "id": "e97dec16-ae3a-4879-888f-510885a57611"
+        },
+        {
+          "titulo": "AMORES MATERIALISTAS",
+          "horarios": [
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "44286bb4-b30f-4efa-a45c-31496183ae63"
+        },
+        {
+          "titulo": "F1: LA PELÍCULA",
+          "horarios": [
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "030c1708-b411-4042-b802-9084da6de22d"
         },
         {
           "titulo": "DRACULA",
           "horarios": [
             {
-              "horario": "17:05",
+              "horario": "16:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1115,7 +1125,7 @@
           "titulo": "ANIMALES PELIGROSOS",
           "horarios": [
             {
-              "horario": "15:05",
+              "horario": "14:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1145,7 +1155,7 @@
           "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
         },
         {
-          "titulo": "EL CONJURO 3: EL DIABLO ME OBLIGÓ A HACERLO",
+          "titulo": "EL CONJURO 1",
           "horarios": [
             {
               "horario": "21:20",
@@ -1153,12 +1163,12 @@
               "formato": "2D"
             }
           ],
-          "id": "32658e30-70bc-4cf5-ba6c-18f8ec2ff2a6"
+          "id": "089ef608-b445-4de8-ac25-4199afae39f3"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "23/8/2025"
+  "fecha": "24/8/2025"
 }
