@@ -3,16 +3,32 @@
     {
       "peliculas": [
         {
-          "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea",
-          "titulo": "HAZ QUE REGRESE",
+          "id": "a64f47e5-aee5-48a1-a5a2-731aa469097d",
+          "titulo": "ATRAPADO ROBANDO",
           "horarios": [
             {
-              "horario": "21:55",
+              "horario": "15:00",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
+              "horario": "21:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea",
+          "titulo": "HAZ QUE REGRESE",
+          "horarios": [
+            {
               "horario": "15:10",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -23,17 +39,7 @@
           "titulo": "WEAPONS",
           "horarios": [
             {
-              "horario": "19:45",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
               "horario": "12:45",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:55",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -44,17 +50,12 @@
           "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
             {
-              "horario": "10:25",
+              "horario": "10:35",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "15:15",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:45",
+              "horario": "19:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -65,23 +66,7 @@
           "titulo": "SUPERMAN",
           "horarios": [
             {
-              "horario": "17:15",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            }
-          ]
-        },
-        {
-          "id": "186f707b-8550-40cb-8b37-759a6a675cb6",
-          "titulo": "JURASSIC WORLD: EL RENACER",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
-              "horario": "10:15",
+              "horario": "17:20",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             }
@@ -92,9 +77,25 @@
           "titulo": "LOS 4 FANTASTICOS : PRIMEROS PASOS",
           "horarios": [
             {
-              "horario": "17:30",
+              "horario": "17:10",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "8bd04048-467d-4030-b5aa-9231c64b748a",
+          "titulo": "LOS ROSE",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
             }
           ]
         }
@@ -103,5 +104,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "28/8/2025"
+  "fecha": "29/8/2025"
 }
