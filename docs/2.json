@@ -96,6 +96,27 @@
           "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
         },
         {
+          "titulo": "HAZ QUE REGRESE",
+          "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
+        },
+        {
           "titulo": "DOS MONJAS EXORCISMOS PROHIBIDOS",
           "horarios": [
             {
@@ -141,27 +162,6 @@
             }
           ],
           "id": "282e9f56-99ec-4606-809f-117194973c15"
-        },
-        {
-          "titulo": "HAZ QUE REGRESE",
-          "horarios": [
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
         },
         {
           "titulo": "OTRO VIERNES DE LOCOS",
@@ -485,32 +485,6 @@
           "id": "d2892702-8b4d-42f6-b2b3-e308295d31d3"
         },
         {
-          "titulo": "ATRAPADO ROBANDO",
-          "horarios": [
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:20",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ],
-          "id": "a64f47e5-aee5-48a1-a5a2-731aa469097d"
-        },
-        {
           "titulo": "LOS TIPOS MALOS 2",
           "horarios": [
             {
@@ -571,6 +545,32 @@
             }
           ],
           "id": "23e8eff4-c0ff-4666-a4f5-04e44c651d52"
+        },
+        {
+          "titulo": "ATRAPADO ROBANDO",
+          "horarios": [
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ],
+          "id": "a64f47e5-aee5-48a1-a5a2-731aa469097d"
         },
         {
           "titulo": "LA VIDA DE CHUCK",
@@ -708,24 +708,13 @@
           "id": "282e9f56-99ec-4606-809f-117194973c15"
         },
         {
-          "titulo": "HAZ QUE REGRESE",
+          "titulo": "DIBUJOS IMAGINARIOS",
           "horarios": [
             {
-              "horario": "15:45",
+              "horario": "11:00",
               "idioma": "Español",
               "formato": "2D"
             },
-            {
-              "horario": "22:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
-        },
-        {
-          "titulo": "DIBUJOS IMAGINARIOS",
-          "horarios": [
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -743,6 +732,22 @@
             }
           ],
           "id": "f7b98a2c-598a-4d0c-b5d3-5347deb02e24"
+        },
+        {
+          "titulo": "HAZ QUE REGRESE",
+          "horarios": [
+            {
+              "horario": "15:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
         },
         {
           "titulo": "SUPERMAN",
@@ -783,28 +788,6 @@
           "id": "0c801677-4f0f-4f79-bfb6-ca63db30956d"
         },
         {
-          "titulo": "LA COLINA DE LAS AMAPOLAS",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "3b68288e-8a8c-4f7f-91e8-fbff0e5f3c7c"
-        },
-        {
-          "titulo": "EL CUENTO DE LA PRINCESA KAGUYA",
-          "horarios": [
-            {
-              "horario": "19:50",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "14e2db8c-7209-49cc-855c-78b11820f980"
-        },
-        {
           "titulo": "NADIE 2",
           "horarios": [
             {
@@ -814,6 +797,28 @@
             }
           ],
           "id": "ace76537-0f91-4428-8e82-0a7aea8d10e5"
+        },
+        {
+          "titulo": "LA GUERRA DE LOS MAPACHES",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "63a1e108-1247-4cde-83a2-92a3b1544ca5"
+        },
+        {
+          "titulo": "RECUERDOS DEL AYER",
+          "horarios": [
+            {
+              "horario": "20:20",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "20367ce5-7400-4b5b-8fd6-d51c9aab7f74"
         }
       ],
       "ciudad": "La Paz"
@@ -857,37 +862,6 @@
           "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
         },
         {
-          "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "18:50",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "21:15",
-              "idioma": "Español",
-              "formato": "2D XL"
-            }
-          ],
-          "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
-        },
-        {
           "titulo": "LA HORA DE LA DESAPARICIÓN",
           "horarios": [
             {
@@ -919,6 +893,37 @@
           "id": "d2892702-8b4d-42f6-b2b3-e308295d31d3"
         },
         {
+          "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "21:15",
+              "idioma": "Español",
+              "formato": "2D XL"
+            }
+          ],
+          "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
+        },
+        {
           "titulo": "LOS TIPOS MALOS 2",
           "horarios": [
             {
@@ -943,6 +948,27 @@
             }
           ],
           "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
+        },
+        {
+          "titulo": "ATRAPADO ROBANDO",
+          "horarios": [
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "a64f47e5-aee5-48a1-a5a2-731aa469097d"
         },
         {
           "titulo": "MASCOTAS AL RESCATE",
@@ -992,27 +1018,6 @@
           "id": "23e8eff4-c0ff-4666-a4f5-04e44c651d52"
         },
         {
-          "titulo": "ATRAPADO ROBANDO",
-          "horarios": [
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "a64f47e5-aee5-48a1-a5a2-731aa469097d"
-        },
-        {
           "titulo": "LOS ROSES",
           "horarios": [
             {
@@ -1055,27 +1060,6 @@
           "id": "426eacd5-8d39-4378-b398-e925aff31386"
         },
         {
-          "titulo": "DIBUJOS IMAGINARIOS",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "f7b98a2c-598a-4d0c-b5d3-5347deb02e24"
-        },
-        {
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
@@ -1100,12 +1084,38 @@
           "titulo": "HAZ QUE REGRESE",
           "horarios": [
             {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "22:45",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
           "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
+        },
+        {
+          "titulo": "DIBUJOS IMAGINARIOS",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "f7b98a2c-598a-4d0c-b5d3-5347deb02e24"
         },
         {
           "titulo": "NADIE 2",
@@ -1141,7 +1151,7 @@
           "id": "44286bb4-b30f-4efa-a45c-31496183ae63"
         },
         {
-          "titulo": "LA COLINA DE LAS AMAPOLAS",
+          "titulo": "LA GUERRA DE LOS MAPACHES",
           "horarios": [
             {
               "horario": "18:00",
@@ -1149,23 +1159,23 @@
               "formato": "2D SUB"
             }
           ],
-          "id": "3b68288e-8a8c-4f7f-91e8-fbff0e5f3c7c"
+          "id": "63a1e108-1247-4cde-83a2-92a3b1544ca5"
         },
         {
-          "titulo": "EL CUENTO DE LA PRINCESA KAGUYA",
+          "titulo": "RECUERDOS DEL AYER",
           "horarios": [
             {
-              "horario": "19:50",
+              "horario": "20:20",
               "idioma": "Japones",
               "formato": "2D SUB"
             }
           ],
-          "id": "14e2db8c-7209-49cc-855c-78b11820f980"
+          "id": "20367ce5-7400-4b5b-8fd6-d51c9aab7f74"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "30/8/2025"
+  "fecha": "31/8/2025"
 }
