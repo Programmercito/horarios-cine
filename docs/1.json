@@ -153,27 +153,6 @@
           "id": "f7b98a2c-598a-4d0c-b5d3-5347deb02e24"
         },
         {
-          "titulo": "RECUERDOS DEL AYER",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "20367ce5-7400-4b5b-8fd6-d51c9aab7f74"
-        },
-        {
           "titulo": "DOS MONJAS: EXORCISMOS PROHIBIDOS",
           "horarios": [
             {
@@ -200,15 +179,36 @@
           "id": "99131708-8384-49d2-b850-a29b249cbda7"
         },
         {
-          "titulo": "LA GUERRA DE LOS MAPACHES",
+          "titulo": "LA COLINA DE LAS AMAPOLAS",
           "horarios": [
             {
-              "horario": "17:30",
+              "horario": "10:50",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "13:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "3b68288e-8a8c-4f7f-91e8-fbff0e5f3c7c"
+        },
+        {
+          "titulo": "EL CUENTO DE LA PRINCESA KAGUYA",
+          "horarios": [
+            {
+              "horario": "19:30",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -218,7 +218,7 @@
               "formato": "2D"
             }
           ],
-          "id": "63a1e108-1247-4cde-83a2-92a3b1544ca5"
+          "id": "14e2db8c-7209-49cc-855c-78b11820f980"
         },
         {
           "titulo": "LILO Y STITCH",
@@ -802,17 +802,17 @@
               "formato": "2D"
             },
             {
-              "horario": "12:20",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:20",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "17:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -963,17 +963,17 @@
           "titulo": "DOS MONJAS: EXORCISMOS PROHIBIDOS",
           "horarios": [
             {
-              "horario": "18:35",
+              "horario": "18:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:10",
+              "horario": "20:55",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "23:45",
+              "horario": "23:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1016,12 +1016,12 @@
               "formato": "2D"
             },
             {
-              "horario": "12:55",
+              "horario": "12:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:50",
+              "horario": "15:25",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1193,32 +1193,17 @@
           "titulo": "MASCOTAS AL RESCATE",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "11:30",
+              "horario": "15:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
+              "horario": "17:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1229,27 +1214,12 @@
           "titulo": "LA VIDA DE CHUCK",
           "horarios": [
             {
-              "horario": "11:40",
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
+              "horario": "20:35",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1259,11 +1229,6 @@
         {
           "titulo": "LOS ROSES",
           "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "15:00",
               "idioma": "DOB",
@@ -1291,32 +1256,17 @@
           "titulo": "DIBUJOS IMAGINARIOS",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "14:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:20",
+              "horario": "16:55",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
+              "horario": "19:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1327,17 +1277,12 @@
           "titulo": "RECUERDOS DEL AYER",
           "horarios": [
             {
-              "horario": "16:10",
+              "horario": "13:20",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "18:50",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
+              "horario": "16:00",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1348,22 +1293,12 @@
           "titulo": "DOS MONJAS: EXORCISMOS PROHIBIDOS",
           "horarios": [
             {
-              "horario": "14:25",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
+              "horario": "22:05",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1373,11 +1308,6 @@
         {
           "titulo": "LA GUERRA DE LOS MAPACHES",
           "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
             {
               "horario": "18:40",
               "idioma": "SUBT",
@@ -1395,84 +1325,27 @@
           "titulo": "ATRAPADO ROBANDO",
           "horarios": [
             {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
               "horario": "14:00",
               "idioma": "DOB",
-              "formato": "2D Atmos"
+              "formato": "2D"
             },
             {
               "horario": "16:30",
               "idioma": "DOB",
-              "formato": "2D Atmos"
+              "formato": "2D"
             },
             {
               "horario": "19:00",
               "idioma": "DOB",
-              "formato": "2D Atmos"
+              "formato": "2D"
             },
             {
               "horario": "21:30",
               "idioma": "DOB",
-              "formato": "2D Atmos"
+              "formato": "2D"
             }
           ],
           "id": "a64f47e5-aee5-48a1-a5a2-731aa469097d"
-        },
-        {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
-            {
-              "horario": "11:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "282e9f56-99ec-4606-809f-117194973c15"
-        },
-        {
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
         },
         {
           "titulo": "LOS 4 FANTASTICOS",
@@ -1504,37 +1377,12 @@
           "titulo": "LOS TIPOS MALOS 2",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "13:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
+              "horario": "15:35",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1545,27 +1393,22 @@
           "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "13:25",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:35",
+              "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:10",
+              "horario": "18:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:20",
+              "horario": "21:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1576,70 +1419,12 @@
           "titulo": "NADIE 2",
           "horarios": [
             {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
+              "horario": "21:35",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "ace76537-0f91-4428-8e82-0a7aea8d10e5"
-        },
-        {
-          "titulo": "LA HORA DE LA DESAPARICION",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "234a0075-eb40-431b-94f7-7366a600355f"
-        },
-        {
-          "titulo": "DRACULA: A LOVE TALE",
-          "horarios": [
-            {
-              "horario": "22:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "2a7bd1ca-5ae4-41e0-abdc-efd19218ffde"
-        },
-        {
-          "titulo": "HAZ QUE REGRESE",
-          "horarios": [
-            {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
         }
       ],
       "ciudad": "La Paz"
@@ -1671,17 +1456,17 @@
           "titulo": "LA VIDA DE CHUCK",
           "horarios": [
             {
-              "horario": "17:45",
+              "horario": "17:30",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "20:10",
+              "horario": "20:00",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "22:35",
+              "horario": "22:30",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1692,12 +1477,12 @@
           "titulo": "LOS ROSES",
           "horarios": [
             {
-              "horario": "18:35",
+              "horario": "19:00",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "20:55",
+              "horario": "21:20",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1708,17 +1493,12 @@
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
+              "horario": "15:45",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1728,11 +1508,6 @@
         {
           "titulo": "LOS 4 FANTASTICOS",
           "horarios": [
-            {
-              "horario": "11:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "14:20",
               "idioma": "DOB",
@@ -1745,17 +1520,12 @@
           "titulo": "LOS TIPOS MALOS 2",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
+              "horario": "15:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1766,17 +1536,12 @@
           "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "14:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
+              "horario": "16:35",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1787,12 +1552,12 @@
           "titulo": "HAZ QUE REGRESE",
           "horarios": [
             {
-              "horario": "19:15",
+              "horario": "18:30",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "21:45",
+              "horario": "21:00",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -2367,5 +2132,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "31/8/2025"
+  "fecha": "1/9/2025"
 }
