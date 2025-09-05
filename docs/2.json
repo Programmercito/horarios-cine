@@ -105,25 +105,25 @@
           "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
         },
         {
-          "titulo": "MASCOTAS AL RESCATE",
+          "titulo": "LA HORA DE LA DESAPARICIÓN",
           "horarios": [
             {
-              "horario": "15:40",
+              "horario": "17:00",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "19:10",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "2D"
             },
             {
-              "horario": "19:20",
+              "horario": "21:40",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "2D"
             }
           ],
-          "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
+          "id": "d2892702-8b4d-42f6-b2b3-e308295d31d3"
         },
         {
           "titulo": "JURASSIC WORLD: RENACE",
@@ -163,25 +163,25 @@
           "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
         },
         {
-          "titulo": "LA HORA DE LA DESAPARICIÓN",
+          "titulo": "MASCOTAS AL RESCATE",
           "horarios": [
             {
-              "horario": "17:00",
+              "horario": "15:40",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "19:10",
+              "horario": "17:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "21:40",
+              "horario": "19:20",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D - 2D KRONOS"
             }
           ],
-          "id": "d2892702-8b4d-42f6-b2b3-e308295d31d3"
+          "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
         },
         {
           "titulo": "ENTRE PLUMAS Y PICOS",
@@ -197,7 +197,7 @@
               "formato": "2D"
             },
             {
-              "horario": "17:10",
+              "horario": "17:15",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -232,17 +232,6 @@
           "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
         },
         {
-          "titulo": "DOS MONJAS EXORCISMOS PROHIBIDOS",
-          "horarios": [
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            }
-          ],
-          "id": "23e8eff4-c0ff-4666-a4f5-04e44c651d52"
-        },
-        {
           "titulo": "BUN Y BIGGIE: EL TESORO PERDIDO",
           "horarios": [
             {
@@ -257,6 +246,17 @@
             }
           ],
           "id": "a70b19cd-1b82-446b-b099-ee38792eee87"
+        },
+        {
+          "titulo": "DOS MONJAS EXORCISMOS PROHIBIDOS",
+          "horarios": [
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            }
+          ],
+          "id": "23e8eff4-c0ff-4666-a4f5-04e44c651d52"
         }
       ],
       "ciudad": "El Alto"
@@ -461,37 +461,6 @@
           "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
         },
         {
-          "titulo": "LA HORA DE LA DESAPARICIÓN",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "d2892702-8b4d-42f6-b2b3-e308295d31d3"
-        },
-        {
           "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
           "horarios": [
             {
@@ -523,15 +492,56 @@
           "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
         },
         {
-          "titulo": "ATRAPADO ROBANDO",
+          "titulo": "LA HORA DE LA DESAPARICIÓN",
           "horarios": [
             {
-              "horario": "22:15",
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "d2892702-8b4d-42f6-b2b3-e308295d31d3"
+        },
+        {
+          "titulo": "MASCOTAS AL RESCATE",
+          "horarios": [
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "a64f47e5-aee5-48a1-a5a2-731aa469097d"
+          "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
         },
         {
           "titulo": "ENTRE PLUMAS Y PICOS",
@@ -576,79 +586,20 @@
           "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
         },
         {
-          "titulo": "DRACULA",
+          "titulo": "LA QUIMERA DE ORO",
           "horarios": [
             {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D"
+              "horario": "15:00",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             },
             {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D"
+              "horario": "20:50",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             }
           ],
-          "id": "3a04db91-979a-44d8-a330-d7b00d96174e"
-        },
-        {
-          "titulo": "DOS MONJAS EXORCISMOS PROHIBIDOS",
-          "horarios": [
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "23e8eff4-c0ff-4666-a4f5-04e44c651d52"
-        },
-        {
-          "titulo": "LA VIDA DE CHUCK",
-          "horarios": [
-            {
-              "horario": "22:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "426eacd5-8d39-4378-b398-e925aff31386"
-        },
-        {
-          "titulo": "MASCOTAS AL RESCATE",
-          "horarios": [
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
-        },
-        {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "282e9f56-99ec-4606-809f-117194973c15"
+          "id": "3daee6bd-b88f-4515-aca0-442fb3575420"
         },
         {
           "titulo": "BUN Y BIGGIE: EL TESORO PERDIDO",
@@ -667,42 +618,58 @@
           "id": "a70b19cd-1b82-446b-b099-ee38792eee87"
         },
         {
-          "titulo": "EL CUENTO DE LA PRINCESA KAGUYA",
+          "titulo": "DRACULA",
           "horarios": [
             {
-              "horario": "16:50",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "14e2db8c-7209-49cc-855c-78b11820f980"
-        },
-        {
-          "titulo": "LA QUIMERA DE ORO",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
-              "horario": "20:50",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "3daee6bd-b88f-4515-aca0-442fb3575420"
-        },
-        {
-          "titulo": "HAZ QUE REGRESE",
-          "horarios": [
-            {
-              "horario": "12:50",
+              "horario": "21:40",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
+          "id": "3a04db91-979a-44d8-a330-d7b00d96174e"
+        },
+        {
+          "titulo": "JURASSIC WORLD: RENACE",
+          "horarios": [
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "282e9f56-99ec-4606-809f-117194973c15"
+        },
+        {
+          "titulo": "ATRAPADO ROBANDO",
+          "horarios": [
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "a64f47e5-aee5-48a1-a5a2-731aa469097d"
+        },
+        {
+          "titulo": "DOS MONJAS EXORCISMOS PROHIBIDOS",
+          "horarios": [
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "23e8eff4-c0ff-4666-a4f5-04e44c651d52"
         },
         {
           "titulo": "SUPERMAN",
@@ -716,6 +683,28 @@
           "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
         },
         {
+          "titulo": "HAZ QUE REGRESE",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
+        },
+        {
+          "titulo": "LA VIDA DE CHUCK",
+          "horarios": [
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "426eacd5-8d39-4378-b398-e925aff31386"
+        },
+        {
           "titulo": "CORTOMETRAJES MULTICINE: LOS 5 NOMINADOS A MEJOR CORTO",
           "horarios": [
             {
@@ -725,6 +714,17 @@
             }
           ],
           "id": "56dc4f94-4ceb-4891-b4c7-efabd50c86cf"
+        },
+        {
+          "titulo": "LA GUERRA DE LOS MAPACHES",
+          "horarios": [
+            {
+              "horario": "16:50",
+              "idioma": "Japones",
+              "formato": "2D"
+            }
+          ],
+          "id": "63a1e108-1247-4cde-83a2-92a3b1544ca5"
         }
       ],
       "ciudad": "La Paz"
@@ -847,11 +847,6 @@
               "formato": "2D"
             },
             {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "19:40",
               "idioma": "Español",
               "formato": "2D"
@@ -886,33 +881,6 @@
           "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
         },
         {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
-            {
-              "horario": "15:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "282e9f56-99ec-4606-809f-117194973c15"
-        },
-        {
-          "titulo": "ATRAPADO ROBANDO",
-          "horarios": [
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "a64f47e5-aee5-48a1-a5a2-731aa469097d"
-        },
-        {
           "titulo": "ENTRE PLUMAS Y PICOS",
           "horarios": [
             {
@@ -932,6 +900,22 @@
             }
           ],
           "id": "49e23abe-e162-4dd2-a560-eb39efd28aad"
+        },
+        {
+          "titulo": "JURASSIC WORLD: RENACE",
+          "horarios": [
+            {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "282e9f56-99ec-4606-809f-117194973c15"
         },
         {
           "titulo": "LOS TIPOS MALOS 2",
@@ -982,15 +966,42 @@
           "id": "3daee6bd-b88f-4515-aca0-442fb3575420"
         },
         {
-          "titulo": "EL CUENTO DE LA PRINCESA KAGUYA",
+          "titulo": "DOS MONJAS EXORCISMOS PROHIBIDOS",
           "horarios": [
             {
-              "horario": "14:30",
-              "idioma": "Japones",
-              "formato": "2D SUB"
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
-          "id": "14e2db8c-7209-49cc-855c-78b11820f980"
+          "id": "23e8eff4-c0ff-4666-a4f5-04e44c651d52"
+        },
+        {
+          "titulo": "BUN Y BIGGIE: EL TESORO PERDIDO",
+          "horarios": [
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "a70b19cd-1b82-446b-b099-ee38792eee87"
+        },
+        {
+          "titulo": "ATRAPADO ROBANDO",
+          "horarios": [
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "a64f47e5-aee5-48a1-a5a2-731aa469097d"
         },
         {
           "titulo": "CORTOMETRAJES MULTICINE: LOS 5 NOMINADOS A MEJOR CORTO",
@@ -1004,7 +1015,7 @@
           "id": "56dc4f94-4ceb-4891-b4c7-efabd50c86cf"
         },
         {
-          "titulo": "EL CUENTO DE LA PRINCESA KAGUYA",
+          "titulo": "LA COLINA DE LAS AMAPOLAS",
           "horarios": [
             {
               "horario": "14:30",
@@ -1012,12 +1023,12 @@
               "formato": "2D SUB"
             }
           ],
-          "id": "14e2db8c-7209-49cc-855c-78b11820f980"
+          "id": "3b68288e-8a8c-4f7f-91e8-fbff0e5f3c7c"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "4/9/2025"
+  "fecha": "5/9/2025"
 }
