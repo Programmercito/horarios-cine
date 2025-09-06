@@ -6,6 +6,31 @@
           "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
               "horario": "12:10",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
@@ -31,7 +56,7 @@
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "13:00",
+              "horario": "13:05",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -59,29 +84,35 @@
               "horario": "21:00",
               "idioma": "Español",
               "formato": "2D"
+            }
+          ],
+          "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
+        },
+        {
+          "titulo": "MASCOTAS AL RESCATE",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "13:40",
+              "horario": "15:40",
               "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "16:30",
+              "horario": "17:30",
               "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
+              "formato": "2D - 2D KRONOS"
             },
             {
               "horario": "19:20",
               "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
+              "formato": "2D - 2D KRONOS"
             }
           ],
-          "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
+          "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
         },
         {
           "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
@@ -126,6 +157,32 @@
           "id": "d2892702-8b4d-42f6-b2b3-e308295d31d3"
         },
         {
+          "titulo": "ENTRE PLUMAS Y PICOS",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:05",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:15",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "49e23abe-e162-4dd2-a560-eb39efd28aad"
+        },
+        {
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
@@ -140,6 +197,27 @@
             }
           ],
           "id": "282e9f56-99ec-4606-809f-117194973c15"
+        },
+        {
+          "titulo": "LOS TIPOS MALOS 2",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            }
+          ],
+          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
         },
         {
           "titulo": "OTRO VIERNES DE LOCOS",
@@ -163,64 +241,6 @@
           "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
         },
         {
-          "titulo": "MASCOTAS AL RESCATE",
-          "horarios": [
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            }
-          ],
-          "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
-        },
-        {
-          "titulo": "ENTRE PLUMAS Y PICOS",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "49e23abe-e162-4dd2-a560-eb39efd28aad"
-        },
-        {
-          "titulo": "LOS TIPOS MALOS 2",
-          "horarios": [
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
-        },
-        {
           "titulo": "HAZ QUE REGRESE",
           "horarios": [
             {
@@ -230,6 +250,17 @@
             }
           ],
           "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
+        },
+        {
+          "titulo": "DOS MONJAS EXORCISMOS PROHIBIDOS",
+          "horarios": [
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            }
+          ],
+          "id": "23e8eff4-c0ff-4666-a4f5-04e44c651d52"
         },
         {
           "titulo": "BUN Y BIGGIE: EL TESORO PERDIDO",
@@ -246,17 +277,6 @@
             }
           ],
           "id": "a70b19cd-1b82-446b-b099-ee38792eee87"
-        },
-        {
-          "titulo": "DOS MONJAS EXORCISMOS PROHIBIDOS",
-          "horarios": [
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            }
-          ],
-          "id": "23e8eff4-c0ff-4666-a4f5-04e44c651d52"
         }
       ],
       "ciudad": "El Alto"
@@ -266,6 +286,31 @@
         {
           "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -385,26 +430,6 @@
               "horario": "22:30",
               "idioma": "Español",
               "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D XL"
             }
           ],
           "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
@@ -463,6 +488,11 @@
         {
           "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
           "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
             {
               "horario": "13:50",
               "idioma": "Español",
@@ -526,6 +556,11 @@
           "titulo": "MASCOTAS AL RESCATE",
           "horarios": [
             {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "14:50",
               "idioma": "Español",
               "formato": "2D"
@@ -546,6 +581,11 @@
         {
           "titulo": "ENTRE PLUMAS Y PICOS",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:30",
               "idioma": "Español",
@@ -568,6 +608,11 @@
           "titulo": "LOS TIPOS MALOS 2",
           "horarios": [
             {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "13:30",
               "idioma": "Español",
               "formato": "2D"
@@ -586,6 +631,27 @@
           "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
         },
         {
+          "titulo": "BUN Y BIGGIE: EL TESORO PERDIDO",
+          "horarios": [
+            {
+              "horario": "11:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "a70b19cd-1b82-446b-b099-ee38792eee87"
+        },
+        {
           "titulo": "LA QUIMERA DE ORO",
           "horarios": [
             {
@@ -600,22 +666,6 @@
             }
           ],
           "id": "3daee6bd-b88f-4515-aca0-442fb3575420"
-        },
-        {
-          "titulo": "BUN Y BIGGIE: EL TESORO PERDIDO",
-          "horarios": [
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "a70b19cd-1b82-446b-b099-ee38792eee87"
         },
         {
           "titulo": "DRACULA",
@@ -648,6 +698,17 @@
             }
           ],
           "id": "282e9f56-99ec-4606-809f-117194973c15"
+        },
+        {
+          "titulo": "LA VIDA DE CHUCK",
+          "horarios": [
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "426eacd5-8d39-4378-b398-e925aff31386"
         },
         {
           "titulo": "ATRAPADO ROBANDO",
@@ -694,17 +755,6 @@
           "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
         },
         {
-          "titulo": "LA VIDA DE CHUCK",
-          "horarios": [
-            {
-              "horario": "22:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "426eacd5-8d39-4378-b398-e925aff31386"
-        },
-        {
           "titulo": "CORTOMETRAJES MULTICINE: LOS 5 NOMINADOS A MEJOR CORTO",
           "horarios": [
             {
@@ -716,15 +766,15 @@
           "id": "56dc4f94-4ceb-4891-b4c7-efabd50c86cf"
         },
         {
-          "titulo": "LA GUERRA DE LOS MAPACHES",
+          "titulo": "EL CUENTO DE LA PRINCESA KAGUYA",
           "horarios": [
             {
               "horario": "16:50",
               "idioma": "Japones",
-              "formato": "2D"
+              "formato": "2D SUB"
             }
           ],
-          "id": "63a1e108-1247-4cde-83a2-92a3b1544ca5"
+          "id": "14e2db8c-7209-49cc-855c-78b11820f980"
         }
       ],
       "ciudad": "La Paz"
@@ -734,6 +784,31 @@
         {
           "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
             {
               "horario": "12:10",
               "idioma": "Español",
@@ -780,26 +855,6 @@
               "formato": "2D"
             },
             {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
               "horario": "20:30",
               "idioma": "Ingles",
               "formato": "2D SUB"
@@ -811,9 +866,9 @@
           "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
             {
-              "horario": "12:50",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "15:10",
@@ -834,6 +889,11 @@
               "horario": "22:10",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             }
           ],
           "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
@@ -843,6 +903,11 @@
           "horarios": [
             {
               "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -858,6 +923,32 @@
             }
           ],
           "id": "d2892702-8b4d-42f6-b2b3-e308295d31d3"
+        },
+        {
+          "titulo": "ENTRE PLUMAS Y PICOS",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "49e23abe-e162-4dd2-a560-eb39efd28aad"
         },
         {
           "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
@@ -881,45 +972,13 @@
           "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
         },
         {
-          "titulo": "ENTRE PLUMAS Y PICOS",
-          "horarios": [
-            {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "49e23abe-e162-4dd2-a560-eb39efd28aad"
-        },
-        {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
-            {
-              "horario": "15:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "282e9f56-99ec-4606-809f-117194973c15"
-        },
-        {
           "titulo": "LOS TIPOS MALOS 2",
           "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:45",
               "idioma": "Español",
@@ -937,6 +996,11 @@
           "titulo": "MASCOTAS AL RESCATE",
           "horarios": [
             {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "17:10",
               "idioma": "Español",
               "formato": "2D"
@@ -948,6 +1012,22 @@
             }
           ],
           "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
+        },
+        {
+          "titulo": "JURASSIC WORLD: RENACE",
+          "horarios": [
+            {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "282e9f56-99ec-4606-809f-117194973c15"
         },
         {
           "titulo": "LA QUIMERA DE ORO",
@@ -983,11 +1063,6 @@
               "horario": "13:10",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ],
           "id": "a70b19cd-1b82-446b-b099-ee38792eee87"
@@ -1015,7 +1090,7 @@
           "id": "56dc4f94-4ceb-4891-b4c7-efabd50c86cf"
         },
         {
-          "titulo": "LA COLINA DE LAS AMAPOLAS",
+          "titulo": "EL CUENTO DE LA PRINCESA KAGUYA",
           "horarios": [
             {
               "horario": "14:30",
@@ -1023,12 +1098,12 @@
               "formato": "2D SUB"
             }
           ],
-          "id": "3b68288e-8a8c-4f7f-91e8-fbff0e5f3c7c"
+          "id": "14e2db8c-7209-49cc-855c-78b11820f980"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "5/9/2025"
+  "fecha": "6/9/2025"
 }
