@@ -606,6 +606,11 @@
               "formato": "2D"
             },
             {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
@@ -616,7 +621,7 @@
               "formato": "2D"
             },
             {
-              "horario": "20:40",
+              "horario": "20:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -702,28 +707,17 @@
           "id": "282e9f56-99ec-4606-809f-117194973c15"
         },
         {
-          "titulo": "SUPERMAN",
-          "horarios": [
-            {
-              "horario": "17:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a05dd542-5ad7-4f17-9158-c2233dd643b8"
-        },
-        {
           "titulo": "LOS 4 FANTASTICOS",
           "horarios": [
             {
               "horario": "13:00",
               "idioma": "DOB",
-              "formato": "3D"
+              "formato": "2D"
             },
             {
               "horario": "15:30",
               "idioma": "DOB",
-              "formato": "3D"
+              "formato": "2D"
             }
           ],
           "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
@@ -772,22 +766,6 @@
           "id": "234a0075-eb40-431b-94f7-7366a600355f"
         },
         {
-          "titulo": "ATRAPADO ROBANDO",
-          "horarios": [
-            {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a64f47e5-aee5-48a1-a5a2-731aa469097d"
-        },
-        {
           "titulo": "DIBUJOS IMAGINARIOS",
           "horarios": [
             {
@@ -797,11 +775,6 @@
             },
             {
               "horario": "15:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -822,6 +795,11 @@
               "formato": "2D"
             },
             {
+              "horario": "23:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
               "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
@@ -837,17 +815,7 @@
               "formato": "2D"
             },
             {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -862,7 +830,12 @@
               "formato": "2D"
             },
             {
-              "horario": "20:40",
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -887,9 +860,9 @@
               "formato": "2D CXC"
             },
             {
-              "horario": "13:50",
+              "horario": "22:50",
               "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
+              "formato": "2D CXC"
             },
             {
               "horario": "16:40",
@@ -898,6 +871,11 @@
             },
             {
               "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            },
+            {
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "4D E-Motion 2D"
             }
@@ -940,17 +918,17 @@
           "titulo": "ENTRE PLUMAS Y PICOS",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "11:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:40",
+              "horario": "13:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:45",
+              "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1012,7 +990,12 @@
               "formato": "2D"
             },
             {
-              "horario": "11:25",
+              "horario": "11:50",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "14:15",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             }
@@ -1028,7 +1011,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:25",
+              "horario": "12:35",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1078,6 +1061,11 @@
               "horario": "19:40",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "234a0075-eb40-431b-94f7-7366a600355f"
@@ -1086,12 +1074,38 @@
           "titulo": "HAZ QUE REGRESE",
           "horarios": [
             {
-              "horario": "19:50",
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
+        },
+        {
+          "titulo": "ATRAPADO ROBANDO",
+          "horarios": [
+            {
+              "horario": "22:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "a64f47e5-aee5-48a1-a5a2-731aa469097d"
         },
         {
           "titulo": "DIBUJOS IMAGINARIOS",
@@ -1113,6 +1127,27 @@
             }
           ],
           "id": "f7b98a2c-598a-4d0c-b5d3-5347deb02e24"
+        },
+        {
+          "titulo": "DOS MONJAS: EXORCISMOS PROHIBIDOS",
+          "horarios": [
+            {
+              "horario": "18:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "99131708-8384-49d2-b850-a29b249cbda7"
         }
       ],
       "ciudad": "Cochabamba"
@@ -1128,12 +1163,12 @@
               "formato": "2D"
             },
             {
-              "horario": "12:10",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:20",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1148,12 +1183,12 @@
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "15:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "15:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1168,12 +1203,12 @@
               "formato": "2D"
             },
             {
-              "horario": "17:50",
+              "horario": "18:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "18:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1188,12 +1223,17 @@
               "formato": "2D"
             },
             {
-              "horario": "20:40",
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:50",
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1214,6 +1254,11 @@
             },
             {
               "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D Atmos"
             }
@@ -1399,6 +1444,11 @@
               "horario": "19:35",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
@@ -1446,6 +1496,11 @@
               "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "234a0075-eb40-431b-94f7-7366a600355f"
@@ -1462,9 +1517,25 @@
               "horario": "20:05",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "426eacd5-8d39-4378-b398-e925aff31386"
+        },
+        {
+          "titulo": "LOS ROSES",
+          "horarios": [
+            {
+              "horario": "22:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "86f7ac83-97e1-44de-808d-8c86d652d2f6"
         },
         {
           "titulo": "DIBUJOS IMAGINARIOS",
@@ -1505,6 +1576,11 @@
               "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "a64f47e5-aee5-48a1-a5a2-731aa469097d"
@@ -1533,12 +1609,7 @@
               "formato": "2D"
             },
             {
-              "horario": "19:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
+              "horario": "21:30",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -1554,6 +1625,11 @@
             },
             {
               "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1575,12 +1651,17 @@
           "titulo": "LOS 4 FANTASTICOS",
           "horarios": [
             {
-              "horario": "15:30",
+              "horario": "16:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:10",
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1591,12 +1672,12 @@
           "titulo": "LOS TIPOS MALOS 2",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:20",
+              "horario": "13:55",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1620,6 +1701,11 @@
               "horario": "16:10",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "18:45",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
@@ -1634,6 +1720,17 @@
             }
           ],
           "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
+        },
+        {
+          "titulo": "LOS ROSES",
+          "horarios": [
+            {
+              "horario": "21:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "86f7ac83-97e1-44de-808d-8c86d652d2f6"
         }
       ],
       "ciudad": "La Paz VIP"
@@ -1962,6 +2059,11 @@
               "horario": "19:10",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "d913942c-26d4-45e3-9fcf-1812553d1b1a"
@@ -2015,6 +2117,11 @@
               "horario": "18:15",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "282e9f56-99ec-4606-809f-117194973c15"
@@ -2029,6 +2136,11 @@
             },
             {
               "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2099,10 +2211,26 @@
           "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
         },
         {
+          "titulo": "LA HORA DE LA DESAPARICION",
+          "horarios": [
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "234a0075-eb40-431b-94f7-7366a600355f"
+        },
+        {
           "titulo": "ATRAPADO ROBANDO",
           "horarios": [
             {
               "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2116,6 +2244,11 @@
               "horario": "18:45",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "20:55",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "f7b98a2c-598a-4d0c-b5d3-5347deb02e24"
@@ -2125,5 +2258,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "6/9/2025"
+  "fecha": "7/9/2025"
 }
