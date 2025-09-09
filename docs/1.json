@@ -61,16 +61,6 @@
               "formato": "2D"
             },
             {
-              "horario": "17:10",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
               "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
@@ -170,16 +160,6 @@
               "horario": "23:10",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
             },
             {
               "horario": "11:30",
@@ -295,17 +275,27 @@
               "formato": "2D"
             },
             {
-              "horario": "11:00",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "14:00",
+              "horario": "13:25",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "20:00",
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "19:15",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D Atmos"
             }
@@ -419,17 +409,17 @@
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "15:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:35",
+              "horario": "17:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:10",
+              "horario": "20:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -555,12 +545,12 @@
               "formato": "2D"
             },
             {
-              "horario": "20:45",
+              "horario": "20:55",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "23:10",
+              "horario": "23:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -950,7 +940,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:50",
+              "horario": "13:45",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1566,6 +1556,11 @@
               "formato": "2D"
             },
             {
+              "horario": "18:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "19:10",
               "idioma": "DOB",
               "formato": "2D"
@@ -1753,11 +1748,6 @@
               "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "DOB",
-              "formato": "2D"
             }
           ],
           "id": "234a0075-eb40-431b-94f7-7366a600355f"
@@ -1783,43 +1773,6 @@
             }
           ],
           "id": "a64f47e5-aee5-48a1-a5a2-731aa469097d"
-        },
-        {
-          "titulo": "LOS ROSES",
-          "horarios": [
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "86f7ac83-97e1-44de-808d-8c86d652d2f6"
-        },
-        {
-          "titulo": "DIBUJOS IMAGINARIOS",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "f7b98a2c-598a-4d0c-b5d3-5347deb02e24"
         },
         {
           "titulo": "DOS MONJAS: EXORCISMOS PROHIBIDOS",
@@ -2058,5 +2011,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "8/9/2025"
+  "fecha": "9/9/2025"
 }
