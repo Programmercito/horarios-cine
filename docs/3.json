@@ -3,6 +3,32 @@
     {
       "peliculas": [
         {
+          "id": "6c7d5544-55d4-46b7-b2a9-b3c2329728ab",
+          "titulo": "DEMON SLAYER CASTILLO INFINITO",
+          "horarios": [
+            {
+              "horario": "20:40",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:20",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:15",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "fef19d5e-c0d8-4c5b-8f70-a47c7c2313bd",
           "titulo": "CONJURO 4 ULTIMOS RITOS",
           "horarios": [
@@ -17,67 +43,24 @@
               "formato": "2D"
             },
             {
-              "horario": "15:35",
+              "horario": "15:30",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "18:20",
+              "horario": "18:10",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "21:10",
+              "horario": "19:25",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "19:35",
+              "horario": "21:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea",
-          "titulo": "HAZ QUE REGRESE",
-          "horarios": [
-            {
-              "horario": "12:55",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412",
-          "titulo": "OTRO VIERNES DE LOCOS",
-          "horarios": [
-            {
-              "horario": "10:40",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:55",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "865bb06d-0cdc-48ad-be45-8dc4dd4eb067",
-          "titulo": "LOS 4 FANTASTICOS : PRIMEROS PASOS",
-          "horarios": [
-            {
-              "horario": "17:15",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
             }
           ]
         }
@@ -86,5 +69,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "11/9/2025"
+  "fecha": "12/9/2025"
 }
