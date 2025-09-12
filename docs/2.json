@@ -26,7 +26,7 @@
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "22:50",
+              "horario": "22:45",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
@@ -64,6 +64,11 @@
               "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
             }
           ],
           "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
@@ -92,11 +97,6 @@
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
               "horario": "16:40",
               "idioma": "Japones",
               "formato": "2D SUB"
@@ -113,7 +113,7 @@
             },
             {
               "horario": "20:00",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
@@ -123,7 +123,7 @@
             },
             {
               "horario": "20:15",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "2D XL - 2D XL KRONOS"
             }
           ],
@@ -172,17 +172,6 @@
           "id": "b2a7d3d1-d547-4c7a-a9fd-e89f8c9a8cc9"
         },
         {
-          "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
-          "horarios": [
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
-        },
-        {
           "titulo": "AMORES COMPARTIDOS",
           "horarios": [
             {
@@ -199,6 +188,17 @@
           "id": "b280bef0-3c33-413d-a3d5-6cb32abae36d"
         },
         {
+          "titulo": "SOMBRAS DEL DEMONIO",
+          "horarios": [
+            {
+              "horario": "22:35",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "58d38f96-d9bc-4b18-822b-2becd897d2e4"
+        },
+        {
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
@@ -210,6 +210,17 @@
           "id": "282e9f56-99ec-4606-809f-117194973c15"
         },
         {
+          "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
+          "horarios": [
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
+        },
+        {
           "titulo": "MASCOTAS AL RESCATE",
           "horarios": [
             {
@@ -219,17 +230,6 @@
             }
           ],
           "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
-        },
-        {
-          "titulo": "SOMBRAS DEL DEMONIO",
-          "horarios": [
-            {
-              "horario": "22:35",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "58d38f96-d9bc-4b18-822b-2becd897d2e4"
         }
       ],
       "ciudad": "El Alto"
@@ -239,51 +239,6 @@
         {
           "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
           "horarios": [
-            {
-              "horario": "11:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:25",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -315,12 +270,62 @@
               "formato": "2D PLUS"
             },
             {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "13:10",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
             },
             {
-              "horario": "22:35",
+              "horario": "22:20",
               "idioma": "Ingles",
               "formato": "2D SUB"
             },
@@ -343,6 +348,11 @@
               "horario": "22:10",
               "idioma": "Español",
               "formato": "2D XL"
+            },
+            {
+              "horario": "22:35",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
             }
           ],
           "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
@@ -350,6 +360,71 @@
         {
           "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
           "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
             {
               "horario": "12:40",
               "idioma": "Español",
@@ -371,113 +446,75 @@
               "formato": "2D XL"
             },
             {
-              "horario": "12:50",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Cerrado",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Cerrado",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Cerrado",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "22:15",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Cerrado",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "18:50",
-              "idioma": "Cerrado",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Cerrado",
-              "formato": "2D PLUS"
-            },
-            {
               "horario": "13:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "4D E-MOTION"
             },
             {
               "horario": "16:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "4D E-MOTION"
             },
             {
               "horario": "19:40",
               "idioma": "Cerrado",
               "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Japones",
-              "formato": "4D E-MOTION SUB"
             }
           ],
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
+        },
+        {
+          "titulo": "SOMBRAS DEL DEMONIO",
+          "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "58d38f96-d9bc-4b18-822b-2becd897d2e4"
+        },
+        {
+          "titulo": "AMORES COMPARTIDOS",
+          "horarios": [
+            {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "b280bef0-3c33-413d-a3d5-6cb32abae36d"
         },
         {
           "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
             {
               "horario": "13:35",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -532,45 +569,13 @@
           "id": "b2a7d3d1-d547-4c7a-a9fd-e89f8c9a8cc9"
         },
         {
-          "titulo": "SOMBRAS DEL DEMONIO",
-          "horarios": [
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "58d38f96-d9bc-4b18-822b-2becd897d2e4"
-        },
-        {
-          "titulo": "AMORES COMPARTIDOS",
-          "horarios": [
-            {
-              "horario": "15:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "b280bef0-3c33-413d-a3d5-6cb32abae36d"
-        },
-        {
           "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
           "horarios": [
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "21:00",
               "idioma": "Español",
@@ -664,7 +669,12 @@
               "formato": "2D"
             },
             {
-              "horario": "14:45",
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -674,7 +684,7 @@
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "17:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -684,7 +694,7 @@
               "formato": "2D"
             },
             {
-              "horario": "20:50",
+              "horario": "20:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -694,19 +704,24 @@
               "formato": "2D"
             },
             {
-              "horario": "22:55",
+              "horario": "22:45",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "13:25",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "15:40",
+              "horario": "18:40",
               "idioma": "Español",
               "formato": "2D XL"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             }
           ],
           "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
@@ -720,7 +735,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:20",
+              "horario": "15:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -730,22 +745,12 @@
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -765,24 +770,9 @@
               "formato": "2D SUB"
             },
             {
-              "horario": "18:30",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
               "horario": "20:30",
               "idioma": "Japones",
               "formato": "2D SUB"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D XL"
             },
             {
               "horario": "21:20",
@@ -814,6 +804,48 @@
           "id": "b2a7d3d1-d547-4c7a-a9fd-e89f8c9a8cc9"
         },
         {
+          "titulo": "200% LOBO",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "154fc598-f03c-423f-a950-7ef0d92fcbb2"
+        },
+        {
+          "titulo": "AMORES COMPARTIDOS",
+          "horarios": [
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "b280bef0-3c33-413d-a3d5-6cb32abae36d"
+        },
+        {
           "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
             {
@@ -830,42 +862,32 @@
           "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
         },
         {
-          "titulo": "200% LOBO",
+          "titulo": "MASCOTAS AL RESCATE",
           "horarios": [
             {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:35",
+              "horario": "13:40",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "154fc598-f03c-423f-a950-7ef0d92fcbb2"
+          "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
         },
         {
-          "titulo": "AMORES COMPARTIDOS",
+          "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
-              "horario": "14:30",
+              "horario": "15:50",
               "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D - 2D KRONOS"
             }
           ],
-          "id": "b280bef0-3c33-413d-a3d5-6cb32abae36d"
+          "id": "282e9f56-99ec-4606-809f-117194973c15"
         },
         {
           "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
           "horarios": [
             {
-              "horario": "15:50",
+              "horario": "21:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -884,31 +906,42 @@
           "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
         },
         {
-          "titulo": "MASCOTAS AL RESCATE",
+          "titulo": "LA HORA DE LA DESAPARICIÓN",
           "horarios": [
             {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
+              "horario": "22:40",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             }
           ],
-          "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
+          "id": "d2892702-8b4d-42f6-b2b3-e308295d31d3"
         },
         {
           "titulo": "ENTRE PLUMAS Y PICOS",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "13:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
           "id": "49e23abe-e162-4dd2-a560-eb39efd28aad"
+        },
+        {
+          "titulo": "SOMBRAS DEL DEMONIO",
+          "horarios": [
+            {
+              "horario": "21:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "58d38f96-d9bc-4b18-822b-2becd897d2e4"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "11/9/2025"
+  "fecha": "12/9/2025"
 }
