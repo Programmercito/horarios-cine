@@ -262,6 +262,16 @@
             {
               "horario": "11:00",
               "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "22:35",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "Español",
               "formato": "2D XL"
             },
             {
@@ -283,16 +293,6 @@
               "horario": "22:10",
               "idioma": "Español",
               "formato": "2D XL"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "22:35",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
             },
             {
               "horario": "12:00",
@@ -477,21 +477,42 @@
             },
             {
               "horario": "13:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "4D E-MOTION"
             },
             {
               "horario": "16:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "4D E-MOTION"
             },
             {
               "horario": "19:40",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "4D E-MOTION"
             }
           ],
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
+        },
+        {
+          "titulo": "SOMBRAS DEL DEMONIO",
+          "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "58d38f96-d9bc-4b18-822b-2becd897d2e4"
         },
         {
           "titulo": "OTRO VIERNES DE LOCOS",
@@ -591,27 +612,6 @@
             }
           ],
           "id": "b280bef0-3c33-413d-a3d5-6cb32abae36d"
-        },
-        {
-          "titulo": "SOMBRAS DEL DEMONIO",
-          "horarios": [
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "58d38f96-d9bc-4b18-822b-2becd897d2e4"
         },
         {
           "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
@@ -833,6 +833,53 @@
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
         },
         {
+          "titulo": "AMORES COMPARTIDOS",
+          "horarios": [
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "b280bef0-3c33-413d-a3d5-6cb32abae36d"
+        },
+        {
+          "titulo": "200% LOBO",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "154fc598-f03c-423f-a950-7ef0d92fcbb2"
+        },
+        {
           "titulo": "TOY STORY 1",
           "horarios": [
             {
@@ -859,46 +906,15 @@
           "id": "b2a7d3d1-d547-4c7a-a9fd-e89f8c9a8cc9"
         },
         {
-          "titulo": "AMORES COMPARTIDOS",
+          "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
           "horarios": [
             {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:45",
+              "horario": "21:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "b280bef0-3c33-413d-a3d5-6cb32abae36d"
-        },
-        {
-          "titulo": "200% LOBO",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "154fc598-f03c-423f-a950-7ef0d92fcbb2"
+          "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
         },
         {
           "titulo": "OTRO VIERNES DE LOCOS",
@@ -917,6 +933,17 @@
           "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
         },
         {
+          "titulo": "LA HORA DE LA DESAPARICIÓN",
+          "horarios": [
+            {
+              "horario": "22:45",
+              "idioma": "Ingles",
+              "formato": "2D"
+            }
+          ],
+          "id": "d2892702-8b4d-42f6-b2b3-e308295d31d3"
+        },
+        {
           "titulo": "MASCOTAS AL RESCATE",
           "horarios": [
             {
@@ -931,28 +958,6 @@
             }
           ],
           "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
-        },
-        {
-          "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
-          "horarios": [
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
-        },
-        {
-          "titulo": "LA HORA DE LA DESAPARICIÓN",
-          "horarios": [
-            {
-              "horario": "22:45",
-              "idioma": "Ingles",
-              "formato": "2D"
-            }
-          ],
-          "id": "d2892702-8b4d-42f6-b2b3-e308295d31d3"
         },
         {
           "titulo": "SOMBRAS DEL DEMONIO",
@@ -1003,5 +1008,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "13/9/2025"
+  "fecha": "14/9/2025"
 }
