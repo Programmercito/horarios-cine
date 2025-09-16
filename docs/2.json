@@ -189,13 +189,7 @@
         },
         {
           "titulo": "SOMBRAS DEL DEMONIO",
-          "horarios": [
-            {
-              "horario": "22:35",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
+          "horarios": [],
           "id": "58d38f96-d9bc-4b18-822b-2becd897d2e4"
         },
         {
@@ -325,7 +319,7 @@
               "formato": "2D PLUS SUB"
             },
             {
-              "horario": "22:35",
+              "horario": "22:20",
               "idioma": "Ingles",
               "formato": "2D SUB"
             },
@@ -351,6 +345,11 @@
             },
             {
               "horario": "19:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "22:15",
               "idioma": "Español",
               "formato": "4D E-MOTION"
             }
@@ -454,11 +453,6 @@
               "horario": "16:40",
               "idioma": "Español",
               "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "22:15",
-              "idioma": "Japones",
-              "formato": "4D E-MOTION SUB"
             }
           ],
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
@@ -488,7 +482,12 @@
           "titulo": "AMORES COMPARTIDOS",
           "horarios": [
             {
-              "horario": "15:20",
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:15",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -520,12 +519,12 @@
           "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "13:35",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -689,18 +688,13 @@
               "formato": "2D"
             },
             {
-              "horario": "20:10",
+              "horario": "20:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "22:00",
               "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Ingles",
               "formato": "2D"
             },
             {
@@ -841,22 +835,6 @@
           "id": "b2a7d3d1-d547-4c7a-a9fd-e89f8c9a8cc9"
         },
         {
-          "titulo": "OTRO VIERNES DE LOCOS",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
-        },
-        {
           "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
           "horarios": [
             {
@@ -866,6 +844,22 @@
             }
           ],
           "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
+        },
+        {
+          "titulo": "OTRO VIERNES DE LOCOS",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
         },
         {
           "titulo": "LA HORA DE LA DESAPARICIÓN",
@@ -893,9 +887,9 @@
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
-              "horario": "15:20",
+              "horario": "15:50",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D - 2D KRONOS"
             }
           ],
           "id": "282e9f56-99ec-4606-809f-117194973c15"
@@ -904,7 +898,7 @@
           "titulo": "LOS TIPOS MALOS 2",
           "horarios": [
             {
-              "horario": "13:10",
+              "horario": "13:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -912,7 +906,7 @@
           "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
         },
         {
-          "titulo": "MASCOTAS AL RESCATE",
+          "titulo": "LOS TIPOS MALOS 2",
           "horarios": [
             {
               "horario": "13:40",
@@ -920,7 +914,7 @@
               "formato": "2D"
             }
           ],
-          "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
+          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
         },
         {
           "titulo": "ENTRE PLUMAS Y PICOS",
@@ -938,5 +932,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "15/9/2025"
+  "fecha": "16/9/2025"
 }
