@@ -6,6 +6,16 @@
           "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
           "horarios": [
             {
+              "horario": "11:50",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
               "horario": "12:10",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
@@ -64,11 +74,6 @@
               "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
             }
           ],
           "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
@@ -133,6 +138,11 @@
           "titulo": "200% LOBO",
           "horarios": [
             {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "13:20",
               "idioma": "Español",
               "formato": "2D"
@@ -153,6 +163,11 @@
         {
           "titulo": "TOY STORY 1",
           "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "15:30",
               "idioma": "Español",
@@ -188,8 +203,30 @@
           "id": "b280bef0-3c33-413d-a3d5-6cb32abae36d"
         },
         {
+          "titulo": "MASCOTAS AL RESCATE",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
+        },
+        {
           "titulo": "SOMBRAS DEL DEMONIO",
-          "horarios": [],
+          "horarios": [
+            {
+              "horario": "22:35",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
           "id": "58d38f96-d9bc-4b18-822b-2becd897d2e4"
         },
         {
@@ -213,17 +250,6 @@
             }
           ],
           "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
-        },
-        {
-          "titulo": "MASCOTAS AL RESCATE",
-          "horarios": [
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
         }
       ],
       "ciudad": "El Alto"
@@ -233,6 +259,46 @@
         {
           "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -322,36 +388,6 @@
               "horario": "22:20",
               "idioma": "Ingles",
               "formato": "2D SUB"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "22:15",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
             }
           ],
           "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
@@ -458,27 +494,6 @@
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
         },
         {
-          "titulo": "SOMBRAS DEL DEMONIO",
-          "horarios": [
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "58d38f96-d9bc-4b18-822b-2becd897d2e4"
-        },
-        {
           "titulo": "AMORES COMPARTIDOS",
           "horarios": [
             {
@@ -500,24 +515,34 @@
           "id": "b280bef0-3c33-413d-a3d5-6cb32abae36d"
         },
         {
-          "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
+          "titulo": "SOMBRAS DEL DEMONIO",
           "horarios": [
             {
-              "horario": "16:10",
+              "horario": "13:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:00",
+              "horario": "20:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
+          "id": "58d38f96-d9bc-4b18-822b-2becd897d2e4"
         },
         {
           "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:35",
               "idioma": "Español",
@@ -540,6 +565,11 @@
           "titulo": "200% LOBO",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "14:40",
               "idioma": "Español",
               "formato": "2D"
@@ -561,6 +591,11 @@
           "titulo": "TOY STORY 1",
           "horarios": [
             {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "15:30",
               "idioma": "Español",
               "formato": "2D"
@@ -577,6 +612,22 @@
             }
           ],
           "id": "b2a7d3d1-d547-4c7a-a9fd-e89f8c9a8cc9"
+        },
+        {
+          "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
+          "horarios": [
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
         },
         {
           "titulo": "DRACULA",
@@ -653,6 +704,11 @@
           "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
           "horarios": [
             {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:10",
               "idioma": "Español",
               "formato": "2D"
@@ -688,7 +744,7 @@
               "formato": "2D"
             },
             {
-              "horario": "20:50",
+              "horario": "20:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -711,6 +767,11 @@
               "horario": "18:40",
               "idioma": "Español",
               "formato": "2D XL"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             }
           ],
           "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
@@ -796,6 +857,11 @@
           "titulo": "200% LOBO",
           "horarios": [
             {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:30",
               "idioma": "Español",
               "formato": "2D"
@@ -817,7 +883,7 @@
           "titulo": "TOY STORY 1",
           "horarios": [
             {
-              "horario": "15:30",
+              "horario": "11:20",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -906,15 +972,15 @@
           "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
         },
         {
-          "titulo": "LOS TIPOS MALOS 2",
+          "titulo": "MASCOTAS AL RESCATE",
           "horarios": [
             {
-              "horario": "13:40",
+              "horario": "11:50",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
+          "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
         },
         {
           "titulo": "ENTRE PLUMAS Y PICOS",
@@ -932,5 +998,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "16/9/2025"
+  "fecha": "17/9/2025"
 }
