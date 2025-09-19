@@ -3,26 +3,70 @@
     {
       "peliculas": [
         {
-          "id": "6c7d5544-55d4-46b7-b2a9-b3c2329728ab",
-          "titulo": "DEMON SLAYER CASTILLO INFINITO",
+          "id": "5e78673d-6b5c-4a6f-9b85-2c52a8ccaea1",
+          "titulo": "JUNTOS HASTA LA MUERTE",
           "horarios": [
             {
-              "horario": "20:40",
+              "horario": "21:20",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "58d38f96-d9bc-4b18-822b-2becd897d2e4",
+          "titulo": "SOMBRAS DEL DEMONIO",
+          "horarios": [
+            {
+              "horario": "21:55",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
+            {
+              "horario": "13:15",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "687093b6-39dd-4814-b3f5-4ccbdc1375eb",
+          "titulo": "EL ULTIMO BLUES DEL CROATA",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "55378d53-3d61-4af5-8c45-f7243b5f7ecb",
+          "titulo": "HIM EL ELEGIDO",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "6c7d5544-55d4-46b7-b2a9-b3c2329728ab",
+          "titulo": "DEMON SLAYER CASTILLO INFINITO",
+          "horarios": [
             {
               "horario": "10:20",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "15:10",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "16:15",
+              "horario": "18:15",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -33,32 +77,17 @@
           "titulo": "CONJURO 4 ULTIMOS RITOS",
           "horarios": [
             {
-              "horario": "10:20",
+              "horario": "10:25",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "12:55",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:10",
+              "horario": "16:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
               "horario": "19:25",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -69,5 +98,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "18/9/2025"
+  "fecha": "19/9/2025"
 }
