@@ -215,7 +215,7 @@
           "titulo": "LOS TIPOS MALOS 2",
           "horarios": [
             {
-              "horario": "10:05",
+              "horario": "11:50",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             }
@@ -283,7 +283,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:45",
+              "horario": "14:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -293,27 +293,22 @@
               "formato": "2D Atmos"
             },
             {
-              "horario": "16:00",
+              "horario": "15:55",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "12:30",
+              "horario": "14:15",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
             {
-              "horario": "15:45",
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
             {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "22:15",
+              "horario": "20:45",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
@@ -323,12 +318,12 @@
               "formato": "4D E-Motion 2D"
             },
             {
-              "horario": "15:55",
+              "horario": "16:00",
               "idioma": "DOB",
               "formato": "4D E-Motion 2D"
             },
             {
-              "horario": "19:05",
+              "horario": "19:15",
               "idioma": "DOB",
               "formato": "4D E-Motion 2D"
             }
@@ -642,11 +637,6 @@
               "formato": "2D"
             },
             {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "14:45",
               "idioma": "DOB",
               "formato": "2D"
@@ -657,19 +647,19 @@
               "formato": "2D"
             },
             {
-              "horario": "16:00",
+              "horario": "14:15",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D CXC Atmos"
             },
             {
-              "horario": "19:05",
+              "horario": "17:30",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D CXC Atmos"
             },
             {
-              "horario": "22:15",
+              "horario": "20:45",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D CXC Atmos"
             }
           ],
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
@@ -727,22 +717,6 @@
     {
       "peliculas": [
         {
-          "titulo": "EL ULTIMO BLUES DEL CROATA",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "ESP",
-              "formato": "2D"
-            }
-          ],
-          "id": "687093b6-39dd-4814-b3f5-4ccbdc1375eb"
-        },
-        {
           "titulo": "UNA VELADA CON DUA LIPA",
           "horarios": [
             {
@@ -752,6 +726,22 @@
             }
           ],
           "id": "96d12a7b-88b7-4339-87e0-f1a9271e72e2"
+        },
+        {
+          "titulo": "EL ULTIMO BLUES DEL CROATA",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "687093b6-39dd-4814-b3f5-4ccbdc1375eb"
         },
         {
           "titulo": "JESUS LUZ DEL MUNDO",
@@ -908,7 +898,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:35",
+              "horario": "12:25",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -935,7 +925,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:15",
+              "horario": "21:10",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -1273,16 +1263,6 @@
               "horario": "22:25",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "13:35",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
             }
           ],
           "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
@@ -1364,16 +1344,6 @@
               "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "SUBT",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "SUBT",
-              "formato": "2D Atmos"
             }
           ],
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
@@ -1382,7 +1352,7 @@
           "titulo": "EL CONJURO 4: ULTIMOS RITOS",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "11:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1397,7 +1367,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:50",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -2121,5 +2091,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "19/9/2025"
+  "fecha": "20/9/2025"
 }
