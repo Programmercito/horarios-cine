@@ -3,8 +3,59 @@
     {
       "peliculas": [
         {
+          "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "17:45",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
+        },
+        {
           "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
           "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
             {
               "horario": "16:00",
               "idioma": "Español",
@@ -21,6 +72,16 @@
               "formato": "2D - 2D KRONOS"
             },
             {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
               "horario": "17:15",
               "idioma": "Español",
               "formato": "2D"
@@ -29,11 +90,6 @@
               "horario": "20:15",
               "idioma": "Japones",
               "formato": "2D SUB"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
             }
           ],
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
@@ -81,29 +137,23 @@
           "id": "8bc94d32-b47c-449d-9d5e-e691657c9cf1"
         },
         {
-          "titulo": "HIM: EL ELEGIDO",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:35",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:35",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "1097df71-5444-49a8-8f44-99b0d53b7a45"
-        },
-        {
           "titulo": "CAMINA O MUERE",
           "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "19:10",
               "idioma": "Español",
@@ -116,7 +166,22 @@
           "titulo": "TOY STORY 1",
           "horarios": [
             {
-              "horario": "22:35",
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -126,6 +191,16 @@
         {
           "titulo": "JESUS LUZ DEL MUNDO",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:45",
               "idioma": "Español",
@@ -138,6 +213,38 @@
             }
           ],
           "id": "a9e88e08-92ee-41c7-a68f-fc3539fe2140"
+        },
+        {
+          "titulo": "HIM: EL ELEGIDO",
+          "horarios": [
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "1097df71-5444-49a8-8f44-99b0d53b7a45"
+        },
+        {
+          "titulo": "EL GRAN VIAJE DE TU VIDA",
+          "horarios": [
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "3900827d-f3ab-4e33-ad6a-8c908f7393ba"
         },
         {
           "titulo": "200% LOBO",
@@ -156,17 +263,6 @@
           "id": "154fc598-f03c-423f-a950-7ef0d92fcbb2"
         },
         {
-          "titulo": "EL GRAN VIAJE DE TU VIDA",
-          "horarios": [
-            {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "3900827d-f3ab-4e33-ad6a-8c908f7393ba"
-        },
-        {
           "titulo": "PUTIN",
           "horarios": [
             {
@@ -176,6 +272,28 @@
             }
           ],
           "id": "6e24c7ca-786b-4bd5-aaae-fdc7daa659a6"
+        },
+        {
+          "titulo": "MASCOTAS AL RESCATE",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
+        },
+        {
+          "titulo": "BTS 2016 THE MOST BEAUTIFUL MOMENT IN LIFE ON STAGE",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "Coreano",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "fe7a5be2-48bf-4005-8928-f8955be233e2"
         }
       ],
       "ciudad": "El Alto"
@@ -186,37 +304,42 @@
           "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION SUB"
+            },
+            {
+              "horario": "13:55",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "19:25",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
               "horario": "12:00",
               "idioma": "Japones",
-              "formato": "2D SUB"
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "15:00",
               "idioma": "Japones",
-              "formato": "2D SUB"
+              "formato": "2D"
             },
             {
-              "horario": "18:10",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "21:20",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "12:20",
+              "horario": "16:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -226,14 +349,29 @@
               "formato": "2D"
             },
             {
+              "horario": "18:10",
+              "idioma": "Japones",
+              "formato": "2D"
+            },
+            {
               "horario": "19:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:45",
+              "horario": "19:50",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "Japones",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:15",
+              "idioma": "Español",
+              "formato": "2D PLUS"
             },
             {
               "horario": "17:20",
@@ -244,6 +382,16 @@
               "horario": "20:30",
               "idioma": "Español",
               "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "22:50",
+              "idioma": "Japones",
+              "formato": "2D SUB"
             },
             {
               "horario": "12:40",
@@ -264,16 +412,6 @@
               "horario": "22:00",
               "idioma": "Español",
               "formato": "2D XL"
-            },
-            {
-              "horario": "13:55",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "19:25",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
             }
           ],
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
@@ -282,7 +420,37 @@
           "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
               "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -310,26 +478,6 @@
               "horario": "22:45",
               "idioma": "Español",
               "formato": "2D PLUS"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D XL"
             },
             {
               "horario": "16:50",
@@ -371,6 +519,32 @@
           "id": "f0c1545c-13a1-4192-9929-68ad005f1529"
         },
         {
+          "titulo": "TOGETHER: JUNTOS HASTA LA MUERTE",
+          "horarios": [
+            {
+              "horario": "17:25",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "8bc94d32-b47c-449d-9d5e-e691657c9cf1"
+        },
+        {
           "titulo": "CAMINA O MUERE",
           "horarios": [
             {
@@ -400,12 +574,12 @@
           "titulo": "EL GRAN VIAJE DE TU VIDA",
           "horarios": [
             {
-              "horario": "14:40",
+              "horario": "13:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "20:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -423,30 +597,56 @@
           "id": "3900827d-f3ab-4e33-ad6a-8c908f7393ba"
         },
         {
-          "titulo": "TOGETHER: JUNTOS HASTA LA MUERTE",
+          "titulo": "200% LOBO",
           "horarios": [
             {
-              "horario": "17:25",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "18:10",
+              "horario": "11:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:15",
+              "horario": "12:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:20",
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "8bc94d32-b47c-449d-9d5e-e691657c9cf1"
+          "id": "154fc598-f03c-423f-a950-7ef0d92fcbb2"
+        },
+        {
+          "titulo": "TOY STORY 1",
+          "horarios": [
+            {
+              "horario": "11:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "b2a7d3d1-d547-4c7a-a9fd-e89f8c9a8cc9"
         },
         {
           "titulo": "HIM: EL ELEGIDO",
@@ -475,66 +675,13 @@
           "id": "1097df71-5444-49a8-8f44-99b0d53b7a45"
         },
         {
-          "titulo": "PUTIN",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6e24c7ca-786b-4bd5-aaae-fdc7daa659a6"
-        },
-        {
-          "titulo": "200% LOBO",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "154fc598-f03c-423f-a950-7ef0d92fcbb2"
-        },
-        {
-          "titulo": "TOY STORY 1",
-          "horarios": [
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "b2a7d3d1-d547-4c7a-a9fd-e89f8c9a8cc9"
-        },
-        {
           "titulo": "JESUS LUZ DEL MUNDO",
           "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:55",
               "idioma": "Español",
@@ -554,8 +701,29 @@
           "id": "a9e88e08-92ee-41c7-a68f-fc3539fe2140"
         },
         {
+          "titulo": "PUTIN",
+          "horarios": [
+            {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6e24c7ca-786b-4bd5-aaae-fdc7daa659a6"
+        },
+        {
           "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:15",
               "idioma": "Español",
@@ -581,6 +749,17 @@
           "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
         },
         {
+          "titulo": "LOS TIPOS MALOS 2",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
+        },
+        {
           "titulo": "AMORES COMPARTIDOS",
           "horarios": [
             {
@@ -590,6 +769,17 @@
             }
           ],
           "id": "b280bef0-3c33-413d-a3d5-6cb32abae36d"
+        },
+        {
+          "titulo": "BTS 2016 THE MOST BEAUTIFUL MOMENT IN LIFE ON STAGE",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "Coreano",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "fe7a5be2-48bf-4005-8928-f8955be233e2"
         }
       ],
       "ciudad": "La Paz"
@@ -651,14 +841,9 @@
           "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
           "horarios": [
             {
-              "horario": "12:50",
+              "horario": "11:20",
               "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             },
             {
               "horario": "14:00",
@@ -679,6 +864,16 @@
               "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "Español",
+              "formato": "2D XL"
             }
           ],
           "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
@@ -708,7 +903,7 @@
           "titulo": "TOGETHER: JUNTOS HASTA LA MUERTE",
           "horarios": [
             {
-              "horario": "18:30",
+              "horario": "16:15",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -747,6 +942,53 @@
           "id": "0f823829-40a2-452d-a978-ed070ab98e2d"
         },
         {
+          "titulo": "JESUS LUZ DEL MUNDO",
+          "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "a9e88e08-92ee-41c7-a68f-fc3539fe2140"
+        },
+        {
+          "titulo": "EL GRAN VIAJE DE TU VIDA",
+          "horarios": [
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Ingles",
+              "formato": "2D"
+            }
+          ],
+          "id": "3900827d-f3ab-4e33-ad6a-8c908f7393ba"
+        },
+        {
           "titulo": "HIM: EL ELEGIDO",
           "horarios": [
             {
@@ -768,57 +1010,15 @@
           "id": "1097df71-5444-49a8-8f44-99b0d53b7a45"
         },
         {
-          "titulo": "EL GRAN VIAJE DE TU VIDA",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "3900827d-f3ab-4e33-ad6a-8c908f7393ba"
-        },
-        {
-          "titulo": "JESUS LUZ DEL MUNDO",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "a9e88e08-92ee-41c7-a68f-fc3539fe2140"
-        },
-        {
           "titulo": "PUTIN",
           "horarios": [
             {
-              "horario": "14:15",
+              "horario": "12:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:30",
+              "horario": "21:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -828,6 +1028,11 @@
         {
           "titulo": "TOY STORY 1",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:30",
               "idioma": "Español",
@@ -845,7 +1050,7 @@
           "titulo": "LOS 4 FANTÁSTICOS: PRIMEROS PASOS",
           "horarios": [
             {
-              "horario": "16:15",
+              "horario": "16:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -875,31 +1080,15 @@
           "id": "b280bef0-3c33-413d-a3d5-6cb32abae36d"
         },
         {
-          "titulo": "UNA VELADA CON DUA LIPA",
+          "titulo": "BTS 2016 THE MOST BEAUTIFUL MOMENT IN LIFE ON STAGE",
           "horarios": [
             {
               "horario": "18:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
+              "idioma": "Coreano",
+              "formato": "2D SUB"
             }
           ],
-          "id": "96d12a7b-88b7-4339-87e0-f1a9271e72e2"
-        },
-        {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "282e9f56-99ec-4606-809f-117194973c15"
+          "id": "fe7a5be2-48bf-4005-8928-f8955be233e2"
         },
         {
           "titulo": "OTRO VIERNES DE LOCOS",
@@ -911,11 +1100,33 @@
             }
           ],
           "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
+        },
+        {
+          "titulo": "LOS TIPOS MALOS 2",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
+        },
+        {
+          "titulo": "JURASSIC WORLD: RENACE",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "282e9f56-99ec-4606-809f-117194973c15"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "21/9/2025"
+  "fecha": "23/9/2025"
 }
