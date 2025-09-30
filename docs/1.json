@@ -55,6 +55,11 @@
               "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "e69d8825-6480-4e42-ae11-f1530b6cedc3"
@@ -69,11 +74,6 @@
             },
             {
               "horario": "10:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -151,44 +151,14 @@
           "titulo": "DESTINO FINAL: LAZOS DE SANGRE",
           "horarios": [
             {
-              "horario": "13:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "23:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
-            },
-            {
               "horario": "23:10",
               "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
+              "formato": "2D"
             }
           ],
           "id": "0c801677-4f0f-4f79-bfb6-ca63db30956d"
@@ -196,31 +166,6 @@
         {
           "titulo": "COMO ENTRENAR A TU DRAGON",
           "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "12:50",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "21:20",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
             {
               "horario": "12:10",
               "idioma": "DOB",
@@ -297,6 +242,16 @@
               "horario": "18:05",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "12:55",
+              "idioma": "DOB",
+              "formato": "2D CXC"
             }
           ],
           "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
@@ -348,6 +303,26 @@
               "horario": "23:15",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "23:30",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
             }
           ],
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
@@ -361,12 +336,27 @@
               "formato": "2D"
             },
             {
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "15:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -399,6 +389,11 @@
               "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
             }
           ],
           "id": "d913942c-26d4-45e3-9fcf-1812553d1b1a"
@@ -444,6 +439,11 @@
           "horarios": [
             {
               "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -498,17 +498,6 @@
           "id": "3125d0c8-d87b-47f0-b8bf-c578ae8c2298"
         },
         {
-          "titulo": "BEEZEL: LA DEVORADORA DE ALMAS",
-          "horarios": [
-            {
-              "horario": "22:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "e69d8825-6480-4e42-ae11-f1530b6cedc3"
-        },
-        {
           "titulo": "LA CASA DE MUÑECAS DE GABBY: LA PELICULA",
           "horarios": [
             {
@@ -522,22 +511,12 @@
               "formato": "2D"
             },
             {
-              "horario": "15:40",
+              "horario": "15:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
+              "horario": "17:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -548,7 +527,7 @@
           "titulo": "UNA BATALLA TRAS OTRA",
           "horarios": [
             {
-              "horario": "22:00",
+              "horario": "22:20",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -559,7 +538,7 @@
           "titulo": "TORMENTA DE NIEVE: CATASTROFE POLAR",
           "horarios": [
             {
-              "horario": "22:30",
+              "horario": "22:55",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -591,22 +570,17 @@
           "titulo": "JURASSIC WORLD: RENACE",
           "horarios": [
             {
-              "horario": "11:15",
+              "horario": "16:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "19:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
+              "horario": "22:25",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -617,22 +591,54 @@
           "titulo": "COMO ENTRENAR A TU DRAGON",
           "horarios": [
             {
-              "horario": "10:50",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "13:30",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "19:30",
+              "horario": "12:20",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             }
           ],
           "id": "a5c5a265-7e6d-484c-884f-0ceef14e6c64"
+        },
+        {
+          "titulo": "LOS TIPOS MALOS 2",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "44ea28de-065e-4bd0-8ff8-a177159676dc"
+        },
+        {
+          "titulo": "OTRO VIERNES DE LOCOS",
+          "horarios": [
+            {
+              "horario": "11:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
         },
         {
           "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
@@ -658,12 +664,17 @@
               "formato": "2D"
             },
             {
-              "horario": "16:15",
+              "horario": "15:10",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
             {
-              "horario": "22:20",
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             }
@@ -673,6 +684,11 @@
         {
           "titulo": "EL CONJURO 4: ULTIMOS RITOS",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "13:40",
               "idioma": "DOB",
@@ -689,7 +705,17 @@
               "formato": "2D"
             },
             {
-              "horario": "21:50",
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -700,6 +726,27 @@
             }
           ],
           "id": "d913942c-26d4-45e3-9fcf-1812553d1b1a"
+        },
+        {
+          "titulo": "TOY STORY",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "595a5b84-e022-4cf3-97f1-c48411e95b8d"
         }
       ],
       "ciudad": "Santa Cruz Av. Brasil"
@@ -710,17 +757,12 @@
           "titulo": "NE ZHA 2",
           "horarios": [
             {
-              "horario": "10:00",
+              "horario": "10:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -731,22 +773,17 @@
           "titulo": "LA CASA DE MUÑECAS DE GABBY: LA PELICULA",
           "horarios": [
             {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "10:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "11:10",
+              "horario": "10:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:20",
+              "horario": "11:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -761,7 +798,17 @@
               "formato": "2D"
             },
             {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "17:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -788,27 +835,12 @@
           "titulo": "DESTINO FINAL: LAZOS DE SANGRE",
           "horarios": [
             {
-              "horario": "13:30",
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:55",
+              "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -833,11 +865,6 @@
         {
           "titulo": "COMO ENTRENAR A TU DRAGON",
           "horarios": [
-            {
-              "horario": "16:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "10:30",
               "idioma": "DOB",
@@ -864,11 +891,6 @@
               "formato": "2D CXC"
             },
             {
-              "horario": "12:10",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
               "horario": "15:00",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
@@ -890,9 +912,19 @@
               "formato": "2D"
             },
             {
-              "horario": "22:20",
+              "horario": "19:05",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:05",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
             }
           ],
           "id": "282e9f56-99ec-4606-809f-117194973c15"
@@ -917,7 +949,27 @@
           "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
             {
-              "horario": "21:00",
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:25",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -958,17 +1010,7 @@
               "formato": "2D"
             },
             {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "21:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1030,7 +1072,12 @@
               "formato": "2D"
             },
             {
-              "horario": "14:35",
+              "horario": "12:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1072,12 +1119,12 @@
           "titulo": "BEEZEL: LA DEVORADORA DE ALMAS",
           "horarios": [
             {
-              "horario": "18:00",
+              "horario": "22:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:40",
+              "horario": "22:45",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1093,7 +1140,7 @@
               "formato": "2D"
             },
             {
-              "horario": "10:40",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1103,12 +1150,22 @@
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1125,6 +1182,11 @@
           "horarios": [
             {
               "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1255,17 +1317,22 @@
           "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
             {
-              "horario": "19:25",
+              "horario": "17:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:35",
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1317,22 +1384,22 @@
             },
             {
               "horario": "11:30",
-              "idioma": "SUBT",
+              "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
               "horario": "14:40",
-              "idioma": "SUBT",
+              "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
               "horario": "17:50",
-              "idioma": "SUBT",
+              "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
               "horario": "21:00",
-              "idioma": "SUBT",
+              "idioma": "DOB",
               "formato": "2D Atmos"
             }
           ],
@@ -1418,17 +1485,17 @@
           "titulo": "TOY STORY",
           "horarios": [
             {
-              "horario": "11:45",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:50",
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:55",
+              "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1440,11 +1507,6 @@
           "horarios": [
             {
               "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1461,39 +1523,12 @@
             }
           ],
           "id": "a9e88e08-92ee-41c7-a68f-fc3539fe2140"
-        },
-        {
-          "titulo": "CAMINA O MUERE",
-          "horarios": [
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "0f823829-40a2-452d-a978-ed070ab98e2d"
         }
       ],
       "ciudad": "La Paz"
     },
     {
       "peliculas": [
-        {
-          "titulo": "HAMILTON",
-          "horarios": [
-            {
-              "horario": "20:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "4e3b36d6-085f-4e7c-b0b5-c0f60b50980d"
-        },
         {
           "titulo": "LA CASA DE MUÑECAS DE GABBY: LA PELICULA",
           "horarios": [
@@ -1503,7 +1538,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:15",
+              "horario": "12:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1519,7 +1554,7 @@
           "titulo": "UNA BATALLA TRAS OTRA",
           "horarios": [
             {
-              "horario": "14:35",
+              "horario": "15:00",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -1529,7 +1564,7 @@
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "18:30",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -1539,7 +1574,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:25",
+              "horario": "22:00",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1561,6 +1596,11 @@
             },
             {
               "horario": "17:20",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1618,16 +1658,6 @@
             },
             {
               "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1790,6 +1820,11 @@
               "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "d8ebe8f3-3d0a-4cec-bdd0-c736acdb7be8"
@@ -1798,17 +1833,32 @@
           "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
             {
-              "horario": "18:20",
+              "horario": "10:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:55",
+              "horario": "12:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "23:30",
+              "horario": "15:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:55",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1834,7 +1884,17 @@
               "formato": "2D"
             },
             {
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "19:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1855,37 +1915,32 @@
               "formato": "2D"
             },
             {
-              "horario": "12:40",
+              "horario": "12:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:20",
+              "horario": "15:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:10",
+              "horario": "18:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:35",
+              "horario": "19:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:00",
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:50",
+              "horario": "22:05",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1917,48 +1972,6 @@
             }
           ],
           "id": "595a5b84-e022-4cf3-97f1-c48411e95b8d"
-        },
-        {
-          "titulo": "TOGETHER: JUNTOS HASTA LA MUERTE",
-          "horarios": [
-            {
-              "horario": "21:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "8bc94d32-b47c-449d-9d5e-e691657c9cf1"
-        },
-        {
-          "titulo": "JESUS LUZ DEL MUNDO",
-          "horarios": [
-            {
-              "horario": "10:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a9e88e08-92ee-41c7-a68f-fc3539fe2140"
         }
       ],
       "ciudad": "Tarija"
@@ -2206,5 +2219,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "29/9/2025"
+  "fecha": "30/9/2025"
 }
