@@ -4,6 +4,7 @@ import { ActivatedRoute, Router, RouterLink } from '@angular/router';
 import { HttpClient } from '@angular/common/http';
 import { catchError, EMPTY, forkJoin, map, of } from 'rxjs';
 import { Cinema } from '../shared/models';
+import { EncodingCine } from '../shared/common/encoding';
 
 @Component({
   selector: 'app-cinema-list',
@@ -12,7 +13,7 @@ import { Cinema } from '../shared/models';
   templateUrl: './cinema-list.component.html',
   styleUrl: './cinema-list.component.css'
 })
-export class CinemaListComponent implements OnInit {
+export class CinemaListComponent extends EncodingCine implements OnInit {
   cinemas: Cinema[] = [];
 
   selectedCity: string | null = null;
@@ -21,7 +22,9 @@ export class CinemaListComponent implements OnInit {
     private route: ActivatedRoute,
     private router: Router,
     private http: HttpClient
-  ) { }
+  ) {
+    super();
+  }
 
   ngOnInit(): void {
     this.route.paramMap.subscribe(params => {
@@ -42,7 +45,7 @@ export class CinemaListComponent implements OnInit {
       if (storedData) {
         do {
           try {
-            const data = JSON.parse(atob(storedData));
+            const data = JSON.parse(this.decodificarBase64(storedData));
             // Verificar si la fecha almacenada es actual
             if (this.isDataCurrent(data)) {
               this.processCinemaData(data, fileIndex, city);
@@ -73,14 +76,14 @@ export class CinemaListComponent implements OnInit {
     if (!data || !data.fecha) {
       return false; // Si no hay fecha, consideramos que no es actual
     }
-    
+
     const today = new Date();
     const dataDate = new Date(data.fecha);
-    
+
     // Comparar solo año, mes y día (ignorar hora)
     return today.getFullYear() === dataDate.getFullYear() &&
-           today.getMonth() === dataDate.getMonth() &&
-           today.getDate() === dataDate.getDate();
+      today.getMonth() === dataDate.getMonth() &&
+      today.getDate() === dataDate.getDate();
   }
   private fetchRemoteCinemas(city: string) {
     let fileIndex = 1;
@@ -96,14 +99,14 @@ export class CinemaListComponent implements OnInit {
       ).subscribe(data => {
         if (data) {
           this.processCinemaData(data, fileIndex, city);
-          localStorage.setItem('cine_' + fileIndex, btoa(JSON.stringify(data)));
+          localStorage.setItem('cine_' + fileIndex, this.codificarBase64(JSON.stringify(data)));
           fileIndex++;
           fetchremote();
         }
       });
     }
     fetchremote();
-    this.loadPeliculasData();     
+    this.loadPeliculasData();
   }
   private processCinemaData(data: any, fileIndex: number, city: string) {
     if (data && data.ciudades) {
@@ -134,10 +137,10 @@ export class CinemaListComponent implements OnInit {
     const storedPeliculas = localStorage.getItem('peliculas');
     if (storedPeliculas) {
       try {
-        const data = JSON.parse(atob(storedPeliculas));
+        const data = JSON.parse(this.decodificarBase64(storedPeliculas));
         // Verificar si alguna película tiene fecha actual
         const hasCurrentData = data.some((pelicula: any) => this.isDataCurrentFromArray(pelicula));
-        
+
         if (hasCurrentData) {
           console.log('Peliculas data is current, using localStorage');
           return; // Los datos están actuales, no necesitamos recargar
@@ -148,7 +151,7 @@ export class CinemaListComponent implements OnInit {
         console.error('Error parsing stored peliculas data:', error);
       }
     }
-    
+
     // Cargar desde remoto si no hay datos o están desactualizados
     this.http.get<any>('/peliculas.json').pipe(
       catchError(error => {
@@ -157,7 +160,7 @@ export class CinemaListComponent implements OnInit {
       })
     ).subscribe(data => {
       if (data) {
-        localStorage.setItem('peliculas', btoa(JSON.stringify(data)));
+        localStorage.setItem('peliculas', this.codificarBase64(JSON.stringify(data)));
       }
     });
   }
@@ -166,13 +169,13 @@ export class CinemaListComponent implements OnInit {
     if (!item || !item.fecha) {
       return false;
     }
-    
+
     const today = new Date();
     const itemDate = new Date(item.fecha);
-    
+
     // Comparar solo año, mes y día (ignorar hora)
     return today.getFullYear() === itemDate.getFullYear() &&
-           today.getMonth() === itemDate.getMonth() &&
-           today.getDate() === itemDate.getDate();
+      today.getMonth() === itemDate.getMonth() &&
+      today.getDate() === itemDate.getDate();
   }
 }

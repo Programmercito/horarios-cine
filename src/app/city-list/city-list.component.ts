@@ -4,6 +4,7 @@ import { Router } from '@angular/router';
 import { CityFilterService } from '../shared/citys/city-filter.service';
 import { catchError, EMPTY } from 'rxjs';
 import { Component, OnInit } from '@angular/core';
+import { EncodingCine } from '../shared/common/encoding';
 
 @Component({
   selector: 'app-city-list',
@@ -12,12 +13,14 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './city-list.component.html',
   styleUrl: './city-list.component.css'
 })
-export class CityListComponent implements OnInit {
+export class CityListComponent extends EncodingCine implements OnInit {
   cities: string[] = [];
   private fileIndex = 1;
   private allCities = new Set<string>();
 
-  constructor(private http: HttpClient, private cityFilterService: CityFilterService, private router: Router) { }
+  constructor(private http: HttpClient, private cityFilterService: CityFilterService, private router: Router) {
+    super();
+  }
 
   ngOnInit() {
     // Verificar si hay una ciudad guardada para redirección automática
@@ -27,7 +30,7 @@ export class CityListComponent implements OnInit {
       this.router.navigate(['/cinemas', savedCity]);
       return;
     }
-    
+
     this.fetchJsonFiles();
     this.loadPeliculasData();
   }
@@ -50,7 +53,7 @@ export class CityListComponent implements OnInit {
           this.allCities.add(cityData.ciudad);
         });
       }
-      localStorage.setItem('cine_' + this.fileIndex, btoa(JSON.stringify(data)));
+      localStorage.setItem('cine_' + this.fileIndex, this.codificarBase64(JSON.stringify(data)));
       this.fileIndex++;
       this.fetchJsonFiles(); // Recursively call for the next file
     });
@@ -63,7 +66,7 @@ export class CityListComponent implements OnInit {
       })
     ).subscribe(data => {
       if (data) {
-        localStorage.setItem('peliculas', btoa(JSON.stringify(data)));
+        localStorage.setItem('peliculas', this.codificarBase64(JSON.stringify(data)));
       }
     });
   }

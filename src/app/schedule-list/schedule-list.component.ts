@@ -5,6 +5,7 @@ import { catchError, EMPTY, of } from 'rxjs';
 import { CommonModule } from '@angular/common';
 import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
 import { CineData, Ciudad, Pelicula } from '../shared/models';
+import { EncodingCine } from '../shared/common/encoding';
 
 @Component({
   selector: 'app-schedule-list',
@@ -13,7 +14,7 @@ import { CineData, Ciudad, Pelicula } from '../shared/models';
   templateUrl: './schedule-list.component.html',
   styleUrls: ['./schedule-list.component.css']
 })
-export class ScheduleListComponent implements OnInit {
+export class ScheduleListComponent extends EncodingCine implements OnInit {
   city: string = '';
   cinemid: string = '';
   cinemaName: string = '';
@@ -21,11 +22,11 @@ export class ScheduleListComponent implements OnInit {
   cinemaData: CineData | null = null;
   pelidata: Pelicula[] = [];
   ciudadesFiltradas: Ciudad[] = [];
-  
+
   // Popup variables
   showMoviePopup: boolean = false;
   currentPeli: Pelicula | null = null;
-  
+
   // Schedule popup variables
   showSchedulePopup: boolean = false;
   currentSchedule: any = null;
@@ -34,7 +35,9 @@ export class ScheduleListComponent implements OnInit {
     private http: HttpClient,
     private router: Router,
     private sanitizer: DomSanitizer
-  ) { }
+  ) {
+    super();
+  }
 
   ngOnInit(): void {
     this.route.paramMap.subscribe(params => {
@@ -48,7 +51,7 @@ export class ScheduleListComponent implements OnInit {
     const storedData = localStorage.getItem('cine_' + cinemid);
     if (storedData) {
       try {
-        const data = JSON.parse(atob(storedData));
+        const data = JSON.parse(this.decodificarBase64(storedData));
         // Verificar si la fecha almacenada es actual
         if (this.isDataCurrent(data)) {
           this.processCinemaData(data);
@@ -70,14 +73,14 @@ export class ScheduleListComponent implements OnInit {
     if (!data || !data.fecha) {
       return false; // Si no hay fecha, consideramos que no es actual
     }
-    
+
     const today = new Date();
     const dataDate = new Date(data.fecha);
-    
+
     // Comparar solo año, mes y día (ignorar hora)
     return today.getFullYear() === dataDate.getFullYear() &&
-           today.getMonth() === dataDate.getMonth() &&
-           today.getDate() === dataDate.getDate();
+      today.getMonth() === dataDate.getMonth() &&
+      today.getDate() === dataDate.getDate();
   }
 
   private fetchAllRemoteCinemas(targetCinemId: string) {
@@ -94,13 +97,13 @@ export class ScheduleListComponent implements OnInit {
       ).subscribe(data => {
         if (data) {
           // Store in localStorage
-          localStorage.setItem('cine_' + fileIndex, btoa(JSON.stringify(data)));
-          
+          localStorage.setItem('cine_' + fileIndex, this.codificarBase64(JSON.stringify(data)));
+
           // If this is the cinema we need, process it
           if (fileIndex.toString() === targetCinemId) {
             this.processCinemaData(data);
           }
-          
+
           fileIndex++;
           fetchRemote();
         }
@@ -120,10 +123,10 @@ export class ScheduleListComponent implements OnInit {
     const storedPeliculas = localStorage.getItem('peliculas');
     if (storedPeliculas) {
       try {
-        const data = JSON.parse(atob(storedPeliculas));
+        const data = JSON.parse(this.decodificarBase64(storedPeliculas));
         // Verificar si alguna película tiene fecha actual
         const hasCurrentData = data.some((pelicula: any) => this.isDataCurrentFromArray(pelicula));
-        
+
         if (hasCurrentData) {
           console.log('Peliculas data is current, using localStorage');
           this.processPeliculasData(data);
@@ -135,7 +138,7 @@ export class ScheduleListComponent implements OnInit {
         console.error('Error parsing stored peliculas data:', error);
       }
     }
-    
+
     // Cargar desde remoto si no hay datos o están desactualizados
     this.fetchRemotePeliculas();
   }
@@ -144,14 +147,14 @@ export class ScheduleListComponent implements OnInit {
     if (!item || !item.fecha) {
       return false;
     }
-    
+
     const today = new Date();
     const itemDate = new Date(item.fecha);
-    
+
     // Comparar solo año, mes y día (ignorar hora)
     return today.getFullYear() === itemDate.getFullYear() &&
-           today.getMonth() === itemDate.getMonth() &&
-           today.getDate() === itemDate.getDate();
+      today.getMonth() === itemDate.getMonth() &&
+      today.getDate() === itemDate.getDate();
   }
 
   private fetchRemotePeliculas() {
@@ -163,7 +166,7 @@ export class ScheduleListComponent implements OnInit {
     ).subscribe(data => {
       if (data) {
         this.processPeliculasData(data);
-        localStorage.setItem('peliculas', btoa(JSON.stringify(data)));
+        localStorage.setItem('peliculas', this.codificarBase64(JSON.stringify(data)));
       }
     });
   }
@@ -183,15 +186,15 @@ export class ScheduleListComponent implements OnInit {
         }
       });
       this.ciudadesFiltradas.forEach(ciudad => {
-        ciudad.peliculas.forEach(pelicula=>{
+        ciudad.peliculas.forEach(pelicula => {
           // busco la pelicula en this.pelidata
           let data = this.pelidata.find(p => p.id === pelicula.id);
           if (data) {
             pelicula.datos = data;
-          }else{
+          } else {
             console.warn(`Pelicula con id ${pelicula.id} no encontrada en pelidata`);
           }
-          
+
           // Ordenar horarios por hora
           if (pelicula.horarios && pelicula.horarios.length > 0) {
             pelicula.horarios.sort((a, b) => {
@@ -200,7 +203,7 @@ export class ScheduleListComponent implements OnInit {
                 const [hours, minutes] = time.split(':').map(Number);
                 return hours * 60 + minutes;
               };
-              
+
               return timeToMinutes(a.horario) - timeToMinutes(b.horario);
             });
           }
@@ -218,7 +221,7 @@ export class ScheduleListComponent implements OnInit {
   refreshData() {
     // Borrar todas las variables de localStorage relacionadas con cines y películas
     const keysToRemove: string[] = [];
-    
+
     // Buscar todas las claves que empiecen con 'cine_'
     for (let i = 0; i < localStorage.length; i++) {
       const key = localStorage.key(i);
@@ -226,13 +229,13 @@ export class ScheduleListComponent implements OnInit {
         keysToRemove.push(key);
       }
     }
-    
+
     // Remover las claves encontradas
     keysToRemove.forEach(key => localStorage.removeItem(key));
-    
+
     // Remover también las películas
     localStorage.removeItem('peliculas');
-    
+
     // Recargar la página
     window.location.reload();
   }
