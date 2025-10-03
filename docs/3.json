@@ -3,55 +3,37 @@
     {
       "peliculas": [
         {
-          "id": "b58333f2-5d3b-4288-9a89-9107282be837",
-          "titulo": "UNA BATALLA TRAS OTRA",
-          "horarios": [
-            {
-              "horario": "10:20",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "5762eb6e-4459-4d5d-8976-df70a1637603",
-          "titulo": "NEZHA 2",
-          "horarios": [
-            {
-              "horario": "10:15",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "ee38549a-4a24-4867-b6ae-e22db52e3fd3",
-          "titulo": "LA CASA DE MUÑECAS DE GABBY",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "5e78673d-6b5c-4a6f-9b85-2c52a8ccaea1",
-          "titulo": "JUNTOS HASTA LA MUERTE",
+          "id": "fbcc58b7-6341-40ce-ad81-61a4d9af3472",
+          "titulo": "CAZADORES DEL FIN DEL MUNDO",
           "horarios": [
             {
               "horario": "12:55",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
             }
           ]
         },
         {
-          "id": "58d38f96-d9bc-4b18-822b-2becd897d2e4",
-          "titulo": "SOMBRAS DEL DEMONIO",
+          "id": "6d522820-2ec2-4a21-8e9a-f3b984bee303",
+          "titulo": "AVATAR 2 EL SENTIDO DEL AGUA",
           "horarios": [
             {
-              "horario": "13:10",
+              "horario": "15:10",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:15",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -62,12 +44,7 @@
           "titulo": "DEMON SLAYER CASTILLO INFINITO",
           "horarios": [
             {
-              "horario": "17:55",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:55",
+              "horario": "18:45",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -78,22 +55,17 @@
           "titulo": "CONJURO 4 ULTIMOS RITOS",
           "horarios": [
             {
+              "horario": "10:25",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
               "horario": "15:15",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "16:55",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
+              "horario": "17:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -104,5 +76,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "2/10/2025"
+  "fecha": "3/10/2025"
 }
