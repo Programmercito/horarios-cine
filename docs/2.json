@@ -49,11 +49,6 @@
             {
               "horario": "13:00",
               "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
             {
@@ -70,6 +65,11 @@
               "horario": "22:00",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
             }
           ],
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
@@ -130,7 +130,7 @@
               "formato": "3D XL - 3D XL KRONOS"
             },
             {
-              "horario": "22:00",
+              "horario": "21:30",
               "idioma": "Español",
               "formato": "3D"
             }
@@ -138,7 +138,7 @@
           "id": "ee661308-1b4e-4635-b200-828fd953c852"
         },
         {
-          "titulo": "HALLOWEEN: LA NOCHE DEL ESPANTAPÁJAROS",
+          "titulo": "TIBURÓN",
           "horarios": [
             {
               "horario": "13:30",
@@ -156,18 +156,23 @@
               "formato": "2D"
             }
           ],
-          "id": "20ce0f27-dd32-4526-ab53-a7cafbed35cb"
+          "id": "ee661308-1b4e-4635-b200-828fd953c852"
         },
         {
           "titulo": "CAZADORES DEL FIN DEL MUNDO",
           "horarios": [
             {
-              "horario": "19:45",
+              "horario": "14:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:00",
+              "horario": "19:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -194,7 +199,7 @@
           "titulo": "NE ZHA 2: EL RENACER DEL ALMA",
           "horarios": [
             {
-              "horario": "18:15",
+              "horario": "16:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -226,7 +231,12 @@
           "titulo": "CRÓNICAS DEL EXORCISMO: EL COMIENZO",
           "horarios": [
             {
-              "horario": "12:10",
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:45",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -243,50 +253,6 @@
             }
           ],
           "id": "0f823829-40a2-452d-a978-ed070ab98e2d"
-        },
-        {
-          "titulo": "MASCOTAS AL RESCATE",
-          "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            }
-          ],
-          "id": "ca67c9b4-a469-49c4-b3c2-7b3186129773"
-        },
-        {
-          "titulo": "TOY STORY 1",
-          "horarios": [
-            {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "b2a7d3d1-d547-4c7a-a9fd-e89f8c9a8cc9"
-        },
-        {
-          "titulo": "BTS 2019 T´LOVE YOURSELF: SPEAK YOURSELF LONDON REMASTERED",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Coreano",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "dc2f1de3-e6e3-4be0-83c1-5d25f25b680c"
-        },
-        {
-          "titulo": "BTS 2021 MUSTER SOWOOZOO REMASTERED",
-          "horarios": [
-            {
-              "horario": "16:15",
-              "idioma": "Coreano",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "25cca703-1b49-484a-ba29-e54078c6152f"
         }
       ],
       "ciudad": "El Alto"
@@ -296,21 +262,6 @@
         {
           "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
           "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -362,6 +313,16 @@
               "formato": "2D PLUS"
             },
             {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
               "horario": "14:20",
               "idioma": "Español",
               "formato": "4D E-MOTION"
@@ -373,14 +334,19 @@
           "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D XL"
             },
             {
-              "horario": "18:20",
+              "horario": "15:00",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D XL"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D XL"
             },
             {
               "horario": "12:00",
@@ -408,24 +374,14 @@
               "formato": "2D"
             },
             {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
               "horario": "22:40",
               "idioma": "Japones",
               "formato": "2D SUB"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D XL"
             },
             {
               "horario": "19:25",
@@ -438,11 +394,6 @@
         {
           "titulo": "CAZADORES DEL FIN DEL MUNDO",
           "horarios": [
-            {
-              "horario": "11:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "13:20",
               "idioma": "Español",
@@ -470,11 +421,6 @@
           "titulo": "LOS EXTRAÑOS: CAPÍTULO 2",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "13:15",
               "idioma": "Español",
               "formato": "2D"
@@ -500,11 +446,6 @@
         {
           "titulo": "LA CASA DE MUÑECAS DE GABBY",
           "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "13:00",
               "idioma": "Español",
@@ -589,14 +530,14 @@
               "formato": "2D"
             },
             {
-              "horario": "21:00",
+              "horario": "16:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:45",
+              "horario": "22:30",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             }
           ],
           "id": "20ce0f27-dd32-4526-ab53-a7cafbed35cb"
@@ -647,19 +588,9 @@
           "titulo": "TOY STORY 1",
           "horarios": [
             {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
               "horario": "12:35",
               "idioma": "Español",
               "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "2D"
             },
             {
               "horario": "15:30",
@@ -694,19 +625,14 @@
           "titulo": "CAMINA O MUERE",
           "horarios": [
             {
-              "horario": "11:10",
+              "horario": "13:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D PLUS"
             },
             {
               "horario": "17:40",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
             }
           ],
           "id": "0f823829-40a2-452d-a978-ed070ab98e2d"
@@ -747,7 +673,7 @@
           "titulo": "NE ZHA 2: EL RENACER DEL ALMA",
           "horarios": [
             {
-              "horario": "18:15",
+              "horario": "14:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -764,28 +690,6 @@
             }
           ],
           "id": "154fc598-f03c-423f-a950-7ef0d92fcbb2"
-        },
-        {
-          "titulo": "BTS 2021 MUSTER SOWOOZOO REMASTERED",
-          "horarios": [
-            {
-              "horario": "16:15",
-              "idioma": "Coreano",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "25cca703-1b49-484a-ba29-e54078c6152f"
-        },
-        {
-          "titulo": "BTS 2019 T´LOVE YOURSELF: SPEAK YOURSELF LONDON REMASTERED",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Coreano",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "dc2f1de3-e6e3-4be0-83c1-5d25f25b680c"
         }
       ],
       "ciudad": "La Paz"
@@ -863,19 +767,14 @@
           "titulo": "TIBURÓN",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "17:15",
               "idioma": "Español",
-              "formato": "3D XL"
+              "formato": "2D"
             },
             {
               "horario": "19:30",
               "idioma": "Español",
               "formato": "3D XL"
-            },
-            {
-              "horario": "17:15",
-              "idioma": "Español",
-              "formato": "2D"
             },
             {
               "horario": "22:35",
@@ -957,7 +856,7 @@
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "19:45",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -978,7 +877,7 @@
               "formato": "2D"
             },
             {
-              "horario": "22:10",
+              "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -993,11 +892,6 @@
         {
           "titulo": "LA CASA DE MUÑECAS DE GABBY",
           "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "16:00",
               "idioma": "Español",
@@ -1015,7 +909,17 @@
           "titulo": "HALLOWEEN: LA NOCHE DEL ESPANTAPÁJAROS",
           "horarios": [
             {
-              "horario": "18:15",
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1058,11 +962,6 @@
           "titulo": "TORMENTA DE NIEVE: CATÁSTROFE POLAR",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "13:50",
               "idioma": "Español",
               "formato": "2D"
@@ -1085,7 +984,7 @@
           "titulo": "TOY STORY 1",
           "horarios": [
             {
-              "horario": "12:10",
+              "horario": "12:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1115,42 +1014,20 @@
           "id": "d8582add-4467-4a26-98be-9e12b856d5f9"
         },
         {
-          "titulo": "JESUS LUZ DEL MUNDO",
+          "titulo": "NE ZHA 2: EL RENACER DEL ALMA",
           "horarios": [
             {
-              "horario": "11:10",
+              "horario": "14:25",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "a9e88e08-92ee-41c7-a68f-fc3539fe2140"
-        },
-        {
-          "titulo": "BTS 2021 MUSTER SOWOOZOO REMASTERED",
-          "horarios": [
-            {
-              "horario": "16:15",
-              "idioma": "Coreano",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "25cca703-1b49-484a-ba29-e54078c6152f"
-        },
-        {
-          "titulo": "BTS 2019 T´LOVE YOURSELF: SPEAK YOURSELF LONDON REMASTERED",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Coreano",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "dc2f1de3-e6e3-4be0-83c1-5d25f25b680c"
+          "id": "b48b2d26-7882-4333-a687-c538bc422807"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "4/10/2025"
+  "fecha": "5/10/2025"
 }
