@@ -3,16 +3,47 @@
     {
       "peliculas": [
         {
-          "id": "fbcc58b7-6341-40ce-ad81-61a4d9af3472",
-          "titulo": "CAZADORES DEL FIN DEL MUNDO",
+          "id": "fef19d5e-c0d8-4c5b-8f70-a47c7c2313bd",
+          "titulo": "CONJURO 4 ULTIMOS RITOS",
           "horarios": [
+            {
+              "horario": "10:25",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
             {
               "horario": "12:55",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "21:45",
+              "horario": "15:30",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "fbcc58b7-6341-40ce-ad81-61a4d9af3472",
+          "titulo": "CAZADORES DEL FIN DEL MUNDO",
+          "horarios": [
+            {
+              "horario": "13:15",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -23,17 +54,7 @@
           "titulo": "AVATAR 2 EL SENTIDO DEL AGUA",
           "horarios": [
             {
-              "horario": "15:10",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:15",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
+              "horario": "10:10",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -44,28 +65,12 @@
           "titulo": "DEMON SLAYER CASTILLO INFINITO",
           "horarios": [
             {
+              "horario": "15:40",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
               "horario": "18:45",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "fef19d5e-c0d8-4c5b-8f70-a47c7c2313bd",
-          "titulo": "CONJURO 4 ULTIMOS RITOS",
-          "horarios": [
-            {
-              "horario": "10:25",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:15",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -76,5 +81,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "5/10/2025"
+  "fecha": "6/10/2025"
 }
