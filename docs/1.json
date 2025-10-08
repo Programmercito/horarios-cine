@@ -245,17 +245,17 @@
               "formato": "2D"
             },
             {
-              "horario": "16:35",
+              "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:50",
+              "horario": "19:55",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "23:05",
+              "horario": "23:15",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -275,7 +275,7 @@
               "formato": "2D Atmos"
             },
             {
-              "horario": "21:20",
+              "horario": "21:15",
               "idioma": "DOB",
               "formato": "2D Atmos"
             }
@@ -544,17 +544,17 @@
             {
               "horario": "13:10",
               "idioma": "DOB",
-              "formato": "3D"
+              "formato": "3D CXC Atmos"
             },
             {
               "horario": "17:05",
               "idioma": "DOB",
-              "formato": "3D"
+              "formato": "3D CXC Atmos"
             },
             {
               "horario": "21:00",
               "idioma": "DOB",
-              "formato": "3D"
+              "formato": "3D CXC Atmos"
             }
           ],
           "id": "870d8a4b-7734-4ccc-99eb-046192802442"
@@ -563,14 +563,14 @@
           "titulo": "TIBURON (1975)",
           "horarios": [
             {
-              "horario": "14:15",
+              "horario": "18:20",
               "idioma": "DOB",
-              "formato": "3D CXC Atmos"
+              "formato": "3D"
             },
             {
-              "horario": "17:00",
+              "horario": "20:55",
               "idioma": "DOB",
-              "formato": "3D CXC Atmos"
+              "formato": "3D"
             }
           ],
           "id": "0bc184b3-93b3-4984-8be5-94b1b41bb424"
@@ -671,6 +671,22 @@
           "id": "d913942c-26d4-45e3-9fcf-1812553d1b1a"
         },
         {
+          "titulo": "TOY STORY",
+          "horarios": [
+            {
+              "horario": "14:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "595a5b84-e022-4cf3-97f1-c48411e95b8d"
+        },
+        {
           "titulo": "LA CASA DE MUÑECAS DE GABBY: LA PELICULA",
           "horarios": [
             {
@@ -721,12 +737,12 @@
               "formato": "2D"
             },
             {
-              "horario": "21:30",
+              "horario": "21:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "23:30",
+              "horario": "23:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -784,12 +800,22 @@
           "titulo": "AVATAR: EL CAMINO DEL AGUA (2022)",
           "horarios": [
             {
-              "horario": "11:50",
+              "horario": "10:15",
               "idioma": "DOB",
               "formato": "3D CXC"
             },
             {
-              "horario": "15:45",
+              "horario": "14:10",
+              "idioma": "DOB",
+              "formato": "3D CXC"
+            },
+            {
+              "horario": "18:05",
+              "idioma": "DOB",
+              "formato": "3D CXC"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "3D CXC"
             },
@@ -893,7 +919,7 @@
               "formato": "2D"
             },
             {
-              "horario": "19:45",
+              "horario": "19:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -925,27 +951,27 @@
           "titulo": "EL CONJURO 4: ULTIMOS RITOS",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "12:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "14:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "17:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:50",
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "23:40",
+              "horario": "23:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1070,6 +1096,11 @@
               "horario": "21:10",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "71f20cea-ade5-4a60-907f-a020965f6b1b"
@@ -1078,12 +1109,17 @@
           "titulo": "CRONICAS DE EXORCISMO: EL COMIENZO",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1093,6 +1129,16 @@
         {
           "titulo": "LOS EXTRAÑOS: CAPITULO 2",
           "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "16:00",
               "idioma": "DOB",
@@ -1115,17 +1161,17 @@
           "titulo": "AVATAR: EL CAMINO DEL AGUA (2022)",
           "horarios": [
             {
-              "horario": "13:10",
+              "horario": "11:10",
               "idioma": "DOB",
               "formato": "3D"
             },
             {
-              "horario": "17:05",
+              "horario": "15:05",
               "idioma": "DOB",
               "formato": "3D"
             },
             {
-              "horario": "21:00",
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "3D"
             }
@@ -1133,8 +1179,39 @@
           "id": "870d8a4b-7734-4ccc-99eb-046192802442"
         },
         {
+          "titulo": "TIBURON (1975)",
+          "horarios": [
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "0bc184b3-93b3-4984-8be5-94b1b41bb424"
+        },
+        {
           "titulo": "CAZADORES DEL FIN DEL MUNDO",
           "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "17:00",
               "idioma": "DOB",
@@ -1157,12 +1234,12 @@
           "titulo": "DOWNTON ABBEY: EL GRAN FINAL",
           "horarios": [
             {
-              "horario": "18:05",
+              "horario": "19:20",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "20:50",
+              "horario": "22:05",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1173,12 +1250,22 @@
           "titulo": "OTRO VIERNES DE LOCOS",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "14:25",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:35",
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1189,27 +1276,42 @@
           "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
           "horarios": [
             {
-              "horario": "13:00",
-              "idioma": "DOB",
+              "horario": "12:00",
+              "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "16:10",
-              "idioma": "DOB",
+              "horario": "15:10",
+              "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "19:20",
-              "idioma": "DOB",
+              "horario": "18:20",
+              "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "21:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "16:10",
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
             }
@@ -1217,30 +1319,71 @@
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
         },
         {
+          "titulo": "NE ZHA 2",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "3125d0c8-d87b-47f0-b8bf-c578ae8c2298"
+        },
+        {
           "titulo": "EL CONJURO 4: ULTIMOS RITOS",
           "horarios": [
             {
-              "horario": "13:10",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:00",
+              "horario": "13:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:50",
+              "horario": "15:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1251,12 +1394,22 @@
           "titulo": "TOY STORY",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:05",
+              "horario": "13:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1264,25 +1417,104 @@
           "id": "595a5b84-e022-4cf3-97f1-c48411e95b8d"
         },
         {
+          "titulo": "EL ULTIMO BLUES DEL CROATA",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "687093b6-39dd-4814-b3f5-4ccbdc1375eb"
+        },
+        {
+          "titulo": "JESUS LUZ DEL MUNDO",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "a9e88e08-92ee-41c7-a68f-fc3539fe2140"
+        },
+        {
           "titulo": "LA CASA DE MUÑECAS DE GABBY: LA PELICULA",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:20",
+              "horario": "11:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:40",
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "658c6af8-0f34-4021-acf5-911b6d2f4364"
+        },
+        {
+          "titulo": "UNA BATALLA TRAS OTRA",
+          "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "b58333f2-5d3b-4288-9a89-9107282be837"
+        },
+        {
+          "titulo": "TORMENTA DE NIEVE: CATASTROFE POLAR",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "094391fa-d815-44a9-9d0c-411772f793be"
         }
       ],
       "ciudad": "La Paz"
@@ -1290,15 +1522,31 @@
     {
       "peliculas": [
         {
-          "titulo": "TIBURON (1975)",
+          "titulo": "AVATAR: EL CAMINO DEL AGUA (2022)",
           "horarios": [
             {
-              "horario": "19:00",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "3D"
             },
             {
-              "horario": "21:45",
+              "horario": "20:25",
+              "idioma": "DOB",
+              "formato": "3D"
+            }
+          ],
+          "id": "870d8a4b-7734-4ccc-99eb-046192802442"
+        },
+        {
+          "titulo": "TIBURON (1975)",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "13:45",
               "idioma": "DOB",
               "formato": "3D"
             }
@@ -1325,28 +1573,17 @@
           "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
           "horarios": [
             {
-              "horario": "14:00",
+              "horario": "11:00",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "17:10",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
-        },
-        {
-          "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
-          "horarios": [
-            {
-              "horario": "14:00",
+              "horario": "14:10",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "17:10",
+              "horario": "17:20",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1354,31 +1591,20 @@
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
         },
         {
-          "titulo": "NE ZHA 2",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "3125d0c8-d87b-47f0-b8bf-c578ae8c2298"
-        },
-        {
           "titulo": "TOY STORY",
           "horarios": [
             {
-              "horario": "14:30",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:35",
+              "horario": "14:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1386,20 +1612,47 @@
           "id": "595a5b84-e022-4cf3-97f1-c48411e95b8d"
         },
         {
-          "titulo": "TOY STORY",
+          "titulo": "HAMILTON",
           "horarios": [
             {
-              "horario": "14:30",
-              "idioma": "DOB",
+              "horario": "20:30",
+              "idioma": "SUBT",
               "formato": "2D"
-            },
+            }
+          ],
+          "id": "4e3b36d6-085f-4e7c-b0b5-c0f60b50980d"
+        },
+        {
+          "titulo": "LA CASA DE MUÑECAS DE GABBY: LA PELICULA",
+          "horarios": [
             {
-              "horario": "16:35",
+              "horario": "12:15",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "595a5b84-e022-4cf3-97f1-c48411e95b8d"
+          "id": "658c6af8-0f34-4021-acf5-911b6d2f4364"
+        },
+        {
+          "titulo": "UNA BATALLA TRAS OTRA",
+          "horarios": [
+            {
+              "horario": "14:35",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:25",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "b58333f2-5d3b-4288-9a89-9107282be837"
         }
       ],
       "ciudad": "La Paz VIP"
@@ -1895,5 +2148,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "7/10/2025"
+  "fecha": "8/10/2025"
 }
