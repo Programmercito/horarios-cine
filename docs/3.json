@@ -3,31 +3,75 @@
     {
       "peliculas": [
         {
+          "id": "3d0a1ffe-b445-4998-8a0f-2cf0d4f1c7a5",
+          "titulo": "TRON ARES",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "17:25",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "f53fbb18-c68a-429d-86b4-9eba8a2cccf5",
+          "titulo": "NOISE RUIDOS DEL MAS ALLA",
+          "horarios": [
+            {
+              "horario": "10:40",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "12e832c0-6225-490d-9246-6a0a4be04798",
+          "titulo": "HERMANASTRA FEA",
+          "horarios": [
+            {
+              "horario": "18:25",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "eb77a08c-dc77-4877-9dd5-27ecee33fe2d",
+          "titulo": "IT REESTRENO",
+          "horarios": [
+            {
+              "horario": "12:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "fef19d5e-c0d8-4c5b-8f70-a47c7c2313bd",
           "titulo": "CONJURO 4 ULTIMOS RITOS",
           "horarios": [
             {
-              "horario": "10:25",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:55",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:45",
+              "horario": "20:40",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -38,23 +82,7 @@
           "titulo": "CAZADORES DEL FIN DEL MUNDO",
           "horarios": [
             {
-              "horario": "13:15",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "6d522820-2ec2-4a21-8e9a-f3b984bee303",
-          "titulo": "AVATAR 2 EL SENTIDO DEL AGUA",
-          "horarios": [
-            {
-              "horario": "10:10",
+              "horario": "10:40",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -65,12 +93,7 @@
           "titulo": "DEMON SLAYER CASTILLO INFINITO",
           "horarios": [
             {
-              "horario": "15:40",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:45",
+              "horario": "15:20",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -81,5 +104,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "9/10/2025"
+  "fecha": "10/10/2025"
 }
