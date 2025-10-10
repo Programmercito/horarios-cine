@@ -6,6 +6,31 @@
           "titulo": "TRON: ARES",
           "horarios": [
             {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
               "horario": "13:05",
               "idioma": "Español",
               "formato": "2D"
@@ -29,26 +54,6 @@
               "horario": "22:40",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
             },
             {
               "horario": "18:40",
@@ -116,19 +121,13 @@
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
         },
         {
-          "titulo": "CAZADORES DEL FIN DEL MUNDO",
-          "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "fbcc58b7-6341-40ce-ad81-61a4d9af3472"
-        },
-        {
           "titulo": "LO QUE SIENTO POR TI",
           "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:10",
               "idioma": "Español",
@@ -141,65 +140,6 @@
             }
           ],
           "id": "aab0ee96-a360-4851-82f1-38f4b51a2997"
-        },
-        {
-          "titulo": "EL PODER DEL EXORCISTA",
-          "horarios": [
-            {
-              "horario": "18:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "f2089b60-e3d8-4b74-b589-1d8ecc2e7a10"
-        },
-        {
-          "titulo": "HALLOWEEN: LA NOCHE DEL ESPANTAPÁJAROS",
-          "horarios": [
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "20ce0f27-dd32-4526-ab53-a7cafbed35cb"
-        },
-        {
-          "titulo": "NOISE: SONIDOS DEL MÁS ALLÁ",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "42ad2289-580d-483e-b65e-17076ce9c09c"
-        },
-        {
-          "titulo": "LA MÁQUINA",
-          "horarios": [
-            {
-              "horario": "17:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "49a65db2-8abc-4a27-a8a9-1a5484c74e12"
         },
         {
           "titulo": "LA HERMANASTRA FEA",
@@ -218,15 +158,95 @@
           "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
         },
         {
-          "titulo": "TIBURÓN",
+          "titulo": "LA MÁQUINA",
           "horarios": [
             {
-              "horario": "21:00",
+              "horario": "17:45",
               "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
-          "id": "ee661308-1b4e-4635-b200-828fd953c852"
+          "id": "49a65db2-8abc-4a27-a8a9-1a5484c74e12"
+        },
+        {
+          "titulo": "NOISE: SONIDOS DEL MÁS ALLÁ",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "42ad2289-580d-483e-b65e-17076ce9c09c"
+        },
+        {
+          "titulo": "EL PODER DEL EXORCISTA",
+          "horarios": [
+            {
+              "horario": "18:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "f2089b60-e3d8-4b74-b589-1d8ecc2e7a10"
+        },
+        {
+          "titulo": "TORMENTA DE NIEVE: CATÁSTROFE POLAR",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "44963da5-66e7-41dd-b0d6-5174041cbac6"
+        },
+        {
+          "titulo": "HALLOWEEN: LA NOCHE DEL ESPANTAPÁJAROS",
+          "horarios": [
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "20ce0f27-dd32-4526-ab53-a7cafbed35cb"
+        },
+        {
+          "titulo": "ANGELO EN EL BOSQUE MÁGICO",
+          "horarios": [
+            {
+              "horario": "11:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "87f8fd80-9b3a-4b93-9c1b-8a84e05911a4"
         },
         {
           "titulo": "NE ZHA 2: EL RENACER DEL ALMA",
@@ -240,17 +260,6 @@
           "id": "b48b2d26-7882-4333-a687-c538bc422807"
         },
         {
-          "titulo": "TORMENTA DE NIEVE: CATÁSTROFE POLAR",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "44963da5-66e7-41dd-b0d6-5174041cbac6"
-        },
-        {
           "titulo": "LOS EXTRAÑOS: CAPÍTULO 2",
           "horarios": [
             {
@@ -262,15 +271,26 @@
           "id": "4e00f5f7-8025-4d3b-947f-58f60a058e16"
         },
         {
-          "titulo": "ANGELO EN EL BOSQUE MÁGICO",
+          "titulo": "CAZADORES DEL FIN DEL MUNDO",
           "horarios": [
             {
-              "horario": "15:40",
+              "horario": "13:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "87f8fd80-9b3a-4b93-9c1b-8a84e05911a4"
+          "id": "fbcc58b7-6341-40ce-ad81-61a4d9af3472"
+        },
+        {
+          "titulo": "TIBURÓN",
+          "horarios": [
+            {
+              "horario": "21:00",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            }
+          ],
+          "id": "ee661308-1b4e-4635-b200-828fd953c852"
         },
         {
           "titulo": "IT",
@@ -282,6 +302,17 @@
             }
           ],
           "id": "0d406004-040d-4a98-a53d-634cd53cf06b"
+        },
+        {
+          "titulo": "LA CASA DE MUÑECAS DE GABBY",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "ee38549a-4a24-4867-b6ae-e22db52e3fd3"
         }
       ],
       "ciudad": "El Alto"
@@ -292,29 +323,24 @@
           "titulo": "TRON: ARES",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "11:00",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "3D"
             },
             {
-              "horario": "16:50",
+              "horario": "13:30",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "3D"
             },
             {
-              "horario": "19:20",
+              "horario": "18:30",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "3D"
             },
             {
-              "horario": "14:20",
+              "horario": "20:50",
               "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "3D XL"
+              "formato": "3D"
             },
             {
               "horario": "12:20",
@@ -357,24 +383,34 @@
               "formato": "2D"
             },
             {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
               "horario": "19:40",
               "idioma": "Ingles",
               "formato": "2D SUB"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "3D XL"
             },
             {
               "horario": "14:50",
@@ -397,11 +433,6 @@
         {
           "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
           "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "14:40",
               "idioma": "Español",
@@ -449,6 +480,16 @@
           "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
               "horario": "12:00",
               "idioma": "Japones",
               "formato": "2D PLUS SUB"
@@ -467,11 +508,6 @@
               "horario": "19:45",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D PLUS"
             },
             {
               "horario": "12:40",
@@ -495,14 +531,9 @@
           "titulo": "LA HERMANASTRA FEA",
           "horarios": [
             {
-              "horario": "14:05",
+              "horario": "11:40",
               "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             },
             {
               "horario": "17:15",
@@ -518,6 +549,16 @@
               "horario": "21:45",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "14:05",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
             }
           ],
           "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
@@ -549,29 +590,13 @@
           "id": "f2089b60-e3d8-4b74-b589-1d8ecc2e7a10"
         },
         {
-          "titulo": "LA MÁQUINA",
+          "titulo": "LO QUE SIENTO POR TI",
           "horarios": [
             {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:10",
+              "horario": "11:10",
               "idioma": "Español",
               "formato": "2D"
             },
-            {
-              "horario": "21:55",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ],
-          "id": "49a65db2-8abc-4a27-a8a9-1a5484c74e12"
-        },
-        {
-          "titulo": "LO QUE SIENTO POR TI",
-          "horarios": [
             {
               "horario": "14:30",
               "idioma": "Español",
@@ -591,25 +616,30 @@
           "id": "aab0ee96-a360-4851-82f1-38f4b51a2997"
         },
         {
-          "titulo": "ANGELO EN EL BOSQUE MÁGICO",
+          "titulo": "LA MÁQUINA",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:50",
+              "horario": "20:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:40",
+              "horario": "17:20",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:55",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             }
           ],
-          "id": "87f8fd80-9b3a-4b93-9c1b-8a84e05911a4"
+          "id": "49a65db2-8abc-4a27-a8a9-1a5484c74e12"
         },
         {
           "titulo": "NOISE: SONIDOS DEL MÁS ALLÁ",
@@ -633,24 +663,34 @@
           "id": "42ad2289-580d-483e-b65e-17076ce9c09c"
         },
         {
-          "titulo": "UNA BATALLA TRAS OTRA",
+          "titulo": "ANGELO EN EL BOSQUE MÁGICO",
           "horarios": [
             {
-              "horario": "15:05",
+              "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             },
             {
-              "horario": "21:30",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
-          "id": "b58333f2-5d3b-4288-9a89-9107282be837"
+          "id": "87f8fd80-9b3a-4b93-9c1b-8a84e05911a4"
         },
         {
           "titulo": "LA CASA DE MUÑECAS DE GABBY",
           "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:30",
               "idioma": "Español",
@@ -681,15 +721,20 @@
           "id": "0d406004-040d-4a98-a53d-634cd53cf06b"
         },
         {
-          "titulo": "LOS EXTRAÑOS: CAPÍTULO 2",
+          "titulo": "UNA BATALLA TRAS OTRA",
           "horarios": [
             {
-              "horario": "17:00",
+              "horario": "15:05",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             }
           ],
-          "id": "4e00f5f7-8025-4d3b-947f-58f60a058e16"
+          "id": "b58333f2-5d3b-4288-9a89-9107282be837"
         },
         {
           "titulo": "CAZADORES DEL FIN DEL MUNDO",
@@ -701,6 +746,33 @@
             }
           ],
           "id": "fbcc58b7-6341-40ce-ad81-61a4d9af3472"
+        },
+        {
+          "titulo": "TOY STORY 1",
+          "horarios": [
+            {
+              "horario": "11:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "b2a7d3d1-d547-4c7a-a9fd-e89f8c9a8cc9"
+        },
+        {
+          "titulo": "LOS EXTRAÑOS: CAPÍTULO 2",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "4e00f5f7-8025-4d3b-947f-58f60a058e16"
         },
         {
           "titulo": "TIBURÓN",
@@ -736,17 +808,6 @@
           "id": "44963da5-66e7-41dd-b0d6-5174041cbac6"
         },
         {
-          "titulo": "TOY STORY 1",
-          "horarios": [
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "b2a7d3d1-d547-4c7a-a9fd-e89f8c9a8cc9"
-        },
-        {
           "titulo": "CAMINA O MUERE",
           "horarios": [
             {
@@ -766,24 +827,9 @@
           "titulo": "TRON: ARES",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "11:00",
               "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             },
             {
               "horario": "13:20",
@@ -806,14 +852,24 @@
               "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "12:00",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D XL"
             },
             {
-              "horario": "21:50",
+              "horario": "14:20",
               "idioma": "Español",
-              "formato": "3D XL"
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D XL"
             },
             {
               "horario": "22:00",
@@ -826,6 +882,11 @@
         {
           "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:05",
               "idioma": "Español",
@@ -850,25 +911,25 @@
           "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
         },
         {
-          "titulo": "UNA BATALLA TRAS OTRA",
+          "titulo": "LA MÁQUINA",
           "horarios": [
             {
-              "horario": "15:20",
+              "horario": "17:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:30",
+              "horario": "20:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "22:30",
               "idioma": "Ingles",
               "formato": "2D SUB"
             }
           ],
-          "id": "b58333f2-5d3b-4288-9a89-9107282be837"
+          "id": "49a65db2-8abc-4a27-a8a9-1a5484c74e12"
         },
         {
           "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
@@ -892,46 +953,25 @@
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
         },
         {
-          "titulo": "ANGELO EN EL BOSQUE MÁGICO",
+          "titulo": "UNA BATALLA TRAS OTRA",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "15:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "18:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "87f8fd80-9b3a-4b93-9c1b-8a84e05911a4"
-        },
-        {
-          "titulo": "LA MÁQUINA",
-          "horarios": [
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
+              "horario": "21:40",
               "idioma": "Ingles",
               "formato": "2D SUB"
             }
           ],
-          "id": "49a65db2-8abc-4a27-a8a9-1a5484c74e12"
+          "id": "b58333f2-5d3b-4288-9a89-9107282be837"
         },
         {
           "titulo": "LA HERMANASTRA FEA",
@@ -955,24 +995,34 @@
           "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
         },
         {
-          "titulo": "IT",
+          "titulo": "ANGELO EN EL BOSQUE MÁGICO",
           "horarios": [
             {
-              "horario": "13:10",
+              "horario": "12:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:35",
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "0d406004-040d-4a98-a53d-634cd53cf06b"
+          "id": "87f8fd80-9b3a-4b93-9c1b-8a84e05911a4"
         },
         {
           "titulo": "LA CASA DE MUÑECAS DE GABBY",
           "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "15:40",
               "idioma": "Español",
@@ -987,31 +1037,20 @@
           "id": "ee38549a-4a24-4867-b6ae-e22db52e3fd3"
         },
         {
-          "titulo": "EL PODER DEL EXORCISTA",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "f2089b60-e3d8-4b74-b589-1d8ecc2e7a10"
-        },
-        {
-          "titulo": "CAZADORES DEL FIN DEL MUNDO",
+          "titulo": "IT",
           "horarios": [
             {
               "horario": "13:10",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "22:35",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
-          "id": "fbcc58b7-6341-40ce-ad81-61a4d9af3472"
+          "id": "0d406004-040d-4a98-a53d-634cd53cf06b"
         },
         {
           "titulo": "NOISE: SONIDOS DEL MÁS ALLÁ",
@@ -1030,8 +1069,29 @@
           "id": "42ad2289-580d-483e-b65e-17076ce9c09c"
         },
         {
+          "titulo": "EL PODER DEL EXORCISTA",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "f2089b60-e3d8-4b74-b589-1d8ecc2e7a10"
+        },
+        {
           "titulo": "LO QUE SIENTO POR TI",
           "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "19:50",
               "idioma": "Español",
@@ -1039,6 +1099,22 @@
             }
           ],
           "id": "aab0ee96-a360-4851-82f1-38f4b51a2997"
+        },
+        {
+          "titulo": "EL ÚLTIMO BLUES DEL CROATA",
+          "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "f0c1545c-13a1-4192-9929-68ad005f1529"
         },
         {
           "titulo": "LOS EXTRAÑOS: CAPÍTULO 2",
@@ -1050,11 +1126,22 @@
             }
           ],
           "id": "4e00f5f7-8025-4d3b-947f-58f60a058e16"
+        },
+        {
+          "titulo": "CAZADORES DEL FIN DEL MUNDO",
+          "horarios": [
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "fbcc58b7-6341-40ce-ad81-61a4d9af3472"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "9/10/2025"
+  "fecha": "10/10/2025"
 }
