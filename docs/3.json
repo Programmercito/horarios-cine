@@ -3,37 +3,76 @@
     {
       "peliculas": [
         {
+          "id": "27c484e2-0389-48d1-95b3-e95d227755c1",
+          "titulo": "EL CADAVER DE LA NOVIA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "0b9ec0e7-a667-488d-a2eb-7ed6e37caf49",
+          "titulo": "ESCAPE EXPLOSIVO",
+          "horarios": [
+            {
+              "horario": "15:05",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "270eb63d-e975-4556-a340-226bcfb4d8b5",
+          "titulo": "FRANKIE Y LOS MONSTRUOS",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "0d5e0696-64ac-4a3d-8e24-f19156c8c914",
+          "titulo": "TELEFONO NEGRO 2",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:15",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:35",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "3d0a1ffe-b445-4998-8a0f-2cf0d4f1c7a5",
           "titulo": "TRON ARES",
           "horarios": [
             {
-              "horario": "15:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
-              "horario": "17:25",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:45",
+              "horario": "17:10",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             }
           ]
         },
         {
-          "id": "f53fbb18-c68a-429d-86b4-9eba8a2cccf5",
-          "titulo": "NOISE RUIDOS DEL MAS ALLA",
+          "id": "fef19d5e-c0d8-4c5b-8f70-a47c7c2313bd",
+          "titulo": "CONJURO 4 ULTIMOS RITOS",
           "horarios": [
             {
-              "horario": "10:40",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
+              "horario": "21:30",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -44,56 +83,22 @@
           "titulo": "HERMANASTRA FEA",
           "horarios": [
             {
-              "horario": "18:25",
+              "horario": "17:10",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "12:45",
+              "horario": "12:55",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "eb77a08c-dc77-4877-9dd5-27ecee33fe2d",
-          "titulo": "IT REESTRENO",
-          "horarios": [
+            },
             {
-              "horario": "12:45",
+              "horario": "15:00",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "fef19d5e-c0d8-4c5b-8f70-a47c7c2313bd",
-          "titulo": "CONJURO 4 ULTIMOS RITOS",
-          "horarios": [
+            },
             {
-              "horario": "20:40",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "fbcc58b7-6341-40ce-ad81-61a4d9af3472",
-          "titulo": "CAZADORES DEL FIN DEL MUNDO",
-          "horarios": [
-            {
-              "horario": "10:40",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "6c7d5544-55d4-46b7-b2a9-b3c2329728ab",
-          "titulo": "DEMON SLAYER CASTILLO INFINITO",
-          "horarios": [
-            {
-              "horario": "15:20",
+              "horario": "19:35",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -104,5 +109,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "16/10/2025"
+  "fecha": "17/10/2025"
 }
