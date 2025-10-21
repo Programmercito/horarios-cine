@@ -249,11 +249,6 @@
           "titulo": "NE ZHA 2",
           "horarios": [
             {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "13:05",
               "idioma": "DOB",
               "formato": "2D"
@@ -364,17 +359,17 @@
           "titulo": "TRON: ARES",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "10:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "12:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:50",
+              "horario": "15:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -394,12 +389,27 @@
               "formato": "2D Atmos"
             },
             {
-              "horario": "22:00",
+              "horario": "19:20",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
               "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "23:20",
               "idioma": "DOB",
               "formato": "3D"
             },
@@ -488,11 +498,6 @@
         {
           "titulo": "LO QUE SIENTO POR TI",
           "horarios": [
-            {
-              "horario": "11:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "13:50",
               "idioma": "DOB",
@@ -658,12 +663,12 @@
           "titulo": "EL CONJURO 4: ULTIMOS RITOS",
           "horarios": [
             {
-              "horario": "16:10",
+              "horario": "18:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:30",
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -690,7 +695,12 @@
           "titulo": "LA CASA DE MUÑECAS DE GABBY: LA PELICULA",
           "horarios": [
             {
-              "horario": "13:50",
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -951,17 +961,22 @@
           "titulo": "EL CONJURO 4: ULTIMOS RITOS",
           "horarios": [
             {
-              "horario": "13:50",
+              "horario": "14:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:40",
+              "horario": "17:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -977,7 +992,7 @@
               "formato": "2D"
             },
             {
-              "horario": "11:10",
+              "horario": "11:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1222,12 +1237,17 @@
           "titulo": "TRON: ARES",
           "horarios": [
             {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "15:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1237,7 +1257,12 @@
               "formato": "2D"
             },
             {
-              "horario": "16:50",
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1561,7 +1586,12 @@
               "formato": "2D"
             },
             {
-              "horario": "21:00",
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1868,5 +1898,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "20/10/2025"
+  "fecha": "21/10/2025"
 }
