@@ -3,21 +3,11 @@
     {
       "peliculas": [
         {
-          "id": "ea477ee4-54c9-4473-a384-b5c3dff67a82",
-          "titulo": "GOOD BOY",
+          "id": "aafad96d-1a90-4eed-8522-3c7f11821746",
+          "titulo": "A PESAR DE TI",
           "horarios": [
             {
-              "horario": "19:25",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:15",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:25",
+              "horario": "21:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -47,6 +37,11 @@
               "horario": "15:10",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
             }
           ]
         },
@@ -66,7 +61,7 @@
           "titulo": "TELEFONO NEGRO 2",
           "horarios": [
             {
-              "horario": "21:25",
+              "horario": "21:40",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -91,6 +86,11 @@
               "horario": "10:25",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
+            },
+            {
+              "horario": "19:25",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
             }
           ]
         },
@@ -104,7 +104,7 @@
               "formato": "2D"
             },
             {
-              "horario": "19:15",
+              "horario": "19:30",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -115,5 +115,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "24/10/2025"
+  "fecha": "25/10/2025"
 }
