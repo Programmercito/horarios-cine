@@ -116,6 +116,27 @@
           "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
         },
         {
+          "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
+          "horarios": [
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
+        },
+        {
           "titulo": "TRON: ARES",
           "horarios": [
             {
@@ -153,69 +174,6 @@
           "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
         },
         {
-          "titulo": "A PESAR DE TI",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "aafad96d-1a90-4eed-8522-3c7f11821746"
-        },
-        {
-          "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
-        },
-        {
-          "titulo": "PARANORMAN",
-          "horarios": [
-            {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "3D"
-            }
-          ],
-          "id": "6400b185-4c16-4f62-852c-8b54d68199b1"
-        },
-        {
           "titulo": "FRANKIE Y LOS MONSTRUOS",
           "horarios": [
             {
@@ -240,6 +198,48 @@
             }
           ],
           "id": "270eb63d-e975-4556-a340-226bcfb4d8b5"
+        },
+        {
+          "titulo": "A PESAR DE TI",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "aafad96d-1a90-4eed-8522-3c7f11821746"
+        },
+        {
+          "titulo": "PARANORMAN",
+          "horarios": [
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "3D"
+            }
+          ],
+          "id": "6400b185-4c16-4f62-852c-8b54d68199b1"
         },
         {
           "titulo": "TELÉFONO NEGRO 2",
@@ -294,17 +294,6 @@
             }
           ],
           "id": "a3d966ee-0fe9-40a8-b849-77b6d979cfe4"
-        },
-        {
-          "titulo": "ESCAPE EXPLOSIVO",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "0b9ec0e7-a667-488d-a2eb-7ed6e37caf49"
         }
       ],
       "ciudad": "El Alto"
@@ -326,11 +315,6 @@
             },
             {
               "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -495,6 +479,42 @@
           "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
         },
         {
+          "titulo": "CUANDO EL CIELO SE EQUIVOCA",
+          "horarios": [
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "f862a201-2203-4539-9fe7-cc9ad1218ac9"
+        },
+        {
           "titulo": "TELÉFONO NEGRO 2",
           "horarios": [
             {
@@ -536,42 +556,6 @@
           "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
         },
         {
-          "titulo": "CUANDO EL CIELO SE EQUIVOCA",
-          "horarios": [
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "f862a201-2203-4539-9fe7-cc9ad1218ac9"
-        },
-        {
           "titulo": "GOOD BOY",
           "horarios": [
             {
@@ -611,37 +595,6 @@
             }
           ],
           "id": "ea477ee4-54c9-4473-a384-b5c3dff67a82"
-        },
-        {
-          "titulo": "TRON: ARES",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "12:50",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            }
-          ],
-          "id": "ec55b1db-4fb3-4dea-8a0a-6b5a2436caa0"
         },
         {
           "titulo": "LA HERMANASTRA FEA",
@@ -709,6 +662,37 @@
             }
           ],
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
+        },
+        {
+          "titulo": "TRON: ARES",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            }
+          ],
+          "id": "ec55b1db-4fb3-4dea-8a0a-6b5a2436caa0"
         },
         {
           "titulo": "EL CADÁVER DE LA NOVIA",
@@ -1166,5 +1150,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "24/10/2025"
+  "fecha": "25/10/2025"
 }
