@@ -6,11 +6,6 @@
           "titulo": "CHAINSAW MAN LA PELÍCULA - ARCO DE REZE",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
               "horario": "13:00",
               "idioma": "Español",
               "formato": "2D"
@@ -177,11 +172,6 @@
           "titulo": "FRANKIE Y LOS MONSTRUOS",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
@@ -304,9 +294,14 @@
           "titulo": "CHAINSAW MAN LA PELÍCULA - ARCO DE REZE",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D PLUS"
             },
             {
               "horario": "13:00",
@@ -319,6 +314,11 @@
               "formato": "2D"
             },
             {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "19:30",
               "idioma": "Español",
               "formato": "2D"
@@ -327,16 +327,6 @@
               "horario": "21:40",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
             },
             {
               "horario": "16:10",
@@ -384,11 +374,6 @@
         {
           "titulo": "A PESAR DE TI",
           "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "13:20",
               "idioma": "Español",
@@ -479,42 +464,6 @@
           "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
         },
         {
-          "titulo": "CUANDO EL CIELO SE EQUIVOCA",
-          "horarios": [
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "f862a201-2203-4539-9fe7-cc9ad1218ac9"
-        },
-        {
           "titulo": "TELÉFONO NEGRO 2",
           "horarios": [
             {
@@ -556,13 +505,44 @@
           "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
         },
         {
-          "titulo": "GOOD BOY",
+          "titulo": "CUANDO EL CIELO SE EQUIVOCA",
           "horarios": [
             {
-              "horario": "11:40",
+              "horario": "15:30",
               "idioma": "Español",
               "formato": "2D"
             },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "f862a201-2203-4539-9fe7-cc9ad1218ac9"
+        },
+        {
+          "titulo": "GOOD BOY",
+          "horarios": [
             {
               "horario": "13:20",
               "idioma": "Español",
@@ -698,22 +678,12 @@
           "titulo": "EL CADÁVER DE LA NOVIA",
           "horarios": [
             {
-              "horario": "11:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "12:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -745,17 +715,7 @@
           "titulo": "FRANKIE Y LOS MONSTRUOS",
           "horarios": [
             {
-              "horario": "11:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -777,9 +737,9 @@
           "titulo": "SOMBRAS TENEBROSAS",
           "horarios": [
             {
-              "horario": "21:20",
+              "horario": "22:15",
               "idioma": "Ingles",
-              "formato": "2D SUB"
+              "formato": "2D"
             }
           ],
           "id": "dd454161-14cd-42e2-8222-411d7e0bbe4c"
@@ -814,11 +774,6 @@
         {
           "titulo": "CHAINSAW MAN LA PELÍCULA - ARCO DE REZE",
           "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "13:00",
               "idioma": "Español",
@@ -871,9 +826,9 @@
           "titulo": "TRON: ARES",
           "horarios": [
             {
-              "horario": "11:20",
+              "horario": "12:20",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "3D"
             },
             {
               "horario": "13:40",
@@ -886,17 +841,33 @@
               "formato": "2D XL"
             },
             {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
               "horario": "21:10",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
           "id": "ec55b1db-4fb3-4dea-8a0a-6b5a2436caa0"
+        },
+        {
+          "titulo": "TELÉFONO NEGRO 2",
+          "horarios": [
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
         },
         {
           "titulo": "GOOD BOY",
@@ -951,32 +922,6 @@
           "id": "f862a201-2203-4539-9fe7-cc9ad1218ac9"
         },
         {
-          "titulo": "TELÉFONO NEGRO 2",
-          "horarios": [
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
-        },
-        {
           "titulo": "A PESAR DE TI",
           "horarios": [
             {
@@ -1001,6 +946,27 @@
             }
           ],
           "id": "aafad96d-1a90-4eed-8522-3c7f11821746"
+        },
+        {
+          "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
         },
         {
           "titulo": "PARANORMAN",
@@ -1050,25 +1016,20 @@
           "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
         },
         {
-          "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
+          "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "14:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "22:30",
               "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:45",
-              "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL"
             }
           ],
-          "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
+          "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
         },
         {
           "titulo": "FRANKIE Y LOS MONSTRUOS",
@@ -1092,29 +1053,8 @@
           "id": "270eb63d-e975-4556-a340-226bcfb4d8b5"
         },
         {
-          "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
-          "horarios": [
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            }
-          ],
-          "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
-        },
-        {
           "titulo": "EL CADÁVER DE LA NOVIA",
           "horarios": [
-            {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "15:40",
               "idioma": "Español",
@@ -1150,5 +1090,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "25/10/2025"
+  "fecha": "26/10/2025"
 }
