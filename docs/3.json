@@ -3,22 +3,16 @@
     {
       "peliculas": [
         {
-          "id": "aafad96d-1a90-4eed-8522-3c7f11821746",
-          "titulo": "A PESAR DE TI",
+          "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021",
+          "titulo": "ZOOPOCALIPSIS",
           "horarios": [
             {
-              "horario": "21:50",
+              "horario": "11:00",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "9a7437c3-25cf-4e69-952d-0b83616d17af",
-          "titulo": "TWICE",
-          "horarios": [
+            },
             {
-              "horario": "12:50",
+              "horario": "15:15",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -29,17 +23,7 @@
           "titulo": "CHAINSAW MAN",
           "horarios": [
             {
-              "horario": "13:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
               "horario": "15:10",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
-              "horario": "17:20",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             }
@@ -49,6 +33,11 @@
           "id": "27c484e2-0389-48d1-95b3-e95d227755c1",
           "titulo": "EL CADAVER DE LA NOVIA",
           "horarios": [
+            {
+              "horario": "17:10",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
             {
               "horario": "11:00",
               "idioma": "DOB. AL ESPAÑOL",
@@ -61,20 +50,14 @@
           "titulo": "TELEFONO NEGRO 2",
           "horarios": [
             {
-              "horario": "21:40",
+              "horario": "12:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "3d0a1ffe-b445-4998-8a0f-2cf0d4f1c7a5",
-          "titulo": "TRON ARES",
-          "horarios": [
+            },
             {
-              "horario": "15:05",
+              "horario": "21:30",
               "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
+              "formato": "2D"
             }
           ]
         },
@@ -83,12 +66,7 @@
           "titulo": "CONJURO 4 ULTIMOS RITOS",
           "horarios": [
             {
-              "horario": "10:25",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:25",
+              "horario": "19:00",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -99,12 +77,17 @@
           "titulo": "HERMANASTRA FEA",
           "horarios": [
             {
-              "horario": "17:15",
+              "horario": "21:35",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "17:10",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -115,5 +98,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "30/10/2025"
+  "fecha": "31/10/2025"
 }
