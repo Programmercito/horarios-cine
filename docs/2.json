@@ -21,12 +21,28 @@
               "formato": "2D XL - 2D XL KRONOS"
             },
             {
+              "horario": "19:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
+        },
+        {
+          "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
+          "horarios": [
+            {
               "horario": "14:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:45",
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -52,28 +68,12 @@
               "formato": "2D XL - 2D XL KRONOS"
             },
             {
-              "horario": "20:20",
+              "horario": "20:30",
               "idioma": "Español",
               "formato": "3D XL - 3D XL KRONOS"
             }
           ],
           "id": "fc5189f5-e1c7-4702-a068-9e18fd2d484c"
-        },
-        {
-          "titulo": "SHAMAN: ENTRE DIOS Y EL DIABLO",
-          "horarios": [
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "8f331f6b-586b-4faa-98be-78226b54e9cc"
         },
         {
           "titulo": "GASPARÍN",
@@ -123,48 +123,6 @@
           "id": "fd0be776-0aa0-4ca4-9a7a-85776a73a34f"
         },
         {
-          "titulo": "ZOOPOCALIPSIS",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
-        },
-        {
-          "titulo": "LA HERMANASTRA FEA",
-          "horarios": [
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
-        },
-        {
           "titulo": "CATÁSTROFE EN EL AIRE",
           "horarios": [
             {
@@ -207,15 +165,41 @@
           "id": "ea477ee4-54c9-4473-a384-b5c3dff67a82"
         },
         {
-          "titulo": "TELÉFONO NEGRO 2",
+          "titulo": "ZOOPOCALIPSIS",
           "horarios": [
             {
-              "horario": "21:30",
+              "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
-          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
+          "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
+        },
+        {
+          "titulo": "LA HERMANASTRA FEA",
+          "horarios": [
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:15",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
         },
         {
           "titulo": "SPRINGSTEEN:MÚSICA DE NINGUNA PARTE",
@@ -245,6 +229,38 @@
           "id": "ab39aa6a-2302-494a-8523-ee327ae4c925"
         },
         {
+          "titulo": "CUANDO EL CIELO SE EQUIVOCA",
+          "horarios": [
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:15",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "f862a201-2203-4539-9fe7-cc9ad1218ac9"
+        },
+        {
+          "titulo": "TELÉFONO NEGRO 2",
+          "horarios": [
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            }
+          ],
+          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
+        },
+        {
           "titulo": "PARANORMAN",
           "horarios": [
             {
@@ -259,17 +275,6 @@
             }
           ],
           "id": "6400b185-4c16-4f62-852c-8b54d68199b1"
-        },
-        {
-          "titulo": "CUANDO EL CIELO SE EQUIVOCA",
-          "horarios": [
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "f862a201-2203-4539-9fe7-cc9ad1218ac9"
         },
         {
           "titulo": "FRANKIE Y LOS MONSTRUOS",
@@ -303,17 +308,6 @@
             }
           ],
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
-        },
-        {
-          "titulo": "HAZ QUE REGRESE",
-          "horarios": [
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
         }
       ],
       "ciudad": "El Alto"
@@ -321,38 +315,7 @@
     {
       "peliculas": [
         {
-          "titulo": "TELÉFONO NEGRO 2",
-          "horarios": [
-            {
-              "horario": "17:05",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "18:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
-        },
-        {
-          "titulo": "TELÉFONO NEGRO 2",
+          "titulo": "CHAINSAW MAN LA PELÍCULA - ARCO DE REZE",
           "horarios": [
             {
               "horario": "12:00",
@@ -390,10 +353,46 @@
               "formato": "4D E-MOTION"
             }
           ],
-          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
+          "id": "fc5189f5-e1c7-4702-a068-9e18fd2d484c"
         },
         {
           "titulo": "CHAINSAW MAN LA PELÍCULA - ARCO DE REZE",
+          "horarios": [
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:05",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "fc5189f5-e1c7-4702-a068-9e18fd2d484c"
+        },
+        {
+          "titulo": "LA PRINCESA MONONOKE",
           "horarios": [
             {
               "horario": "12:30",
@@ -421,7 +420,33 @@
               "formato": "2D XL"
             }
           ],
-          "id": "fc5189f5-e1c7-4702-a068-9e18fd2d484c"
+          "id": "ab39aa6a-2302-494a-8523-ee327ae4c925"
+        },
+        {
+          "titulo": "SHAMAN: ENTRE DIOS Y EL DIABLO",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:35",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:35",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "8f331f6b-586b-4faa-98be-78226b54e9cc"
         },
         {
           "titulo": "BAÑO DE MUJERES",
@@ -455,22 +480,12 @@
             {
               "horario": "14:15",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "‌\n"
             },
             {
               "horario": "16:15",
               "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "‌\n"
             }
           ],
           "id": "f862a201-2203-4539-9fe7-cc9ad1218ac9"
@@ -502,56 +517,25 @@
           "id": "9aa6d4c5-9b92-4f4a-a893-5bb4972fec60"
         },
         {
-          "titulo": "SHAMAN: ENTRE DIOS Y EL DIABLO",
+          "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
           "horarios": [
             {
               "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D PLUS"
             },
             {
-              "horario": "14:00",
+              "horario": "15:25",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL"
             },
             {
-              "horario": "20:35",
+              "horario": "21:00",
               "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:35",
-              "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL"
             }
           ],
-          "id": "8f331f6b-586b-4faa-98be-78226b54e9cc"
-        },
-        {
-          "titulo": "ZOOPOCALIPSIS",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
+          "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
         },
         {
           "titulo": "LA HERMANASTRA FEA",
@@ -567,38 +551,17 @@
               "formato": "2D"
             },
             {
+              "horario": "21:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "22:10",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
           "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
-        },
-        {
-          "titulo": "CATÁSTROFE EN EL AIRE",
-          "horarios": [
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "c4abfa01-d67d-401a-b758-86709e6f5e07"
         },
         {
           "titulo": "EL CADÁVER DE LA NOVIA",
@@ -630,6 +593,32 @@
             }
           ],
           "id": "a3d966ee-0fe9-40a8-b849-77b6d979cfe4"
+        },
+        {
+          "titulo": "CATÁSTROFE EN EL AIRE",
+          "horarios": [
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "c4abfa01-d67d-401a-b758-86709e6f5e07"
         },
         {
           "titulo": "A PESAR DE TI",
@@ -677,6 +666,32 @@
             }
           ],
           "id": "63a9381a-0a70-4d6a-8f65-033eaae792dc"
+        },
+        {
+          "titulo": "ZOOPOCALIPSIS",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
         },
         {
           "titulo": "GOOD BOY",
@@ -747,32 +762,6 @@
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
         },
         {
-          "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:25",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            }
-          ],
-          "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
-        },
-        {
           "titulo": "FRANKIE Y LOS MONSTRUOS",
           "horarios": [
             {
@@ -799,7 +788,7 @@
             {
               "horario": "14:00",
               "idioma": "Ingles",
-              "formato": "2D PLUS"
+              "formato": "2D PLUS SUB"
             },
             {
               "horario": "21:45",
@@ -835,17 +824,6 @@
             }
           ],
           "id": "6400b185-4c16-4f62-852c-8b54d68199b1"
-        },
-        {
-          "titulo": "HAZ QUE REGRESE",
-          "horarios": [
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
         }
       ],
       "ciudad": "La Paz"
@@ -936,6 +914,32 @@
           "id": "ec55b1db-4fb3-4dea-8a0a-6b5a2436caa0"
         },
         {
+          "titulo": "ZOOPOCALIPSIS",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
+        },
+        {
           "titulo": "CATÁSTROFE EN EL AIRE",
           "horarios": [
             {
@@ -999,53 +1003,6 @@
           "id": "8f331f6b-586b-4faa-98be-78226b54e9cc"
         },
         {
-          "titulo": "BAÑO DE MUJERES",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "fd0be776-0aa0-4ca4-9a7a-85776a73a34f"
-        },
-        {
-          "titulo": "ZOOPOCALIPSIS",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
-        },
-        {
           "titulo": "GASPARÍN",
           "horarios": [
             {
@@ -1072,25 +1029,25 @@
           "id": "63a9381a-0a70-4d6a-8f65-033eaae792dc"
         },
         {
-          "titulo": "CHAINSAW MAN LA PELÍCULA - ARCO DE REZE",
+          "titulo": "BAÑO DE MUJERES",
           "horarios": [
             {
-              "horario": "13:10",
+              "horario": "14:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "18:05",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "22:10",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             }
           ],
-          "id": "fc5189f5-e1c7-4702-a068-9e18fd2d484c"
+          "id": "fd0be776-0aa0-4ca4-9a7a-85776a73a34f"
         },
         {
           "titulo": "LA PRINCESA MONONOKE",
@@ -1112,6 +1069,27 @@
             }
           ],
           "id": "ab39aa6a-2302-494a-8523-ee327ae4c925"
+        },
+        {
+          "titulo": "CHAINSAW MAN LA PELÍCULA - ARCO DE REZE",
+          "horarios": [
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            }
+          ],
+          "id": "fc5189f5-e1c7-4702-a068-9e18fd2d484c"
         },
         {
           "titulo": "EL RESPLANDOR",
@@ -1179,6 +1157,17 @@
           "id": "ea477ee4-54c9-4473-a384-b5c3dff67a82"
         },
         {
+          "titulo": "DESTINO FINAL: LAZOS DE SANGRE",
+          "horarios": [
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "0c801677-4f0f-4f79-bfb6-ca63db30956d"
+        },
+        {
           "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
           "horarios": [
             {
@@ -1190,7 +1179,7 @@
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
         },
         {
-          "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
+          "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
           "horarios": [
             {
               "horario": "14:00",
@@ -1198,21 +1187,10 @@
               "formato": "2D"
             }
           ],
-          "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
+          "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
         },
         {
-          "titulo": "HAZ QUE REGRESE",
-          "horarios": [
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6f9f6450-6b4a-4582-bca9-5e7b108ab3ea"
-        },
-        {
-          "titulo": "LA HORA DE LA DESAPARICIÓN",
+          "titulo": "EXTERMINIO: LA EVOLUCIÓN",
           "horarios": [
             {
               "horario": "20:00",
@@ -1220,12 +1198,12 @@
               "formato": "2D"
             }
           ],
-          "id": "d2892702-8b4d-42f6-b2b3-e308295d31d3"
+          "id": "f8a5ec9f-4178-424d-a8c8-77c9715e576a"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "1/11/2025"
+  "fecha": "2/11/2025"
 }
