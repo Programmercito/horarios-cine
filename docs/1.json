@@ -225,6 +225,11 @@
           "titulo": "NE ZHA 2",
           "horarios": [
             {
+              "horario": "10:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "13:55",
               "idioma": "DOB",
               "formato": "2D"
@@ -624,12 +629,12 @@
           "horarios": [
             {
               "horario": "19:40",
-              "idioma": "DOB",
+              "idioma": "SUBT",
               "formato": "2D"
             },
             {
               "horario": "21:50",
-              "idioma": "DOB",
+              "idioma": "SUBT",
               "formato": "2D"
             }
           ],
@@ -1194,22 +1199,37 @@
           "titulo": "ZOOPOCALIPSIS",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:15",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "13:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:45",
+              "horario": "13:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1217,15 +1237,41 @@
           "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
         },
         {
-          "titulo": "BAÑO DE MUJERES",
+          "titulo": "LA PRINCESA MONONOKE",
           "horarios": [
             {
-              "horario": "18:00",
+              "horario": "12:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:25",
+              "horario": "15:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ab39aa6a-2302-494a-8523-ee327ae4c925"
+        },
+        {
+          "titulo": "BAÑO DE MUJERES",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1236,12 +1282,22 @@
           "titulo": "CATASTROFE EN EL AIRE",
           "horarios": [
             {
-              "horario": "17:00",
+              "horario": "13:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1249,20 +1305,120 @@
           "id": "d67c9fb7-239a-4de0-9626-1666c057b959"
         },
         {
-          "titulo": "SHAMAN: ENTRE DIOS Y EL DIABLO",
+          "titulo": "SPRINGSTEEN: MUSICA DE NINGUNA PARTE",
           "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "18:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:00",
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "b2b1a4f0-c0f7-48da-8433-425223909fa0"
+        },
+        {
+          "titulo": "SHAMAN: ENTRE DIOS Y EL DIABLO",
+          "horarios": [
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "8f331f6b-586b-4faa-98be-78226b54e9cc"
+        },
+        {
+          "titulo": "EL CONJURO 4: ULTIMOS RITOS",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d913942c-26d4-45e3-9fcf-1812553d1b1a"
+        },
+        {
+          "titulo": "TOY STORY",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "595a5b84-e022-4cf3-97f1-c48411e95b8d"
+        },
+        {
+          "titulo": "PARANORMAN",
+          "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "6400b185-4c16-4f62-852c-8b54d68199b1"
+        },
+        {
+          "titulo": "LA CASA DE MUÑECAS DE GABBY: LA PELICULA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "658c6af8-0f34-4021-acf5-911b6d2f4364"
         },
         {
           "titulo": "TRON: ARES",
@@ -1294,6 +1450,26 @@
           "titulo": "CHAINSAW MAN LA PELICULA - ARCO DE REZE",
           "horarios": [
             {
+              "horario": "11:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
               "horario": "14:20",
               "idioma": "DOB",
               "formato": "2D Atmos"
@@ -1320,7 +1496,17 @@
           "titulo": "LA HERMANASTRA FEA",
           "horarios": [
             {
-              "horario": "22:00",
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1349,6 +1535,11 @@
               "horario": "20:45",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "d21aebd8-bd8c-4e43-8c64-a9c6b063711e"
@@ -1357,12 +1548,17 @@
           "titulo": "EL CADAVER DE LA NOVIA",
           "horarios": [
             {
-              "horario": "14:00",
+              "horario": "12:25",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:00",
+              "horario": "14:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:25",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1373,12 +1569,17 @@
           "titulo": "FRANKIE Y LOS MONSTRUOS",
           "horarios": [
             {
-              "horario": "14:10",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:25",
+              "horario": "13:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1389,17 +1590,64 @@
           "titulo": "GOOD BOY",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "17:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "19:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:15",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "ea477ee4-54c9-4473-a384-b5c3dff67a82"
+        },
+        {
+          "titulo": "A PESAR DE TI",
+          "horarios": [
+            {
+              "horario": "18:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "aafad96d-1a90-4eed-8522-3c7f11821746"
+        },
+        {
+          "titulo": "CUANDO EL CIELO SE EQUIVOCA",
+          "horarios": [
+            {
+              "horario": "17:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f862a201-2203-4539-9fe7-cc9ad1218ac9"
         }
       ],
       "ciudad": "La Paz"
@@ -1409,6 +1657,11 @@
         {
           "titulo": "ZOOPOCALIPSIS",
           "horarios": [
+            {
+              "horario": "12:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "14:30",
               "idioma": "DOB",
@@ -1426,12 +1679,12 @@
           "titulo": "LA PRINCESA MONONOKE",
           "horarios": [
             {
-              "horario": "15:05",
+              "horario": "14:40",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "17:35",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1442,7 +1695,12 @@
           "titulo": "THE SHINING (1980)",
           "horarios": [
             {
-              "horario": "20:45",
+              "horario": "18:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:35",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1474,7 +1732,12 @@
           "titulo": "TOY STORY",
           "horarios": [
             {
-              "horario": "14:35",
+              "horario": "12:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1482,20 +1745,36 @@
           "id": "595a5b84-e022-4cf3-97f1-c48411e95b8d"
         },
         {
-          "titulo": "PARANORMAN",
+          "titulo": "LA CASA DE MUÑECAS DE GABBY: LA PELICULA",
           "horarios": [
             {
-              "horario": "13:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
+              "horario": "12:20",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "6400b185-4c16-4f62-852c-8b54d68199b1"
+          "id": "658c6af8-0f34-4021-acf5-911b6d2f4364"
+        },
+        {
+          "titulo": "FRANKIE Y LOS MONSTRUOS",
+          "horarios": [
+            {
+              "horario": "11:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "270eb63d-e975-4556-a340-226bcfb4d8b5"
         },
         {
           "titulo": "A PESAR DE TI",
@@ -1517,12 +1796,7 @@
           "titulo": "CUANDO EL CIELO SE EQUIVOCA",
           "horarios": [
             {
-              "horario": "18:40",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
+              "horario": "20:30",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -2077,5 +2351,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "4/11/2025"
+  "fecha": "5/11/2025"
 }
