@@ -3,29 +3,77 @@
     {
       "peliculas": [
         {
-          "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021",
-          "titulo": "ZOOPOCALIPSIS",
+          "id": "6e803e2d-f902-4e35-b47e-42de9bc01709",
+          "titulo": "DEPREDADOR TIERRAS SALVAJES",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "15:00",
               "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
+              "formato": "3D"
             },
             {
-              "horario": "15:15",
+              "horario": "17:10",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "14fb42e2-95a3-4191-b4c3-826c32c6f9cc",
+          "titulo": "WICKED",
+          "horarios": [
+            {
+              "horario": "16:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "c6b2bf77-955b-4403-ae6d-3d123e05c09e",
-          "titulo": "CHAINSAW MAN",
+          "id": "3a257f01-d0ce-4867-87cd-7ebadddba53f",
+          "titulo": "APOLO 13",
           "horarios": [
             {
-              "horario": "15:10",
+              "horario": "10:20",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "6e803e2d-f902-4e35-b47e-42de9bc01709",
+          "titulo": "DEPREDADOR TIERRAS SALVAJES",
+          "horarios": [
+            {
+              "horario": "10:45",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021",
+          "titulo": "ZOOPOCALIPSIS",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
             }
           ]
         },
@@ -34,12 +82,7 @@
           "titulo": "EL CADAVER DE LA NOVIA",
           "horarios": [
             {
-              "horario": "17:10",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:00",
+              "horario": "12:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -50,23 +93,7 @@
           "titulo": "TELEFONO NEGRO 2",
           "horarios": [
             {
-              "horario": "12:50",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "fef19d5e-c0d8-4c5b-8f70-a47c7c2313bd",
-          "titulo": "CONJURO 4 ULTIMOS RITOS",
-          "horarios": [
-            {
-              "horario": "19:00",
+              "horario": "21:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -77,17 +104,7 @@
           "titulo": "HERMANASTRA FEA",
           "horarios": [
             {
-              "horario": "21:35",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
+              "horario": "19:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -98,5 +115,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "6/11/2025"
+  "fecha": "7/11/2025"
 }
