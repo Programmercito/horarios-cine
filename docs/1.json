@@ -36,12 +36,27 @@
               "formato": "2D"
             },
             {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -62,16 +77,6 @@
             },
             {
               "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
@@ -106,19 +111,14 @@
               "formato": "2D CXC Atmos"
             },
             {
-              "horario": "17:30",
+              "horario": "18:30",
               "idioma": "DOB",
-              "formato": "3D"
+              "formato": "3D Atmos"
             },
             {
-              "horario": "20:00",
+              "horario": "21:00",
               "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "3D"
+              "formato": "3D Atmos"
             },
             {
               "horario": "17:00",
@@ -1118,12 +1118,47 @@
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1138,6 +1173,16 @@
               "formato": "2D"
             },
             {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -1148,32 +1193,37 @@
               "formato": "2D"
             },
             {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:30",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "16:00",
+              "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "18:30",
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "3D Atmos"
             },
             {
-              "horario": "21:00",
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "3D Atmos"
             }
@@ -1183,6 +1233,16 @@
         {
           "titulo": "DOLLHOUSE: MUÑECA MALDITA",
           "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "19:00",
               "idioma": "DOB",
@@ -1197,15 +1257,62 @@
           "id": "e996970a-6e47-4bfa-8a5e-f3b9cac6ac5b"
         },
         {
-          "titulo": "HOMBRE LOBO: EL DESPERTAR",
+          "titulo": "APOLO 13",
           "horarios": [
             {
-              "horario": "19:35",
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:45",
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "3a257f01-d0ce-4867-87cd-7ebadddba53f"
+        },
+        {
+          "titulo": "MATATE, AMOR",
+          "horarios": [
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "c2c7e9d4-a6f4-4350-8c79-727e1caa2a31"
+        },
+        {
+          "titulo": "HOMBRE LOBO: EL DESPERTAR",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1229,15 +1336,36 @@
           "id": "14fb42e2-95a3-4191-b4c3-826c32c6f9cc"
         },
         {
+          "titulo": "EL CONJURO 4: ULTIMOS RITOS",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d913942c-26d4-45e3-9fcf-1812553d1b1a"
+        },
+        {
           "titulo": "TRON: ARES",
           "horarios": [
             {
-              "horario": "14:15",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:55",
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1248,12 +1376,17 @@
           "titulo": "CHAINSAW MAN LA PELICULA - ARCO DE REZE",
           "horarios": [
             {
-              "horario": "14:20",
+              "horario": "12:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:40",
+              "horario": "15:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1261,15 +1394,46 @@
           "id": "ba9a8d65-e39d-4df5-82f0-bf6a888c8bcf"
         },
         {
-          "titulo": "EL TELEFONO NEGRO 2",
+          "titulo": "LA HERMANASTRA FEA",
           "horarios": [
             {
-              "horario": "18:20",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:55",
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
+        },
+        {
+          "titulo": "EL TELEFONO NEGRO 2",
+          "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:25",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1277,10 +1441,74 @@
           "id": "d21aebd8-bd8c-4e43-8c64-a9c6b063711e"
         },
         {
+          "titulo": "EL CADAVER DE LA NOVIA",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "27c484e2-0389-48d1-95b3-e95d227755c1"
+        },
+        {
+          "titulo": "FRANKIE Y LOS MONSTRUOS",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "270eb63d-e975-4556-a340-226bcfb4d8b5"
+        },
+        {
+          "titulo": "GOOD BOY",
+          "horarios": [
+            {
+              "horario": "11:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ea477ee4-54c9-4473-a384-b5c3dff67a82"
+        },
+        {
+          "titulo": "A PESAR DE TI",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "aafad96d-1a90-4eed-8522-3c7f11821746"
+        },
+        {
           "titulo": "CUANDO EL CIELO SE EQUIVOCA",
           "horarios": [
             {
-              "horario": "22:00",
+              "horario": "19:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1291,22 +1519,22 @@
           "titulo": "ZOOPOCALIPSIS",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:15",
+              "horario": "14:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:45",
+              "horario": "19:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1317,12 +1545,7 @@
           "titulo": "CATASTROFE EN EL AIRE",
           "horarios": [
             {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1337,6 +1560,11 @@
         {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
             {
               "horario": "16:30",
               "idioma": "SUBT",
@@ -1353,24 +1581,29 @@
               "formato": "2D"
             },
             {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
               "horario": "13:30",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "3D"
             },
             {
               "horario": "16:00",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "3D"
             },
             {
               "horario": "18:30",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "3D"
             },
             {
               "horario": "21:00",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "3D"
             }
           ],
           "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
@@ -1411,6 +1644,11 @@
           "titulo": "EL CADAVER DE LA NOVIA",
           "horarios": [
             {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -1426,6 +1664,11 @@
         {
           "titulo": "ZOOPOCALIPSIS",
           "horarios": [
+            {
+              "horario": "11:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "13:30",
               "idioma": "DOB",
@@ -1966,5 +2209,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "6/11/2025"
+  "fecha": "7/11/2025"
 }
