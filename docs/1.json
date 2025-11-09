@@ -66,11 +66,6 @@
               "formato": "2D"
             },
             {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
               "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
@@ -255,6 +250,11 @@
               "horario": "13:40",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "16:35",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "282e9f56-99ec-4606-809f-117194973c15"
@@ -290,12 +290,12 @@
           "titulo": "EL CONJURO 4: ULTIMOS RITOS",
           "horarios": [
             {
-              "horario": "18:45",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:35",
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -514,7 +514,7 @@
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "13:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -893,7 +893,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:55",
+              "horario": "21:45",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1439,17 +1439,17 @@
           "titulo": "EL CADAVER DE LA NOVIA",
           "horarios": [
             {
-              "horario": "11:10",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:10",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1576,11 +1576,6 @@
               "formato": "2D"
             },
             {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "11:00",
               "idioma": "DOB",
               "formato": "3D"
@@ -1592,6 +1587,11 @@
             },
             {
               "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "3D"
             },
@@ -2204,5 +2204,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "8/11/2025"
+  "fecha": "9/11/2025"
 }
