@@ -6,6 +6,11 @@
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
             {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:10",
               "idioma": "Español",
               "formato": "2D XL - 2D XL KRONOS"
@@ -69,6 +74,27 @@
           "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
         },
         {
+          "titulo": "DOLLHOUSE: MUÑECA MALDITA",
+          "horarios": [
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "e996970a-6e47-4bfa-8a5e-f3b9cac6ac5b"
+        },
+        {
           "titulo": "CATÁSTROFE EN EL AIRE",
           "horarios": [
             {
@@ -114,27 +140,6 @@
             }
           ],
           "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
-        },
-        {
-          "titulo": "DOLLHOUSE: MUÑECA MALDITA",
-          "horarios": [
-            {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "e996970a-6e47-4bfa-8a5e-f3b9cac6ac5b"
         },
         {
           "titulo": "HOMBRE LOBO: EL DESPERTAR",
@@ -224,6 +229,11 @@
         {
           "titulo": "ZOOPOCALIPSIS",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
             {
               "horario": "14:40",
               "idioma": "Español",
@@ -448,9 +458,9 @@
           "titulo": "CHAINSAW MAN LA PELÍCULA - ARCO DE REZE",
           "horarios": [
             {
-              "horario": "12:10",
+              "horario": "11:10",
               "idioma": "Español",
-              "formato": "3D PLUS"
+              "formato": "2D"
             },
             {
               "horario": "13:10",
@@ -476,6 +486,11 @@
               "horario": "21:30",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "3D PLUS"
             }
           ],
           "id": "fc5189f5-e1c7-4702-a068-9e18fd2d484c"
@@ -541,6 +556,11 @@
           "titulo": "GOOD BOY",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:30",
               "idioma": "Español",
               "formato": "2D"
@@ -562,6 +582,32 @@
             }
           ],
           "id": "ea477ee4-54c9-4473-a384-b5c3dff67a82"
+        },
+        {
+          "titulo": "CUANDO EL CIELO SE EQUIVOCA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "f862a201-2203-4539-9fe7-cc9ad1218ac9"
         },
         {
           "titulo": "HOMBRE LOBO: EL DESPERTAR",
@@ -614,14 +660,9 @@
           "titulo": "EL CADÁVER DE LA NOVIA",
           "horarios": [
             {
-              "horario": "12:40",
+              "horario": "11:20",
               "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "formato": "2D"
             },
             {
               "horario": "14:20",
@@ -632,35 +673,40 @@
               "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
             }
           ],
           "id": "a3d966ee-0fe9-40a8-b849-77b6d979cfe4"
         },
         {
-          "titulo": "CUANDO EL CIELO SE EQUIVOCA",
+          "titulo": "CATÁSTROFE EN EL AIRE",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "14:50",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "17:10",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             },
             {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "15:30",
+              "horario": "19:40",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "f862a201-2203-4539-9fe7-cc9ad1218ac9"
+          "id": "c4abfa01-d67d-401a-b758-86709e6f5e07"
         },
         {
           "titulo": "WICKED",
@@ -711,40 +757,24 @@
           "id": "c979b2c6-9f32-4d96-a148-647884ddaf65"
         },
         {
-          "titulo": "CATÁSTROFE EN EL AIRE",
+          "titulo": "SHAMAN: ENTRE DIOS Y EL DIABLO",
           "horarios": [
             {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
+              "horario": "22:15",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "c4abfa01-d67d-401a-b758-86709e6f5e07"
-        },
-        {
-          "titulo": "TRON: ARES",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "ec55b1db-4fb3-4dea-8a0a-6b5a2436caa0"
+          "id": "8f331f6b-586b-4faa-98be-78226b54e9cc"
         },
         {
           "titulo": "ZOOPOCALIPSIS",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -759,15 +789,20 @@
           "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
         },
         {
-          "titulo": "SHAMAN: ENTRE DIOS Y EL DIABLO",
+          "titulo": "TRON: ARES",
           "horarios": [
             {
-              "horario": "22:15",
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "8f331f6b-586b-4faa-98be-78226b54e9cc"
+          "id": "ec55b1db-4fb3-4dea-8a0a-6b5a2436caa0"
         },
         {
           "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
@@ -805,30 +840,75 @@
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
             {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:20",
               "idioma": "Español",
-              "formato": "‌\n"
+              "formato": "2D XL"
             },
             {
               "horario": "14:40",
               "idioma": "Español",
-              "formato": "‌\n"
+              "formato": "2D XL"
             },
             {
               "horario": "17:00",
               "idioma": "Español",
-              "formato": "‌\n"
+              "formato": "2D XL"
             },
             {
               "horario": "19:20",
               "idioma": "Español",
-              "formato": "‌\n"
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "3D XL"
             }
           ],
           "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
         },
         {
-          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
+          "titulo": "TELÉFONO NEGRO 2",
           "horarios": [
             {
               "horario": "12:40",
@@ -856,7 +936,7 @@
               "formato": "2D"
             }
           ],
-          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
+          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
         },
         {
           "titulo": "MÁTATE, AMOR",
@@ -962,6 +1042,11 @@
           "titulo": "ZOOPOCALIPSIS",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "13:00",
               "idioma": "Español",
               "formato": "2D"
@@ -982,6 +1067,11 @@
         {
           "titulo": "TRON: ARES",
           "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:40",
               "idioma": "Español",
@@ -1023,7 +1113,18 @@
           "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
         },
         {
-          "titulo": "LA HERMANASTRA FEA",
+          "titulo": "APOLO 13 30 Aniversario",
+          "horarios": [
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "c979b2c6-9f32-4d96-a148-647884ddaf65"
+        },
+        {
+          "titulo": "GOOD BOY",
           "horarios": [
             {
               "horario": "15:50",
@@ -1031,7 +1132,7 @@
               "formato": "2D"
             }
           ],
-          "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
+          "id": "ea477ee4-54c9-4473-a384-b5c3dff67a82"
         },
         {
           "titulo": "A PESAR DE TI",
@@ -1093,5 +1194,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "10/11/2025"
+  "fecha": "11/11/2025"
 }
