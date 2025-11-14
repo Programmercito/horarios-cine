@@ -3,42 +3,6 @@
     {
       "peliculas": [
         {
-          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "20:15",
-              "idioma": "Español",
-              "formato": "3D"
-            }
-          ],
-          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
-        },
-        {
           "titulo": "NADA ES LO QUE PARECE 3",
           "horarios": [
             {
@@ -131,47 +95,40 @@
           "id": "774ce3d7-bb40-4ab5-8e4e-008d98017ff0"
         },
         {
-          "titulo": "DOLLHOUSE: MUÑECA MALDITA",
+          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
             {
-              "horario": "22:10",
+              "horario": "12:10",
               "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "e996970a-6e47-4bfa-8a5e-f3b9cac6ac5b"
-        },
-        {
-          "titulo": "HOMBRE LOBO: EL DESPERTAR",
-          "horarios": [
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "bf43c292-9270-4f3a-9e86-190f852eea69"
-        },
-        {
-          "titulo": "MONARCAS: EL GRAN VIAJE MÁGICO",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL - 2D XL KRONOS"
             },
             {
-              "horario": "14:10",
+              "horario": "16:50",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL - 2D XL KRONOS"
             },
             {
-              "horario": "16:10",
+              "horario": "19:10",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "Español",
+              "formato": "3D"
             }
           ],
-          "id": "ab830fe3-fafc-4e62-9e94-e543d04bbe82"
+          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
         },
         {
           "titulo": "LA REENCARNACION DEL DIABLO",
@@ -195,6 +152,43 @@
           "id": "61257f45-0c50-4712-b969-09e5407d2b2c"
         },
         {
+          "titulo": "MONARCAS: EL GRAN VIAJE MÁGICO",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "ab830fe3-fafc-4e62-9e94-e543d04bbe82"
+        },
+        {
+          "titulo": "LA HERMANASTRA FEA",
+          "horarios": [
+            {
+              "horario": "13:55",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
+        },
+        {
           "titulo": "VOLVER AL FUTURO",
           "horarios": [
             {
@@ -209,6 +203,28 @@
             }
           ],
           "id": "bd8b9bf0-2b94-4c28-a224-8360234af07e"
+        },
+        {
+          "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
+          "horarios": [
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
+        },
+        {
+          "titulo": "HOMBRE LOBO: EL DESPERTAR",
+          "horarios": [
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "bf43c292-9270-4f3a-9e86-190f852eea69"
         },
         {
           "titulo": "HARRY POTTER Y EL CÁLIZ DE FUEGO",
@@ -227,15 +243,37 @@
           "id": "2b5c3b8c-c5f9-42ef-ba7f-ad0c877adf94"
         },
         {
-          "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
+          "titulo": "ZOOPOCALIPSIS",
           "horarios": [
             {
-              "horario": "22:30",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
+          "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
+        },
+        {
+          "titulo": "EL PADRE DEL AÑO",
+          "horarios": [
+            {
+              "horario": "16:05",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "e914f19d-97c6-44fa-87f1-2cf2e94fabea"
+        },
+        {
+          "titulo": "PORCO ROSSO",
+          "horarios": [
+            {
+              "horario": "17:05",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "cd158d97-3b72-445e-8252-84ee7c0f0864"
         },
         {
           "titulo": "CATÁSTROFE EN EL AIRE",
@@ -271,59 +309,15 @@
           "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
         },
         {
-          "titulo": "TELÉFONO NEGRO 2",
+          "titulo": "DOLLHOUSE: MUÑECA MALDITA",
           "horarios": [
             {
-              "horario": "13:55",
+              "horario": "22:10",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
-        },
-        {
-          "titulo": "ZOOPOCALIPSIS",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
-        },
-        {
-          "titulo": "PORCO ROSSO",
-          "horarios": [
-            {
-              "horario": "17:05",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "cd158d97-3b72-445e-8252-84ee7c0f0864"
-        },
-        {
-          "titulo": "PERFECT BLUE",
-          "horarios": [
-            {
-              "horario": "21:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "19adf71b-7c52-4a50-8711-1d9a302edba4"
-        },
-        {
-          "titulo": "EL PADRE DEL AÑO",
-          "horarios": [
-            {
-              "horario": "16:05",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "e914f19d-97c6-44fa-87f1-2cf2e94fabea"
+          "id": "e996970a-6e47-4bfa-8a5e-f3b9cac6ac5b"
         }
       ],
       "ciudad": "El Alto"
@@ -565,32 +559,6 @@
           "id": "2b5c3b8c-c5f9-42ef-ba7f-ad0c877adf94"
         },
         {
-          "titulo": "EL PADRE DEL AÑO",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ],
-          "id": "e914f19d-97c6-44fa-87f1-2cf2e94fabea"
-        },
-        {
           "titulo": "PERFECT BLUE",
           "horarios": [
             {
@@ -643,6 +611,53 @@
           "id": "bd8b9bf0-2b94-4c28-a224-8360234af07e"
         },
         {
+          "titulo": "EL PADRE DEL AÑO",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ],
+          "id": "e914f19d-97c6-44fa-87f1-2cf2e94fabea"
+        },
+        {
+          "titulo": "TELÉFONO NEGRO 2",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
+        },
+        {
           "titulo": "MONARCAS: EL GRAN VIAJE MÁGICO",
           "horarios": [
             {
@@ -669,27 +684,6 @@
           "id": "ab830fe3-fafc-4e62-9e94-e543d04bbe82"
         },
         {
-          "titulo": "TELÉFONO NEGRO 2",
-          "horarios": [
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
-        },
-        {
           "titulo": "LA REENCARNACION DEL DIABLO",
           "horarios": [
             {
@@ -709,6 +703,22 @@
             }
           ],
           "id": "61257f45-0c50-4712-b969-09e5407d2b2c"
+        },
+        {
+          "titulo": "LA HERMANASTRA FEA",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
         },
         {
           "titulo": "PORCO ROSSO",
@@ -732,36 +742,31 @@
           "id": "cd158d97-3b72-445e-8252-84ee7c0f0864"
         },
         {
-          "titulo": "LA HERMANASTRA FEA",
+          "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
           "horarios": [
             {
-              "horario": "14:00",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:10",
+              "horario": "15:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
+          "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
         },
         {
-          "titulo": "CHAINSAW MAN LA PELÍCULA - ARCO DE REZE",
+          "titulo": "ENFRENTANDO A LA OSCURIDAD",
           "horarios": [
             {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
+              "horario": "21:50",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "fc5189f5-e1c7-4702-a068-9e18fd2d484c"
+          "id": "24eac47c-0ff0-49a5-88c2-9cda73a2f578"
         },
         {
           "titulo": "GOOD BOY",
@@ -780,31 +785,20 @@
           "id": "ea477ee4-54c9-4473-a384-b5c3dff67a82"
         },
         {
-          "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
+          "titulo": "GOOD BOY",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "13:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "17:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
-        },
-        {
-          "titulo": "MÁTATE, AMOR",
-          "horarios": [
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "9c71afc0-ce95-409d-a501-438f0601db11"
+          "id": "ea477ee4-54c9-4473-a384-b5c3dff67a82"
         },
         {
           "titulo": "EL CADÁVER DE LA NOVIA",
@@ -834,6 +828,17 @@
           "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
         },
         {
+          "titulo": "MÁTATE, AMOR",
+          "horarios": [
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "9c71afc0-ce95-409d-a501-438f0601db11"
+        },
+        {
           "titulo": "ZOOPOCALIPSIS",
           "horarios": [
             {
@@ -854,69 +859,12 @@
             }
           ],
           "id": "f862a201-2203-4539-9fe7-cc9ad1218ac9"
-        },
-        {
-          "titulo": "ENFRENTANDO A LA OSCURIDAD",
-          "horarios": [
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "24eac47c-0ff0-49a5-88c2-9cda73a2f578"
         }
       ],
       "ciudad": "La Paz"
     },
     {
       "peliculas": [
-        {
-          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
-          "horarios": [
-            {
-              "horario": "11:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            }
-          ],
-          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
-        },
         {
           "titulo": "NADA ES LO QUE PARECE 3",
           "horarios": [
@@ -969,6 +917,52 @@
           "id": "f1a80571-e359-4216-9636-8557adbedc19"
         },
         {
+          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
+          "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            }
+          ],
+          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
+        },
+        {
           "titulo": "EL SOBREVIVIENTE",
           "horarios": [
             {
@@ -1000,6 +994,27 @@
           "id": "774ce3d7-bb40-4ab5-8e4e-008d98017ff0"
         },
         {
+          "titulo": "VOLVER AL FUTURO",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "bd8b9bf0-2b94-4c28-a224-8360234af07e"
+        },
+        {
           "titulo": "EL PADRE DEL AÑO",
           "horarios": [
             {
@@ -1021,15 +1036,10 @@
           "id": "e914f19d-97c6-44fa-87f1-2cf2e94fabea"
         },
         {
-          "titulo": "MONARCAS: EL GRAN VIAJE MÁGICO",
+          "titulo": "HARRY POTTER Y EL CÁLIZ DE FUEGO",
           "horarios": [
             {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
+              "horario": "15:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -1037,9 +1047,14 @@
               "horario": "18:30",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             }
           ],
-          "id": "ab830fe3-fafc-4e62-9e94-e543d04bbe82"
+          "id": "2b5c3b8c-c5f9-42ef-ba7f-ad0c877adf94"
         },
         {
           "titulo": "LA REENCARNACION DEL DIABLO",
@@ -1063,10 +1078,47 @@
           "id": "61257f45-0c50-4712-b969-09e5407d2b2c"
         },
         {
-          "titulo": "HARRY POTTER Y EL CÁLIZ DE FUEGO",
+          "titulo": "PERFECT BLUE",
           "horarios": [
             {
-              "horario": "15:30",
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "19adf71b-7c52-4a50-8711-1d9a302edba4"
+        },
+        {
+          "titulo": "TELÉFONO NEGRO 2",
+          "horarios": [
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
+        },
+        {
+          "titulo": "MONARCAS: EL GRAN VIAJE MÁGICO",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -1074,14 +1126,9 @@
               "horario": "18:30",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
             }
           ],
-          "id": "2b5c3b8c-c5f9-42ef-ba7f-ad0c877adf94"
+          "id": "ab830fe3-fafc-4e62-9e94-e543d04bbe82"
         },
         {
           "titulo": "PORCO ROSSO",
@@ -1110,44 +1157,7 @@
           "id": "cd158d97-3b72-445e-8252-84ee7c0f0864"
         },
         {
-          "titulo": "VOLVER AL FUTURO",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "bd8b9bf0-2b94-4c28-a224-8360234af07e"
-        },
-        {
-          "titulo": "TELÉFONO NEGRO 2",
-          "horarios": [
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
-        },
-        {
-          "titulo": "TELÉFONO NEGRO 2",
+          "titulo": "CUANDO EL CIELO SE EQUIVOCA",
           "horarios": [
             {
               "horario": "13:00",
@@ -1155,23 +1165,7 @@
               "formato": "2D"
             }
           ],
-          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
-        },
-        {
-          "titulo": "PERFECT BLUE",
-          "horarios": [
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "19adf71b-7c52-4a50-8711-1d9a302edba4"
+          "id": "f862a201-2203-4539-9fe7-cc9ad1218ac9"
         },
         {
           "titulo": "ZOOPOCALIPSIS",
@@ -1216,5 +1210,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "13/11/2025"
+  "fecha": "14/11/2025"
 }
