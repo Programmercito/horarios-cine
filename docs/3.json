@@ -3,6 +3,65 @@
     {
       "peliculas": [
         {
+          "id": "bd8b9bf0-2b94-4c28-a224-8360234af07e",
+          "titulo": "VOLVER AL FUTURO",
+          "horarios": [
+            {
+              "horario": "21:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "02be668b-3690-4c24-bf19-562e6fa40698",
+          "titulo": "NADA ES LO QUE PARECE",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:15",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "774ce3d7-bb40-4ab5-8e4e-008d98017ff0",
+          "titulo": "EL SOBREVIVIENTE",
+          "horarios": [
+            {
+              "horario": "12:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "52976bab-1f8f-4cce-8653-ec8362a3b1b2",
+          "titulo": "ENFRENTANDO LA OSCURIDAD",
+          "horarios": [
+            {
+              "horario": "10:35",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "6e803e2d-f902-4e35-b47e-42de9bc01709",
           "titulo": "DEPREDADOR TIERRAS SALVAJES",
           "horarios": [
@@ -24,87 +83,16 @@
           ]
         },
         {
-          "id": "14fb42e2-95a3-4191-b4c3-826c32c6f9cc",
-          "titulo": "WICKED",
-          "horarios": [
-            {
-              "horario": "16:50",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "3a257f01-d0ce-4867-87cd-7ebadddba53f",
-          "titulo": "APOLO 13",
-          "horarios": [
-            {
-              "horario": "10:20",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "6e803e2d-f902-4e35-b47e-42de9bc01709",
           "titulo": "DEPREDADOR TIERRAS SALVAJES",
           "horarios": [
             {
               "horario": "10:45",
               "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
+              "formato": "2D"
             },
             {
               "horario": "12:50",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            }
-          ]
-        },
-        {
-          "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021",
-          "titulo": "ZOOPOCALIPSIS",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "27c484e2-0389-48d1-95b3-e95d227755c1",
-          "titulo": "EL CADAVER DE LA NOVIA",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "0d5e0696-64ac-4a3d-8e24-f19156c8c914",
-          "titulo": "TELEFONO NEGRO 2",
-          "horarios": [
-            {
-              "horario": "21:50",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "12e832c0-6225-490d-9246-6a0a4be04798",
-          "titulo": "HERMANASTRA FEA",
-          "horarios": [
-            {
-              "horario": "19:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -115,5 +103,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "13/11/2025"
+  "fecha": "14/11/2025"
 }
