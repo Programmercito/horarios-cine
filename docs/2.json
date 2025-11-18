@@ -131,6 +131,27 @@
           "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
         },
         {
+          "titulo": "MONARCAS: EL GRAN VIAJE MÁGICO",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "ab830fe3-fafc-4e62-9e94-e543d04bbe82"
+        },
+        {
           "titulo": "LA REENCARNACION DEL DIABLO",
           "horarios": [
             {
@@ -168,59 +189,6 @@
           "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
         },
         {
-          "titulo": "MONARCAS: EL GRAN VIAJE MÁGICO",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "ab830fe3-fafc-4e62-9e94-e543d04bbe82"
-        },
-        {
-          "titulo": "VOLVER AL FUTURO",
-          "horarios": [
-            {
-              "horario": "14:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "bd8b9bf0-2b94-4c28-a224-8360234af07e"
-        },
-        {
-          "titulo": "HARRY POTTER Y EL CÁLIZ DE FUEGO",
-          "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "2b5c3b8c-c5f9-42ef-ba7f-ad0c877adf94"
-        },
-        {
           "titulo": "DOLLHOUSE: MUÑECA MALDITA",
           "horarios": [
             {
@@ -243,6 +211,22 @@
           "id": "d879905d-6877-4076-9fb4-9fca173dbc43"
         },
         {
+          "titulo": "VOLVER AL FUTURO",
+          "horarios": [
+            {
+              "horario": "14:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "bd8b9bf0-2b94-4c28-a224-8360234af07e"
+        },
+        {
           "titulo": "HOMBRE LOBO: EL DESPERTAR",
           "horarios": [
             {
@@ -252,6 +236,22 @@
             }
           ],
           "id": "bf43c292-9270-4f3a-9e86-190f852eea69"
+        },
+        {
+          "titulo": "HARRY POTTER Y EL CÁLIZ DE FUEGO",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "2b5c3b8c-c5f9-42ef-ba7f-ad0c877adf94"
         },
         {
           "titulo": "EL PADRE DEL AÑO",
@@ -547,12 +547,12 @@
             },
             {
               "horario": "19:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "4D E-MOTION"
             },
             {
               "horario": "22:30",
-              "idioma": "Cerrado",
+              "idioma": "Español",
               "formato": "4D E-MOTION"
             }
           ],
@@ -658,7 +658,7 @@
           "id": "61257f45-0c50-4712-b969-09e5407d2b2c"
         },
         {
-          "titulo": "LA REENCARNACION DEL DIABLO",
+          "titulo": "LA HERMANASTRA FEA",
           "horarios": [
             {
               "horario": "14:00",
@@ -671,7 +671,7 @@
               "formato": "2D"
             }
           ],
-          "id": "61257f45-0c50-4712-b969-09e5407d2b2c"
+          "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
         },
         {
           "titulo": "TELÉFONO NEGRO 2",
@@ -693,6 +693,32 @@
             }
           ],
           "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
+        },
+        {
+          "titulo": "MONARCAS: EL GRAN VIAJE MÁGICO",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "ab830fe3-fafc-4e62-9e94-e543d04bbe82"
         },
         {
           "titulo": "PORCO ROSSO",
@@ -732,43 +758,6 @@
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
         },
         {
-          "titulo": "MONARCAS: EL GRAN VIAJE MÁGICO",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "ab830fe3-fafc-4e62-9e94-e543d04bbe82"
-        },
-        {
-          "titulo": "ENFRENTANDO A LA OSCURIDAD",
-          "horarios": [
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "24eac47c-0ff0-49a5-88c2-9cda73a2f578"
-        },
-        {
           "titulo": "GOOD BOY",
           "horarios": [
             {
@@ -799,6 +788,22 @@
             }
           ],
           "id": "fc5189f5-e1c7-4702-a068-9e18fd2d484c"
+        },
+        {
+          "titulo": "EL CADÁVER DE LA NOVIA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "a3d966ee-0fe9-40a8-b849-77b6d979cfe4"
         },
         {
           "titulo": "EL CONJURO 4: ÚLTIMOS RITOS",
@@ -834,7 +839,7 @@
           "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
         },
         {
-          "titulo": "CUANDO EL CIELO SE EQUIVOCA",
+          "titulo": "ZOOPOCALIPSIS",
           "horarios": [
             {
               "horario": "18:30",
@@ -842,23 +847,18 @@
               "formato": "2D PLUS"
             }
           ],
-          "id": "f862a201-2203-4539-9fe7-cc9ad1218ac9"
+          "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
         },
         {
-          "titulo": "EL CADÁVER DE LA NOVIA",
+          "titulo": "ENFRENTANDO A LA OSCURIDAD",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
+              "horario": "21:50",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "a3d966ee-0fe9-40a8-b849-77b6d979cfe4"
+          "id": "24eac47c-0ff0-49a5-88c2-9cda73a2f578"
         }
       ],
       "ciudad": "La Paz"
@@ -1015,6 +1015,32 @@
           "id": "2b5c3b8c-c5f9-42ef-ba7f-ad0c877adf94"
         },
         {
+          "titulo": "HARRY POTTER Y EL CÁLIZ DE FUEGO",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "11:40",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "2b5c3b8c-c5f9-42ef-ba7f-ad0c877adf94"
+        },
+        {
           "titulo": "VOLVER AL FUTURO",
           "horarios": [
             {
@@ -1036,6 +1062,27 @@
           "id": "bd8b9bf0-2b94-4c28-a224-8360234af07e"
         },
         {
+          "titulo": "LA REENCARNACION DEL DIABLO",
+          "horarios": [
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "61257f45-0c50-4712-b969-09e5407d2b2c"
+        },
+        {
           "titulo": "PERFECT BLUE",
           "horarios": [
             {
@@ -1050,6 +1097,27 @@
             }
           ],
           "id": "19adf71b-7c52-4a50-8711-1d9a302edba4"
+        },
+        {
+          "titulo": "EL PADRE DEL AÑO",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "e914f19d-97c6-44fa-87f1-2cf2e94fabea"
         },
         {
           "titulo": "TELÉFONO NEGRO 2",
@@ -1089,27 +1157,6 @@
           "id": "ab830fe3-fafc-4e62-9e94-e543d04bbe82"
         },
         {
-          "titulo": "EL PADRE DEL AÑO",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:15",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "e914f19d-97c6-44fa-87f1-2cf2e94fabea"
-        },
-        {
           "titulo": "ZOOPOCALIPSIS",
           "horarios": [
             {
@@ -1124,32 +1171,6 @@
             }
           ],
           "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
-        },
-        {
-          "titulo": "PORCO ROSSO",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "11:40",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "cd158d97-3b72-445e-8252-84ee7c0f0864"
         },
         {
           "titulo": "CUANDO EL CIELO SE EQUIVOCA",
@@ -1172,22 +1193,11 @@
             }
           ],
           "id": "9c71afc0-ce95-409d-a501-438f0601db11"
-        },
-        {
-          "titulo": "ENFRENTANDO A LA OSCURIDAD",
-          "horarios": [
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "24eac47c-0ff0-49a5-88c2-9cda73a2f578"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "17/11/2025"
+  "fecha": "18/11/2025"
 }
