@@ -19,6 +19,11 @@
               "horario": "14:20",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "e2e790fa-f79d-45a2-9483-06631efeee8a"
@@ -38,6 +43,11 @@
             },
             {
               "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -125,27 +135,12 @@
               "formato": "2D"
             },
             {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:20",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
             {
-              "horario": "13:15",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "16:10",
+              "horario": "13:25",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
@@ -171,11 +166,6 @@
           "titulo": "HARRY POTTER Y EL CALIZ DE FUEGO",
           "horarios": [
             {
-              "horario": "21:40",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
               "horario": "11:40",
               "idioma": "DOB",
               "formato": "2D"
@@ -191,6 +181,11 @@
               "formato": "2D"
             },
             {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "17:00",
               "idioma": "DOB",
               "formato": "4D E-Motion 2D"
@@ -201,16 +196,6 @@
         {
           "titulo": "EL PADRE DEL AÑO",
           "horarios": [
-            {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "20:30",
               "idioma": "DOB",
@@ -223,32 +208,6 @@
             }
           ],
           "id": "e914f19d-97c6-44fa-87f1-2cf2e94fabea"
-        },
-        {
-          "titulo": "PORCO ROSSO",
-          "horarios": [
-            {
-              "horario": "10:20",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:35",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:05",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "cd158d97-3b72-445e-8252-84ee7c0f0864"
         },
         {
           "titulo": "ENFRENTANDO LA OSCURIDAD",
@@ -272,22 +231,6 @@
           "id": "52976bab-1f8f-4cce-8653-ec8362a3b1b2"
         },
         {
-          "titulo": "LA REENCARNACION DEL DIABLO",
-          "horarios": [
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "61257f45-0c50-4712-b969-09e5407d2b2c"
-        },
-        {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
             {
@@ -302,6 +245,11 @@
             },
             {
               "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -321,6 +269,11 @@
               "formato": "2D"
             },
             {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -336,12 +289,27 @@
               "formato": "2D"
             },
             {
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
+              "horario": "17:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -361,7 +329,17 @@
               "formato": "2D"
             },
             {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -376,6 +354,16 @@
               "formato": "2D"
             },
             {
+              "horario": "23:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
               "horario": "23:15",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
@@ -384,31 +372,30 @@
           "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
         },
         {
-          "titulo": "EL TELEFONO NEGRO 2",
-          "horarios": [
-            {
-              "horario": "20:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d21aebd8-bd8c-4e43-8c64-a9c6b063711e"
-        },
-        {
           "titulo": "FRANKIE Y LOS MONSTRUOS",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:15",
+              "horario": "12:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -419,12 +406,17 @@
           "titulo": "ZOOPOCALIPSIS",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "11:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:45",
+              "horario": "13:15",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -434,22 +426,12 @@
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "16:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -478,19 +460,13 @@
     {
       "peliculas": [
         {
-          "titulo": "VOLVER AL FUTURO",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "bd8b9bf0-2b94-4c28-a224-8360234af07e"
-        },
-        {
           "titulo": "NADA ES LO QUE PARECE 3",
           "horarios": [
+            {
+              "horario": "11:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "13:30",
               "idioma": "DOB",
@@ -498,6 +474,11 @@
             },
             {
               "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:05",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -518,32 +499,32 @@
           "titulo": "EL SOBREVIVIENTE",
           "horarios": [
             {
-              "horario": "17:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "13:00",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D"
             },
             {
               "horario": "15:45",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D"
             },
             {
               "horario": "18:40",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D"
             },
             {
               "horario": "21:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:10",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "15:05",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             }
@@ -554,12 +535,17 @@
           "titulo": "HARRY POTTER Y EL CALIZ DE FUEGO",
           "horarios": [
             {
-              "horario": "18:45",
+              "horario": "17:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:05",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -567,46 +553,8 @@
           "id": "775f1b89-2eb9-4aa4-a33a-e6270a980d79"
         },
         {
-          "titulo": "PERFECT BLUE",
-          "horarios": [
-            {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "19adf71b-7c52-4a50-8711-1d9a302edba4"
-        },
-        {
-          "titulo": "EL PADRE DEL AÑO",
-          "horarios": [
-            {
-              "horario": "21:55",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "e914f19d-97c6-44fa-87f1-2cf2e94fabea"
-        },
-        {
-          "titulo": "PORCO ROSSO",
-          "horarios": [
-            {
-              "horario": "14:45",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "cd158d97-3b72-445e-8252-84ee7c0f0864"
-        },
-        {
           "titulo": "ENFRENTANDO LA OSCURIDAD",
           "horarios": [
-            {
-              "horario": "19:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "21:45",
               "idioma": "DOB",
@@ -619,7 +567,12 @@
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -629,7 +582,7 @@
               "formato": "2D"
             },
             {
-              "horario": "15:30",
+              "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -639,7 +592,7 @@
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -649,7 +602,12 @@
               "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "19:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -657,46 +615,70 @@
               "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
             }
           ],
           "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
         },
         {
-          "titulo": "TRON: ARES",
-          "horarios": [
-            {
-              "horario": "14:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "ec55b1db-4fb3-4dea-8a0a-6b5a2436caa0"
-        },
-        {
           "titulo": "ZOOPOCALIPSIS",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "11:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:50",
+              "horario": "11:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "12:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:55",
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:45",
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -709,31 +691,15 @@
     {
       "peliculas": [
         {
-          "titulo": "MONARCAS EL GRAN VIAJE MAGICO",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "e2e790fa-f79d-45a2-9483-06631efeee8a"
-        },
-        {
           "titulo": "VOLVER AL FUTURO",
           "horarios": [
             {
               "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -774,7 +740,7 @@
               "formato": "2D"
             },
             {
-              "horario": "22:55",
+              "horario": "22:45",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -790,22 +756,12 @@
           "titulo": "EL SOBREVIVIENTE",
           "horarios": [
             {
-              "horario": "11:15",
+              "horario": "17:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
+              "horario": "20:05",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -851,6 +807,16 @@
           "titulo": "HARRY POTTER Y EL CALIZ DE FUEGO",
           "horarios": [
             {
+              "horario": "10:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "21:40",
               "idioma": "SUBT",
               "formato": "2D Atmos"
@@ -879,80 +845,20 @@
           "id": "775f1b89-2eb9-4aa4-a33a-e6270a980d79"
         },
         {
-          "titulo": "PERFECT BLUE",
-          "horarios": [
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "19adf71b-7c52-4a50-8711-1d9a302edba4"
-        },
-        {
-          "titulo": "EL PADRE DEL AÑO",
-          "horarios": [
-            {
-              "horario": "19:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "e914f19d-97c6-44fa-87f1-2cf2e94fabea"
-        },
-        {
-          "titulo": "PORCO ROSSO",
-          "horarios": [
-            {
-              "horario": "17:05",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "cd158d97-3b72-445e-8252-84ee7c0f0864"
-        },
-        {
-          "titulo": "ENFRENTANDO LA OSCURIDAD",
-          "horarios": [
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "52976bab-1f8f-4cce-8653-ec8362a3b1b2"
-        },
-        {
-          "titulo": "LA REENCARNACION DEL DIABLO",
-          "horarios": [
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "61257f45-0c50-4712-b969-09e5407d2b2c"
-        },
-        {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
             {
               "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -967,63 +873,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:15",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            }
-          ],
-          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
-        },
-        {
-          "titulo": "ZOOPOCALIPSIS",
-          "horarios": [
-            {
-              "horario": "10:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:15",
+              "horario": "12:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1038,17 +888,102 @@
               "formato": "2D"
             },
             {
-              "horario": "15:15",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:45",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:15",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
             }
           ],
-          "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
+          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
         }
       ],
       "ciudad": "Cochabamba"
@@ -1059,17 +994,22 @@
           "titulo": "MONARCAS EL GRAN VIAJE MAGICO",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "13:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "15:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1080,7 +1020,12 @@
           "titulo": "VOLVER AL FUTURO",
           "horarios": [
             {
-              "horario": "20:00",
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1091,22 +1036,27 @@
           "titulo": "NADA ES LO QUE PARECE 3",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "11:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:35",
+              "horario": "13:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:10",
+              "horario": "16:25",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:45",
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:35",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1117,37 +1067,37 @@
           "titulo": "EL SOBREVIVIENTE",
           "horarios": [
             {
-              "horario": "14:40",
+              "horario": "12:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:35",
+              "horario": "15:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "18:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:05",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "15:55",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "18:50",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "21:45",
+              "horario": "16:55",
               "idioma": "DOB",
               "formato": "2D Atmos"
             }
@@ -1155,13 +1105,29 @@
           "id": "774ce3d7-bb40-4ab5-8e4e-008d98017ff0"
         },
         {
-          "titulo": "PERFECT BLUE",
+          "titulo": "HARRY POTTER Y EL CALIZ DE FUEGO",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "775f1b89-2eb9-4aa4-a33a-e6270a980d79"
+        },
+        {
+          "titulo": "PERFECT BLUE",
+          "horarios": [
             {
               "horario": "15:00",
               "idioma": "DOB",
@@ -1169,6 +1135,11 @@
             },
             {
               "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1179,12 +1150,7 @@
           "titulo": "EL PADRE DEL AÑO",
           "horarios": [
             {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1195,12 +1161,7 @@
           "titulo": "PORCO ROSSO",
           "horarios": [
             {
-              "horario": "14:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:15",
+              "horario": "18:30",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1211,12 +1172,12 @@
           "titulo": "ENFRENTANDO LA OSCURIDAD",
           "horarios": [
             {
-              "horario": "19:15",
+              "horario": "19:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:55",
+              "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1227,12 +1188,12 @@
           "titulo": "LA REENCARNACION DEL DIABLO",
           "horarios": [
             {
-              "horario": "18:30",
+              "horario": "19:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:05",
+              "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1243,42 +1204,72 @@
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:30",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:30",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1286,10 +1277,110 @@
           "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
         },
         {
+          "titulo": "TRON: ARES",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ec55b1db-4fb3-4dea-8a0a-6b5a2436caa0"
+        },
+        {
+          "titulo": "CHAINSAW MAN LA PELICULA - ARCO DE REZE",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ba9a8d65-e39d-4df5-82f0-bf6a888c8bcf"
+        },
+        {
+          "titulo": "LA HERMANASTRA FEA",
+          "horarios": [
+            {
+              "horario": "21:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
+        },
+        {
+          "titulo": "EL TELEFONO NEGRO 2",
+          "horarios": [
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d21aebd8-bd8c-4e43-8c64-a9c6b063711e"
+        },
+        {
+          "titulo": "EL CADAVER DE LA NOVIA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "27c484e2-0389-48d1-95b3-e95d227755c1"
+        },
+        {
           "titulo": "ZOOPOCALIPSIS",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "13:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1305,6 +1396,32 @@
             }
           ],
           "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
+        },
+        {
+          "titulo": "MATATE, AMOR",
+          "horarios": [
+            {
+              "horario": "11:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "c2c7e9d4-a6f4-4350-8c79-727e1caa2a31"
         }
       ],
       "ciudad": "La Paz"
@@ -1314,6 +1431,11 @@
         {
           "titulo": "NADA ES LO QUE PARECE 3",
           "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
             {
               "horario": "16:35",
               "idioma": "SUBT",
@@ -1336,6 +1458,11 @@
           "titulo": "EL SOBREVIVIENTE",
           "horarios": [
             {
+              "horario": "11:45",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
               "horario": "14:40",
               "idioma": "SUBT",
               "formato": "2D"
@@ -1354,27 +1481,38 @@
           "id": "774ce3d7-bb40-4ab5-8e4e-008d98017ff0"
         },
         {
+          "titulo": "HARRY POTTER Y EL CALIZ DE FUEGO",
+          "horarios": [
+            {
+              "horario": "16:20",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "775f1b89-2eb9-4aa4-a33a-e6270a980d79"
+        },
+        {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
             {
-              "horario": "14:00",
+              "horario": "11:20",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "13:50",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "SUBT",
-              "formato": "2D"
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "3D"
             },
             {
               "horario": "13:30",
@@ -1403,7 +1541,7 @@
           "titulo": "ZOOPOCALIPSIS",
           "horarios": [
             {
-              "horario": "14:20",
+              "horario": "11:45",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1419,17 +1557,12 @@
           "titulo": "MONARCAS EL GRAN VIAJE MAGICO",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
+              "horario": "14:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1440,7 +1573,7 @@
           "titulo": "VOLVER AL FUTURO",
           "horarios": [
             {
-              "horario": "20:30",
+              "horario": "20:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1456,17 +1589,17 @@
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "16:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:05",
+              "horario": "19:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:30",
+              "horario": "21:45",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1487,7 +1620,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:45",
+              "horario": "14:55",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1497,7 +1630,7 @@
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "17:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1507,7 +1640,7 @@
               "formato": "2D"
             },
             {
-              "horario": "20:20",
+              "horario": "20:45",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1541,36 +1674,10 @@
           "id": "775f1b89-2eb9-4aa4-a33a-e6270a980d79"
         },
         {
-          "titulo": "PERFECT BLUE",
-          "horarios": [
-            {
-              "horario": "12:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "19adf71b-7c52-4a50-8711-1d9a302edba4"
-        },
-        {
           "titulo": "EL PADRE DEL AÑO",
           "horarios": [
             {
-              "horario": "18:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1578,31 +1685,20 @@
           "id": "e914f19d-97c6-44fa-87f1-2cf2e94fabea"
         },
         {
-          "titulo": "ENFRENTANDO LA OSCURIDAD",
-          "horarios": [
-            {
-              "horario": "18:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "52976bab-1f8f-4cce-8653-ec8362a3b1b2"
-        },
-        {
           "titulo": "LA REENCARNACION DEL DIABLO",
           "horarios": [
             {
-              "horario": "19:20",
+              "horario": "16:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:45",
+              "horario": "19:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1612,6 +1708,16 @@
         {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "13:00",
               "idioma": "DOB",
@@ -1623,12 +1729,32 @@
               "formato": "2D"
             },
             {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "16:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1638,7 +1764,12 @@
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "19:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1648,28 +1779,17 @@
               "formato": "2D"
             },
             {
-              "horario": "21:30",
+              "horario": "21:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
-        },
-        {
-          "titulo": "EL TELEFONO NEGRO 2",
-          "horarios": [
-            {
-              "horario": "13:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d21aebd8-bd8c-4e43-8c64-a9c6b063711e"
         },
         {
           "titulo": "FRANKIE Y LOS MONSTRUOS",
@@ -1691,66 +1811,28 @@
               "formato": "2D"
             },
             {
-              "horario": "14:05",
+              "horario": "14:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:10",
+              "horario": "16:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:15",
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
-        },
-        {
-          "titulo": "HOMBRE LOBO: EL DESPERTAR",
-          "horarios": [
-            {
-              "horario": "12:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "bf43c292-9270-4f3a-9e86-190f852eea69"
         }
       ],
       "ciudad": "Tarija"
     },
     {
       "peliculas": [
-        {
-          "titulo": "MONARCAS EL GRAN VIAJE MAGICO",
-          "horarios": [
-            {
-              "horario": "13:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "e2e790fa-f79d-45a2-9483-06631efeee8a"
-        },
-        {
-          "titulo": "VOLVER AL FUTURO",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "bd8b9bf0-2b94-4c28-a224-8360234af07e"
-        },
         {
           "titulo": "NADA ES LO QUE PARECE 3",
           "horarios": [
@@ -1760,17 +1842,17 @@
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "16:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "19:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:30",
+              "horario": "21:45",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1786,17 +1868,7 @@
               "formato": "2D"
             },
             {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
+              "horario": "14:55",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1807,7 +1879,17 @@
           "titulo": "HARRY POTTER Y EL CALIZ DE FUEGO",
           "horarios": [
             {
+              "horario": "17:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1815,64 +1897,25 @@
           "id": "775f1b89-2eb9-4aa4-a33a-e6270a980d79"
         },
         {
-          "titulo": "EL PADRE DEL AÑO",
-          "horarios": [
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "e914f19d-97c6-44fa-87f1-2cf2e94fabea"
-        },
-        {
-          "titulo": "PORCO ROSSO",
-          "horarios": [
-            {
-              "horario": "17:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "cd158d97-3b72-445e-8252-84ee7c0f0864"
-        },
-        {
-          "titulo": "ENFRENTANDO LA OSCURIDAD",
-          "horarios": [
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "52976bab-1f8f-4cce-8653-ec8362a3b1b2"
-        },
-        {
-          "titulo": "LA REENCARNACION DEL DIABLO",
-          "horarios": [
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "61257f45-0c50-4712-b969-09e5407d2b2c"
-        },
-        {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
             {
+              "horario": "11:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:15",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1882,12 +1925,52 @@
               "formato": "2D"
             },
             {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1903,17 +1986,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "14:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:45",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1925,5 +1998,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "17/11/2025"
+  "fecha": "18/11/2025"
 }
