@@ -3,82 +3,71 @@
     {
       "peliculas": [
         {
-          "id": "bd8b9bf0-2b94-4c28-a224-8360234af07e",
-          "titulo": "VOLVER AL FUTURO",
+          "id": "3ac32b74-673e-4087-aec9-e84d74f70cea",
+          "titulo": "JUJUTSU KAISEN",
           "horarios": [
             {
-              "horario": "21:45",
-              "idioma": "DOB. AL ESPAÑOL",
+              "horario": "11:00",
+              "idioma": "Doblado al Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Doblado al Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Doblado al Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "02be668b-3690-4c24-bf19-562e6fa40698",
-          "titulo": "NADA ES LO QUE PARECE",
+          "id": "fa0e1cfb-288e-4a17-b6d4-3711865c0294",
+          "titulo": "LA BICICLETA DE LOS HUANCA 2",
           "horarios": [
             {
-              "horario": "15:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:15",
-              "idioma": "DOB. AL ESPAÑOL",
+              "horario": "12:50",
+              "idioma": "Doblado al Español",
               "formato": "2D"
             },
             {
               "horario": "19:30",
-              "idioma": "DOB. AL ESPAÑOL",
+              "idioma": "Doblado al Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "774ce3d7-bb40-4ab5-8e4e-008d98017ff0",
-          "titulo": "EL SOBREVIVIENTE",
+          "id": "6f4c4fdf-b244-4726-9437-e1c9134d71df",
+          "titulo": "WIKCED 2 FOR GOOD",
           "horarios": [
             {
-              "horario": "12:45",
+              "horario": "16:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
-            {
-              "horario": "21:30",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "52976bab-1f8f-4cce-8653-ec8362a3b1b2",
-          "titulo": "ENFRENTANDO LA OSCURIDAD",
-          "horarios": [
-            {
-              "horario": "10:35",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "6e803e2d-f902-4e35-b47e-42de9bc01709",
-          "titulo": "DEPREDADOR TIERRAS SALVAJES",
-          "horarios": [
             {
               "horario": "15:00",
               "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "f1a80571-e359-4216-9636-8557adbedc19",
+          "titulo": "NADA ES LO QUE PARECE 3",
+          "horarios": [
+            {
+              "horario": "17:40",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
             },
             {
-              "horario": "17:10",
+              "horario": "21:50",
               "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
+              "formato": "2D"
             }
           ]
         },
@@ -87,12 +76,17 @@
           "titulo": "DEPREDADOR TIERRAS SALVAJES",
           "horarios": [
             {
-              "horario": "10:45",
+              "horario": "10:40",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
               "horario": "12:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:55",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -103,5 +97,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "20/11/2025"
+  "fecha": "21/11/2025"
 }
