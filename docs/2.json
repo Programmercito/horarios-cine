@@ -121,6 +121,27 @@
           "id": "f1a80571-e359-4216-9636-8557adbedc19"
         },
         {
+          "titulo": "TERROR EN SHELBY OAKS",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "bfc444de-dc36-4efc-8ef4-edafa6ebf7dc"
+        },
+        {
           "titulo": "JUJUTSU KAISEN: EJECUCIÓN",
           "horarios": [
             {
@@ -184,27 +205,6 @@
           "id": "841ef135-e72e-4c4a-a5d8-c4c12cfba6f5"
         },
         {
-          "titulo": "TERROR EN SHELBY OAKS",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "bfc444de-dc36-4efc-8ef4-edafa6ebf7dc"
-        },
-        {
           "titulo": "MONARCAS: EL GRAN VIAJE MÁGICO",
           "horarios": [
             {
@@ -221,28 +221,6 @@
           "id": "ab830fe3-fafc-4e62-9e94-e543d04bbe82"
         },
         {
-          "titulo": "TELÉFONO NEGRO 2",
-          "horarios": [
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
-        },
-        {
-          "titulo": "LA INFILTRADA",
-          "horarios": [
-            {
-              "horario": "22:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "e1e9aeea-c0f2-4645-9e14-6fcec282695c"
-        },
-        {
           "titulo": "LA HERMANASTRA FEA",
           "horarios": [
             {
@@ -252,6 +230,17 @@
             }
           ],
           "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
+        },
+        {
+          "titulo": "TELÉFONO NEGRO 2",
+          "horarios": [
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
         },
         {
           "titulo": "ZOOPOCALIPSIS",
@@ -307,6 +296,17 @@
             }
           ],
           "id": "61257f45-0c50-4712-b969-09e5407d2b2c"
+        },
+        {
+          "titulo": "LA INFILTRADA",
+          "horarios": [
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "e1e9aeea-c0f2-4645-9e14-6fcec282695c"
         }
       ],
       "ciudad": "El Alto"
@@ -638,12 +638,33 @@
               "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "19:45",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
           "id": "bfc444de-dc36-4efc-8ef4-edafa6ebf7dc"
+        },
+        {
+          "titulo": "ZOOPOCALIPSIS",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
         },
         {
           "titulo": "LA ESTACiÓN DEL TERROR",
@@ -678,39 +699,6 @@
           "id": "e1e9aeea-c0f2-4645-9e14-6fcec282695c"
         },
         {
-          "titulo": "EL SOBREVIVIENTE",
-          "horarios": [
-            {
-              "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "774ce3d7-bb40-4ab5-8e4e-008d98017ff0"
-        },
-        {
-          "titulo": "LA REENCARNACION DEL DIABLO",
-          "horarios": [
-            {
-              "horario": "22:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "61257f45-0c50-4712-b969-09e5407d2b2c"
-        },
-        {
-          "titulo": "TELÉFONO NEGRO 2",
-          "horarios": [
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
-        },
-        {
           "titulo": "CUANDO EL CIELO SE EQUIVOCA",
           "horarios": [
             {
@@ -720,6 +708,28 @@
             }
           ],
           "id": "f862a201-2203-4539-9fe7-cc9ad1218ac9"
+        },
+        {
+          "titulo": "CHAINSAW MAN LA PELÍCULA - ARCO DE REZE",
+          "horarios": [
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "fc5189f5-e1c7-4702-a068-9e18fd2d484c"
+        },
+        {
+          "titulo": "EL SOBREVIVIENTE",
+          "horarios": [
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "774ce3d7-bb40-4ab5-8e4e-008d98017ff0"
         },
         {
           "titulo": "PORCO ROSSO",
@@ -744,6 +754,17 @@
           "id": "bd8b9bf0-2b94-4c28-a224-8360234af07e"
         },
         {
+          "titulo": "LA REENCARNACION DEL DIABLO",
+          "horarios": [
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "61257f45-0c50-4712-b969-09e5407d2b2c"
+        },
+        {
           "titulo": "MONARCAS: EL GRAN VIAJE MÁGICO",
           "horarios": [
             {
@@ -755,15 +776,26 @@
           "id": "ab830fe3-fafc-4e62-9e94-e543d04bbe82"
         },
         {
-          "titulo": "CHAINSAW MAN LA PELÍCULA - ARCO DE REZE",
+          "titulo": "EL CADÁVER DE LA NOVIA",
           "horarios": [
             {
-              "horario": "14:50",
+              "horario": "11:20",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "fc5189f5-e1c7-4702-a068-9e18fd2d484c"
+          "id": "a3d966ee-0fe9-40a8-b849-77b6d979cfe4"
+        },
+        {
+          "titulo": "TELÉFONO NEGRO 2",
+          "horarios": [
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
         },
         {
           "titulo": "LA HERMANASTRA FEA",
@@ -957,38 +989,6 @@
           "id": "f1a80571-e359-4216-9636-8557adbedc19"
         },
         {
-          "titulo": "LA ESTACiÓN DEL TERROR",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "841ef135-e72e-4c4a-a5d8-c4c12cfba6f5"
-        },
-        {
-          "titulo": "NO ALIMENTES A LOS NIÑOS",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "2ea72e71-c059-499f-b886-814553a632ac"
-        },
-        {
           "titulo": "TERROR EN SHELBY OAKS",
           "horarios": [
             {
@@ -1003,17 +1003,6 @@
             }
           ],
           "id": "bfc444de-dc36-4efc-8ef4-edafa6ebf7dc"
-        },
-        {
-          "titulo": "EL SOBREVIVIENTE",
-          "horarios": [
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "774ce3d7-bb40-4ab5-8e4e-008d98017ff0"
         },
         {
           "titulo": "ZOOPOCALIPSIS",
@@ -1032,26 +1021,63 @@
           "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
         },
         {
-          "titulo": "TELÉFONO NEGRO 2",
+          "titulo": "NO ALIMENTES A LOS NIÑOS",
           "horarios": [
             {
-              "horario": "22:00",
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
+          "id": "2ea72e71-c059-499f-b886-814553a632ac"
         },
         {
-          "titulo": "PORCO ROSSO",
+          "titulo": "MONARCAS: EL GRAN VIAJE MÁGICO",
           "horarios": [
             {
-              "horario": "13:20",
-              "idioma": "Japones",
-              "formato": "2D SUB"
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
-          "id": "cd158d97-3b72-445e-8252-84ee7c0f0864"
+          "id": "ab830fe3-fafc-4e62-9e94-e543d04bbe82"
+        },
+        {
+          "titulo": "LA ESTACiÓN DEL TERROR",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "841ef135-e72e-4c4a-a5d8-c4c12cfba6f5"
+        },
+        {
+          "titulo": "EL SOBREVIVIENTE",
+          "horarios": [
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "774ce3d7-bb40-4ab5-8e4e-008d98017ff0"
         },
         {
           "titulo": "VOLVER AL FUTURO",
@@ -1076,20 +1102,26 @@
           "id": "61257f45-0c50-4712-b969-09e5407d2b2c"
         },
         {
-          "titulo": "MONARCAS: EL GRAN VIAJE MÁGICO",
+          "titulo": "PORCO ROSSO",
           "horarios": [
             {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
+              "horario": "13:20",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "cd158d97-3b72-445e-8252-84ee7c0f0864"
+        },
+        {
+          "titulo": "PERFECT BLUE",
+          "horarios": [
             {
-              "horario": "14:50",
+              "horario": "11:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "ab830fe3-fafc-4e62-9e94-e543d04bbe82"
+          "id": "19adf71b-7c52-4a50-8711-1d9a302edba4"
         },
         {
           "titulo": "EL PADRE DEL AÑO",
@@ -1114,6 +1146,17 @@
           "id": "2b5c3b8c-c5f9-42ef-ba7f-ad0c877adf94"
         },
         {
+          "titulo": "TELÉFONO NEGRO 2",
+          "horarios": [
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "b42bbe01-6a4f-410b-8912-4ed589528d06"
+        },
+        {
           "titulo": "LA INFILTRADA",
           "horarios": [
             {
@@ -1129,5 +1172,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "21/11/2025"
+  "fecha": "22/11/2025"
 }
