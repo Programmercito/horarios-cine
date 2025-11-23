@@ -375,7 +375,7 @@
             {
               "horario": "11:20",
               "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
+              "formato": "2D"
             }
           ],
           "id": "bd8b9bf0-2b94-4c28-a224-8360234af07e"
@@ -514,7 +514,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:10",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
@@ -802,11 +802,6 @@
               "formato": "2D"
             },
             {
-              "horario": "16:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
               "horario": "17:10",
               "idioma": "SUBT",
               "formato": "2D"
@@ -820,11 +815,6 @@
               "horario": "21:30",
               "idioma": "SUBT",
               "formato": "2D"
-            },
-            {
-              "horario": "11:50",
-              "idioma": "SUBT",
-              "formato": "4D E-Motion 2D"
             },
             {
               "horario": "17:20",
@@ -864,6 +854,11 @@
         {
           "titulo": "TERROR EN SHELBY OAKS",
           "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "18:15",
               "idioma": "DOB",
@@ -957,12 +952,12 @@
               "formato": "2D"
             },
             {
-              "horario": "22:50",
+              "horario": "22:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:40",
+              "horario": "22:50",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             }
@@ -1033,6 +1028,11 @@
               "horario": "12:50",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "11:20",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
             }
           ],
           "id": "bd8b9bf0-2b94-4c28-a224-8360234af07e"
@@ -1067,17 +1067,17 @@
           "titulo": "HARRY POTTER Y EL CALIZ DE FUEGO",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "10:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "16:20",
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "19:40",
+              "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
@@ -1093,7 +1093,12 @@
           "titulo": "EL SOBREVIVIENTE",
           "horarios": [
             {
-              "horario": "23:00",
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "22:55",
               "idioma": "DOB",
               "formato": "2D Atmos"
             }
@@ -1140,7 +1145,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:10",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
@@ -1259,7 +1264,7 @@
               "formato": "2D"
             },
             {
-              "horario": "16:20",
+              "horario": "16:25",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1534,17 +1539,12 @@
           "titulo": "WICKED PARA SIEMPRE",
           "horarios": [
             {
-              "horario": "16:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
               "horario": "19:00",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "19:20",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -1555,6 +1555,11 @@
             },
             {
               "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "3D"
             }
@@ -1669,17 +1674,12 @@
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1694,12 +1694,7 @@
               "formato": "2D"
             },
             {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "22:00",
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "3D"
             }
@@ -1710,7 +1705,27 @@
           "titulo": "JUJUTSU KAISEN: EJECUCION",
           "horarios": [
             {
+              "horario": "13:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
               "horario": "17:40",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -1852,7 +1867,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:35",
+              "horario": "14:25",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -2136,7 +2151,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:55",
+              "horario": "14:45",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2175,5 +2190,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "22/11/2025"
+  "fecha": "23/11/2025"
 }
