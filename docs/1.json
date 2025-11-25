@@ -593,11 +593,6 @@
           "titulo": "TERROR EN SHELBY OAKS",
           "horarios": [
             {
-              "horario": "16:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "18:20",
               "idioma": "DOB",
               "formato": "2D"
@@ -614,12 +609,7 @@
           "titulo": "NO ALIMENTES A LOS NIÑOS",
           "horarios": [
             {
-              "horario": "18:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:45",
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -684,6 +674,16 @@
               "horario": "13:50",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:05",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
@@ -698,6 +698,11 @@
             },
             {
               "horario": "16:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -725,17 +730,6 @@
             }
           ],
           "id": "775f1b89-2eb9-4aa4-a33a-e6270a980d79"
-        },
-        {
-          "titulo": "ENFRENTANDO LA OSCURIDAD",
-          "horarios": [
-            {
-              "horario": "14:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "52976bab-1f8f-4cce-8653-ec8362a3b1b2"
         }
       ],
       "ciudad": "Santa Cruz Av. Brasil"
@@ -1181,6 +1175,16 @@
           "titulo": "JUJUTSU KAISEN: EJECUCION",
           "horarios": [
             {
+              "horario": "13:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
               "horario": "17:20",
               "idioma": "SUBT",
               "formato": "2D"
@@ -1371,22 +1375,22 @@
             {
               "horario": "13:00",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D Atmos"
             },
             {
               "horario": "15:55",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D Atmos"
             },
             {
               "horario": "18:50",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D Atmos"
             },
             {
               "horario": "21:45",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D Atmos"
             }
           ],
           "id": "774ce3d7-bb40-4ab5-8e4e-008d98017ff0"
@@ -2057,5 +2061,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "24/11/2025"
+  "fecha": "25/11/2025"
 }
