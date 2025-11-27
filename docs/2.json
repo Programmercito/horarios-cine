@@ -3,7 +3,134 @@
     {
       "peliculas": [
         {
-          "titulo": "WICKED: POR SIEMPRE",
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "3D"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
             {
               "horario": "12:10",
@@ -31,10 +158,52 @@
               "formato": "3D"
             }
           ],
-          "id": "869cbf34-4d19-43ed-a13f-fc821404899c"
+          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
         },
         {
-          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
+          "titulo": "LA ÚLTIMA POSESIÓN",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "0c6ef469-d5d7-44bc-a493-17e109e2b653"
+        },
+        {
+          "titulo": "LA NOVIA DEL DIABLO",
+          "horarios": [
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "e12e6076-ecda-49fb-b69f-f6843905676d"
+        },
+        {
+          "titulo": "NADA ES LO QUE PARECE 3",
           "horarios": [
             {
               "horario": "16:40",
@@ -42,10 +211,10 @@
               "formato": "2D"
             }
           ],
-          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
+          "id": "f1a80571-e359-4216-9636-8557adbedc19"
         },
         {
-          "titulo": "TERROR EN SHELBY OAKS",
+          "titulo": "JUJUTSU KAISEN: EJECUCIÓN",
           "horarios": [
             {
               "horario": "14:30",
@@ -58,10 +227,10 @@
               "formato": "2D SUB"
             }
           ],
-          "id": "bfc444de-dc36-4efc-8ef4-edafa6ebf7dc"
+          "id": "09253980-87e8-4ce7-80b8-ac440922ee02"
         },
         {
-          "titulo": "JUJUTSU KAISEN: EJECUCIÓN",
+          "titulo": "NO ALIMENTES A LOS NIÑOS",
           "horarios": [
             {
               "horario": "14:40",
@@ -69,10 +238,10 @@
               "formato": "2D"
             }
           ],
-          "id": "09253980-87e8-4ce7-80b8-ac440922ee02"
+          "id": "2ea72e71-c059-499f-b886-814553a632ac"
         },
         {
-          "titulo": "NO ALIMENTES A LOS NIÑOS",
+          "titulo": "LA ESTACiÓN DEL TERROR",
           "horarios": [
             {
               "horario": "22:40",
@@ -80,7 +249,18 @@
               "formato": "2D"
             }
           ],
-          "id": "2ea72e71-c059-499f-b886-814553a632ac"
+          "id": "841ef135-e72e-4c4a-a5d8-c4c12cfba6f5"
+        },
+        {
+          "titulo": "UN BUEN LADRÓN",
+          "horarios": [
+            {
+              "horario": "21:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "caa4575b-22bd-441b-8eca-9e6185716c93"
         }
       ],
       "ciudad": "El Alto"
@@ -88,22 +268,62 @@
     {
       "peliculas": [
         {
-          "titulo": "WICKED: POR SIEMPRE",
+          "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "12:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:50",
+              "horario": "14:10",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "3D"
             },
             {
               "horario": "15:10",
@@ -111,22 +331,87 @@
               "formato": "3D"
             },
             {
-              "horario": "16:00",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "3D"
             },
             {
-              "horario": "21:10",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "3D"
             },
             {
-              "horario": "21:10",
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D XL"
             }
           ],
-          "id": "869cbf34-4d19-43ed-a13f-fc821404899c"
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
@@ -195,6 +480,47 @@
           "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
         },
         {
+          "titulo": "WICKED: POR SIEMPRE",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            }
+          ],
+          "id": "869cbf34-4d19-43ed-a13f-fc821404899c"
+        },
+        {
           "titulo": "NADA ES LO QUE PARECE 3",
           "horarios": [
             {
@@ -252,6 +578,79 @@
           "id": "09253980-87e8-4ce7-80b8-ac440922ee02"
         },
         {
+          "titulo": "LA NOVIA DEL DIABLO",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "e12e6076-ecda-49fb-b69f-f6843905676d"
+        },
+        {
+          "titulo": "LA ÚLTIMA POSESIÓN",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "0c6ef469-d5d7-44bc-a493-17e109e2b653"
+        },
+        {
+          "titulo": "UN BUEN LADRÓN",
+          "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ],
+          "id": "caa4575b-22bd-441b-8eca-9e6185716c93"
+        },
+        {
           "titulo": "HARRY POTTER Y EL CÁLIZ DE FUEGO",
           "horarios": [
             {
@@ -285,17 +684,6 @@
           "id": "bfc444de-dc36-4efc-8ef4-edafa6ebf7dc"
         },
         {
-          "titulo": "LA HERMANASTRA FEA",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
-        },
-        {
           "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
           "horarios": [
             {
@@ -305,12 +693,124 @@
             }
           ],
           "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
+        },
+        {
+          "titulo": "LA HERMANASTRA FEA",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
         }
       ],
       "ciudad": "La Paz"
     },
     {
       "peliculas": [
+        {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
         {
           "titulo": "WICKED: POR SIEMPRE",
           "horarios": [
@@ -346,22 +846,6 @@
             }
           ],
           "id": "869cbf34-4d19-43ed-a13f-fc821404899c"
-        },
-        {
-          "titulo": "JUJUTSU KAISEN: EJECUCIÓN",
-          "horarios": [
-            {
-              "horario": "13:40",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "09253980-87e8-4ce7-80b8-ac440922ee02"
         },
         {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
@@ -406,6 +890,38 @@
           "id": "f1a80571-e359-4216-9636-8557adbedc19"
         },
         {
+          "titulo": "JUJUTSU KAISEN: EJECUCIÓN",
+          "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "09253980-87e8-4ce7-80b8-ac440922ee02"
+        },
+        {
+          "titulo": "NO ALIMENTES A LOS NIÑOS",
+          "horarios": [
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "2ea72e71-c059-499f-b886-814553a632ac"
+        },
+        {
           "titulo": "LA ESTACiÓN DEL TERROR",
           "horarios": [
             {
@@ -417,20 +933,52 @@
           "id": "841ef135-e72e-4c4a-a5d8-c4c12cfba6f5"
         },
         {
-          "titulo": "NO ALIMENTES A LOS NIÑOS",
+          "titulo": "LA ÚLTIMA POSESIÓN",
           "horarios": [
             {
-              "horario": "15:30",
+              "horario": "19:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "21:15",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "2ea72e71-c059-499f-b886-814553a632ac"
+          "id": "0c6ef469-d5d7-44bc-a493-17e109e2b653"
+        },
+        {
+          "titulo": "UN BUEN LADRÓN",
+          "horarios": [
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "caa4575b-22bd-441b-8eca-9e6185716c93"
+        },
+        {
+          "titulo": "LA NOVIA DEL DIABLO",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "e12e6076-ecda-49fb-b69f-f6843905676d"
         },
         {
           "titulo": "ZOOPOCALIPSIS",
@@ -459,5 +1007,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "26/11/2025"
+  "fecha": "27/11/2025"
 }
