@@ -10,32 +10,6 @@
               "horario": "11:00",
               "idioma": "Doblado al Español",
               "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Doblado al Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Doblado al Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "fa0e1cfb-288e-4a17-b6d4-3711865c0294",
-          "titulo": "LA BICICLETA DE LOS HUANCA 2",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "Doblado al Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Doblado al Español",
-              "formato": "2D"
             }
           ]
         },
@@ -44,36 +18,15 @@
           "titulo": "WIKCED 2 FOR GOOD",
           "horarios": [
             {
-              "horario": "16:50",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
+              "horario": "15:10",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "f1a80571-e359-4216-9636-8557adbedc19",
-          "titulo": "NADA ES LO QUE PARECE 3",
-          "horarios": [
-            {
-              "horario": "17:40",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "6e803e2d-f902-4e35-b47e-42de9bc01709",
-          "titulo": "DEPREDADOR TIERRAS SALVAJES",
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155",
+          "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
               "horario": "10:40",
@@ -86,7 +39,54 @@
               "formato": "2D"
             },
             {
-              "horario": "19:55",
+              "horario": "21:40",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155",
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:25",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "6e803e2d-f902-4e35-b47e-42de9bc01709",
+          "titulo": "DEPREDADOR TIERRAS SALVAJES",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:05",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -97,5 +97,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "27/11/2025"
+  "fecha": "28/11/2025"
 }
