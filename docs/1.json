@@ -6,6 +6,11 @@
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D"
@@ -56,6 +61,11 @@
               "formato": "2D"
             },
             {
+              "horario": "16:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -81,6 +91,11 @@
               "formato": "2D"
             },
             {
+              "horario": "19:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
@@ -102,6 +117,11 @@
             },
             {
               "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -212,11 +232,6 @@
         {
           "titulo": "LA ULTIMA POSESION",
           "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "17:30",
               "idioma": "DOB",
@@ -731,17 +746,7 @@
               "formato": "2D"
             },
             {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -771,27 +776,27 @@
               "formato": "2D Atmos"
             },
             {
-              "horario": "10:30",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D CXC"
             },
             {
-              "horario": "13:00",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D CXC"
             },
             {
-              "horario": "15:30",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D CXC"
             },
             {
-              "horario": "21:00",
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D CXC"
             },
             {
-              "horario": "23:30",
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D CXC"
             },
@@ -879,17 +884,17 @@
           "titulo": "UN BUEN LADRON",
           "horarios": [
             {
-              "horario": "17:45",
+              "horario": "17:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:35",
+              "horario": "20:25",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "23:25",
+              "horario": "23:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -916,6 +921,16 @@
             },
             {
               "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -972,12 +987,17 @@
           "titulo": "NADA ES LO QUE PARECE 3",
           "horarios": [
             {
-              "horario": "13:30",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:05",
+              "horario": "13:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1130,12 +1150,27 @@
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "15:30",
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "3D Atmos"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "3D Atmos"
+            },
+            {
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "3D Atmos"
             }
@@ -1146,12 +1181,12 @@
           "titulo": "ESTACION DEL TERROR",
           "horarios": [
             {
-              "horario": "19:40",
-              "idioma": "SUBT",
+              "horario": "17:20",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "19:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1167,17 +1202,17 @@
           "titulo": "LA ULTIMA POSESION",
           "horarios": [
             {
-              "horario": "15:25",
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:45",
+              "horario": "19:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:05",
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1245,12 +1280,12 @@
           "titulo": "ZOOPOCALIPSIS",
           "horarios": [
             {
-              "horario": "13:15",
-              "idioma": "SUBT",
+              "horario": "11:00",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "11:00",
+              "horario": "13:15",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1313,7 +1348,12 @@
           "titulo": "EL SOBREVIVIENTE",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "11:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:05",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1561,7 +1601,12 @@
               "formato": "2D"
             },
             {
-              "horario": "12:45",
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1571,7 +1616,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:45",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1586,7 +1631,7 @@
               "formato": "2D"
             },
             {
-              "horario": "15:15",
+              "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1596,7 +1641,7 @@
               "formato": "2D"
             },
             {
-              "horario": "16:15",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1611,7 +1656,7 @@
               "formato": "2D"
             },
             {
-              "horario": "18:45",
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1626,7 +1671,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:15",
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1637,6 +1682,11 @@
             },
             {
               "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "3D"
             }
@@ -1663,7 +1713,12 @@
           "titulo": "LA ULTIMA POSESION",
           "horarios": [
             {
-              "horario": "20:15",
+              "horario": "19:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:05",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1695,17 +1750,17 @@
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
             {
-              "horario": "16:15",
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:45",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:10",
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1732,17 +1787,17 @@
           "titulo": "NADA ES LO QUE PARECE 3",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:05",
+              "horario": "14:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:40",
+              "horario": "17:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1753,12 +1808,12 @@
           "titulo": "WICKED POR SIEMPRE",
           "horarios": [
             {
-              "horario": "17:45",
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:45",
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1769,22 +1824,22 @@
           "titulo": "JUJUTSU KAISEN: EJECUCION",
           "horarios": [
             {
-              "horario": "15:00",
+              "horario": "15:20",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "17:10",
+              "horario": "17:30",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "19:20",
+              "horario": "19:40",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "21:30",
+              "horario": "21:50",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1806,7 +1861,7 @@
           "titulo": "TERROR EN SHELBY OAKS",
           "horarios": [
             {
-              "horario": "12:45",
+              "horario": "13:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1817,12 +1872,12 @@
           "titulo": "NO ALIMENTES A LOS NIÑOS",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:05",
+              "horario": "14:45",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2027,5 +2082,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "29/11/2025"
+  "fecha": "30/11/2025"
 }
