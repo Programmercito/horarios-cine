@@ -6,6 +6,36 @@
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
@@ -22,6 +52,11 @@
             },
             {
               "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -79,31 +114,6 @@
               "horario": "22:10",
               "idioma": "Español",
               "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
@@ -111,6 +121,11 @@
         {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
+            {
+              "horario": "10:40",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
             {
               "horario": "12:10",
               "idioma": "Español",
@@ -148,11 +163,6 @@
               "formato": "2D"
             },
             {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "14:40",
               "idioma": "Español",
               "formato": "3D"
@@ -164,6 +174,27 @@
             }
           ],
           "id": "869cbf34-4d19-43ed-a13f-fc821404899c"
+        },
+        {
+          "titulo": "LA ÚLTIMA POSESIÓN",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "0c6ef469-d5d7-44bc-a493-17e109e2b653"
         },
         {
           "titulo": "LA NOVIA DEL DIABLO",
@@ -187,26 +218,20 @@
           "id": "e12e6076-ecda-49fb-b69f-f6843905676d"
         },
         {
-          "titulo": "NADA ES LO QUE PARECE 3",
+          "titulo": "JUJUTSU KAISEN: EJECUCIÓN",
           "horarios": [
             {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "f1a80571-e359-4216-9636-8557adbedc19"
-        },
-        {
-          "titulo": "NADA ES LO QUE PARECE 3",
-          "horarios": [
+              "horario": "14:30",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            },
             {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D"
+              "horario": "18:20",
+              "idioma": "Japones",
+              "formato": "2D SUB"
             }
           ],
-          "id": "f1a80571-e359-4216-9636-8557adbedc19"
+          "id": "09253980-87e8-4ce7-80b8-ac440922ee02"
         },
         {
           "titulo": "LA ESTACiÓN DEL TERROR",
@@ -218,6 +243,28 @@
             }
           ],
           "id": "841ef135-e72e-4c4a-a5d8-c4c12cfba6f5"
+        },
+        {
+          "titulo": "NADA ES LO QUE PARECE 3",
+          "horarios": [
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "f1a80571-e359-4216-9636-8557adbedc19"
+        },
+        {
+          "titulo": "NO ALIMENTES A LOS NIÑOS",
+          "horarios": [
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "2ea72e71-c059-499f-b886-814553a632ac"
         },
         {
           "titulo": "UN BUEN LADRÓN",
@@ -236,32 +283,163 @@
     {
       "peliculas": [
         {
-          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
+          "titulo": "ZOOTOPIA 2",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "14:10",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             },
             {
-              "horario": "18:40",
+              "horario": "14:40",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             },
             {
               "horario": "16:30",
               "idioma": "Español",
-              "formato": "3D XL"
+              "formato": "2D"
             },
             {
-              "horario": "21:00",
+              "horario": "17:00",
               "idioma": "Español",
-              "formato": "3D XL"
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "13:20",
@@ -297,6 +475,31 @@
               "horario": "18:50",
               "idioma": "Español",
               "formato": "3D PLUS"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "Español",
+              "formato": "3D XL"
             }
           ],
           "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
@@ -341,6 +544,11 @@
           "titulo": "JUJUTSU KAISEN: EJECUCIÓN",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            },
+            {
               "horario": "13:30",
               "idioma": "Japones",
               "formato": "2D SUB"
@@ -370,34 +578,81 @@
         },
         {
           "titulo": "NADA ES LO QUE PARECE 3",
-          "horarios": [],
+          "horarios": [
+            {
+              "horario": "15:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
           "id": "f1a80571-e359-4216-9636-8557adbedc19"
         },
         {
           "titulo": "LA ÚLTIMA POSESIÓN",
           "horarios": [
             {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "0c6ef469-d5d7-44bc-a493-17e109e2b653"
+        },
+        {
+          "titulo": "LA NOVIA DEL DIABLO",
+          "horarios": [
+            {
               "horario": "12:00",
               "idioma": "Español",
-              "formato": "‌\n"
+              "formato": "2D"
             },
             {
               "horario": "16:10",
               "idioma": "Español",
-              "formato": "‌\n"
+              "formato": "2D"
             },
             {
               "horario": "20:15",
               "idioma": "Español",
-              "formato": "‌\n"
+              "formato": "2D"
             },
             {
               "horario": "22:10",
               "idioma": "Español",
-              "formato": "‌\n"
+              "formato": "2D"
             }
           ],
-          "id": "0c6ef469-d5d7-44bc-a493-17e109e2b653"
+          "id": "e12e6076-ecda-49fb-b69f-f6843905676d"
         },
         {
           "titulo": "UN BUEN LADRÓN",
@@ -421,7 +676,7 @@
           "id": "caa4575b-22bd-441b-8eca-9e6185716c93"
         },
         {
-          "titulo": "UN BUEN LADRÓN",
+          "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
           "horarios": [
             {
               "horario": "12:15",
@@ -429,7 +684,7 @@
               "formato": "2D"
             }
           ],
-          "id": "caa4575b-22bd-441b-8eca-9e6185716c93"
+          "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
         },
         {
           "titulo": "LA HERMANASTRA FEA",
@@ -443,10 +698,32 @@
           "id": "73916653-5fc0-443a-9fad-cdbe628947e5"
         },
         {
+          "titulo": "TERROR EN SHELBY OAKS",
+          "horarios": [
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "bfc444de-dc36-4efc-8ef4-edafa6ebf7dc"
+        },
+        {
           "titulo": "HARRY POTTER Y EL CÁLIZ DE FUEGO",
           "horarios": [
             {
               "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "2b5c3b8c-c5f9-42ef-ba7f-ad0c877adf94"
+        },
+        {
+          "titulo": "HARRY POTTER Y EL CÁLIZ DE FUEGO",
+          "horarios": [
+            {
+              "horario": "18:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -458,6 +735,112 @@
     },
     {
       "peliculas": [
+        {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "3D"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
         {
           "titulo": "WICKED: POR SIEMPRE",
           "horarios": [
@@ -477,6 +860,11 @@
               "formato": "2D"
             },
             {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "13:00",
               "idioma": "Ingles",
               "formato": "2D SUB"
@@ -485,11 +873,6 @@
               "horario": "21:00",
               "idioma": "Ingles",
               "formato": "2D SUB"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D XL"
             }
           ],
           "id": "869cbf34-4d19-43ed-a13f-fc821404899c"
@@ -497,6 +880,11 @@
         {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:40",
               "idioma": "Español",
@@ -524,6 +912,11 @@
           "titulo": "JUJUTSU KAISEN: EJECUCIÓN",
           "horarios": [
             {
+              "horario": "11:50",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            },
+            {
               "horario": "13:40",
               "idioma": "Japones",
               "formato": "2D SUB"
@@ -542,7 +935,7 @@
           "id": "09253980-87e8-4ce7-80b8-ac440922ee02"
         },
         {
-          "titulo": "JUJUTSU KAISEN: EJECUCIÓN",
+          "titulo": "NADA ES LO QUE PARECE 3",
           "horarios": [
             {
               "horario": "17:10",
@@ -555,23 +948,7 @@
               "formato": "2D"
             }
           ],
-          "id": "09253980-87e8-4ce7-80b8-ac440922ee02"
-        },
-        {
-          "titulo": "LA ÚLTIMA POSESIÓN",
-          "horarios": [
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "0c6ef469-d5d7-44bc-a493-17e109e2b653"
+          "id": "f1a80571-e359-4216-9636-8557adbedc19"
         },
         {
           "titulo": "UN BUEN LADRÓN",
@@ -590,24 +967,13 @@
           "id": "caa4575b-22bd-441b-8eca-9e6185716c93"
         },
         {
-          "titulo": "LA NOVIA DEL DIABLO",
+          "titulo": "ZOOPOCALIPSIS",
           "horarios": [
             {
-              "horario": "15:10",
+              "horario": "11:00",
               "idioma": "Español",
               "formato": "2D"
             },
-            {
-              "horario": "21:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "e12e6076-ecda-49fb-b69f-f6843905676d"
-        },
-        {
-          "titulo": "ZOOPOCALIPSIS",
-          "horarios": [
             {
               "horario": "12:20",
               "idioma": "Español",
@@ -617,7 +983,29 @@
           "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
         },
         {
-          "titulo": "HARRY POTTER Y EL CÁLIZ DE FUEGO",
+          "titulo": "LA ESTACiÓN DEL TERROR",
+          "horarios": [
+            {
+              "horario": "21:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "841ef135-e72e-4c4a-a5d8-c4c12cfba6f5"
+        },
+        {
+          "titulo": "LA NOVIA DEL DIABLO",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "e12e6076-ecda-49fb-b69f-f6843905676d"
+        },
+        {
+          "titulo": "LA NOVIA DEL DIABLO",
           "horarios": [
             {
               "horario": "14:20",
@@ -625,7 +1013,7 @@
               "formato": "2D"
             }
           ],
-          "id": "2b5c3b8c-c5f9-42ef-ba7f-ad0c877adf94"
+          "id": "e12e6076-ecda-49fb-b69f-f6843905676d"
         },
         {
           "titulo": "NO ALIMENTES A LOS NIÑOS",
@@ -637,22 +1025,11 @@
             }
           ],
           "id": "2ea72e71-c059-499f-b886-814553a632ac"
-        },
-        {
-          "titulo": "LA ESTACiÓN DEL TERROR",
-          "horarios": [
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "841ef135-e72e-4c4a-a5d8-c4c12cfba6f5"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "1/12/2025"
+  "fecha": "2/12/2025"
 }
