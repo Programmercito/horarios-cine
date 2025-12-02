@@ -61,11 +61,6 @@
               "formato": "2D"
             },
             {
-              "horario": "16:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -91,17 +86,7 @@
               "formato": "2D"
             },
             {
-              "horario": "19:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:45",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -117,11 +102,6 @@
             },
             {
               "horario": "21:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:45",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -233,17 +213,22 @@
           "titulo": "LA ULTIMA POSESION",
           "horarios": [
             {
-              "horario": "17:30",
+              "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:50",
+              "horario": "18:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:10",
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -275,7 +260,7 @@
               "formato": "2D"
             },
             {
-              "horario": "10:00",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -285,7 +270,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:30",
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -405,12 +390,27 @@
           "titulo": "WICKED POR SIEMPRE",
           "horarios": [
             {
-              "horario": "10:45",
+              "horario": "10:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:45",
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -473,7 +473,12 @@
           "titulo": "NO ALIMENTES A LOS NIÑOS",
           "horarios": [
             {
-              "horario": "22:15",
+              "horario": "19:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -776,27 +781,27 @@
               "formato": "2D Atmos"
             },
             {
-              "horario": "11:30",
+              "horario": "10:00",
               "idioma": "DOB",
               "formato": "2D CXC"
             },
             {
-              "horario": "14:00",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D CXC"
             },
             {
-              "horario": "16:30",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D CXC"
             },
             {
-              "horario": "19:00",
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D CXC"
             },
             {
-              "horario": "21:30",
+              "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D CXC"
             },
@@ -992,12 +997,12 @@
               "formato": "2D"
             },
             {
-              "horario": "13:35",
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:10",
+              "horario": "16:05",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1493,32 +1498,12 @@
               "formato": "2D"
             },
             {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1534,6 +1519,16 @@
             },
             {
               "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "3D"
             }
@@ -1575,12 +1570,22 @@
           "titulo": "WICKED POR SIEMPRE",
           "horarios": [
             {
-              "horario": "13:30",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1918,7 +1923,7 @@
               "formato": "2D"
             },
             {
-              "horario": "16:35",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1928,7 +1933,7 @@
               "formato": "2D"
             },
             {
-              "horario": "19:05",
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1938,7 +1943,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:35",
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1969,7 +1974,7 @@
               "formato": "2D"
             },
             {
-              "horario": "22:10",
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2022,7 +2027,7 @@
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2082,5 +2087,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "30/11/2025"
+  "fecha": "2/12/2025"
 }
