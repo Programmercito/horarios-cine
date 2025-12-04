@@ -71,11 +71,6 @@
               "formato": "2D"
             },
             {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "16:30",
               "idioma": "Español",
               "formato": "2D"
@@ -94,7 +89,7 @@
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
-          "titulo": "ZOOTOPIA 2",
+          "titulo": "FIVE NIGHTS AT FREDDY’S 2",
           "horarios": [
             {
               "horario": "10:30",
@@ -167,7 +162,7 @@
               "formato": "2D XL - 2D XL KRONOS"
             }
           ],
-          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+          "id": "5b80a140-c6e3-4da3-88f1-5f7438cd420a"
         },
         {
           "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
@@ -179,11 +174,6 @@
             },
             {
               "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "15:40",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
@@ -231,12 +221,28 @@
           "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
         },
         {
+          "titulo": "REY DE REYES",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "decebf37-ad12-49ed-a1f9-fe94ba9f3e17"
+        },
+        {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
             {
               "horario": "20:45",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             }
           ],
           "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
@@ -262,22 +268,6 @@
             }
           ],
           "id": "e12e6076-ecda-49fb-b69f-f6843905676d"
-        },
-        {
-          "titulo": "REY DE REYES",
-          "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "decebf37-ad12-49ed-a1f9-fe94ba9f3e17"
         }
       ],
       "ciudad": "El Alto"
@@ -299,6 +289,11 @@
             },
             {
               "horario": "14:30",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "16:50",
               "idioma": "Español",
               "formato": "4D E-MOTION"
             },
@@ -494,7 +489,7 @@
               "formato": "2D"
             },
             {
-              "horario": "19:50",
+              "horario": "20:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -539,7 +534,7 @@
               "formato": "2D PLUS"
             },
             {
-              "horario": "20:00",
+              "horario": "22:30",
               "idioma": "Ingles",
               "formato": "2D SUB"
             },
@@ -572,11 +567,6 @@
               "horario": "22:40",
               "idioma": "Español",
               "formato": "2D XL"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
             },
             {
               "horario": "19:00",
@@ -709,6 +699,33 @@
           "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
         },
         {
+          "titulo": "REY DE REYES",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "decebf37-ad12-49ed-a1f9-fe94ba9f3e17"
+        },
+        {
+          "titulo": "NADA ES LO QUE PARECE 3",
+          "horarios": [
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "f1a80571-e359-4216-9636-8557adbedc19"
+        },
+        {
           "titulo": "WICKED: POR SIEMPRE",
           "horarios": [
             {
@@ -723,7 +740,7 @@
           "titulo": "JUJUTSU KAISEN: EJECUCIÓN",
           "horarios": [
             {
-              "horario": "18:10",
+              "horario": "18:20",
               "idioma": "Japones",
               "formato": "2D SUB"
             }
@@ -742,17 +759,6 @@
           "id": "0c6ef469-d5d7-44bc-a493-17e109e2b653"
         },
         {
-          "titulo": "NADA ES LO QUE PARECE 3",
-          "horarios": [
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "f1a80571-e359-4216-9636-8557adbedc19"
-        },
-        {
           "titulo": "LA NOVIA DEL DIABLO",
           "horarios": [
             {
@@ -762,22 +768,6 @@
             }
           ],
           "id": "e12e6076-ecda-49fb-b69f-f6843905676d"
-        },
-        {
-          "titulo": "REY DE REYES",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "decebf37-ad12-49ed-a1f9-fe94ba9f3e17"
         }
       ],
       "ciudad": "La Paz"
@@ -982,22 +972,6 @@
           "id": "5b80a140-c6e3-4da3-88f1-5f7438cd420a"
         },
         {
-          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
-          "horarios": [
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
-        },
-        {
           "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
           "horarios": [
             {
@@ -1039,6 +1013,60 @@
           "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
         },
         {
+          "titulo": "REY DE REYES",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "decebf37-ad12-49ed-a1f9-fe94ba9f3e17"
+        },
+        {
+          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
+          "horarios": [
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
+        },
+        {
+          "titulo": "NADA ES LO QUE PARECE 3",
+          "horarios": [
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "f1a80571-e359-4216-9636-8557adbedc19"
+        },
+        {
+          "titulo": "NADA ES LO QUE PARECE 3",
+          "horarios": [
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "f1a80571-e359-4216-9636-8557adbedc19"
+        },
+        {
           "titulo": "WICKED: POR SIEMPRE",
           "horarios": [
             {
@@ -1059,49 +1087,11 @@
             }
           ],
           "id": "869cbf34-4d19-43ed-a13f-fc821404899c"
-        },
-        {
-          "titulo": "JUJUTSU KAISEN: EJECUCIÓN",
-          "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "09253980-87e8-4ce7-80b8-ac440922ee02"
-        },
-        {
-          "titulo": "REY DE REYES",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "decebf37-ad12-49ed-a1f9-fe94ba9f3e17"
-        },
-        {
-          "titulo": "NADA ES LO QUE PARECE 3",
-          "horarios": [
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "f1a80571-e359-4216-9636-8557adbedc19"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "3/12/2025"
+  "fecha": "4/12/2025"
 }
