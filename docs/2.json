@@ -71,6 +71,11 @@
               "formato": "2D"
             },
             {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "16:30",
               "idioma": "Español",
               "formato": "2D"
@@ -97,7 +102,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:30",
+              "horario": "12:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -178,6 +183,11 @@
               "formato": "2D - 2D KRONOS"
             },
             {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
               "horario": "17:50",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
@@ -221,6 +231,17 @@
           "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
         },
         {
+          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
+          "horarios": [
+            {
+              "horario": "20:45",
+              "idioma": "Español",
+              "formato": "3D"
+            }
+          ],
+          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
+        },
+        {
           "titulo": "REY DE REYES",
           "horarios": [
             {
@@ -235,17 +256,6 @@
             }
           ],
           "id": "decebf37-ad12-49ed-a1f9-fe94ba9f3e17"
-        },
-        {
-          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
-          "horarios": [
-            {
-              "horario": "20:45",
-              "idioma": "Español",
-              "formato": "3D"
-            }
-          ],
-          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
         },
         {
           "titulo": "LA ÚLTIMA POSESIÓN",
@@ -294,6 +304,16 @@
             },
             {
               "horario": "16:50",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "21:10",
               "idioma": "Español",
               "formato": "4D E-MOTION"
             },
@@ -502,86 +522,6 @@
               "horario": "22:15",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "11:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "23:20",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
             }
           ],
           "id": "5b80a140-c6e3-4da3-88f1-5f7438cd420a"
@@ -876,102 +816,6 @@
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
-          "titulo": "FIVE NIGHTS AT FREDDY’S 2",
-          "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "5b80a140-c6e3-4da3-88f1-5f7438cd420a"
-        },
-        {
           "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
           "horarios": [
             {
@@ -1013,22 +857,6 @@
           "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
         },
         {
-          "titulo": "REY DE REYES",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "decebf37-ad12-49ed-a1f9-fe94ba9f3e17"
-        },
-        {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
             {
@@ -1045,6 +873,22 @@
           "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
         },
         {
+          "titulo": "REY DE REYES",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "decebf37-ad12-49ed-a1f9-fe94ba9f3e17"
+        },
+        {
           "titulo": "NADA ES LO QUE PARECE 3",
           "horarios": [
             {
@@ -1056,7 +900,7 @@
           "id": "f1a80571-e359-4216-9636-8557adbedc19"
         },
         {
-          "titulo": "NADA ES LO QUE PARECE 3",
+          "titulo": "ZOOPOCALIPSIS",
           "horarios": [
             {
               "horario": "13:30",
@@ -1064,7 +908,7 @@
               "formato": "2D"
             }
           ],
-          "id": "f1a80571-e359-4216-9636-8557adbedc19"
+          "id": "5a5746ed-2edb-43d9-b836-cc1e800bf021"
         },
         {
           "titulo": "WICKED: POR SIEMPRE",
@@ -1078,7 +922,7 @@
           "id": "869cbf34-4d19-43ed-a13f-fc821404899c"
         },
         {
-          "titulo": "WICKED: POR SIEMPRE",
+          "titulo": "JUJUTSU KAISEN: EJECUCIÓN",
           "horarios": [
             {
               "horario": "17:30",
@@ -1086,12 +930,12 @@
               "formato": "2D SUB"
             }
           ],
-          "id": "869cbf34-4d19-43ed-a13f-fc821404899c"
+          "id": "09253980-87e8-4ce7-80b8-ac440922ee02"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "4/12/2025"
+  "fecha": "5/12/2025"
 }
