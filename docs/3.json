@@ -3,22 +3,11 @@
     {
       "peliculas": [
         {
-          "id": "3ac32b74-673e-4087-aec9-e84d74f70cea",
-          "titulo": "JUJUTSU KAISEN",
+          "id": "decebf37-ad12-49ed-a1f9-fe94ba9f3e17",
+          "titulo": "REY DE REYES",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "Doblado al Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "6f4c4fdf-b244-4726-9437-e1c9134d71df",
-          "titulo": "WIKCED 2 FOR GOOD",
-          "horarios": [
-            {
-              "horario": "15:10",
+              "horario": "10:40",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -29,27 +18,12 @@
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
-              "horario": "10:40",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
               "horario": "12:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
               "horario": "21:40",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:10",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -77,17 +51,37 @@
           ]
         },
         {
-          "id": "6e803e2d-f902-4e35-b47e-42de9bc01709",
-          "titulo": "DEPREDADOR TIERRAS SALVAJES",
+          "id": "e4690b02-eff2-4ea6-bf7f-a08914a078ad",
+          "titulo": "5 NOCHES EN FREDDYS 2",
           "horarios": [
             {
-              "horario": "12:50",
-              "idioma": "DOB. AL ESPAÑOL",
+              "horario": "10:50",
+              "idioma": "Doblado al Español",
               "formato": "2D"
             },
             {
-              "horario": "22:05",
-              "idioma": "DOB. AL ESPAÑOL",
+              "horario": "12:50",
+              "idioma": "Doblado al Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Doblado al Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Doblado al Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Doblado al Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Doblado al Español",
               "formato": "2D"
             }
           ]
@@ -97,5 +91,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "4/12/2025"
+  "fecha": "5/12/2025"
 }
