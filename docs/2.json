@@ -68,7 +68,7 @@
             {
               "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D PET FRIENDLY"
             },
             {
               "horario": "14:10",
@@ -323,11 +323,6 @@
               "formato": "2D"
             },
             {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
@@ -396,6 +391,11 @@
               "horario": "16:00",
               "idioma": "Español",
               "formato": "3D PLUS"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D PET FRIENDLY"
             },
             {
               "horario": "12:50",
@@ -522,6 +522,71 @@
               "horario": "22:15",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D XL"
             }
           ],
           "id": "5b80a140-c6e3-4da3-88f1-5f7438cd420a"
@@ -623,22 +688,6 @@
           "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
         },
         {
-          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
-          "horarios": [
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
-        },
-        {
           "titulo": "REY DE REYES",
           "horarios": [
             {
@@ -653,6 +702,22 @@
             }
           ],
           "id": "decebf37-ad12-49ed-a1f9-fe94ba9f3e17"
+        },
+        {
+          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
+          "horarios": [
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
         },
         {
           "titulo": "NADA ES LO QUE PARECE 3",
@@ -677,7 +742,7 @@
           "id": "869cbf34-4d19-43ed-a13f-fc821404899c"
         },
         {
-          "titulo": "JUJUTSU KAISEN: EJECUCIÓN",
+          "titulo": "WICKED: POR SIEMPRE",
           "horarios": [
             {
               "horario": "18:20",
@@ -685,7 +750,7 @@
               "formato": "2D SUB"
             }
           ],
-          "id": "09253980-87e8-4ce7-80b8-ac440922ee02"
+          "id": "869cbf34-4d19-43ed-a13f-fc821404899c"
         },
         {
           "titulo": "LA ÚLTIMA POSESIÓN",
@@ -715,7 +780,7 @@
     {
       "peliculas": [
         {
-          "titulo": "ZOOTOPIA 2",
+          "titulo": "FIVE NIGHTS AT FREDDY’S 2",
           "horarios": [
             {
               "horario": "10:30",
@@ -723,7 +788,98 @@
               "formato": "2D"
             },
             {
-              "horario": "11:00",
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "5b80a140-c6e3-4da3-88f1-5f7438cd420a"
+        },
+        {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "10:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -806,6 +962,11 @@
               "horario": "22:40",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D PET FRIENDLY"
             },
             {
               "horario": "21:10",
@@ -937,5 +1098,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "5/12/2025"
+  "fecha": "6/12/2025"
 }
