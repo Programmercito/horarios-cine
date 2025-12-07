@@ -301,32 +301,32 @@
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:15",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "14:45",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "17:15",
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "19:45",
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "22:15",
+              "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
@@ -362,7 +362,12 @@
           "titulo": "NADA ES LO QUE PARECE 3",
           "horarios": [
             {
-              "horario": "11:25",
+              "horario": "11:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:25",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -393,7 +398,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:30",
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1053,12 +1058,12 @@
               "formato": "2D"
             },
             {
-              "horario": "14:50",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:10",
+              "horario": "17:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1130,7 +1135,7 @@
               "formato": "2D Atmos"
             },
             {
-              "horario": "13:35",
+              "horario": "13:25",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
@@ -1200,11 +1205,6 @@
               "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
             }
           ],
           "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
@@ -1219,6 +1219,11 @@
             },
             {
               "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1243,6 +1248,11 @@
               "formato": "2D"
             },
             {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -1259,6 +1269,11 @@
             },
             {
               "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1283,6 +1298,11 @@
               "formato": "2D"
             },
             {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -1299,6 +1319,11 @@
             },
             {
               "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1366,7 +1391,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "13:10",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -2025,5 +2050,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "6/12/2025"
+  "fecha": "7/12/2025"
 }
