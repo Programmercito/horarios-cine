@@ -231,6 +231,17 @@
           "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
         },
         {
+          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
+          "horarios": [
+            {
+              "horario": "20:45",
+              "idioma": "Español",
+              "formato": "3D"
+            }
+          ],
+          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
+        },
+        {
           "titulo": "REY DE REYES",
           "horarios": [
             {
@@ -245,17 +256,6 @@
             }
           ],
           "id": "decebf37-ad12-49ed-a1f9-fe94ba9f3e17"
-        },
-        {
-          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
-          "horarios": [
-            {
-              "horario": "20:45",
-              "idioma": "Español",
-              "formato": "3D"
-            }
-          ],
-          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
         },
         {
           "titulo": "LA ÚLTIMA POSESIÓN",
@@ -688,22 +688,6 @@
           "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
         },
         {
-          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
-          "horarios": [
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
-        },
-        {
           "titulo": "REY DE REYES",
           "horarios": [
             {
@@ -718,6 +702,22 @@
             }
           ],
           "id": "decebf37-ad12-49ed-a1f9-fe94ba9f3e17"
+        },
+        {
+          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
+          "horarios": [
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
         },
         {
           "titulo": "NADA ES LO QUE PARECE 3",
@@ -1098,5 +1098,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "8/12/2025"
+  "fecha": "9/12/2025"
 }
