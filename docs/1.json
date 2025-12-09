@@ -48,12 +48,17 @@
           "titulo": "FIVE NIGHTS AT FREDDYS 2",
           "horarios": [
             {
-              "horario": "20:00",
+              "horario": "18:30",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "22:25",
+              "horario": "20:55",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:20",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -116,11 +121,6 @@
               "horario": "23:50",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "10:15",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
             },
             {
               "horario": "12:40",
@@ -367,12 +367,12 @@
           "titulo": "NADA ES LO QUE PARECE 3",
           "horarios": [
             {
-              "horario": "12:10",
+              "horario": "11:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:35",
+              "horario": "14:25",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -388,17 +388,12 @@
           "titulo": "WICKED POR SIEMPRE",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "10:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -566,7 +561,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:45",
+              "horario": "21:35",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -658,6 +653,11 @@
             },
             {
               "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1058,12 +1058,12 @@
               "formato": "2D"
             },
             {
-              "horario": "14:50",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:10",
+              "horario": "17:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1135,7 +1135,7 @@
               "formato": "2D Atmos"
             },
             {
-              "horario": "13:25",
+              "horario": "13:35",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
@@ -1313,6 +1313,11 @@
               "formato": "2D"
             },
             {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -1391,7 +1396,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "13:10",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -1606,6 +1611,22 @@
           "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
         },
         {
+          "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
+        },
+        {
           "titulo": "FIVE NIGHTS AT FREDDYS 2",
           "horarios": [
             {
@@ -1641,7 +1662,7 @@
           "horarios": [
             {
               "horario": "21:30",
-              "idioma": "DOB",
+              "idioma": "SUBT",
               "formato": "2D"
             }
           ],
@@ -1847,22 +1868,6 @@
             }
           ],
           "id": "6f48ba6b-cdf2-460b-b1ef-8d31d50d58e8"
-        },
-        {
-          "titulo": "UN BUEN LADRON",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "517a688f-4fa8-4af4-a07a-7a74dc8f5696"
         }
       ],
       "ciudad": "Tarija"
@@ -2050,5 +2055,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "8/12/2025"
+  "fecha": "9/12/2025"
 }
