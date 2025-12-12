@@ -3,30 +3,77 @@
     {
       "peliculas": [
         {
-          "titulo": "FIVE NIGHTS AT FREDDYS 2",
+          "titulo": "100 METROS",
           "horarios": [
             {
-              "horario": "11:15",
+              "horario": "10:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:40",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:05",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:30",
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "20c17e89-2c57-4655-875e-312c632a9f8d"
+        },
+        {
+          "titulo": "100 METROS",
+          "horarios": [
+            {
+              "horario": "10:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:55",
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "20c17e89-2c57-4655-875e-312c632a9f8d"
+        },
+        {
+          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -34,39 +81,124 @@
               "horario": "23:20",
               "idioma": "DOB",
               "formato": "2D"
+            }
+          ],
+          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
+        },
+        {
+          "titulo": "GARRAS: DIOS Y EL DIABLO ESTAN DE VACACIONES",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "ESP",
+              "formato": "2D"
             },
             {
-              "horario": "10:15",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "horario": "19:30",
+              "idioma": "ESP",
+              "formato": "2D"
             },
             {
-              "horario": "12:40",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "horario": "22:10",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "c7a3c2f3-80c6-4780-aff1-652c6e10a6ea"
+        },
+        {
+          "titulo": "BUGONIA",
+          "horarios": [
+            {
+              "horario": "20:00",
+              "idioma": "SUBT",
+              "formato": "2D"
             },
             {
-              "horario": "15:05",
+              "horario": "22:40",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "5df6a045-becd-4aab-b108-72897d3be9c3"
+        },
+        {
+          "titulo": "BESO DE TRES",
+          "horarios": [
+            {
+              "horario": "17:10",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "19:45",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "19:55",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D"
             },
             {
               "horario": "22:20",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D"
             }
           ],
-          "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
+          "id": "7998e59c-adfb-454c-8349-13ea880de000"
+        },
+        {
+          "titulo": "EL GRINCH (2005)",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ea94fc47-a6ff-46a9-84d1-7b94ef6b1df2"
+        },
+        {
+          "titulo": "LA PRINCESA Y LA FLOR MAGICA",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e1a99b2c-3865-4c6b-bdda-4969cc0f836b"
         },
         {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
@@ -278,6 +410,72 @@
           "id": "dc5a8e8e-ec9e-4434-af8a-c7c84e58ae94"
         },
         {
+          "titulo": "FIVE NIGHTS AT FREDDYS 2",
+          "horarios": [
+            {
+              "horario": "11:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:15",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "15:05",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "19:55",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            }
+          ],
+          "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
+        },
+        {
           "titulo": "LA ULTIMA POSESION",
           "horarios": [
             {
@@ -299,7 +497,7 @@
     {
       "peliculas": [
         {
-          "titulo": "FIVE NIGHTS AT FREDDYS 2",
+          "titulo": "100 METROS",
           "horarios": [
             {
               "horario": "12:00",
@@ -307,42 +505,119 @@
               "formato": "2D"
             },
             {
-              "horario": "14:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
+              "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
+          "id": "20c17e89-2c57-4655-875e-312c632a9f8d"
+        },
+        {
+          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
+        },
+        {
+          "titulo": "GARRAS: DIOS Y EL DIABLO ESTAN DE VACACIONES",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "c7a3c2f3-80c6-4780-aff1-652c6e10a6ea"
+        },
+        {
+          "titulo": "BUGONIA",
+          "horarios": [
+            {
+              "horario": "21:20",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "5df6a045-becd-4aab-b108-72897d3be9c3"
+        },
+        {
+          "titulo": "BESO DE TRES",
+          "horarios": [
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "7998e59c-adfb-454c-8349-13ea880de000"
+        },
+        {
+          "titulo": "UNA NAVIDAD INESPERADA",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e14f4728-ce81-430f-9cca-1cefbc990699"
+        },
+        {
+          "titulo": "EL GRINCH (2005)",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ea94fc47-a6ff-46a9-84d1-7b94ef6b1df2"
+        },
+        {
+          "titulo": "LA PRINCESA Y LA FLOR MAGICA",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e1a99b2c-3865-4c6b-bdda-4969cc0f836b"
         },
         {
           "titulo": "ZOOTOPIA 2",
@@ -419,6 +694,52 @@
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "FIVE NIGHTS AT FREDDYS 2",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
         }
       ],
       "ciudad": "Santa Cruz Av. Brasil"
@@ -426,10 +747,10 @@
     {
       "peliculas": [
         {
-          "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
+          "titulo": "100 METROS",
           "horarios": [
             {
-              "horario": "10:10",
+              "horario": "10:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -439,83 +760,134 @@
               "formato": "2D"
             },
             {
-              "horario": "14:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
+          "id": "20c17e89-2c57-4655-875e-312c632a9f8d"
         },
         {
-          "titulo": "FIVE NIGHTS AT FREDDYS 2",
+          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
           "horarios": [
-            {
-              "horario": "10:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:30",
+              "horario": "19:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:20",
+              "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
+          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
+        },
+        {
+          "titulo": "GARRAS: DIOS Y EL DIABLO ESTAN DE VACACIONES",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "c7a3c2f3-80c6-4780-aff1-652c6e10a6ea"
+        },
+        {
+          "titulo": "UNA NAVIDAD INESPERADA",
+          "horarios": [
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e14f4728-ce81-430f-9cca-1cefbc990699"
+        },
+        {
+          "titulo": "EL GRINCH (2005)",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ea94fc47-a6ff-46a9-84d1-7b94ef6b1df2"
+        },
+        {
+          "titulo": "BESO DE TRES",
+          "horarios": [
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "7998e59c-adfb-454c-8349-13ea880de000"
+        },
+        {
+          "titulo": "BUGONIA",
+          "horarios": [
+            {
+              "horario": "22:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "5df6a045-becd-4aab-b108-72897d3be9c3"
+        },
+        {
+          "titulo": "LA PRINCESA Y LA FLOR MAGICA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e1a99b2c-3865-4c6b-bdda-4969cc0f836b"
         },
         {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
@@ -526,7 +898,7 @@
               "formato": "2D"
             },
             {
-              "horario": "23:20",
+              "horario": "23:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -648,37 +1020,27 @@
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
-        }
-      ],
-      "ciudad": "Cochabamba"
-    },
-    {
-      "peliculas": [
+        },
         {
           "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "10:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:40",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "14:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
+              "horario": "17:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -689,57 +1051,275 @@
           "titulo": "FIVE NIGHTS AT FREDDYS 2",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "10:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:45",
+              "horario": "11:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:10",
+              "horario": "12:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:35",
+              "horario": "13:40",
               "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
+        }
+      ],
+      "ciudad": "Cochabamba"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "100 METROS",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "20c17e89-2c57-4655-875e-312c632a9f8d"
+        },
+        {
+          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
+        },
+        {
+          "titulo": "GARRAS: DIOS Y EL DIABLO ESTAN DE VACACIONES",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "ESP",
               "formato": "2D"
             },
             {
               "horario": "22:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "c7a3c2f3-80c6-4780-aff1-652c6e10a6ea"
+        },
+        {
+          "titulo": "BESO DE TRES",
+          "horarios": [
+            {
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "11:00",
+              "horario": "14:05",
               "idioma": "DOB",
-              "formato": "2D Atmos"
+              "formato": "2D"
             },
             {
-              "horario": "13:25",
+              "horario": "16:40",
               "idioma": "DOB",
-              "formato": "2D Atmos"
+              "formato": "2D"
             },
             {
-              "horario": "15:50",
+              "horario": "19:15",
               "idioma": "DOB",
-              "formato": "2D Atmos"
+              "formato": "2D"
             },
             {
-              "horario": "18:15",
+              "horario": "21:50",
               "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
+              "formato": "2D"
             }
           ],
-          "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
+          "id": "7998e59c-adfb-454c-8349-13ea880de000"
+        },
+        {
+          "titulo": "BUGONIA",
+          "horarios": [
+            {
+              "horario": "21:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "5df6a045-becd-4aab-b108-72897d3be9c3"
+        },
+        {
+          "titulo": "UNA NAVIDAD INESPERADA",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e14f4728-ce81-430f-9cca-1cefbc990699"
+        },
+        {
+          "titulo": "EL GRINCH (2005)",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ea94fc47-a6ff-46a9-84d1-7b94ef6b1df2"
+        },
+        {
+          "titulo": "LA PRINCESA Y LA FLOR MAGICA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e1a99b2c-3865-4c6b-bdda-4969cc0f836b"
         },
         {
           "titulo": "ZOOTOPIA 2",
@@ -861,6 +1441,93 @@
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
+        },
+        {
+          "titulo": "FIVE NIGHTS AT FREDDYS 2",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "13:25",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "18:15",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            }
+          ],
+          "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
         }
       ],
       "ciudad": "La Paz"
@@ -868,35 +1535,41 @@
     {
       "peliculas": [
         {
-          "titulo": "FIVE NIGHTS AT FREDDYS 2",
+          "titulo": "BUGONIA",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "16:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "5df6a045-becd-4aab-b108-72897d3be9c3"
+        },
+        {
+          "titulo": "UNA NAVIDAD INESPERADA",
+          "horarios": [
+            {
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
+              "horario": "14:15",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
+          "id": "e14f4728-ce81-430f-9cca-1cefbc990699"
         },
         {
           "titulo": "ZOOTOPIA 2",
@@ -953,6 +1626,37 @@
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "FIVE NIGHTS AT FREDDYS 2",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
         }
       ],
       "ciudad": "La Paz VIP"
@@ -960,36 +1664,15 @@
     {
       "peliculas": [
         {
-          "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
+          "titulo": "100 METROS",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
-        },
-        {
-          "titulo": "FIVE NIGHTS AT FREDDYS 2",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
+              "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -997,29 +1680,136 @@
               "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
-            },
+            }
+          ],
+          "id": "20c17e89-2c57-4655-875e-312c632a9f8d"
+        },
+        {
+          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
+          "horarios": [
             {
-              "horario": "19:15",
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:25",
+              "horario": "20:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
+          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
+        },
+        {
+          "titulo": "GARRAS: DIOS Y EL DIABLO ESTAN DE VACACIONES",
+          "horarios": [
+            {
+              "horario": "16:40",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "c7a3c2f3-80c6-4780-aff1-652c6e10a6ea"
+        },
+        {
+          "titulo": "UNA NAVIDAD INESPERADA",
+          "horarios": [
+            {
+              "horario": "17:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e14f4728-ce81-430f-9cca-1cefbc990699"
+        },
+        {
+          "titulo": "EL GRINCH (2005)",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ea94fc47-a6ff-46a9-84d1-7b94ef6b1df2"
+        },
+        {
+          "titulo": "BESO DE TRES",
+          "horarios": [
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "7998e59c-adfb-454c-8349-13ea880de000"
+        },
+        {
+          "titulo": "BUGONIA",
+          "horarios": [
+            {
+              "horario": "20:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "5df6a045-becd-4aab-b108-72897d3be9c3"
+        },
+        {
+          "titulo": "LA PRINCESA Y LA FLOR MAGICA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e1a99b2c-3865-4c6b-bdda-4969cc0f836b"
         },
         {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
@@ -1125,6 +1915,68 @@
           "id": "19763c41-3a18-4d9e-b483-c774eddee062"
         },
         {
+          "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
+        },
+        {
+          "titulo": "FIVE NIGHTS AT FREDDYS 2",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
+        },
+        {
           "titulo": "UN BUEN LADRON",
           "horarios": [
             {
@@ -1141,20 +1993,31 @@
     {
       "peliculas": [
         {
-          "titulo": "FIVE NIGHTS AT FREDDYS 2",
+          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "19:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:45",
+              "horario": "21:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
+        },
+        {
+          "titulo": "UNA NAVIDAD INESPERADA",
+          "horarios": [
+            {
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "15:15",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1162,29 +2025,67 @@
               "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
-            },
+            }
+          ],
+          "id": "e14f4728-ce81-430f-9cca-1cefbc990699"
+        },
+        {
+          "titulo": "EL GRINCH (2005)",
+          "horarios": [
             {
-              "horario": "19:15",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:45",
+              "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
+          "id": "ea94fc47-a6ff-46a9-84d1-7b94ef6b1df2"
+        },
+        {
+          "titulo": "BESO DE TRES",
+          "horarios": [
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "7998e59c-adfb-454c-8349-13ea880de000"
+        },
+        {
+          "titulo": "LA PRINCESA Y LA FLOR MAGICA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e1a99b2c-3865-4c6b-bdda-4969cc0f836b"
         },
         {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
@@ -1242,11 +2143,57 @@
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "FIVE NIGHTS AT FREDDYS 2",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
         }
       ],
       "ciudad": "Quillacollo"
     }
   ],
   "cine": "MEGA",
-  "fecha": "11/12/2025"
+  "fecha": "12/12/2025"
 }
