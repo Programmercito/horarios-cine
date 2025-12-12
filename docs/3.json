@@ -3,11 +3,11 @@
     {
       "peliculas": [
         {
-          "id": "decebf37-ad12-49ed-a1f9-fe94ba9f3e17",
-          "titulo": "REY DE REYES",
+          "id": "e1a99b2c-3865-4c6b-bdda-4969cc0f836b",
+          "titulo": "LA PRINCESA Y LA FLOR MAGICA",
           "horarios": [
             {
-              "horario": "10:40",
+              "horario": "10:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -18,12 +18,12 @@
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
-              "horario": "12:50",
+              "horario": "10:40",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "12:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -55,11 +55,6 @@
           "titulo": "5 NOCHES EN FREDDYS 2",
           "horarios": [
             {
-              "horario": "10:50",
-              "idioma": "Doblado al Español",
-              "formato": "2D"
-            },
-            {
               "horario": "12:50",
               "idioma": "Doblado al Español",
               "formato": "2D"
@@ -85,11 +80,16 @@
               "formato": "2D"
             }
           ]
+        },
+        {
+          "id": "5df6a045-becd-4aab-b108-72897d3be9c3",
+          "titulo": "BUGONIA",
+          "horarios": []
         }
       ],
       "ciudad": "La Paz"
     }
   ],
   "cine": "MONJE",
-  "fecha": "11/12/2025"
+  "fecha": "12/12/2025"
 }
