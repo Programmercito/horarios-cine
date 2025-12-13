@@ -6,6 +6,36 @@
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
               "horario": "11:20",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
@@ -59,31 +89,6 @@
               "horario": "21:10",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "12:50",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
@@ -330,7 +335,7 @@
               "formato": "2D"
             },
             {
-              "horario": "11:30",
+              "horario": "12:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -789,92 +794,22 @@
             {
               "horario": "10:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "‌\n"
             },
             {
               "horario": "11:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "‌\n"
             },
             {
               "horario": "11:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "‌\n"
             },
             {
               "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "3D"
+              "formato": "‌\n"
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
@@ -973,27 +908,6 @@
           "id": "3cce3882-ed97-4399-8169-133536accb35"
         },
         {
-          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
-          "horarios": [
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
-        },
-        {
           "titulo": "UNA NAVIDAD INESPERADA",
           "horarios": [
             {
@@ -1020,6 +934,48 @@
           "id": "e14f4728-ce81-430f-9cca-1cefbc990699"
         },
         {
+          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
+        },
+        {
+          "titulo": "BUGONIA",
+          "horarios": [
+            {
+              "horario": "20:10",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "5df6a045-becd-4aab-b108-72897d3be9c3"
+        },
+        {
           "titulo": "GARRAS",
           "horarios": [
             {
@@ -1041,22 +997,6 @@
           "id": "6d0ea269-d548-4c72-ac51-4f77d2980bcc"
         },
         {
-          "titulo": "BUGONIA",
-          "horarios": [
-            {
-              "horario": "20:10",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "5df6a045-becd-4aab-b108-72897d3be9c3"
-        },
-        {
           "titulo": "BESO DE TRES",
           "horarios": [
             {
@@ -1073,7 +1013,7 @@
           "id": "7998e59c-adfb-454c-8349-13ea880de000"
         },
         {
-          "titulo": "BESO DE TRES",
+          "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
             {
               "horario": "22:00",
@@ -1081,7 +1021,7 @@
               "formato": "2D"
             }
           ],
-          "id": "7998e59c-adfb-454c-8349-13ea880de000"
+          "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
         },
         {
           "titulo": "100 METROS",
@@ -1110,5 +1050,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "12/12/2025"
+  "fecha": "13/12/2025"
 }
