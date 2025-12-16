@@ -21,17 +21,7 @@
               "formato": "3D - 3D KRONOS"
             },
             {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "22:10",
+              "horario": "17:20",
               "idioma": "Español",
               "formato": "3D - 3D KRONOS"
             },
@@ -51,21 +41,6 @@
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
@@ -81,7 +56,17 @@
               "formato": "2D"
             },
             {
+              "horario": "18:05",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -89,6 +74,16 @@
               "horario": "21:10",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "3D"
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
@@ -137,19 +132,9 @@
               "formato": "2D XL - 2D XL KRONOS"
             },
             {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
               "horario": "22:40",
               "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
+              "formato": "2D - 2D KRONOS"
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
@@ -171,16 +156,6 @@
               "horario": "18:30",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ],
           "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
@@ -199,12 +174,7 @@
               "formato": "2D"
             },
             {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
+              "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -215,19 +185,14 @@
           "titulo": "GARRAS",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "13:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             },
             {
-              "horario": "16:30",
+              "horario": "18:00",
               "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             }
           ],
           "id": "6d0ea269-d548-4c72-ac51-4f77d2980bcc"
@@ -236,19 +201,14 @@
           "titulo": "UNA NAVIDAD INESPERADA",
           "horarios": [
             {
-              "horario": "14:30",
+              "horario": "11:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             },
             {
-              "horario": "19:00",
+              "horario": "16:00",
               "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             }
           ],
           "id": "e14f4728-ce81-430f-9cca-1cefbc990699"
@@ -268,28 +228,6 @@
             }
           ],
           "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
-        },
-        {
-          "titulo": "BESO DE TRES",
-          "horarios": [
-            {
-              "horario": "21:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "7998e59c-adfb-454c-8349-13ea880de000"
-        },
-        {
-          "titulo": "LA PRINCESA Y LA FLOR MAGICA",
-          "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "e1a99b2c-3865-4c6b-bdda-4969cc0f836b"
         }
       ],
       "ciudad": "El Alto"
@@ -299,36 +237,6 @@
         {
           "titulo": "ZOOTOPIA 2",
           "horarios": [
-            {
-              "horario": "10:10",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
             {
               "horario": "10:30",
               "idioma": "Español",
@@ -375,6 +283,11 @@
               "formato": "2D"
             },
             {
+              "horario": "19:35",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "20:50",
               "idioma": "Español",
               "formato": "2D"
@@ -385,17 +298,12 @@
               "formato": "2D"
             },
             {
-              "horario": "10:40",
+              "horario": "11:20",
               "idioma": "Español",
               "formato": "3D PLUS"
             },
             {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "15:20",
+              "horario": "13:40",
               "idioma": "Español",
               "formato": "3D PLUS"
             },
@@ -425,37 +333,37 @@
               "formato": "3D"
             },
             {
-              "horario": "17:40",
+              "horario": "16:30",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "11:00",
+              "horario": "11:50",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "13:20",
+              "horario": "14:20",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:40",
+              "horario": "16:40",
               "idioma": "Español",
               "formato": "2D XL"
             }
@@ -481,6 +389,11 @@
               "formato": "2D"
             },
             {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "16:50",
               "idioma": "Español",
               "formato": "2D"
@@ -496,27 +409,27 @@
               "formato": "2D"
             },
             {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "21:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "12:00",
+              "horario": "11:00",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "14:20",
+              "horario": "13:15",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "18:45",
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:00",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
@@ -536,17 +449,7 @@
               "formato": "2D XL"
             },
             {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:40",
+              "horario": "22:45",
               "idioma": "Español",
               "formato": "2D XL"
             }
@@ -592,12 +495,7 @@
               "formato": "2D PLUS"
             },
             {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "18:40",
+              "horario": "18:50",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -631,11 +529,6 @@
               "horario": "20:30",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ],
           "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
@@ -652,21 +545,6 @@
               "horario": "15:30",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
             }
           ],
           "id": "e14f4728-ce81-430f-9cca-1cefbc990699"
@@ -698,6 +576,22 @@
           "id": "6d0ea269-d548-4c72-ac51-4f77d2980bcc"
         },
         {
+          "titulo": "BUGONIA",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ],
+          "id": "5df6a045-becd-4aab-b108-72897d3be9c3"
+        },
+        {
           "titulo": "EL GRINCH",
           "horarios": [
             {
@@ -711,11 +605,6 @@
               "formato": "2D"
             },
             {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "17:30",
               "idioma": "Español",
               "formato": "2D"
@@ -724,42 +613,10 @@
           "id": "3cce3882-ed97-4399-8169-133536accb35"
         },
         {
-          "titulo": "BUGONIA",
-          "horarios": [
-            {
-              "horario": "21:00",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ],
-          "id": "5df6a045-becd-4aab-b108-72897d3be9c3"
-        },
-        {
-          "titulo": "BESO DE TRES",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "7998e59c-adfb-454c-8349-13ea880de000"
-        },
-        {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
             {
-              "horario": "22:10",
+              "horario": "15:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -767,18 +624,7 @@
           "id": "cab935aa-7ef5-404e-9a62-d872de68b5c8"
         },
         {
-          "titulo": "100 METROS",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "Japones",
-              "formato": "2D"
-            }
-          ],
-          "id": "20c17e89-2c57-4655-875e-312c632a9f8d"
-        },
-        {
-          "titulo": "100 METROS",
+          "titulo": "LA PRINCESA Y LA FLOR MAGICA",
           "horarios": [
             {
               "horario": "14:40",
@@ -786,7 +632,7 @@
               "formato": "2D"
             }
           ],
-          "id": "20c17e89-2c57-4655-875e-312c632a9f8d"
+          "id": "e1a99b2c-3865-4c6b-bdda-4969cc0f836b"
         }
       ],
       "ciudad": "La Paz"
@@ -832,7 +678,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:50",
+              "horario": "15:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -847,7 +693,7 @@
               "formato": "2D"
             },
             {
-              "horario": "17:10",
+              "horario": "17:20",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -872,19 +718,9 @@
               "formato": "2D"
             },
             {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "22:40",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "3D"
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
@@ -893,37 +729,42 @@
           "titulo": "FIVE NIGHTS AT FREDDY’S 2",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "11:20",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "14:50",
+              "horario": "13:30",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "17:10",
+              "horario": "15:50",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "19:30",
+              "horario": "12:50",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             },
             {
-              "horario": "21:50",
+              "horario": "14:40",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             },
             {
-              "horario": "14:00",
+              "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:35",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -934,12 +775,12 @@
           "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "15:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:10",
+              "horario": "17:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -949,7 +790,7 @@
               "formato": "2D"
             },
             {
-              "horario": "22:10",
+              "horario": "22:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -957,28 +798,7 @@
           "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
         },
         {
-          "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
-          "horarios": [
-            {
-              "horario": "11:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
-        },
-        {
-          "titulo": "EL GRINCH",
+          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
           "horarios": [
             {
               "horario": "13:40",
@@ -994,14 +814,9 @@
               "horario": "17:50",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ],
-          "id": "3cce3882-ed97-4399-8169-133536accb35"
+          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
         },
         {
           "titulo": "UNA NAVIDAD INESPERADA",
@@ -1015,16 +830,6 @@
               "horario": "14:00",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ],
           "id": "e14f4728-ce81-430f-9cca-1cefbc990699"
@@ -1033,17 +838,38 @@
           "titulo": "BUGONIA",
           "horarios": [
             {
-              "horario": "20:10",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "22:30",
+              "horario": "22:10",
               "idioma": "Ingles",
               "formato": "2D SUB"
             }
           ],
           "id": "5df6a045-becd-4aab-b108-72897d3be9c3"
+        },
+        {
+          "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
         },
         {
           "titulo": "GARRAS",
@@ -1065,49 +891,11 @@
             }
           ],
           "id": "6d0ea269-d548-4c72-ac51-4f77d2980bcc"
-        },
-        {
-          "titulo": "BESO DE TRES",
-          "horarios": [
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:35",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "7998e59c-adfb-454c-8349-13ea880de000"
-        },
-        {
-          "titulo": "100 METROS",
-          "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "20c17e89-2c57-4655-875e-312c632a9f8d"
-        },
-        {
-          "titulo": "LA PRINCESA Y LA FLOR MAGICA",
-          "horarios": [
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "e1a99b2c-3865-4c6b-bdda-4969cc0f836b"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "15/12/2025"
+  "fecha": "16/12/2025"
 }
