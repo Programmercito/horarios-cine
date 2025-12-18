@@ -3,6 +3,97 @@
     {
       "peliculas": [
         {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "10:40",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
+        {
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
@@ -95,47 +186,176 @@
           "id": "5b80a140-c6e3-4da3-88f1-5f7438cd420a"
         },
         {
+          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
+          "horarios": [
+            {
+              "horario": "21:15",
+              "idioma": "Español",
+              "formato": "‌\n"
+            }
+          ],
+          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
+        },
+        {
+          "titulo": "GARRAS",
+          "horarios": [
+            {
+              "horario": "12:05",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6d0ea269-d548-4c72-ac51-4f77d2980bcc"
+        },
+        {
+          "titulo": "EL GRINCH",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "3cce3882-ed97-4399-8169-133536accb35"
+        },
+        {
+          "titulo": "AMOR FUERA DE TIEMPO",
+          "horarios": [
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "42a25eb9-6db3-47c9-8c6e-e7987f67bdca"
+        }
+      ],
+      "ciudad": "El Alto"
+    },
+    {
+      "peliculas": [
+        {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
               "horario": "10:00",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "13:50",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "17:40",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "21:30",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "2D"
             },
             {
-              "horario": "10:40",
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:20",
               "idioma": "Español",
               "formato": "3D"
             },
             {
               "horario": "14:30",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "3D PLUS"
             },
             {
-              "horario": "18:20",
+              "horario": "20:30",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "3D PLUS"
             },
             {
-              "horario": "22:10",
+              "horario": "20:00",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "10:00",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "10:20",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "3D XL"
             },
             {
               "horario": "11:20",
@@ -156,73 +376,10 @@
               "horario": "22:45",
               "idioma": "Español",
               "formato": "2D XL"
-            },
-            {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
-        {
-          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
-          "horarios": [
-            {
-              "horario": "21:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
-        },
-        {
-          "titulo": "EL GRINCH",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "3cce3882-ed97-4399-8169-133536accb35"
-        },
-        {
-          "titulo": "GARRAS",
-          "horarios": [
-            {
-              "horario": "12:05",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6d0ea269-d548-4c72-ac51-4f77d2980bcc"
-        }
-      ],
-      "ciudad": "El Alto"
-    },
-    {
-      "peliculas": [
         {
           "titulo": "ZOOTOPIA 2",
           "horarios": [
@@ -386,152 +543,6 @@
           "id": "5b80a140-c6e3-4da3-88f1-5f7438cd420a"
         },
         {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "10:00",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "10:20",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "11:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:45",
-              "idioma": "Español",
-              "formato": "2D XL"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
-        {
           "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
           "horarios": [
             {
@@ -551,6 +562,33 @@
             }
           ],
           "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
+        },
+        {
+          "titulo": "AMOR FUERA DE TIEMPO",
+          "horarios": [
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "42a25eb9-6db3-47c9-8c6e-e7987f67bdca"
+        },
+        {
+          "titulo": "BUGONIA",
+          "horarios": [
+            {
+              "horario": "22:30",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ],
+          "id": "5df6a045-becd-4aab-b108-72897d3be9c3"
         },
         {
           "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
@@ -575,15 +613,15 @@
           "id": "6d0ea269-d548-4c72-ac51-4f77d2980bcc"
         },
         {
-          "titulo": "BUGONIA",
+          "titulo": "EL GRINCH",
           "horarios": [
             {
-              "horario": "22:30",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
-          "id": "5df6a045-becd-4aab-b108-72897d3be9c3"
+          "id": "3cce3882-ed97-4399-8169-133536accb35"
         },
         {
           "titulo": "UNA NAVIDAD INESPERADA",
@@ -595,23 +633,98 @@
             }
           ],
           "id": "e14f4728-ce81-430f-9cca-1cefbc990699"
-        },
-        {
-          "titulo": "EL GRINCH",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "3cce3882-ed97-4399-8169-133536accb35"
         }
       ],
       "ciudad": "La Paz"
     },
     {
       "peliculas": [
+        {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "12:20",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
         {
           "titulo": "ZOOTOPIA 2",
           "horarios": [
@@ -720,101 +833,25 @@
           "id": "5b80a140-c6e3-4da3-88f1-5f7438cd420a"
         },
         {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "titulo": "AMOR FUERA DE TIEMPO",
           "horarios": [
             {
-              "horario": "10:00",
+              "horario": "11:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:50",
+              "horario": "13:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:45",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "12:20",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
-        {
-          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
-          "horarios": [
-            {
-              "horario": "21:00",
+              "horario": "17:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
+          "id": "42a25eb9-6db3-47c9-8c6e-e7987f67bdca"
         },
         {
           "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
@@ -833,15 +870,15 @@
           "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
         },
         {
-          "titulo": "EL GRINCH",
+          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
           "horarios": [
             {
-              "horario": "12:50",
+              "horario": "21:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "3cce3882-ed97-4399-8169-133536accb35"
+          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
         },
         {
           "titulo": "BUGONIA",
@@ -853,11 +890,22 @@
             }
           ],
           "id": "5df6a045-becd-4aab-b108-72897d3be9c3"
+        },
+        {
+          "titulo": "EL GRINCH",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "3cce3882-ed97-4399-8169-133536accb35"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "17/12/2025"
+  "fecha": "18/12/2025"
 }
