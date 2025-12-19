@@ -191,7 +191,7 @@
             {
               "horario": "21:15",
               "idioma": "Español",
-              "formato": "‌\n"
+              "formato": "2D"
             }
           ],
           "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
@@ -870,17 +870,6 @@
           "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
         },
         {
-          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
-          "horarios": [
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
-        },
-        {
           "titulo": "BUGONIA",
           "horarios": [
             {
@@ -890,6 +879,17 @@
             }
           ],
           "id": "5df6a045-becd-4aab-b108-72897d3be9c3"
+        },
+        {
+          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
+          "horarios": [
+            {
+              "horario": "21:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
         },
         {
           "titulo": "EL GRINCH",
@@ -907,5 +907,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "18/12/2025"
+  "fecha": "19/12/2025"
 }
