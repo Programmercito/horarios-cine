@@ -6,11 +6,6 @@
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
-              "horario": "21:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
               "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
@@ -51,12 +46,22 @@
               "formato": "2D"
             },
             {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -71,12 +76,12 @@
               "formato": "2D"
             },
             {
-              "horario": "10:30",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
             {
-              "horario": "14:40",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
@@ -134,93 +139,46 @@
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
-          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
+          "titulo": "AMOR FUERA DE TIEMPO",
           "horarios": [
-            {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
-        },
-        {
-          "titulo": "GARRAS: DIOS Y EL DIABLO ESTAN DE VACACIONES",
-          "horarios": [
-            {
-              "horario": "11:40",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "ESP",
-              "formato": "2D"
-            }
-          ],
-          "id": "c7a3c2f3-80c6-4780-aff1-652c6e10a6ea"
-        },
-        {
-          "titulo": "EL GRINCH (2005)",
-          "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "18:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "ea94fc47-a6ff-46a9-84d1-7b94ef6b1df2"
+          "id": "42a25eb9-6db3-47c9-8c6e-e7987f67bdca"
         },
         {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
           "horarios": [
             {
-              "horario": "23:30",
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -296,22 +254,7 @@
               "formato": "2D"
             },
             {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -364,6 +307,84 @@
             }
           ],
           "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
+        },
+        {
+          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
+          "horarios": [
+            {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
+        },
+        {
+          "titulo": "GARRAS: DIOS Y EL DIABLO ESTAN DE VACACIONES",
+          "horarios": [
+            {
+              "horario": "11:40",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "c7a3c2f3-80c6-4780-aff1-652c6e10a6ea"
+        },
+        {
+          "titulo": "EL GRINCH (2005)",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ea94fc47-a6ff-46a9-84d1-7b94ef6b1df2"
         }
       ],
       "ciudad": "Santa Cruz Av. Trompillo"
@@ -447,15 +468,15 @@
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
-          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
+          "titulo": "AMOR FUERA DE TIEMPO",
           "horarios": [
             {
-              "horario": "20:00",
+              "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
+          "id": "42a25eb9-6db3-47c9-8c6e-e7987f67bdca"
         },
         {
           "titulo": "ZOOTOPIA 2",
@@ -538,6 +559,17 @@
             }
           ],
           "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
+        },
+        {
+          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
+          "horarios": [
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
         }
       ],
       "ciudad": "Santa Cruz Av. Brasil"
@@ -548,7 +580,7 @@
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
-              "horario": "11:40",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -558,7 +590,7 @@
               "formato": "2D"
             },
             {
-              "horario": "15:40",
+              "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -578,12 +610,12 @@
               "formato": "2D"
             },
             {
-              "horario": "10:50",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "15:10",
+              "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
@@ -656,50 +688,8 @@
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
-          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
-          "horarios": [
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
-        },
-        {
-          "titulo": "GARRAS: DIOS Y EL DIABLO ESTAN DE VACACIONES",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:00",
-              "idioma": "ESP",
-              "formato": "2D"
-            }
-          ],
-          "id": "c7a3c2f3-80c6-4780-aff1-652c6e10a6ea"
-        },
-        {
           "titulo": "ZOOTOPIA 2",
           "horarios": [
-            {
-              "horario": "10:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "10:30",
               "idioma": "DOB",
@@ -762,11 +752,6 @@
           "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
           "horarios": [
             {
-              "horario": "10:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "11:10",
               "idioma": "DOB",
               "formato": "2D"
@@ -814,6 +799,43 @@
             }
           ],
           "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
+        },
+        {
+          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
+          "horarios": [
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
+        },
+        {
+          "titulo": "GARRAS: DIOS Y EL DIABLO ESTAN DE VACACIONES",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "c7a3c2f3-80c6-4780-aff1-652c6e10a6ea"
         }
       ],
       "ciudad": "Cochabamba"
@@ -823,11 +845,6 @@
         {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "11:00",
               "idioma": "DOB",
@@ -942,47 +959,25 @@
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
-          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
+          "titulo": "AMOR FUERA DE TIEMPO",
           "horarios": [
             {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
-        },
-        {
-          "titulo": "GARRAS: DIOS Y EL DIABLO ESTAN DE VACACIONES",
-          "horarios": [
-            {
-              "horario": "20:20",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:00",
-              "idioma": "ESP",
-              "formato": "2D"
-            }
-          ],
-          "id": "c7a3c2f3-80c6-4780-aff1-652c6e10a6ea"
-        },
-        {
-          "titulo": "EL GRINCH (2005)",
-          "horarios": [
-            {
-              "horario": "11:00",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:30",
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "ea94fc47-a6ff-46a9-84d1-7b94ef6b1df2"
+          "id": "42a25eb9-6db3-47c9-8c6e-e7987f67bdca"
         },
         {
           "titulo": "ZOOTOPIA 2",
@@ -1151,6 +1146,49 @@
             }
           ],
           "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
+        },
+        {
+          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
+          "horarios": [
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
+        },
+        {
+          "titulo": "GARRAS: DIOS Y EL DIABLO ESTAN DE VACACIONES",
+          "horarios": [
+            {
+              "horario": "20:20",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "c7a3c2f3-80c6-4780-aff1-652c6e10a6ea"
+        },
+        {
+          "titulo": "EL GRINCH (2005)",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ea94fc47-a6ff-46a9-84d1-7b94ef6b1df2"
         }
       ],
       "ciudad": "La Paz"
@@ -1176,11 +1214,6 @@
               "formato": "2D"
             },
             {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
               "horario": "14:30",
               "idioma": "DOB",
               "formato": "3D"
@@ -1197,27 +1230,6 @@
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
-        {
-          "titulo": "BUGONIA",
-          "horarios": [
-            {
-              "horario": "16:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "5df6a045-becd-4aab-b108-72897d3be9c3"
         },
         {
           "titulo": "ZOOTOPIA 2",
@@ -1265,6 +1277,27 @@
             }
           ],
           "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
+        },
+        {
+          "titulo": "BUGONIA",
+          "horarios": [
+            {
+              "horario": "16:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "5df6a045-becd-4aab-b108-72897d3be9c3"
         }
       ],
       "ciudad": "La Paz VIP"
@@ -1305,12 +1338,17 @@
               "formato": "2D"
             },
             {
+              "horario": "16:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1320,80 +1358,27 @@
               "formato": "2D"
             },
             {
-              "horario": "12:30",
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "3D"
             },
             {
-              "horario": "16:30",
+              "horario": "16:20",
               "idioma": "DOB",
               "formato": "3D"
             },
             {
-              "horario": "20:30",
+              "horario": "20:40",
               "idioma": "DOB",
               "formato": "3D"
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
-        {
-          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
-          "horarios": [
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
-        },
-        {
-          "titulo": "GARRAS: DIOS Y EL DIABLO ESTAN DE VACACIONES",
-          "horarios": [
-            {
-              "horario": "19:00",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "ESP",
-              "formato": "2D"
-            }
-          ],
-          "id": "c7a3c2f3-80c6-4780-aff1-652c6e10a6ea"
-        },
-        {
-          "titulo": "EL GRINCH (2005)",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "ea94fc47-a6ff-46a9-84d1-7b94ef6b1df2"
         },
         {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
@@ -1507,6 +1492,64 @@
             }
           ],
           "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
+        },
+        {
+          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
+          "horarios": [
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
+        },
+        {
+          "titulo": "GARRAS: DIOS Y EL DIABLO ESTAN DE VACACIONES",
+          "horarios": [
+            {
+              "horario": "19:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "c7a3c2f3-80c6-4780-aff1-652c6e10a6ea"
+        },
+        {
+          "titulo": "EL GRINCH (2005)",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ea94fc47-a6ff-46a9-84d1-7b94ef6b1df2"
         }
       ],
       "ciudad": "Tarija"
@@ -1563,33 +1606,6 @@
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
-        {
-          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
-          "horarios": [
-            {
-              "horario": "21:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
-        },
-        {
-          "titulo": "EL GRINCH (2005)",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "ea94fc47-a6ff-46a9-84d1-7b94ef6b1df2"
         },
         {
           "titulo": "ZOOTOPIA 2",
@@ -1662,11 +1678,38 @@
             }
           ],
           "id": "02fecb76-8fa0-4dc4-9ea6-8c68b045ea27"
+        },
+        {
+          "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
+          "horarios": [
+            {
+              "horario": "21:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
+        },
+        {
+          "titulo": "EL GRINCH (2005)",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ea94fc47-a6ff-46a9-84d1-7b94ef6b1df2"
         }
       ],
       "ciudad": "Quillacollo"
     }
   ],
   "cine": "MEGA",
-  "fecha": "18/12/2025"
+  "fecha": "19/12/2025"
 }
