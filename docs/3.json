@@ -1,95 +1,10 @@
 {
   "ciudades": [
     {
-      "peliculas": [
-        {
-          "id": "e1a99b2c-3865-4c6b-bdda-4969cc0f836b",
-          "titulo": "LA PRINCESA Y LA FLOR MAGICA",
-          "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "4ea12855-dc3c-4491-8295-2a180b49d155",
-          "titulo": "ZOOTOPIA 2",
-          "horarios": [
-            {
-              "horario": "10:40",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:50",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "4ea12855-dc3c-4491-8295-2a180b49d155",
-          "titulo": "ZOOTOPIA 2",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:25",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            }
-          ]
-        },
-        {
-          "id": "e4690b02-eff2-4ea6-bf7f-a08914a078ad",
-          "titulo": "5 NOCHES EN FREDDYS 2",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "Doblado al Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Doblado al Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Doblado al Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Doblado al Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Doblado al Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "5df6a045-becd-4aab-b108-72897d3be9c3",
-          "titulo": "BUGONIA",
-          "horarios": []
-        }
-      ],
+      "peliculas": [],
       "ciudad": "La Paz"
     }
   ],
   "cine": "MONJE",
-  "fecha": "18/12/2025"
+  "fecha": "19/12/2025"
 }
