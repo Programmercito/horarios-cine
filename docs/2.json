@@ -6,26 +6,6 @@
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
-              "horario": "10:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
               "horario": "10:40",
               "idioma": "Español",
               "formato": "3D"
@@ -79,6 +59,21 @@
               "horario": "19:20",
               "idioma": "Español",
               "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
             },
             {
               "horario": "16:30",
@@ -338,26 +333,6 @@
               "formato": "4D E-MOTION"
             },
             {
-              "horario": "10:20",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
               "horario": "11:20",
               "idioma": "Español",
               "formato": "2D XL"
@@ -376,6 +351,21 @@
               "horario": "22:45",
               "idioma": "Español",
               "formato": "2D XL"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "3D XL"
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
@@ -564,22 +554,6 @@
           "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
         },
         {
-          "titulo": "AMOR FUERA DE TIEMPO",
-          "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "42a25eb9-6db3-47c9-8c6e-e7987f67bdca"
-        },
-        {
           "titulo": "BUGONIA",
           "horarios": [
             {
@@ -600,6 +574,22 @@
             }
           ],
           "id": "6f295615-fc48-4ed2-b3af-9d7423f69f38"
+        },
+        {
+          "titulo": "AMOR FUERA DE TIEMPO",
+          "horarios": [
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "42a25eb9-6db3-47c9-8c6e-e7987f67bdca"
         },
         {
           "titulo": "GARRAS",
@@ -693,21 +683,6 @@
               "formato": "2D XL"
             },
             {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
               "horario": "12:20",
               "idioma": "Ingles",
               "formato": "2D SUB"
@@ -721,6 +696,16 @@
               "horario": "20:00",
               "idioma": "Ingles",
               "formato": "2D SUB"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "3D"
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
@@ -770,11 +755,6 @@
             },
             {
               "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -907,5 +887,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "19/12/2025"
+  "fecha": "20/12/2025"
 }
