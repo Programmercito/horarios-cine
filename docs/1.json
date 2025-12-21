@@ -234,11 +234,6 @@
               "formato": "2D"
             },
             {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -249,22 +244,17 @@
               "formato": "2D"
             },
             {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "20:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -286,12 +276,27 @@
           "titulo": "FIVE NIGHTS AT FREDDYS 2",
           "horarios": [
             {
-              "horario": "12:05",
+              "horario": "10:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -343,6 +348,11 @@
         {
           "titulo": "EL GRINCH (2005)",
           "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "10:30",
               "idioma": "DOB",
@@ -405,6 +415,11 @@
               "formato": "2D"
             },
             {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -413,11 +428,6 @@
               "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
             },
             {
               "horario": "13:00",
@@ -595,32 +605,37 @@
               "formato": "2D"
             },
             {
-              "horario": "11:10",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "15:10",
+              "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "19:10",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "13:00",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D CXC"
             },
             {
-              "horario": "17:00",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D CXC"
             },
             {
-              "horario": "21:00",
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "23:00",
               "idioma": "DOB",
               "formato": "2D CXC"
             },
@@ -660,7 +675,7 @@
               "formato": "4D E-Motion 3D"
             },
             {
-              "horario": "22:00",
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             }
@@ -783,7 +798,7 @@
               "formato": "2D"
             },
             {
-              "horario": "23:10",
+              "horario": "23:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
             }
@@ -836,7 +851,7 @@
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
-              "horario": "10:00",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -866,7 +881,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:00",
+              "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -896,7 +911,7 @@
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "18:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -926,22 +941,27 @@
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:30",
+              "horario": "10:00",
               "idioma": "DOB",
               "formato": "3D Atmos"
             },
             {
-              "horario": "18:30",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "3D Atmos"
             },
             {
-              "horario": "22:30",
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "3D Atmos"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "3D Atmos"
             }
@@ -1323,12 +1343,17 @@
               "formato": "2D"
             },
             {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "19:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1338,43 +1363,27 @@
               "formato": "2D"
             },
             {
-              "horario": "12:00",
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "3D"
             },
             {
-              "horario": "16:20",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "3D"
             },
             {
-              "horario": "20:40",
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "3D"
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
-        {
-          "titulo": "AMOR FUERA DE TIEMPO",
-          "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "42a25eb9-6db3-47c9-8c6e-e7987f67bdca"
         },
         {
           "titulo": "DEPREDADOR: TIERRAS SALVAJES",
@@ -1396,6 +1405,11 @@
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
@@ -1406,7 +1420,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1421,7 +1435,7 @@
               "formato": "2D"
             },
             {
-              "horario": "15:30",
+              "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1436,7 +1450,7 @@
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1446,7 +1460,7 @@
               "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1702,5 +1716,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "20/12/2025"
+  "fecha": "21/12/2025"
 }
