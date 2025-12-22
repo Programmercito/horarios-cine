@@ -208,17 +208,6 @@
           "id": "6d0ea269-d548-4c72-ac51-4f77d2980bcc"
         },
         {
-          "titulo": "EL GRINCH",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "3cce3882-ed97-4399-8169-133536accb35"
-        },
-        {
           "titulo": "AMOR FUERA DE TIEMPO",
           "horarios": [
             {
@@ -234,6 +223,152 @@
     },
     {
       "peliculas": [
+        {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "10:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "10:20",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D XL"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
         {
           "titulo": "ZOOTOPIA 2",
           "horarios": [
@@ -761,5 +896,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "21/12/2025"
+  "fecha": "22/12/2025"
 }
