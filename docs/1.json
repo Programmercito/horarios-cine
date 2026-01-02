@@ -3,61 +3,77 @@
     {
       "peliculas": [
         {
-          "titulo": "ANACONDA",
+          "titulo": "LA EMPLEADA",
           "horarios": [
             {
-              "horario": "10:40",
+              "horario": "21:50",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:20",
+              "horario": "19:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
+              "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
+          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
         },
         {
-          "titulo": "ANACONDA",
+          "titulo": "EL DESCENSO",
           "horarios": [
             {
-              "horario": "10:40",
+              "horario": "15:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:20",
+              "horario": "20:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:40",
+              "horario": "22:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "1a1c0d5e-c36c-44ca-a595-fd705cee7454"
+        },
+        {
+          "titulo": "SONG SUNG BLUE: SUEÑO INQUEBRANTABLE",
+          "horarios": [
+            {
+              "horario": "22:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:05",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -67,12 +83,38 @@
               "formato": "2D"
             },
             {
-              "horario": "22:20",
+              "horario": "22:55",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
+          "id": "d03efa5a-8d25-4d70-9add-4ee265e0a30b"
+        },
+        {
+          "titulo": "SOLO FUE UN ACCIDENTE",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:25",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:15",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "3d4245f2-31ba-4640-a0d5-71cfacca0fd1"
         },
         {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
@@ -199,6 +241,11 @@
               "formato": "2D"
             },
             {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "11:15",
               "idioma": "DOB",
               "formato": "2D"
@@ -210,6 +257,11 @@
             },
             {
               "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -247,6 +299,93 @@
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
+          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
+          "horarios": [
+            {
+              "horario": "10:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
+        },
+        {
+          "titulo": "ANACONDA",
+          "horarios": [
+            {
+              "horario": "10:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
+        },
+        {
           "titulo": "NOCHE DE PAZ, NOCHE DE HORROR",
           "horarios": [
             {
@@ -267,6 +406,157 @@
     },
     {
       "peliculas": [
+        {
+          "titulo": "LA EMPLEADA",
+          "horarios": [
+            {
+              "horario": "15:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
+        },
+        {
+          "titulo": "EL DESCENSO",
+          "horarios": [
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "1a1c0d5e-c36c-44ca-a595-fd705cee7454"
+        },
+        {
+          "titulo": "SONG SUNG BLUE: SUEÑO INQUEBRANTABLE",
+          "horarios": [
+            {
+              "horario": "21:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d03efa5a-8d25-4d70-9add-4ee265e0a30b"
+        },
+        {
+          "titulo": "SOLO FUE UN ACCIDENTE",
+          "horarios": [
+            {
+              "horario": "14:20",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "3d4245f2-31ba-4640-a0d5-71cfacca0fd1"
+        },
+        {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
+        {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
         {
           "titulo": "ANACONDA",
           "horarios": [
@@ -333,37 +623,105 @@
             }
           ],
           "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
-        },
+        }
+      ],
+      "ciudad": "Santa Cruz Av. Brasil"
+    },
+    {
+      "peliculas": [
         {
-          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
+          "titulo": "LA EMPLEADA",
           "horarios": [
             {
-              "horario": "11:20",
+              "horario": "22:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:00",
+              "horario": "20:25",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:55",
+              "horario": "23:20",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
+          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
+        },
+        {
+          "titulo": "EL DESCENSO",
+          "horarios": [
+            {
+              "horario": "18:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "1a1c0d5e-c36c-44ca-a595-fd705cee7454"
+        },
+        {
+          "titulo": "SONG SUNG BLUE: SUEÑO INQUEBRANTABLE",
+          "horarios": [
+            {
+              "horario": "23:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d03efa5a-8d25-4d70-9add-4ee265e0a30b"
+        },
+        {
+          "titulo": "SOLO FUE UN ACCIDENTE",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:25",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "3d4245f2-31ba-4640-a0d5-71cfacca0fd1"
         },
         {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
@@ -384,43 +742,99 @@
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "11:00",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D Atmos"
             },
             {
-              "horario": "17:00",
+              "horario": "15:00",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D CXC"
             },
             {
               "horario": "21:00",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D CXC"
             },
             {
-              "horario": "12:00",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "3D"
             },
             {
-              "horario": "16:00",
+              "horario": "14:30",
               "idioma": "DOB",
               "formato": "3D"
             },
             {
-              "horario": "20:00",
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "3D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "3D CXC"
+            },
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        }
-      ],
-      "ciudad": "Santa Cruz Av. Brasil"
-    },
-    {
-      "peliculas": [
+        },
+        {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
         {
           "titulo": "ANACONDA",
           "horarios": [
@@ -507,118 +921,6 @@
             }
           ],
           "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
-        },
-        {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "3D CXC"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "3D CXC"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "DOB",
-              "formato": "3D CXC"
-            },
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
-        {
-          "titulo": "ZOOTOPIA 2",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         }
       ],
       "ciudad": "Cochabamba"
@@ -626,7 +928,80 @@
     {
       "peliculas": [
         {
-          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
+          "titulo": "LA EMPLEADA",
+          "horarios": [
+            {
+              "horario": "13:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
+        },
+        {
+          "titulo": "EL DESCENSO",
+          "horarios": [
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "1a1c0d5e-c36c-44ca-a595-fd705cee7454"
+        },
+        {
+          "titulo": "SONG SUNG BLUE: SUEÑO INQUEBRANTABLE",
+          "horarios": [
+            {
+              "horario": "15:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d03efa5a-8d25-4d70-9add-4ee265e0a30b"
+        },
+        {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
               "horario": "10:00",
@@ -634,33 +1009,12 @@
               "formato": "2D"
             },
             {
-              "horario": "11:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
-        },
-        {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
               "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -675,7 +1029,17 @@
               "formato": "2D"
             },
             {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -690,7 +1054,17 @@
               "formato": "2D"
             },
             {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -701,6 +1075,11 @@
             },
             {
               "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -818,17 +1197,37 @@
             }
           ],
           "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
-        }
-      ],
-      "ciudad": "La Paz"
-    },
-    {
-      "peliculas": [
+        },
         {
           "titulo": "ANACONDA",
           "horarios": [
             {
-              "horario": "10:40",
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -839,22 +1238,94 @@
           "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
           "horarios": [
             {
-              "horario": "10:35",
+              "horario": "10:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:55",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:15",
+              "horario": "11:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
+        }
+      ],
+      "ciudad": "La Paz"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "LA EMPLEADA",
+          "horarios": [
+            {
+              "horario": "17:35",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
+        },
+        {
+          "titulo": "SONG SUNG BLUE: SUEÑO INQUEBRANTABLE",
+          "horarios": [
+            {
+              "horario": "18:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:25",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "d03efa5a-8d25-4d70-9add-4ee265e0a30b"
         },
         {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
@@ -917,12 +1388,204 @@
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "ANACONDA",
+          "horarios": [
+            {
+              "horario": "10:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
+        },
+        {
+          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
+          "horarios": [
+            {
+              "horario": "10:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
         }
       ],
       "ciudad": "La Paz VIP"
     },
     {
       "peliculas": [
+        {
+          "titulo": "LA EMPLEADA",
+          "horarios": [
+            {
+              "horario": "16:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
+        },
+        {
+          "titulo": "EL DESCENSO",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "1a1c0d5e-c36c-44ca-a595-fd705cee7454"
+        },
+        {
+          "titulo": "SONG SUNG BLUE: SUEÑO INQUEBRANTABLE",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d03efa5a-8d25-4d70-9add-4ee265e0a30b"
+        },
+        {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
+        {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
         {
           "titulo": "ANACONDA",
           "horarios": [
@@ -999,6 +1662,49 @@
             }
           ],
           "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
+        }
+      ],
+      "ciudad": "Tarija"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "LA EMPLEADA",
+          "horarios": [
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
+        },
+        {
+          "titulo": "EL DESCENSO",
+          "horarios": [
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "1a1c0d5e-c36c-44ca-a595-fd705cee7454"
+        },
+        {
+          "titulo": "SONG SUNG BLUE: SUEÑO INQUEBRANTABLE",
+          "horarios": [
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d03efa5a-8d25-4d70-9add-4ee265e0a30b"
         },
         {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
@@ -1009,27 +1715,12 @@
               "formato": "2D"
             },
             {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1060,16 +1751,6 @@
               "formato": "2D"
             },
             {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
@@ -1080,12 +1761,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1098,20 +1774,10 @@
               "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "DOB",
-              "formato": "2D"
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
-        }
-      ],
-      "ciudad": "Tarija"
-    },
-    {
-      "peliculas": [
+        },
         {
           "titulo": "ANACONDA",
           "horarios": [
@@ -1168,83 +1834,11 @@
             }
           ],
           "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
-        },
-        {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
-        {
-          "titulo": "ZOOTOPIA 2",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         }
       ],
       "ciudad": "Quillacollo"
     }
   ],
   "cine": "MEGA",
-  "fecha": "1/1/2026"
+  "fecha": "2/1/2026"
 }
