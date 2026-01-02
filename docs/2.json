@@ -41,11 +41,6 @@
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "22:50",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
               "horario": "11:40",
               "idioma": "Español",
               "formato": "3D - 3D KRONOS"
@@ -67,6 +62,11 @@
             },
             {
               "horario": "21:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:45",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -213,17 +213,6 @@
           "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
         },
         {
-          "titulo": "FIVE NIGHTS AT FREDDY’S 2",
-          "horarios": [
-            {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "5b80a140-c6e3-4da3-88f1-5f7438cd420a"
-        },
-        {
           "titulo": "SONG SUNG BLUE",
           "horarios": [
             {
@@ -233,6 +222,17 @@
             }
           ],
           "id": "caf57d58-c419-457c-9fed-4952f688f055"
+        },
+        {
+          "titulo": "FIVE NIGHTS AT FREDDY’S 2",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "5b80a140-c6e3-4da3-88f1-5f7438cd420a"
         }
       ],
       "ciudad": "El Alto"
@@ -442,47 +442,6 @@
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
-          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
-        },
-        {
           "titulo": "ANACONDA",
           "horarios": [
             {
@@ -568,6 +527,47 @@
             }
           ],
           "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
+        },
+        {
+          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
         },
         {
           "titulo": "FIVE NIGHTS AT FREDDY’S 2",
@@ -718,7 +718,7 @@
               "formato": "3D"
             },
             {
-              "horario": "17:50",
+              "horario": "18:00",
               "idioma": "Español",
               "formato": "3D"
             },
@@ -959,5 +959,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "1/1/2026"
+  "fecha": "2/1/2026"
 }
