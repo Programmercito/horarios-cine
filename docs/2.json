@@ -213,17 +213,6 @@
           "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
         },
         {
-          "titulo": "FIVE NIGHTS AT FREDDY’S 2",
-          "horarios": [
-            {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "5b80a140-c6e3-4da3-88f1-5f7438cd420a"
-        },
-        {
           "titulo": "SONG SUNG BLUE",
           "horarios": [
             {
@@ -233,6 +222,17 @@
             }
           ],
           "id": "caf57d58-c419-457c-9fed-4952f688f055"
+        },
+        {
+          "titulo": "FIVE NIGHTS AT FREDDY’S 2",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "5b80a140-c6e3-4da3-88f1-5f7438cd420a"
         }
       ],
       "ciudad": "El Alto"
@@ -959,5 +959,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "3/1/2026"
+  "fecha": "4/1/2026"
 }
