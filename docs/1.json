@@ -762,11 +762,6 @@
               "formato": "2D CXC"
             },
             {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
               "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D CXC"
@@ -790,6 +785,11 @@
               "horario": "22:30",
               "idioma": "DOB",
               "formato": "3D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "3D CXC"
             },
             {
               "horario": "10:00",
@@ -1840,5 +1840,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "3/1/2026"
+  "fecha": "4/1/2026"
 }
