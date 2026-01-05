@@ -379,11 +379,6 @@
               "formato": "3D PLUS"
             },
             {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
               "horario": "10:30",
               "idioma": "Español",
               "formato": "2D"
@@ -437,6 +432,11 @@
               "horario": "21:50",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
@@ -959,5 +959,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "4/1/2026"
+  "fecha": "5/1/2026"
 }
