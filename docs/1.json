@@ -431,12 +431,12 @@
           "titulo": "EL DESCENSO",
           "horarios": [
             {
-              "horario": "19:00",
+              "horario": "17:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:20",
+              "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -463,12 +463,7 @@
           "titulo": "SOLO FUE UN ACCIDENTE",
           "horarios": [
             {
-              "horario": "14:20",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
+              "horario": "14:45",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -602,7 +597,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:00",
+              "horario": "12:25",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -762,6 +757,11 @@
               "formato": "2D CXC"
             },
             {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
               "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D CXC"
@@ -785,11 +785,6 @@
               "horario": "22:30",
               "idioma": "DOB",
               "formato": "3D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "3D CXC"
             },
             {
               "horario": "10:00",
@@ -1840,5 +1835,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "4/1/2026"
+  "fecha": "5/1/2026"
 }
