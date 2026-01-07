@@ -11,22 +11,27 @@
               "formato": "2D"
             },
             {
-              "horario": "13:45",
+              "horario": "12:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:40",
+              "horario": "15:05",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:35",
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "20:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -68,22 +73,22 @@
               "formato": "2D"
             },
             {
-              "horario": "14:50",
+              "horario": "14:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:45",
+              "horario": "17:05",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:40",
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "23:35",
+              "horario": "22:55",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -312,7 +317,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:30",
+              "horario": "11:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -489,27 +494,32 @@
               "formato": "2D"
             },
             {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
               "horario": "13:00",
               "idioma": "DOB",
-              "formato": "3D"
+              "formato": "2D CXC Atmos"
             },
             {
               "horario": "17:00",
               "idioma": "DOB",
-              "formato": "3D"
+              "formato": "2D CXC Atmos"
             },
             {
               "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "3D"
             }
@@ -675,7 +685,7 @@
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "17:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -886,11 +896,6 @@
             },
             {
               "horario": "12:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1830,5 +1835,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "6/1/2026"
+  "fecha": "7/1/2026"
 }
