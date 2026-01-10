@@ -6,67 +6,6 @@
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
-              "horario": "10:40",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "11:20",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "22:45",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
-        {
-          "titulo": "ANACONDA",
-          "horarios": [
-            {
               "horario": "11:00",
               "idioma": "Español",
               "formato": "2D"
@@ -97,10 +36,10 @@
               "formato": "2D"
             }
           ],
-          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
-          "titulo": "ZOOTOPIA 2",
+          "titulo": "ANACONDA",
           "horarios": [
             {
               "horario": "11:00",
@@ -133,10 +72,10 @@
               "formato": "3D"
             }
           ],
-          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
         },
         {
-          "titulo": "PRIMATE",
+          "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
               "horario": "12:30",
@@ -159,10 +98,10 @@
               "formato": "2D"
             }
           ],
-          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
-          "titulo": "CATÁSTROFE EN EL MAR",
+          "titulo": "PRIMATE",
           "horarios": [
             {
               "horario": "13:20",
@@ -185,7 +124,7 @@
               "formato": "2D"
             }
           ],
-          "id": "e9cc474b-ca65-4e3f-9e33-df09509e937d"
+          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
         },
         {
           "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
@@ -230,7 +169,7 @@
           "id": "ea8c3df1-2658-40ae-8f22-b739174f231a"
         },
         {
-          "titulo": "FAMILIA EN RENTA",
+          "titulo": "VOLVER A LOS 17",
           "horarios": [
             {
               "horario": "15:40",
@@ -243,10 +182,10 @@
               "formato": "2D"
             }
           ],
-          "id": "df65ebc8-0c91-4a14-890c-d320e4bc9f87"
+          "id": "ea8c3df1-2658-40ae-8f22-b739174f231a"
         },
         {
-          "titulo": "LA EMPLEADA",
+          "titulo": "FAMILIA EN RENTA",
           "horarios": [
             {
               "horario": "22:10",
@@ -254,7 +193,7 @@
               "formato": "2D"
             }
           ],
-          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
+          "id": "df65ebc8-0c91-4a14-890c-d320e4bc9f87"
         },
         {
           "titulo": "PAPRIKA",
@@ -737,28 +676,63 @@
             {
               "horario": "10:20",
               "idioma": "Español",
-              "formato": "‌\n"
+              "formato": "3D"
             },
             {
               "horario": "14:10",
               "idioma": "Español",
-              "formato": "‌\n"
+              "formato": "3D"
             },
             {
               "horario": "18:00",
               "idioma": "Español",
-              "formato": "‌\n"
+              "formato": "3D"
             },
             {
               "horario": "21:45",
               "idioma": "Español",
-              "formato": "‌\n"
+              "formato": "3D"
+            },
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "3D XL"
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
               "horario": "10:10",
@@ -796,38 +770,7 @@
               "formato": "2D"
             }
           ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
-        {
-          "titulo": "PRIMATE",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
           "titulo": "ANACONDA",
@@ -859,6 +802,37 @@
             }
           ],
           "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
+        },
+        {
+          "titulo": "PRIMATE",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
         },
         {
           "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
@@ -908,6 +882,27 @@
           "id": "df65ebc8-0c91-4a14-890c-d320e4bc9f87"
         },
         {
+          "titulo": "CATÁSTROFE EN EL MAR",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:05",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "e9cc474b-ca65-4e3f-9e33-df09509e937d"
+        },
+        {
           "titulo": "LA EMPLEADA",
           "horarios": [
             {
@@ -945,29 +940,13 @@
           "id": "ea8c3df1-2658-40ae-8f22-b739174f231a"
         },
         {
-          "titulo": "CATÁSTROFE EN EL MAR",
-          "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "e9cc474b-ca65-4e3f-9e33-df09509e937d"
-        },
-        {
           "titulo": "EL BESO DE LA MUJER ARAÑA",
           "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "20:40",
               "idioma": "Ingles",
@@ -997,5 +976,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "9/1/2026"
+  "fecha": "10/1/2026"
 }
