@@ -258,7 +258,7 @@
               "formato": "2D"
             },
             {
-              "horario": "11:30",
+              "horario": "11:15",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -278,7 +278,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:00",
+              "horario": "13:45",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -288,7 +288,7 @@
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "16:15",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -298,7 +298,7 @@
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "18:45",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -308,7 +308,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:30",
+              "horario": "21:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -427,7 +427,7 @@
               "formato": "2D"
             },
             {
-              "horario": "23:50",
+              "horario": "23:35",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1701,12 +1701,17 @@
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:30",
+              "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1716,17 +1721,12 @@
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -2066,5 +2066,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "10/1/2026"
+  "fecha": "11/1/2026"
 }
