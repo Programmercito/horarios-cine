@@ -26,78 +26,27 @@
               "formato": "3D XL - 3D XL KRONOS"
             },
             {
-              "horario": "11:20",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "15:10",
+              "horario": "19:40",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "22:45",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "11:40",
+              "horario": "15:50",
               "idioma": "Español",
               "formato": "3D - 3D KRONOS"
             },
             {
-              "horario": "15:30",
+              "horario": "21:30",
               "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
+              "formato": "2D"
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
-        {
-          "titulo": "ZOOTOPIA 2",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:50",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "3D"
-            }
-          ],
-          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
           "titulo": "ANACONDA",
@@ -136,25 +85,51 @@
           "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
         },
         {
-          "titulo": "PRIMATE",
+          "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "11:50",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D - 3D KRONOS"
             },
             {
               "horario": "16:20",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D - 3D KRONOS"
             },
             {
-              "horario": "20:10",
+              "horario": "18:40",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "PRIMATE",
+          "horarios": [
+            {
+              "horario": "15:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -165,22 +140,22 @@
           "titulo": "CATÁSTROFE EN EL MAR",
           "horarios": [
             {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "13:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:40",
+              "horario": "17:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
+              "horario": "21:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -191,81 +166,22 @@
           "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
           "horarios": [
             {
-              "horario": "11:40",
+              "horario": "11:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:40",
+              "horario": "13:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:55",
+              "horario": "17:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
           "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
-        },
-        {
-          "titulo": "VOLVER A LOS 17",
-          "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "ea8c3df1-2658-40ae-8f22-b739174f231a"
-        },
-        {
-          "titulo": "FAMILIA EN RENTA",
-          "horarios": [
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:55",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "df65ebc8-0c91-4a14-890c-d320e4bc9f87"
-        },
-        {
-          "titulo": "LA EMPLEADA",
-          "horarios": [
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
-        },
-        {
-          "titulo": "PAPRIKA",
-          "horarios": [
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "3d5c9d16-41a8-451e-a17e-eae3be540621"
         }
       ],
       "ciudad": "El Alto"
@@ -278,25 +194,10 @@
             {
               "horario": "10:00",
               "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "formato": "2D"
             },
             {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "10:00",
+              "horario": "12:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -314,26 +215,6 @@
               "horario": "21:30",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "11:20",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "22:45",
-              "idioma": "Español",
-              "formato": "3D"
             },
             {
               "horario": "12:20",
@@ -349,6 +230,26 @@
               "horario": "20:00",
               "idioma": "Español",
               "formato": "3D PLUS"
+            },
+            {
+              "horario": "10:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
             },
             {
               "horario": "10:20",
@@ -384,11 +285,6 @@
               "horario": "18:40",
               "idioma": "Español",
               "formato": "2D XL"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D XL"
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
@@ -402,17 +298,22 @@
               "formato": "3D PLUS"
             },
             {
-              "horario": "15:50",
+              "horario": "11:40",
               "idioma": "Español",
               "formato": "3D PLUS"
             },
             {
-              "horario": "11:00",
+              "horario": "10:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -450,11 +351,6 @@
               "horario": "20:40",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
@@ -465,30 +361,25 @@
             {
               "horario": "11:20",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             },
             {
-              "horario": "12:10",
+              "horario": "13:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "15:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:10",
+              "horario": "17:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
+              "horario": "20:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -499,27 +390,22 @@
           "titulo": "PRIMATE",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "10:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:15",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:10",
+              "horario": "16:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
+              "horario": "20:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -530,27 +416,17 @@
           "titulo": "CATÁSTROFE EN EL MAR",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "13:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:50",
+              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:15",
+              "horario": "22:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -558,30 +434,47 @@
           "id": "e9cc474b-ca65-4e3f-9e33-df09509e937d"
         },
         {
-          "titulo": "FAMILIA EN RENTA",
+          "titulo": "LA EMPLEADA",
           "horarios": [
             {
-              "horario": "13:30",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "21:35",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "14:40",
+              "horario": "16:50",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D PLUS"
             },
             {
-              "horario": "17:00",
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "df65ebc8-0c91-4a14-890c-d320e4bc9f87"
+          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
+        },
+        {
+          "titulo": "EL BESO DE LA MUJER ARAÑA",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "5f74b5b1-852e-432e-bb5c-efefbf26a696"
+        },
+        {
+          "titulo": "PAPRIKA",
+          "horarios": [
+            {
+              "horario": "11:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "3d5c9d16-41a8-451e-a17e-eae3be540621"
         },
         {
           "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
@@ -605,99 +498,15 @@
           "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
         },
         {
-          "titulo": "EL BESO DE LA MUJER ARAÑA",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "Ingles",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Ingles",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "5f74b5b1-852e-432e-bb5c-efefbf26a696"
-        },
-        {
-          "titulo": "VOLVER A LOS 17",
-          "horarios": [
-            {
-              "horario": "10:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "ea8c3df1-2658-40ae-8f22-b739174f231a"
-        },
-        {
-          "titulo": "PAPRIKA",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "21:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "3d5c9d16-41a8-451e-a17e-eae3be540621"
-        },
-        {
-          "titulo": "LA EMPLEADA",
-          "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "18:50",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "21:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
-        },
-        {
           "titulo": "FIVE NIGHTS AT FREDDY’S 2",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "10:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:10",
+              "horario": "13:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -708,23 +517,12 @@
           "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
           "horarios": [
             {
-              "horario": "14:15",
+              "horario": "12:10",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
           "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
-        },
-        {
-          "titulo": "EL DESCENSO",
-          "horarios": [
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "1a1c0d5e-c36c-44ca-a595-fd705cee7454"
         }
       ],
       "ciudad": "La Paz"
@@ -735,37 +533,12 @@
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
-              "horario": "10:20",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "11:20",
+              "horario": "11:00",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:45",
+              "horario": "14:50",
               "idioma": "Español",
               "formato": "2D XL"
             },
@@ -785,9 +558,14 @@
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "18:40",
               "idioma": "Español",
               "formato": "3D XL"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "Español",
+              "formato": "3D"
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
@@ -795,11 +573,6 @@
         {
           "titulo": "ZOOTOPIA 2",
           "horarios": [
-            {
-              "horario": "10:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "11:10",
               "idioma": "Español",
@@ -837,27 +610,17 @@
           "titulo": "PRIMATE",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "11:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:30",
+              "horario": "17:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
+              "horario": "19:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -866,63 +629,6 @@
         },
         {
           "titulo": "ANACONDA",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
-        },
-        {
-          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
-        },
-        {
-          "titulo": "VOLVER A LOS 17",
           "horarios": [
             {
               "horario": "12:00",
@@ -935,30 +641,56 @@
               "formato": "2D"
             },
             {
-              "horario": "18:40",
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "ea8c3df1-2658-40ae-8f22-b739174f231a"
+          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
+        },
+        {
+          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
+          "horarios": [
+            {
+              "horario": "10:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
         },
         {
           "titulo": "FAMILIA EN RENTA",
           "horarios": [
             {
-              "horario": "12:50",
+              "horario": "13:00",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "17:25",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
             }
           ],
           "id": "df65ebc8-0c91-4a14-890c-d320e4bc9f87"
@@ -967,17 +699,12 @@
           "titulo": "CATÁSTROFE EN EL MAR",
           "horarios": [
             {
-              "horario": "10:30",
+              "horario": "11:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
+              "horario": "13:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -985,49 +712,22 @@
           "id": "e9cc474b-ca65-4e3f-9e33-df09509e937d"
         },
         {
-          "titulo": "EL BESO DE LA MUJER ARAÑA",
-          "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "5f74b5b1-852e-432e-bb5c-efefbf26a696"
-        },
-        {
-          "titulo": "PAPRIKA",
-          "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "3d5c9d16-41a8-451e-a17e-eae3be540621"
-        },
-        {
           "titulo": "LA EMPLEADA",
           "horarios": [
             {
-              "horario": "19:00",
+              "horario": "12:45",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:35",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
           "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
@@ -1037,5 +737,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "13/1/2026"
+  "fecha": "14/1/2026"
 }
