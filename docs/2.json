@@ -116,27 +116,6 @@
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
-          "titulo": "PRIMATE",
-          "horarios": [
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
-        },
-        {
           "titulo": "CATÁSTROFE EN EL MAR",
           "horarios": [
             {
@@ -163,6 +142,84 @@
           "id": "e9cc474b-ca65-4e3f-9e33-df09509e937d"
         },
         {
+          "titulo": "PRIMATE",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
+        },
+        {
+          "titulo": "EXTERMINIO: EL TEMPLO DE LOS HUESOS",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "c89f525a-62f4-493b-8bdb-5cf4359e3860"
+        },
+        {
+          "titulo": "NO ME SIGAS",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6b6f9b7a-d848-43ff-bd0a-a372757154aa"
+        },
+        {
           "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
           "horarios": [
             {
@@ -182,6 +239,38 @@
             }
           ],
           "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
+        },
+        {
+          "titulo": "CREPÚSCULO",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "38cae503-371b-4fe0-9343-a3bca955c594"
+        },
+        {
+          "titulo": "MARTY SUPREMO",
+          "horarios": [
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
         }
       ],
       "ciudad": "El Alto"
@@ -191,6 +280,26 @@
         {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
             {
               "horario": "10:00",
               "idioma": "Español",
@@ -230,26 +339,6 @@
               "horario": "20:00",
               "idioma": "Español",
               "formato": "3D PLUS"
-            },
-            {
-              "horario": "10:00",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
             },
             {
               "horario": "10:20",
@@ -356,6 +445,47 @@
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
+          "titulo": "EXTERMINIO: EL TEMPLO DE LOS HUESOS",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ],
+          "id": "c89f525a-62f4-493b-8bdb-5cf4359e3860"
+        },
+        {
           "titulo": "ANACONDA",
           "horarios": [
             {
@@ -413,25 +543,35 @@
           "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
         },
         {
-          "titulo": "CATÁSTROFE EN EL MAR",
+          "titulo": "CREPÚSCULO",
           "horarios": [
             {
-              "horario": "13:50",
+              "horario": "16:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "19:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:10",
+              "horario": "19:35",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D XL"
             }
           ],
-          "id": "e9cc474b-ca65-4e3f-9e33-df09509e937d"
+          "id": "38cae503-371b-4fe0-9343-a3bca955c594"
         },
         {
           "titulo": "LA EMPLEADA",
@@ -455,26 +595,56 @@
           "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
         },
         {
-          "titulo": "EL BESO DE LA MUJER ARAÑA",
+          "titulo": "MARTY SUPREMO",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "16:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "5f74b5b1-852e-432e-bb5c-efefbf26a696"
+          "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
         },
         {
-          "titulo": "PAPRIKA",
+          "titulo": "NO ME SIGAS",
           "horarios": [
             {
-              "horario": "11:50",
+              "horario": "10:20",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
-          "id": "3d5c9d16-41a8-451e-a17e-eae3be540621"
+          "id": "6b6f9b7a-d848-43ff-bd0a-a372757154aa"
         },
         {
           "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
@@ -498,6 +668,48 @@
           "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
         },
         {
+          "titulo": "CATÁSTROFE EN EL MAR",
+          "horarios": [
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "e9cc474b-ca65-4e3f-9e33-df09509e937d"
+        },
+        {
+          "titulo": "LA ÚNICA OPCIÓN",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "27ec98e1-8bdc-4d5f-a785-4f2266def221"
+        },
+        {
           "titulo": "FIVE NIGHTS AT FREDDY’S 2",
           "horarios": [
             {
@@ -514,6 +726,17 @@
           "id": "5b80a140-c6e3-4da3-88f1-5f7438cd420a"
         },
         {
+          "titulo": "FAMILIA EN RENTA",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "df65ebc8-0c91-4a14-890c-d320e4bc9f87"
+        },
+        {
           "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
           "horarios": [
             {
@@ -523,6 +746,17 @@
             }
           ],
           "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
+        },
+        {
+          "titulo": "PAPRIKA",
+          "horarios": [
+            {
+              "horario": "11:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "3d5c9d16-41a8-451e-a17e-eae3be540621"
         }
       ],
       "ciudad": "La Paz"
@@ -607,27 +841,6 @@
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
-          "titulo": "PRIMATE",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
-        },
-        {
           "titulo": "ANACONDA",
           "horarios": [
             {
@@ -664,6 +877,79 @@
           "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
         },
         {
+          "titulo": "PRIMATE",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
+        },
+        {
+          "titulo": "EXTERMINIO: EL TEMPLO DE LOS HUESOS",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "c89f525a-62f4-493b-8bdb-5cf4359e3860"
+        },
+        {
+          "titulo": "LA EMPLEADA",
+          "horarios": [
+            {
+              "horario": "12:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
+        },
+        {
           "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
           "horarios": [
             {
@@ -683,6 +969,69 @@
             }
           ],
           "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
+        },
+        {
+          "titulo": "CREPÚSCULO",
+          "horarios": [
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            }
+          ],
+          "id": "38cae503-371b-4fe0-9343-a3bca955c594"
+        },
+        {
+          "titulo": "MARTY SUPREMO",
+          "horarios": [
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
+        },
+        {
+          "titulo": "NO ME SIGAS",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6b6f9b7a-d848-43ff-bd0a-a372757154aa"
         },
         {
           "titulo": "FAMILIA EN RENTA",
@@ -712,30 +1061,25 @@
           "id": "e9cc474b-ca65-4e3f-9e33-df09509e937d"
         },
         {
-          "titulo": "LA EMPLEADA",
+          "titulo": "LA ÚNICA OPCIÓN",
           "horarios": [
             {
-              "horario": "12:45",
-              "idioma": "Español",
-              "formato": "2D"
+              "horario": "15:50",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             },
             {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "2D"
+              "horario": "18:30",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             }
           ],
-          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
+          "id": "27ec98e1-8bdc-4d5f-a785-4f2266def221"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "14/1/2026"
+  "fecha": "15/1/2026"
 }
