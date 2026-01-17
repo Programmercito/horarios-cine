@@ -94,14 +94,14 @@
               "formato": "2D"
             },
             {
-              "horario": "23:30",
+              "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "23:30",
               "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
+              "formato": "2D"
             }
           ],
           "id": "15931583-91d2-421c-814c-3279a958c184"
@@ -262,12 +262,17 @@
               "formato": "2D"
             },
             {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "12:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:30",
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -277,7 +282,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:50",
+              "horario": "15:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -444,17 +449,17 @@
           "titulo": "CATASTROFE EN EL MAR",
           "horarios": [
             {
-              "horario": "17:10",
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:50",
+              "horario": "20:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "23:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1463,31 +1468,25 @@
     {
       "peliculas": [
         {
-          "titulo": "CREPUSCULO",
-          "horarios": [
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "f3f66544-f0f0-4032-9b8e-a13d81a7ffa9"
-        },
-        {
           "titulo": "EXTERMINIO: EL TEMPLO DE HUESOS",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "15:00",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "14:00",
+              "horario": "17:30",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "20:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1534,6 +1533,22 @@
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
+        {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
           "titulo": "ANACONDA",
@@ -2063,16 +2078,6 @@
           "titulo": "PRIMATE",
           "horarios": [
             {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -2085,5 +2090,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "16/1/2026"
+  "fecha": "17/1/2026"
 }
