@@ -94,11 +94,6 @@
               "formato": "2D"
             },
             {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "23:30",
               "idioma": "DOB",
               "formato": "2D"
@@ -176,6 +171,11 @@
             },
             {
               "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "22:30",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             }
@@ -2078,6 +2078,16 @@
           "titulo": "PRIMATE",
           "horarios": [
             {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -2090,5 +2100,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "17/1/2026"
+  "fecha": "18/1/2026"
 }
