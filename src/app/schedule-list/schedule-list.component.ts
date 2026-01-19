@@ -287,17 +287,11 @@ export class ScheduleListComponent extends EncodingCine implements OnInit {
     window.open(url, '_blank');
   }
 
-  // Share on Facebook
-  shareOnFacebook(): void {
-    const text = encodeURIComponent(this.getShareText());
-    const url = `https://www.facebook.com/sharer/sharer.php?quote=${text}`;
-    window.open(url, '_blank');
-  }
-
   // Share on Telegram
   shareOnTelegram(): void {
     const text = encodeURIComponent(this.getShareText());
-    const url = `https://t.me/share/url?text=${text}`;
+    const siteUrl = encodeURIComponent('https://cine.devcito.org');
+    const url = `https://t.me/share/url?url=${siteUrl}&text=${text}`;
     window.open(url, '_blank');
   }
 }
