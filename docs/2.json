@@ -199,27 +199,6 @@
           "id": "e9cc474b-ca65-4e3f-9e33-df09509e937d"
         },
         {
-          "titulo": "PRIMATE",
-          "horarios": [
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
-        },
-        {
           "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
           "horarios": [
             {
@@ -239,6 +218,27 @@
             }
           ],
           "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
+        },
+        {
+          "titulo": "PRIMATE",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
         },
         {
           "titulo": "CREPÚSCULO",
@@ -445,7 +445,7 @@
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
-          "titulo": "ZOOTOPIA 2",
+          "titulo": "EXTERMINIO: EL TEMPLO DE LOS HUESOS",
           "horarios": [
             {
               "horario": "10:50",
@@ -483,38 +483,7 @@
               "formato": "2D PLUS SUB"
             }
           ],
-          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
-        },
-        {
-          "titulo": "CREPÚSCULO",
-          "horarios": [
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:35",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            }
-          ],
-          "id": "38cae503-371b-4fe0-9343-a3bca955c594"
+          "id": "c89f525a-62f4-493b-8bdb-5cf4359e3860"
         },
         {
           "titulo": "ANACONDA",
@@ -548,6 +517,63 @@
           "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
         },
         {
+          "titulo": "CREPÚSCULO",
+          "horarios": [
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:35",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            }
+          ],
+          "id": "38cae503-371b-4fe0-9343-a3bca955c594"
+        },
+        {
+          "titulo": "PRIMATE",
+          "horarios": [
+            {
+              "horario": "10:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
+        },
+        {
           "titulo": "MARTY SUPREMO",
           "horarios": [
             {
@@ -567,32 +593,6 @@
             },
             {
               "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
-        },
-        {
-          "titulo": "MARTY SUPREMO",
-          "horarios": [
-            {
-              "horario": "10:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -624,6 +624,27 @@
             }
           ],
           "id": "6b6f9b7a-d848-43ff-bd0a-a372757154aa"
+        },
+        {
+          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
         },
         {
           "titulo": "LA EMPLEADA",
@@ -687,27 +708,6 @@
             }
           ],
           "id": "27ec98e1-8bdc-4d5f-a785-4f2266def221"
-        },
-        {
-          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
         },
         {
           "titulo": "FIVE NIGHTS AT FREDDY’S 2",
@@ -805,42 +805,6 @@
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
-          "titulo": "ZOOTOPIA 2",
-          "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
-        },
-        {
           "titulo": "ANACONDA",
           "horarios": [
             {
@@ -875,6 +839,42 @@
             }
           ],
           "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
+        },
+        {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
           "titulo": "EXTERMINIO: EL TEMPLO DE LOS HUESOS",
@@ -929,6 +929,27 @@
           "id": "38cae503-371b-4fe0-9343-a3bca955c594"
         },
         {
+          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
+          "horarios": [
+            {
+              "horario": "10:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
+        },
+        {
           "titulo": "LA EMPLEADA",
           "horarios": [
             {
@@ -948,6 +969,27 @@
             }
           ],
           "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
+        },
+        {
+          "titulo": "PRIMATE",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
         },
         {
           "titulo": "MARTY SUPREMO",
@@ -971,49 +1013,7 @@
           "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
         },
         {
-          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
-          "horarios": [
-            {
-              "horario": "10:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
-        },
-        {
-          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
-        },
-        {
-          "titulo": "PRIMATE",
+          "titulo": "NO ME SIGAS",
           "horarios": [
             {
               "horario": "11:10",
@@ -1031,7 +1031,7 @@
               "formato": "2D"
             }
           ],
-          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
+          "id": "6b6f9b7a-d848-43ff-bd0a-a372757154aa"
         },
         {
           "titulo": "CATÁSTROFE EN EL MAR",
@@ -1054,12 +1054,12 @@
           "horarios": [
             {
               "horario": "15:50",
-              "idioma": "Coreano",
+              "idioma": "Ingles",
               "formato": "2D SUB"
             },
             {
               "horario": "18:30",
-              "idioma": "Ingles",
+              "idioma": "Coreano",
               "formato": "2D SUB"
             }
           ],
@@ -1081,5 +1081,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "18/1/2026"
+  "fecha": "19/1/2026"
 }
