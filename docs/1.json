@@ -3,150 +3,15 @@
     {
       "peliculas": [
         {
-          "titulo": "HALLOWEEN: LA NOCHE DEL ESPANTAPAJAROS",
+          "titulo": "CREPUSCULO",
           "horarios": [
             {
-              "horario": "17:30",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "71f20cea-ade5-4a60-907f-a020965f6b1b"
-        },
-        {
-          "titulo": "CRONICAS DE EXORCISMO: EL COMIENZO",
-          "horarios": [
-            {
-              "horario": "10:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "920c9749-bb1a-4d51-93d4-47afa09dd983"
-        },
-        {
-          "titulo": "LOS EXTRAÑOS: CAPITULO 2",
-          "horarios": [
-            {
-              "horario": "13:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "5057c66e-8613-4c9e-8d3d-6b92e40869b6"
-        },
-        {
-          "titulo": "AVATAR: EL CAMINO DEL AGUA (2022)",
-          "horarios": [
-            {
-              "horario": "10:15",
-              "idioma": "DOB",
-              "formato": "3D CXC Atmos"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "3D CXC Atmos"
-            },
-            {
-              "horario": "18:05",
-              "idioma": "DOB",
-              "formato": "3D CXC Atmos"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "3D CXC Atmos"
-            },
-            {
-              "horario": "18:05",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            }
-          ],
-          "id": "870d8a4b-7734-4ccc-99eb-046192802442"
-        },
-        {
-          "titulo": "TIBURON (1975)",
-          "horarios": [
-            {
-              "horario": "19:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            }
-          ],
-          "id": "0bc184b3-93b3-4984-8be5-94b1b41bb424"
-        },
-        {
-          "titulo": "CAZADORES DEL FIN DEL MUNDO",
-          "horarios": [
-            {
-              "horario": "15:30",
+              "horario": "15:15",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -156,28 +21,39 @@
               "formato": "2D"
             },
             {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:00",
+              "horario": "20:45",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "fbcc58b7-6341-40ce-ad81-61a4d9af3472"
+          "id": "f3f66544-f0f0-4032-9b8e-a13d81a7ffa9"
         },
         {
-          "titulo": "DOWNTON ABBEY: EL GRAN FINAL",
+          "titulo": "NO ME SIGAS: PRESENCIA DEMONIACA",
           "horarios": [
             {
-              "horario": "17:00",
-              "idioma": "SUBT",
+              "horario": "18:40",
+              "idioma": "ESP",
               "formato": "2D"
             },
             {
-              "horario": "19:45",
+              "horario": "20:40",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "aaa236f3-7246-4a4f-8ab9-4aef17011803"
+        },
+        {
+          "titulo": "LA UNICA OPCION",
+          "horarios": [
+            {
+              "horario": "19:30",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -187,137 +63,13 @@
               "formato": "2D"
             }
           ],
-          "id": "78773dfe-7f86-4271-9aec-164448ca4207"
+          "id": "dcc989b4-758f-4d43-9f1b-e89436929b61"
         },
         {
-          "titulo": "JURASSIC WORLD: RENACE",
+          "titulo": "EXTERMINIO: EL TEMPLO DE HUESOS",
           "horarios": [
             {
-              "horario": "10:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "282e9f56-99ec-4606-809f-117194973c15"
-        },
-        {
-          "titulo": "OTRO VIERNES DE LOCOS",
-          "horarios": [
-            {
-              "horario": "11:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
-        },
-        {
-          "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "14:45",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "21:15",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            }
-          ],
-          "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
-        },
-        {
-          "titulo": "NE ZHA 2",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "3125d0c8-d87b-47f0-b8bf-c578ae8c2298"
-        },
-        {
-          "titulo": "EL CONJURO 4: ULTIMOS RITOS",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:20",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -327,27 +79,17 @@
               "formato": "2D"
             },
             {
-              "horario": "16:10",
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:50",
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
+              "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -355,300 +97,20 @@
               "horario": "23:30",
               "idioma": "DOB",
               "formato": "2D"
-            }
-          ],
-          "id": "d913942c-26d4-45e3-9fcf-1812553d1b1a"
-        },
-        {
-          "titulo": "TOY STORY",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
             },
             {
-              "horario": "13:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:10",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
-            },
-            {
-              "horario": "13:15",
+              "horario": "22:30",
               "idioma": "DOB",
               "formato": "4D E-Motion 2D"
             }
           ],
-          "id": "595a5b84-e022-4cf3-97f1-c48411e95b8d"
+          "id": "15931583-91d2-421c-814c-3279a958c184"
         },
         {
-          "titulo": "JESUS LUZ DEL MUNDO",
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a9e88e08-92ee-41c7-a68f-fc3539fe2140"
-        },
-        {
-          "titulo": "CAMINA O MUERE",
-          "horarios": [
-            {
-              "horario": "11:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "0f823829-40a2-452d-a978-ed070ab98e2d"
-        },
-        {
-          "titulo": "LA CASA DE MUÑECAS DE GABBY: LA PELICULA",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "658c6af8-0f34-4021-acf5-911b6d2f4364"
-        },
-        {
-          "titulo": "UNA BATALLA TRAS OTRA",
-          "horarios": [
-            {
-              "horario": "19:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:25",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "b58333f2-5d3b-4288-9a89-9107282be837"
-        },
-        {
-          "titulo": "TORMENTA DE NIEVE: CATASTROFE POLAR",
-          "horarios": [
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "094391fa-d815-44a9-9d0c-411772f793be"
-        }
-      ],
-      "ciudad": "Santa Cruz Av. Trompillo"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "HALLOWEEN: LA NOCHE DEL ESPANTAPAJAROS",
-          "horarios": [
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "71f20cea-ade5-4a60-907f-a020965f6b1b"
-        },
-        {
-          "titulo": "CRONICAS DE EXORCISMO: EL COMIENZO",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "920c9749-bb1a-4d51-93d4-47afa09dd983"
-        },
-        {
-          "titulo": "LOS EXTRAÑOS: CAPITULO 2",
-          "horarios": [
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "5057c66e-8613-4c9e-8d3d-6b92e40869b6"
-        },
-        {
-          "titulo": "AVATAR: EL CAMINO DEL AGUA (2022)",
-          "horarios": [
-            {
-              "horario": "13:10",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "17:05",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            }
-          ],
-          "id": "870d8a4b-7734-4ccc-99eb-046192802442"
-        },
-        {
-          "titulo": "TIBURON (1975)",
-          "horarios": [
-            {
-              "horario": "14:15",
-              "idioma": "DOB",
-              "formato": "3D CXC Atmos"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "3D CXC Atmos"
-            }
-          ],
-          "id": "0bc184b3-93b3-4984-8be5-94b1b41bb424"
-        },
-        {
-          "titulo": "CAZADORES DEL FIN DEL MUNDO",
-          "horarios": [
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "fbcc58b7-6341-40ce-ad81-61a4d9af3472"
-        },
-        {
-          "titulo": "DOWNTON ABBEY: EL GRAN FINAL",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:35",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "78773dfe-7f86-4271-9aec-164448ca4207"
-        },
-        {
-          "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
-          "horarios": [
-            {
-              "horario": "14:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
-        },
-        {
-          "titulo": "NE ZHA 2",
-          "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "3125d0c8-d87b-47f0-b8bf-c578ae8c2298"
-        },
-        {
-          "titulo": "EL CONJURO 4: ULTIMOS RITOS",
-          "horarios": [
-            {
-              "horario": "13:20",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -658,83 +120,70 @@
               "formato": "2D"
             },
             {
-              "horario": "18:40",
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:20",
+              "horario": "11:00",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "23:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "3D Atmos"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "3D Atmos"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "3D Atmos"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "3D Atmos"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
             }
           ],
-          "id": "d913942c-26d4-45e3-9fcf-1812553d1b1a"
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
-          "titulo": "LA CASA DE MUÑECAS DE GABBY: LA PELICULA",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "658c6af8-0f34-4021-acf5-911b6d2f4364"
-        },
-        {
-          "titulo": "TORMENTA DE NIEVE: CATASTROFE POLAR",
-          "horarios": [
-            {
-              "horario": "13:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "094391fa-d815-44a9-9d0c-411772f793be"
-        }
-      ],
-      "ciudad": "Santa Cruz Av. Brasil"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "HALLOWEEN: LA NOCHE DEL ESPANTAPAJAROS",
-          "horarios": [
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "71f20cea-ade5-4a60-907f-a020965f6b1b"
-        },
-        {
-          "titulo": "CRONICAS DE EXORCISMO: EL COMIENZO",
+          "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
               "horario": "10:00",
@@ -742,7 +191,17 @@
               "formato": "2D"
             },
             {
-              "horario": "12:00",
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -750,150 +209,9 @@
               "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
-            }
-          ],
-          "id": "920c9749-bb1a-4d51-93d4-47afa09dd983"
-        },
-        {
-          "titulo": "LOS EXTRAÑOS: CAPITULO 2",
-          "horarios": [
-            {
-              "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "2D"
             },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "5057c66e-8613-4c9e-8d3d-6b92e40869b6"
-        },
-        {
-          "titulo": "AVATAR: EL CAMINO DEL AGUA (2022)",
-          "horarios": [
-            {
-              "horario": "10:15",
-              "idioma": "DOB",
-              "formato": "3D CXC"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "3D CXC"
-            },
-            {
-              "horario": "18:05",
-              "idioma": "DOB",
-              "formato": "3D CXC"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "3D CXC"
-            },
-            {
-              "horario": "18:05",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            }
-          ],
-          "id": "870d8a4b-7734-4ccc-99eb-046192802442"
-        },
-        {
-          "titulo": "TIBURON (1975)",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            }
-          ],
-          "id": "0bc184b3-93b3-4984-8be5-94b1b41bb424"
-        },
-        {
-          "titulo": "CAZADORES DEL FIN DEL MUNDO",
-          "horarios": [
             {
               "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "fbcc58b7-6341-40ce-ad81-61a4d9af3472"
-        },
-        {
-          "titulo": "DOWNTON ABBEY: EL GRAN FINAL",
-          "horarios": [
-            {
-              "horario": "19:45",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "78773dfe-7f86-4271-9aec-164448ca4207"
-        },
-        {
-          "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:15",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -903,49 +221,12 @@
               "formato": "2D"
             },
             {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
-        },
-        {
-          "titulo": "NE ZHA 2",
-          "horarios": [
-            {
-              "horario": "10:00",
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "3125d0c8-d87b-47f0-b8bf-c578ae8c2298"
-        },
-        {
-          "titulo": "EL CONJURO 4: ULTIMOS RITOS",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -955,63 +236,176 @@
               "formato": "2D"
             },
             {
-              "horario": "23:20",
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "d913942c-26d4-45e3-9fcf-1812553d1b1a"
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
-          "titulo": "TOY STORY",
+          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
           "horarios": [
             {
-              "horario": "10:15",
+              "horario": "10:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "11:10",
+              "horario": "12:20",
               "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
+              "formato": "2D"
             },
             {
-              "horario": "13:15",
+              "horario": "14:00",
               "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
-          "id": "595a5b84-e022-4cf3-97f1-c48411e95b8d"
+          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
         },
         {
-          "titulo": "JESUS LUZ DEL MUNDO",
+          "titulo": "ANACONDA",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:15",
+              "horario": "12:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "a9e88e08-92ee-41c7-a68f-fc3539fe2140"
+          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
         },
         {
-          "titulo": "HAMILTON",
+          "titulo": "MARTY: JUEGO SUPREMO",
           "horarios": [
             {
-              "horario": "19:15",
+              "horario": "22:20",
               "idioma": "SUBT",
               "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
-          "id": "4e3b36d6-085f-4e7c-b0b5-c0f60b50980d"
+          "id": "cea2bff2-9b24-4c7c-abc0-777bbcbd653f"
         },
         {
-          "titulo": "LA CASA DE MUÑECAS DE GABBY: LA PELICULA",
+          "titulo": "PRIMATE",
+          "horarios": [
+            {
+              "horario": "10:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
+        },
+        {
+          "titulo": "VOLVER A LOS 17",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:10",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "ea8c3df1-2658-40ae-8f22-b739174f231a"
+        },
+        {
+          "titulo": "EL DESCENSO",
+          "horarios": [
+            {
+              "horario": "23:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "1a1c0d5e-c36c-44ca-a595-fd705cee7454"
+        },
+        {
+          "titulo": "FAMILIA EN RENTA",
           "horarios": [
             {
               "horario": "10:10",
@@ -1034,45 +428,13 @@
               "formato": "2D"
             }
           ],
-          "id": "658c6af8-0f34-4021-acf5-911b6d2f4364"
+          "id": "df65ebc8-0c91-4a14-890c-d320e4bc9f87"
         },
         {
-          "titulo": "UNA BATALLA TRAS OTRA",
+          "titulo": "CATASTROFE EN EL MAR",
           "horarios": [
             {
-              "horario": "22:45",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "b58333f2-5d3b-4288-9a89-9107282be837"
-        },
-        {
-          "titulo": "TORMENTA DE NIEVE: CATASTROFE POLAR",
-          "horarios": [
-            {
-              "horario": "23:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "094391fa-d815-44a9-9d0c-411772f793be"
-        }
-      ],
-      "ciudad": "Cochabamba"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "HALLOWEEN: LA NOCHE DEL ESPANTAPAJAROS",
-          "horarios": [
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:05",
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1082,10 +444,63 @@
               "formato": "2D"
             }
           ],
-          "id": "71f20cea-ade5-4a60-907f-a020965f6b1b"
+          "id": "252f39e0-00a5-4fb5-b2fa-fc4c03aae865"
+        }
+      ],
+      "ciudad": "Santa Cruz Av. Trompillo"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "CREPUSCULO",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f3f66544-f0f0-4032-9b8e-a13d81a7ffa9"
         },
         {
-          "titulo": "CRONICAS DE EXORCISMO: EL COMIENZO",
+          "titulo": "LA UNICA OPCION",
+          "horarios": [
+            {
+              "horario": "21:50",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "dcc989b4-758f-4d43-9f1b-e89436929b61"
+        },
+        {
+          "titulo": "EXTERMINIO: EL TEMPLO DE HUESOS",
+          "horarios": [
+            {
+              "horario": "14:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "15931583-91d2-421c-814c-3279a958c184"
+        },
+        {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
               "horario": "13:00",
@@ -1093,23 +508,158 @@
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "3D"
             }
           ],
-          "id": "920c9749-bb1a-4d51-93d4-47afa09dd983"
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
-          "titulo": "LOS EXTRAÑOS: CAPITULO 2",
+          "titulo": "ZOOTOPIA 2",
           "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:20",
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "ANACONDA",
+          "horarios": [
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
+        },
+        {
+          "titulo": "MARTY: JUEGO SUPREMO",
+          "horarios": [
+            {
+              "horario": "20:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "cea2bff2-9b24-4c7c-abc0-777bbcbd653f"
+        },
+        {
+          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
+        },
+        {
+          "titulo": "FAMILIA EN RENTA",
+          "horarios": [
+            {
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "df65ebc8-0c91-4a14-890c-d320e4bc9f87"
+        },
+        {
+          "titulo": "PRIMATE",
+          "horarios": [
+            {
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1119,31 +669,1262 @@
               "formato": "2D"
             }
           ],
-          "id": "5057c66e-8613-4c9e-8d3d-6b92e40869b6"
-        },
+          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
+        }
+      ],
+      "ciudad": "Santa Cruz Av. Brasil"
+    },
+    {
+      "peliculas": [
         {
-          "titulo": "AVATAR: EL CAMINO DEL AGUA (2022)",
+          "titulo": "CREPUSCULO",
           "horarios": [
             {
-              "horario": "13:10",
+              "horario": "15:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f3f66544-f0f0-4032-9b8e-a13d81a7ffa9"
+        },
+        {
+          "titulo": "LA UNICA OPCION",
+          "horarios": [
+            {
+              "horario": "16:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "dcc989b4-758f-4d43-9f1b-e89436929b61"
+        },
+        {
+          "titulo": "EXTERMINIO: EL TEMPLO DE HUESOS",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            }
+          ],
+          "id": "15931583-91d2-421c-814c-3279a958c184"
+        },
+        {
+          "titulo": "NO ME SIGAS: PRESENCIA DEMONIACA",
+          "horarios": [
+            {
+              "horario": "22:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "aaa236f3-7246-4a4f-8ab9-4aef17011803"
+        },
+        {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "10:00",
               "idioma": "DOB",
               "formato": "3D"
             },
             {
-              "horario": "17:05",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "3D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
+        {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "MARTY: JUEGO SUPREMO",
+          "horarios": [
+            {
+              "horario": "22:20",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "cea2bff2-9b24-4c7c-abc0-777bbcbd653f"
+        },
+        {
+          "titulo": "ANACONDA",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "23:30",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            }
+          ],
+          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
+        },
+        {
+          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
+        },
+        {
+          "titulo": "FAMILIA EN RENTA",
+          "horarios": [
+            {
+              "horario": "10:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "df65ebc8-0c91-4a14-890c-d320e4bc9f87"
+        },
+        {
+          "titulo": "PRIMATE",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
+        },
+        {
+          "titulo": "CATASTROFE EN EL MAR",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "252f39e0-00a5-4fb5-b2fa-fc4c03aae865"
+        }
+      ],
+      "ciudad": "Cochabamba"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "CREPUSCULO",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f3f66544-f0f0-4032-9b8e-a13d81a7ffa9"
+        },
+        {
+          "titulo": "LA UNICA OPCION",
+          "horarios": [
+            {
+              "horario": "15:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "dcc989b4-758f-4d43-9f1b-e89436929b61"
+        },
+        {
+          "titulo": "EXTERMINIO: EL TEMPLO DE HUESOS",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "15931583-91d2-421c-814c-3279a958c184"
+        },
+        {
+          "titulo": "NO ME SIGAS: PRESENCIA DEMONIACA",
+          "horarios": [
+            {
+              "horario": "15:40",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "aaa236f3-7246-4a4f-8ab9-4aef17011803"
+        },
+        {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:20",
+              "idioma": "DOB",
+              "formato": "3D Atmos"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "3D Atmos"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "3D Atmos"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "3D Atmos"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
+        {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
+        },
+        {
+          "titulo": "ANACONDA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
+        },
+        {
+          "titulo": "MARTY: JUEGO SUPREMO",
+          "horarios": [
+            {
+              "horario": "15:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "cea2bff2-9b24-4c7c-abc0-777bbcbd653f"
+        },
+        {
+          "titulo": "VOLVER A LOS 17",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "ea8c3df1-2658-40ae-8f22-b739174f231a"
+        },
+        {
+          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
+        },
+        {
+          "titulo": "FAMILIA EN RENTA",
+          "horarios": [
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "df65ebc8-0c91-4a14-890c-d320e4bc9f87"
+        },
+        {
+          "titulo": "PRIMATE",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
+        },
+        {
+          "titulo": "CATASTROFE EN EL MAR",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "252f39e0-00a5-4fb5-b2fa-fc4c03aae865"
+        }
+      ],
+      "ciudad": "La Paz"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "EXTERMINIO: EL TEMPLO DE HUESOS",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "15931583-91d2-421c-814c-3279a958c184"
+        },
+        {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
             },
             {
               "horario": "21:00",
               "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:20",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
               "formato": "3D"
             }
           ],
-          "id": "870d8a4b-7734-4ccc-99eb-046192802442"
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
-          "titulo": "CAZADORES DEL FIN DEL MUNDO",
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "ANACONDA",
+          "horarios": [
+            {
+              "horario": "10:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
+        },
+        {
+          "titulo": "MARTY: JUEGO SUPREMO",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "cea2bff2-9b24-4c7c-abc0-777bbcbd653f"
+        },
+        {
+          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
+        }
+      ],
+      "ciudad": "La Paz VIP"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "CREPUSCULO",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f3f66544-f0f0-4032-9b8e-a13d81a7ffa9"
+        },
+        {
+          "titulo": "LA UNICA OPCION",
+          "horarios": [
+            {
+              "horario": "13:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "dcc989b4-758f-4d43-9f1b-e89436929b61"
+        },
+        {
+          "titulo": "EXTERMINIO: EL TEMPLO DE HUESOS",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "15931583-91d2-421c-814c-3279a958c184"
+        },
+        {
+          "titulo": "NO ME SIGAS: PRESENCIA DEMONIACA",
+          "horarios": [
+            {
+              "horario": "20:20",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "aaa236f3-7246-4a4f-8ab9-4aef17011803"
+        },
+        {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "3D"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
+        {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "ANACONDA",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
+        },
+        {
+          "titulo": "MARTY: JUEGO SUPREMO",
+          "horarios": [
+            {
+              "horario": "21:20",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "cea2bff2-9b24-4c7c-abc0-777bbcbd653f"
+        },
+        {
+          "titulo": "VOLVER A LOS 17",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "ea8c3df1-2658-40ae-8f22-b739174f231a"
+        },
+        {
+          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
+        },
+        {
+          "titulo": "FAMILIA EN RENTA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "df65ebc8-0c91-4a14-890c-d320e4bc9f87"
+        },
+        {
+          "titulo": "PRIMATE",
+          "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
+        },
+        {
+          "titulo": "CATASTROFE EN EL MAR",
+          "horarios": [
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "252f39e0-00a5-4fb5-b2fa-fc4c03aae865"
+        }
+      ],
+      "ciudad": "Tarija"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "CREPUSCULO",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f3f66544-f0f0-4032-9b8e-a13d81a7ffa9"
+        },
+        {
+          "titulo": "LA UNICA OPCION",
+          "horarios": [
+            {
+              "horario": "21:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "dcc989b4-758f-4d43-9f1b-e89436929b61"
+        },
+        {
+          "titulo": "EXTERMINIO: EL TEMPLO DE HUESOS",
           "horarios": [
             {
               "horario": "17:00",
@@ -1161,26 +1942,10 @@
               "formato": "2D"
             }
           ],
-          "id": "fbcc58b7-6341-40ce-ad81-61a4d9af3472"
+          "id": "15931583-91d2-421c-814c-3279a958c184"
         },
         {
-          "titulo": "DOWNTON ABBEY: EL GRAN FINAL",
-          "horarios": [
-            {
-              "horario": "18:05",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "78773dfe-7f86-4271-9aec-164448ca4207"
-        },
-        {
-          "titulo": "OTRO VIERNES DE LOCOS",
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
               "horario": "13:00",
@@ -1188,60 +1953,48 @@
               "formato": "2D"
             },
             {
-              "horario": "15:35",
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "3D"
             }
           ],
-          "id": "b6169eeb-11d0-42a1-a86c-8529bc12e412"
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
-          "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
+          "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:10",
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            }
-          ],
-          "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
-        },
-        {
-          "titulo": "NE ZHA 2",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "3125d0c8-d87b-47f0-b8bf-c578ae8c2298"
-        },
-        {
-          "titulo": "EL CONJURO 4: ULTIMOS RITOS",
-          "horarios": [
-            {
-              "horario": "13:10",
+              "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1251,226 +2004,15 @@
               "formato": "2D"
             },
             {
-              "horario": "18:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "d913942c-26d4-45e3-9fcf-1812553d1b1a"
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
-          "titulo": "TOY STORY",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "595a5b84-e022-4cf3-97f1-c48411e95b8d"
-        },
-        {
-          "titulo": "LA CASA DE MUÑECAS DE GABBY: LA PELICULA",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "658c6af8-0f34-4021-acf5-911b6d2f4364"
-        }
-      ],
-      "ciudad": "La Paz"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "TIBURON (1975)",
-          "horarios": [
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "DOB",
-              "formato": "3D"
-            }
-          ],
-          "id": "0bc184b3-93b3-4984-8be5-94b1b41bb424"
-        },
-        {
-          "titulo": "DOWNTON ABBEY: EL GRAN FINAL",
-          "horarios": [
-            {
-              "horario": "18:40",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:25",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "78773dfe-7f86-4271-9aec-164448ca4207"
-        },
-        {
-          "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
-        },
-        {
-          "titulo": "NE ZHA 2",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "3125d0c8-d87b-47f0-b8bf-c578ae8c2298"
-        },
-        {
-          "titulo": "TOY STORY",
-          "horarios": [
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "595a5b84-e022-4cf3-97f1-c48411e95b8d"
-        },
-        {
-          "titulo": "HAMILTON",
-          "horarios": [
-            {
-              "horario": "20:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "4e3b36d6-085f-4e7c-b0b5-c0f60b50980d"
-        },
-        {
-          "titulo": "UNA BATALLA TRAS OTRA",
-          "horarios": [
-            {
-              "horario": "14:35",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:25",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "b58333f2-5d3b-4288-9a89-9107282be837"
-        }
-      ],
-      "ciudad": "La Paz VIP"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "HALLOWEEN: LA NOCHE DEL ESPANTAPAJAROS",
-          "horarios": [
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "71f20cea-ade5-4a60-907f-a020965f6b1b"
-        },
-        {
-          "titulo": "CRONICAS DE EXORCISMO: EL COMIENZO",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "920c9749-bb1a-4d51-93d4-47afa09dd983"
-        },
-        {
-          "titulo": "LOS EXTRAÑOS: CAPITULO 2",
+          "titulo": "ANACONDA",
           "horarios": [
             {
               "horario": "16:40",
@@ -1488,402 +2030,13 @@
               "formato": "2D"
             }
           ],
-          "id": "5057c66e-8613-4c9e-8d3d-6b92e40869b6"
+          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
         },
         {
-          "titulo": "AVATAR: EL CAMINO DEL AGUA (2022)",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "16:35",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "3D"
-            }
-          ],
-          "id": "870d8a4b-7734-4ccc-99eb-046192802442"
-        },
-        {
-          "titulo": "TIBURON (1975)",
-          "horarios": [
-            {
-              "horario": "19:10",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "DOB",
-              "formato": "3D"
-            }
-          ],
-          "id": "0bc184b3-93b3-4984-8be5-94b1b41bb424"
-        },
-        {
-          "titulo": "CAZADORES DEL FIN DEL MUNDO",
-          "horarios": [
-            {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "fbcc58b7-6341-40ce-ad81-61a4d9af3472"
-        },
-        {
-          "titulo": "JURASSIC WORLD: RENACE",
-          "horarios": [
-            {
-              "horario": "13:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "282e9f56-99ec-4606-809f-117194973c15"
-        },
-        {
-          "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
+          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
           "horarios": [
             {
               "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
-        },
-        {
-          "titulo": "NE ZHA 2",
-          "horarios": [
-            {
-              "horario": "13:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "3125d0c8-d87b-47f0-b8bf-c578ae8c2298"
-        },
-        {
-          "titulo": "EL CONJURO 4: ULTIMOS RITOS",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d913942c-26d4-45e3-9fcf-1812553d1b1a"
-        },
-        {
-          "titulo": "TOY STORY",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "595a5b84-e022-4cf3-97f1-c48411e95b8d"
-        },
-        {
-          "titulo": "JESUS LUZ DEL MUNDO",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a9e88e08-92ee-41c7-a68f-fc3539fe2140"
-        },
-        {
-          "titulo": "LA CASA DE MUÑECAS DE GABBY: LA PELICULA",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "658c6af8-0f34-4021-acf5-911b6d2f4364"
-        },
-        {
-          "titulo": "TORMENTA DE NIEVE: CATASTROFE POLAR",
-          "horarios": [
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "094391fa-d815-44a9-9d0c-411772f793be"
-        }
-      ],
-      "ciudad": "Tarija"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "HALLOWEEN: LA NOCHE DEL ESPANTAPAJAROS",
-          "horarios": [
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "71f20cea-ade5-4a60-907f-a020965f6b1b"
-        },
-        {
-          "titulo": "LOS EXTRAÑOS: CAPITULO 2",
-          "horarios": [
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "5057c66e-8613-4c9e-8d3d-6b92e40869b6"
-        },
-        {
-          "titulo": "AVATAR: EL CAMINO DEL AGUA (2022)",
-          "horarios": [
-            {
-              "horario": "12:05",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            }
-          ],
-          "id": "870d8a4b-7734-4ccc-99eb-046192802442"
-        },
-        {
-          "titulo": "CAZADORES DEL FIN DEL MUNDO",
-          "horarios": [
-            {
-              "horario": "18:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "fbcc58b7-6341-40ce-ad81-61a4d9af3472"
-        },
-        {
-          "titulo": "DEMON SLAYER: KIMETSU NO YAIBA - CASTILLO INFINITO",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "ca46efb3-3372-443b-8874-f51aea11c2f0"
-        },
-        {
-          "titulo": "NE ZHA 2",
-          "horarios": [
-            {
-              "horario": "13:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "3125d0c8-d87b-47f0-b8bf-c578ae8c2298"
-        },
-        {
-          "titulo": "EL CONJURO 4: ULTIMOS RITOS",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d913942c-26d4-45e3-9fcf-1812553d1b1a"
-        },
-        {
-          "titulo": "TOY STORY",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "595a5b84-e022-4cf3-97f1-c48411e95b8d"
-        },
-        {
-          "titulo": "LA CASA DE MUÑECAS DE GABBY: LA PELICULA",
-          "horarios": [
-            {
-              "horario": "12:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1891,30 +2044,35 @@
               "horario": "14:20",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "DOB",
-              "formato": "2D"
             }
           ],
-          "id": "658c6af8-0f34-4021-acf5-911b6d2f4364"
+          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
         },
         {
-          "titulo": "TORMENTA DE NIEVE: CATASTROFE POLAR",
+          "titulo": "PRIMATE",
           "horarios": [
             {
-              "horario": "21:25",
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "094391fa-d815-44a9-9d0c-411772f793be"
+          "id": "abd9c42f-5881-40dc-a69f-91b253077b74"
         }
       ],
       "ciudad": "Quillacollo"
     }
   ],
   "cine": "MEGA",
-  "fecha": "6/10/2025"
+  "fecha": "19/1/2026"
 }
