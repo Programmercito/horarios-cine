@@ -259,4 +259,45 @@ export class ScheduleListComponent extends EncodingCine implements OnInit {
     const url = `https://www.youtube.com/embed/${videoId}`;
     return this.sanitizer.bypassSecurityTrustResourceUrl(url);
   }
+
+  // Generate share text without emojis
+  private getShareText(): string {
+    const currentCity = this.ciudadesFiltradas.length > 0 ? this.ciudadesFiltradas[0].ciudad : this.city;
+    const siteUrl = 'https://cine.devcito.org';
+    
+    return [
+      '* ' + this.currentMovieTitle + ' *',
+      '',
+      'Cine: ' + this.cinemaName,
+      'Ciudad: ' + currentCity,
+      'Fecha: ' + this.cinemaDate,
+      'Hora: ' + (this.currentSchedule?.horario || ''),
+      'Formato: ' + (this.currentSchedule?.formato || ''),
+      'Idioma: ' + (this.currentSchedule?.idioma || ''),
+      '',
+      'Ver mas horarios en:',
+      siteUrl
+    ].join('\n');
+  }
+
+  // Share on WhatsApp
+  shareOnWhatsApp(): void {
+    const text = encodeURIComponent(this.getShareText());
+    const url = `https://wa.me/?text=${text}`;
+    window.open(url, '_blank');
+  }
+
+  // Share on Facebook
+  shareOnFacebook(): void {
+    const text = encodeURIComponent(this.getShareText());
+    const url = `https://www.facebook.com/sharer/sharer.php?quote=${text}`;
+    window.open(url, '_blank');
+  }
+
+  // Share on Telegram
+  shareOnTelegram(): void {
+    const text = encodeURIComponent(this.getShareText());
+    const url = `https://t.me/share/url?text=${text}`;
+    window.open(url, '_blank');
+  }
 }
