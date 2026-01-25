@@ -31,11 +31,6 @@
               "idioma": "Sub",
               "formato": "2D",
               "horario": "19:40"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "22:30"
             }
           ],
           "id": "192305bb-e416-4f7d-a92f-538015e2e6b6"
@@ -77,6 +72,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "16:40"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "20:10"
             },
             {
@@ -109,6 +109,11 @@
               "idioma": "Sub",
               "formato": "2D",
               "horario": "21:30"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "22:30"
             }
           ],
           "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
@@ -244,7 +249,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:30"
+              "horario": "12:20"
             },
             {
               "idioma": "Dob",
@@ -364,5 +369,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "24/1/2026"
+  "fecha": "25/1/2026"
 }
