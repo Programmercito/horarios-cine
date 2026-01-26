@@ -106,6 +106,32 @@
           "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
         },
         {
+          "titulo": "SILENT HILL: REGRESO AL INFIERNO",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "a005059d-e308-43b5-b9e9-4651a62adad0"
+        },
+        {
           "titulo": "SIN PIEDAD",
           "horarios": [
             {
@@ -156,32 +182,6 @@
             }
           ],
           "id": "3cc225f9-556f-470e-b15b-0ed33e92f7c3"
-        },
-        {
-          "titulo": "SILENT HILL: REGRESO AL INFIERNO",
-          "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "a005059d-e308-43b5-b9e9-4651a62adad0"
         },
         {
           "titulo": "EXTERMINIO: EL TEMPLO DE LOS HUESOS",
@@ -434,7 +434,7 @@
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
-          "titulo": "ZOOTOPIA 2",
+          "titulo": "SILENT HILL: REGRESO AL INFIERNO",
           "horarios": [
             {
               "horario": "11:00",
@@ -472,10 +472,10 @@
               "formato": "2D SUB"
             }
           ],
-          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+          "id": "a005059d-e308-43b5-b9e9-4651a62adad0"
         },
         {
-          "titulo": "SILENT HILL: REGRESO AL INFIERNO",
+          "titulo": "EXTERMINIO: EL TEMPLO DE LOS HUESOS",
           "horarios": [
             {
               "horario": "10:50",
@@ -513,7 +513,7 @@
               "formato": "2D PLUS"
             }
           ],
-          "id": "a005059d-e308-43b5-b9e9-4651a62adad0"
+          "id": "c89f525a-62f4-493b-8bdb-5cf4359e3860"
         },
         {
           "titulo": "SIN PIEDAD",
@@ -581,6 +581,27 @@
             }
           ],
           "id": "3cc225f9-556f-470e-b15b-0ed33e92f7c3"
+        },
+        {
+          "titulo": "HAMNET",
+          "horarios": [
+            {
+              "horario": "16:50",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "192305bb-e416-4f7d-a92f-538015e2e6b6"
         },
         {
           "titulo": "ANACONDA",
@@ -656,25 +677,20 @@
           "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
         },
         {
-          "titulo": "LA EMPLEADA",
+          "titulo": "MARTY SUPREMO",
           "horarios": [
             {
-              "horario": "16:50",
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:30",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
             }
           ],
-          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
+          "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
         },
         {
           "titulo": "CREPÚSCULO",
@@ -696,22 +712,6 @@
             }
           ],
           "id": "38cae503-371b-4fe0-9343-a3bca955c594"
-        },
-        {
-          "titulo": "MARTY SUPREMO",
-          "horarios": [
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ],
-          "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
         },
         {
           "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
@@ -893,6 +893,11 @@
               "horario": "20:10",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             }
           ],
           "id": "a005059d-e308-43b5-b9e9-4651a62adad0"
@@ -976,32 +981,6 @@
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
-          "titulo": "LA EXORCISTA",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "3cc225f9-556f-470e-b15b-0ed33e92f7c3"
-        },
-        {
           "titulo": "LA EMPLEADA",
           "horarios": [
             {
@@ -1021,6 +1000,27 @@
             }
           ],
           "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
+        },
+        {
+          "titulo": "LA EXORCISTA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "3cc225f9-556f-470e-b15b-0ed33e92f7c3"
         },
         {
           "titulo": "KIKI ENTREGAS A DOMICILIO",
@@ -1139,5 +1139,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "25/1/2026"
+  "fecha": "26/1/2026"
 }
