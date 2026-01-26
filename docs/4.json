@@ -9,7 +9,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:00"
+              "horario": "11:50"
             },
             {
               "idioma": "Dob",
@@ -22,6 +22,16 @@
         {
           "titulo": "HAMNET",
           "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "10:40"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "13:40"
+            },
             {
               "idioma": "Sub",
               "formato": "2D",
@@ -140,7 +150,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "21:40"
+              "horario": "22:50"
             }
           ],
           "id": "edb59cce-2d21-4108-82d5-9d45798ea153"
@@ -148,11 +158,6 @@
         {
           "titulo": "LA EMPLEADA",
           "horarios": [
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "19:00"
-            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -244,37 +249,47 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "11:30"
+              "horario": "10:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:20"
+              "horario": "12:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "15:30"
+              "horario": "14:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "16:30"
+              "horario": "16:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "19:30"
+              "horario": "18:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "20:30"
+              "horario": "19:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "22:00"
+              "horario": "20:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "21:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "22:30"
             },
             {
               "idioma": "Dob",
@@ -294,17 +309,12 @@
             {
               "idioma": "Dob",
               "formato": "XD 2D",
-              "horario": "13:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "XD 2D",
-              "horario": "21:30"
+              "horario": "11:30"
             },
             {
               "idioma": "Dob",
               "formato": "XD 3D",
-              "horario": "17:30"
+              "horario": "15:30"
             },
             {
               "idioma": "Sub",
@@ -356,11 +366,6 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "19:10"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "21:30"
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
@@ -369,5 +374,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "25/1/2026"
+  "fecha": "26/1/2026"
 }
