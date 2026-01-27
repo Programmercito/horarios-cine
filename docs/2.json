@@ -3,47 +3,6 @@
     {
       "peliculas": [
         {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "10:40",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
-        {
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
@@ -893,11 +852,6 @@
               "horario": "20:10",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
             }
           ],
           "id": "a005059d-e308-43b5-b9e9-4651a62adad0"
@@ -1016,6 +970,11 @@
             },
             {
               "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1139,5 +1098,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "26/1/2026"
+  "fecha": "27/1/2026"
 }
