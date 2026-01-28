@@ -88,7 +88,7 @@
               "formato": "2D CXC Atmos"
             },
             {
-              "horario": "22:05",
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             }
@@ -232,12 +232,17 @@
               "formato": "3D Atmos"
             },
             {
-              "horario": "11:30",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             },
             {
-              "horario": "15:30",
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "20:50",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             }
@@ -382,6 +387,11 @@
           "titulo": "FAMILIA EN RENTA",
           "horarios": [
             {
+              "horario": "10:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "12:40",
               "idioma": "DOB",
               "formato": "2D"
@@ -506,32 +516,6 @@
           "id": "192305bb-e416-4f7d-a92f-538015e2e6b6"
         },
         {
-          "titulo": "TERROR EN SILENT HILL: REGRESO AL INFIERNO",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "cc14ad96-2c75-45cf-8fbd-27f02dc419cc"
-        },
-        {
           "titulo": "SIN PIEDAD",
           "horarios": [
             {
@@ -561,6 +545,32 @@
             }
           ],
           "id": "7b6704b4-8774-4603-86e3-58f68d16d420"
+        },
+        {
+          "titulo": "TERROR EN SILENT HILL: REGRESO AL INFIERNO",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "cc14ad96-2c75-45cf-8fbd-27f02dc419cc"
         },
         {
           "titulo": "DE VUELTA A LOS 80",
@@ -763,32 +773,6 @@
           "id": "192305bb-e416-4f7d-a92f-538015e2e6b6"
         },
         {
-          "titulo": "TERROR EN SILENT HILL: REGRESO AL INFIERNO",
-          "horarios": [
-            {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "cc14ad96-2c75-45cf-8fbd-27f02dc419cc"
-        },
-        {
           "titulo": "SIN PIEDAD",
           "horarios": [
             {
@@ -830,6 +814,32 @@
           "id": "7b6704b4-8774-4603-86e3-58f68d16d420"
         },
         {
+          "titulo": "TERROR EN SILENT HILL: REGRESO AL INFIERNO",
+          "horarios": [
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "cc14ad96-2c75-45cf-8fbd-27f02dc419cc"
+        },
+        {
           "titulo": "DE VUELTA A LOS 80",
           "horarios": [
             {
@@ -865,6 +875,67 @@
             }
           ],
           "id": "80c9ff14-07d0-4bc3-bff6-d6f71956be8e"
+        },
+        {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
           "titulo": "ZOOTOPIA 2",
@@ -937,67 +1008,6 @@
             }
           ],
           "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
-        },
-        {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
           "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
@@ -1124,6 +1134,16 @@
           "titulo": "SIN PIEDAD",
           "horarios": [
             {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "10:40",
               "idioma": "DOB",
               "formato": "2D Atmos"
@@ -1135,21 +1155,6 @@
             },
             {
               "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
@@ -1170,16 +1175,6 @@
             },
             {
               "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:40",
               "idioma": "DOB",
               "formato": "3D"
             }
@@ -1331,6 +1326,16 @@
               "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "DOB",
+              "formato": "3D Atmos"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "3D Atmos"
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
@@ -1569,16 +1574,6 @@
             },
             {
               "horario": "17:40",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -2183,5 +2178,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "27/1/2026"
+  "fecha": "28/1/2026"
 }
