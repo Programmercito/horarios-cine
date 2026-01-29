@@ -4,7 +4,38 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
-          "titulo": "KIKI ENTREGAS A DOMICILIO [1989]",
+          "titulo": "EL GRAN PREMIO A TODO VELOCIDAD",
+          "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "10:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "11:15"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "12:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "14:40"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "17:00"
+            }
+          ],
+          "id": "86591cd9-e389-4f1f-a2a8-b6d587feb62c"
+        },
+        {
+          "titulo": "EL DÍA DEL FIN DEL MUNDO 2: MIGRACION",
           "horarios": [
             {
               "idioma": "Dob",
@@ -14,35 +45,89 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "14:20"
-            }
-          ],
-          "id": "104c9c97-cf9a-4ee8-bd3f-8335fba5aa31"
-        },
-        {
-          "titulo": "HAMNET",
-          "horarios": [
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "16:40"
+              "horario": "14:15"
             },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "19:40"
-            }
-          ],
-          "id": "192305bb-e416-4f7d-a92f-538015e2e6b6"
-        },
-        {
-          "titulo": "SIN PIEDAD",
-          "horarios": [
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "10:20"
+              "horario": "16:30"
             },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "18:45"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "21:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "10:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "13:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "15:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "17:40"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "XD 2D",
+              "horario": "10:45"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "XD 2D",
+              "horario": "13:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "XD 2D",
+              "horario": "15:15"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "XD 2D",
+              "horario": "17:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "XD 2D",
+              "horario": "19:45"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "XD 2D",
+              "horario": "22:00"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "20:00"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "22:20"
+            }
+          ],
+          "id": "f8a5c2b8-d83e-411a-b741-90495924eb34"
+        },
+        {
+          "titulo": "¡AYUDA!",
+          "horarios": [
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -51,28 +136,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "15:00"
+              "horario": "15:10"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "17:20"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "19:40"
-            }
-          ],
-          "id": "7b6704b4-8774-4603-86e3-58f68d16d420"
-        },
-        {
-          "titulo": "TERROR EN SILENT HILL, REGRESO AL INFIERNO",
-          "horarios": [
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "16:40"
+              "horario": "17:40"
             },
             {
               "idioma": "Dob",
@@ -85,6 +154,92 @@
               "horario": "22:40"
             }
           ],
+          "id": "80fe68e4-7bf1-47e6-8296-2d67213c17a7"
+        },
+        {
+          "titulo": "EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO [2001] VERSION EXTENDIDA",
+          "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "19:20"
+            }
+          ],
+          "id": "529fbb1c-ce99-441c-9193-411da7f21208"
+        },
+        {
+          "titulo": "EL SEÑOR DE LOS ANILLOS: LAS DOS TORRES [2002] VERSION EXTENDIDA",
+          "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "19:20"
+            }
+          ],
+          "id": "d13704f8-442b-4539-a042-c2b10714d78b"
+        },
+        {
+          "titulo": "EL SEÑOR DE LOS ANILLOS: EL RETORNO DEL REY [2003] VERSION EXTENDIDA",
+          "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "19:20"
+            }
+          ],
+          "id": "890f2a3d-3a62-496d-bdce-4bf15b863099"
+        },
+        {
+          "titulo": "HAMNET",
+          "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "11:00"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "13:40"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "16:30"
+            }
+          ],
+          "id": "192305bb-e416-4f7d-a92f-538015e2e6b6"
+        },
+        {
+          "titulo": "SIN PIEDAD",
+          "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "22:00"
+            }
+          ],
+          "id": "7b6704b4-8774-4603-86e3-58f68d16d420"
+        },
+        {
+          "titulo": "TERROR EN SILENT HILL, REGRESO AL INFIERNO",
+          "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "17:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "19:40"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "22:00"
+            }
+          ],
           "id": "6561338a-3614-4828-80cf-76e5d9716449"
         },
         {
@@ -93,27 +248,17 @@
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "11:40"
+              "horario": "11:20"
             },
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "15:00"
+              "horario": "14:30"
             },
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "18:20"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "21:30"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "22:30"
+              "horario": "20:30"
             }
           ],
           "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
@@ -124,52 +269,16 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "20:20"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "22:45"
+              "horario": "19:30"
             }
           ],
           "id": "15931583-91d2-421c-814c-3279a958c184"
-        },
-        {
-          "titulo": "CREPUSCULO [2008]",
-          "horarios": [
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "21:40"
-            }
-          ],
-          "id": "edb59cce-2d21-4108-82d5-9d45798ea153"
         },
         {
           "titulo": "LA EMPLEADA",
           "horarios": [
             {
               "idioma": "Dob",
-              "formato": "2D",
-              "horario": "19:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "12:20"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "15:20"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "18:10"
-            },
-            {
-              "idioma": "Sub",
               "formato": "2D",
               "horario": "21:00"
             }
@@ -187,17 +296,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "13:10"
+              "horario": "13:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "15:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "17:50"
+              "horario": "15:10"
             }
           ],
           "id": "37abe165-78c3-4126-96e4-8c698770d111"
@@ -208,32 +312,32 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "10:50"
+              "horario": "10:45"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "13:10"
+              "horario": "13:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "15:30"
+              "horario": "15:15"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "17:50"
+              "horario": "17:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "20:10"
+              "horario": "19:45"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "22:30"
+              "horario": "22:00"
             }
           ],
           "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
@@ -244,72 +348,37 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "11:30"
+              "horario": "20:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "15:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "16:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "19:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "20:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "22:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "10:10"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "12:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "14:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "18:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "XD 2D",
               "horario": "13:30"
             },
             {
               "idioma": "Dob",
-              "formato": "XD 2D",
+              "formato": "2D",
+              "horario": "17:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "21:30"
             },
             {
               "idioma": "Dob",
-              "formato": "XD 3D",
-              "horario": "17:30"
+              "formato": "3D",
+              "horario": "10:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "3D",
+              "horario": "18:00"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "3D",
+              "horario": "14:00"
             },
             {
               "idioma": "Sub",
@@ -325,47 +394,47 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "10:15"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "11:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:10"
+              "horario": "12:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "13:20"
+              "horario": "13:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "14:30"
+              "horario": "15:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "15:40"
+              "horario": "16:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "16:50"
+              "horario": "17:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "18:00"
+              "horario": "18:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "19:10"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "21:30"
+              "horario": "17:30"
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
@@ -374,5 +443,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "28/1/2026"
+  "fecha": "29/1/2026"
 }
