@@ -115,12 +115,7 @@
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "20:00"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "22:20"
+              "horario": "22:00"
             }
           ],
           "id": "f8a5c2b8-d83e-411a-b741-90495924eb34"
@@ -157,23 +152,17 @@
           "id": "80fe68e4-7bf1-47e6-8296-2d67213c17a7"
         },
         {
-          "titulo": "EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO [2001] VERSION EXTENDIDA",
-          "horarios": [
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "19:20"
-            }
-          ],
-          "id": "529fbb1c-ce99-441c-9193-411da7f21208"
-        },
-        {
           "titulo": "EL SEÑOR DE LOS ANILLOS: LAS DOS TORRES [2002] VERSION EXTENDIDA",
           "horarios": [
             {
               "idioma": "Sub",
               "formato": "2D",
               "horario": "19:20"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "19:50"
             }
           ],
           "id": "d13704f8-442b-4539-a042-c2b10714d78b"
@@ -185,9 +174,30 @@
               "idioma": "Sub",
               "formato": "2D",
               "horario": "19:20"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "19:50"
             }
           ],
           "id": "890f2a3d-3a62-496d-bdce-4bf15b863099"
+        },
+        {
+          "titulo": "EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO [2001] VERSION EXTENDIDA",
+          "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "19:20"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "19:50"
+            }
+          ],
+          "id": "529fbb1c-ce99-441c-9193-411da7f21208"
         },
         {
           "titulo": "HAMNET",
@@ -258,7 +268,12 @@
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "20:30"
+              "horario": "17:50"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "21:00"
             }
           ],
           "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
@@ -379,11 +394,6 @@
               "idioma": "Sub",
               "formato": "3D",
               "horario": "14:00"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "3D",
-              "horario": "22:00"
             }
           ],
           "id": "0a814e9b-b712-4dcc-95e2-ddc16bfd6011"
@@ -430,11 +440,6 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "18:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "17:30"
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
@@ -443,5 +448,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "29/1/2026"
+  "fecha": "30/1/2026"
 }
