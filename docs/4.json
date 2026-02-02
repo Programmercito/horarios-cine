@@ -126,6 +126,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "12:40"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "15:10"
             },
             {
@@ -145,22 +150,6 @@
             }
           ],
           "id": "80fe68e4-7bf1-47e6-8296-2d67213c17a7"
-        },
-        {
-          "titulo": "EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO [2001] VERSION EXTENDIDA",
-          "horarios": [
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "19:20"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "19:50"
-            }
-          ],
-          "id": "529fbb1c-ce99-441c-9193-411da7f21208"
         },
         {
           "titulo": "EL SEÑOR DE LOS ANILLOS: LAS DOS TORRES [2002] VERSION EXTENDIDA",
@@ -193,6 +182,22 @@
             }
           ],
           "id": "890f2a3d-3a62-496d-bdce-4bf15b863099"
+        },
+        {
+          "titulo": "EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO [2001] VERSION EXTENDIDA",
+          "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "19:20"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "19:50"
+            }
+          ],
+          "id": "529fbb1c-ce99-441c-9193-411da7f21208"
         },
         {
           "titulo": "HAMNET",
@@ -322,11 +327,6 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "11:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "13:00"
             },
             {
@@ -358,7 +358,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "19:00"
+              "horario": "20:00"
             },
             {
               "idioma": "Dob",
@@ -399,12 +399,17 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "10:15"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "11:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "11:30"
+              "horario": "12:30"
             },
             {
               "idioma": "Dob",
@@ -414,7 +419,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "14:00"
+              "horario": "15:00"
             },
             {
               "idioma": "Dob",
@@ -424,7 +429,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "16:30"
+              "horario": "17:30"
             },
             {
               "idioma": "Dob",
@@ -443,5 +448,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "1/2/2026"
+  "fecha": "2/2/2026"
 }
