@@ -6,37 +6,42 @@
           "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "11:00AM",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "15:10",
+              "horario": "1:00PM",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "17:20",
+              "horario": "3:10PM",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "19:30",
+              "horario": "5:20PM",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "21:40",
+              "horario": "7:30PM",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "20:30",
+              "horario": "9:40PM",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "8:30PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "10:30PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -44,56 +49,35 @@
           "id": "e8de4a28-0dff-43c3-ab39-b90c95b4c6ca"
         },
         {
-          "titulo": "ZOOTOPIA 2",
-          "horarios": [
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            }
-          ],
-          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
-        },
-        {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "10:40AM",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "2:30PM",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "6:20PM",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "10:10PM",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "12:00PM",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "19:40",
+              "horario": "7:40PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -101,25 +85,56 @@
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "11:00AM",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "3:40PM",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "10:10PM",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "5:50PM",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "8:00PM",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
           "titulo": "AYUDA!",
           "horarios": [
             {
-              "horario": "13:10",
+              "horario": "1:10PM",
               "idioma": "Español",
               "formato": "3D"
             },
             {
-              "horario": "17:30",
+              "horario": "5:30PM",
               "idioma": "Español",
               "formato": "3D"
             },
             {
-              "horario": "19:50",
+              "horario": "7:50PM",
               "idioma": "Español",
               "formato": "3D"
             },
             {
-              "horario": "22:10",
+              "horario": "10:10PM",
               "idioma": "Español",
               "formato": "3D"
             }
@@ -130,22 +145,32 @@
           "titulo": "ANACONDA",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "10:30AM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:30",
+              "horario": "12:30PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "2:30PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:30",
+              "horario": "4:30PM",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "6:30PM",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "9:00PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -156,22 +181,22 @@
           "titulo": "SILENT HILL: REGRESO AL INFIERNO",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "12:20PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:30",
+              "horario": "2:30PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:40",
+              "horario": "4:40PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:50",
+              "horario": "6:50PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -182,17 +207,27 @@
           "titulo": "EL GRAN PREMIO A TODA VELOCIDAD",
           "horarios": [
             {
-              "horario": "13:40",
+              "horario": "11:40AM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:40",
+              "horario": "1:40PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:40",
+              "horario": "3:40PM",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "5:40PM",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "7:00PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -203,7 +238,7 @@
           "titulo": "SIN PIEDAD",
           "horarios": [
             {
-              "horario": "21:00",
+              "horario": "9:00PM",
               "idioma": "Español",
               "formato": "3D"
             }
@@ -214,12 +249,17 @@
           "titulo": "LA EXORCISTA",
           "horarios": [
             {
-              "horario": "15:20",
+              "horario": "11:10AM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:10",
+              "horario": "3:20PM",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "5:10PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -230,7 +270,7 @@
           "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
           "horarios": [
             {
-              "horario": "15:30",
+              "horario": "3:30PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -241,7 +281,7 @@
           "titulo": "EXTERMINIO: EL TEMPLO DE LOS HUESOS",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "1:00PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -257,57 +297,57 @@
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "12:20PM",
               "idioma": "Español",
               "formato": "3D XL"
             },
             {
-              "horario": "16:10",
+              "horario": "4:10PM",
               "idioma": "Español",
               "formato": "3D XL"
             },
             {
-              "horario": "20:00",
+              "horario": "8:00PM",
               "idioma": "Español",
               "formato": "3D XL"
             },
             {
-              "horario": "13:50",
+              "horario": "1:50PM",
               "idioma": "Español",
               "formato": "4D E-MOTION"
             },
             {
-              "horario": "17:40",
+              "horario": "5:40PM",
               "idioma": "Español",
               "formato": "4D E-MOTION"
             },
             {
-              "horario": "21:30",
+              "horario": "9:30PM",
               "idioma": "Español",
               "formato": "4D E-MOTION"
             },
             {
-              "horario": "14:15",
+              "horario": "2:15PM",
               "idioma": "Español",
               "formato": "3D PLUS"
             },
             {
-              "horario": "18:10",
+              "horario": "6:10PM",
               "idioma": "Español",
               "formato": "3D PLUS"
             },
             {
-              "horario": "22:00",
+              "horario": "10:00PM",
               "idioma": "Español",
               "formato": "3D PLUS"
             },
             {
-              "horario": "17:40",
+              "horario": "5:40PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:30",
+              "horario": "9:30PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -318,47 +358,57 @@
           "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "12:30PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:40",
+              "horario": "2:40PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:50",
+              "horario": "4:50PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "7:00PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:20",
+              "horario": "7:40PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:10",
+              "horario": "9:10PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:30",
+              "horario": "1:30PM",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "15:50",
+              "horario": "3:50PM",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "18:00",
+              "horario": "6:00PM",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "8:10PM",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "10:15PM",
               "idioma": "Español",
               "formato": "2D XL"
             }
@@ -369,37 +419,37 @@
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "12:00PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:10",
+              "horario": "1:10PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "2:10PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:20",
+              "horario": "3:20PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:20",
+              "horario": "4:20PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:30",
+              "horario": "6:30PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:40",
+              "horario": "8:40PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -407,61 +457,30 @@
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
-          "titulo": "EXTERMINIO: EL TEMPLO DE LOS HUESOS",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "c89f525a-62f4-493b-8bdb-5cf4359e3860"
-        },
-        {
           "titulo": "SILENT HILL: REGRESO AL INFIERNO",
           "horarios": [
             {
-              "horario": "12:40",
+              "horario": "12:40PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "3:00PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "5:20PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "7:40PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:50",
+              "horario": "9:50PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -469,25 +488,51 @@
           "id": "a005059d-e308-43b5-b9e9-4651a62adad0"
         },
         {
+          "titulo": "EXTERMINIO: EL TEMPLO DE LOS HUESOS",
+          "horarios": [
+            {
+              "horario": "1:40PM",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "4:00PM",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "8:10PM",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:20PM",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "c89f525a-62f4-493b-8bdb-5cf4359e3860"
+        },
+        {
           "titulo": "AYUDA!",
           "horarios": [
             {
-              "horario": "13:15",
+              "horario": "1:15PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "5:30PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:50",
+              "horario": "7:50PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:10",
+              "horario": "10:10PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -495,51 +540,25 @@
           "id": "eed90621-c88d-4940-80d7-f4f7d988a435"
         },
         {
-          "titulo": "EL GRAN PREMIO A TODA VELOCIDAD",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "94f53a5b-1443-4e7e-8147-62c174597c80"
-        },
-        {
           "titulo": "ANACONDA",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "12:30PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "3:10PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:10",
+              "horario": "5:10PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:10",
+              "horario": "7:10PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -547,90 +566,46 @@
           "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
         },
         {
-          "titulo": "VALOR SENTIMENTAL",
+          "titulo": "EL GRAN PREMIO A TODA VELOCIDAD",
           "horarios": [
             {
-              "horario": "13:30",
-              "idioma": "Noruego",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "Noruego",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Noruego",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "08380ac7-e02d-4730-9413-f40cca570e5f"
-        },
-        {
-          "titulo": "MARTY SUPREMO",
-          "horarios": [
-            {
-              "horario": "22:35",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
-        },
-        {
-          "titulo": "SIN PIEDAD",
-          "horarios": [
-            {
-              "horario": "22:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "7b6704b4-8774-4603-86e3-58f68d16d420"
-        },
-        {
-          "titulo": "LA EMPLEADA",
-          "horarios": [
-            {
-              "horario": "17:05",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
-        },
-        {
-          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
-          "horarios": [
-            {
-              "horario": "12:50",
+              "horario": "12:00PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:50",
+              "horario": "2:00PM",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "3:30PM",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "6:10PM",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
+          "id": "94f53a5b-1443-4e7e-8147-62c174597c80"
         },
         {
           "titulo": "LA EXORCISTA",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "11:50AM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:20",
+              "horario": "3:50PM",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "9:10PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -638,10 +613,85 @@
           "id": "3cc225f9-556f-470e-b15b-0ed33e92f7c3"
         },
         {
+          "titulo": "VALOR SENTIMENTAL",
+          "horarios": [
+            {
+              "horario": "4:50PM",
+              "idioma": "Noruego",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "7:30PM",
+              "idioma": "Noruego",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "08380ac7-e02d-4730-9413-f40cca570e5f"
+        },
+        {
+          "titulo": "SIN PIEDAD",
+          "horarios": [
+            {
+              "horario": "5:40PM",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "9:40PM",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "7b6704b4-8774-4603-86e3-58f68d16d420"
+        },
+        {
+          "titulo": "EL SEÑOR DE LOS ANILLOS: EL RETORNO DEL REY Versión Extendida",
+          "horarios": [
+            {
+              "horario": "9:15PM",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ],
+          "id": "a8e4566a-c5fc-42f4-9c5a-6e465d25483b"
+        },
+        {
+          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
+          "horarios": [
+            {
+              "horario": "12:50PM",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "2:50PM",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
+        },
+        {
+          "titulo": "LA EMPLEADA",
+          "horarios": [
+            {
+              "horario": "5:05PM",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "7:50PM",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
+        },
+        {
           "titulo": "VERDAD Y TRAICIÓN",
           "horarios": [
             {
-              "horario": "22:10",
+              "horario": "10:10PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -649,12 +699,34 @@
           "id": "b1e81690-2575-4998-be8e-df95538a2bc5"
         },
         {
+          "titulo": "MARTY SUPREMO",
+          "horarios": [
+            {
+              "horario": "10:35PM",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
+        },
+        {
+          "titulo": "HAMNET",
+          "horarios": [
+            {
+              "horario": "2:30PM",
+              "idioma": "Ingles",
+              "formato": "2D"
+            }
+          ],
+          "id": "192305bb-e416-4f7d-a92f-538015e2e6b6"
+        },
+        {
           "titulo": "CREPÚSCULO",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "11:50AM",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             }
           ],
           "id": "38cae503-371b-4fe0-9343-a3bca955c594"
@@ -663,7 +735,7 @@
           "titulo": "KIKI ENTREGAS A DOMICILIO",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "12:00PM",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -671,26 +743,26 @@
           "id": "80c9ff14-07d0-4bc3-bff6-d6f71956be8e"
         },
         {
-          "titulo": "HAMNET",
+          "titulo": "EL SEÑOR DE LOS ANILLOS: LAS DOS TORRES Versión Extendida",
           "horarios": [
             {
-              "horario": "16:20",
+              "horario": "5:00PM",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
             }
           ],
-          "id": "192305bb-e416-4f7d-a92f-538015e2e6b6"
+          "id": "e090fa67-5da8-446a-b6a3-14d7a95ddae8"
         },
         {
-          "titulo": "PARIS HILTON - ÍCONO INFNITO: UNA MEMORIA VISUAL",
+          "titulo": "EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO Versión Extendida",
           "horarios": [
             {
-              "horario": "14:35",
+              "horario": "1:00PM",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
             }
           ],
-          "id": "6d769838-b449-4aff-80c7-c599711fef4f"
+          "id": "6f5f691e-b921-4a34-8009-fdd97c19cf34"
         }
       ],
       "ciudad": "La Paz"
@@ -701,37 +773,37 @@
           "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
           "horarios": [
             {
-              "horario": "12:40",
+              "horario": "12:40PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:50",
+              "horario": "2:50PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "5:00PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:10",
+              "horario": "7:10PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:20",
+              "horario": "9:20PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:20",
+              "horario": "8:20PM",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "22:30",
+              "horario": "10:30PM",
               "idioma": "Español",
               "formato": "2D XL"
             }
@@ -742,22 +814,22 @@
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
-              "horario": "12:50",
+              "horario": "12:50PM",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "16:40",
+              "horario": "4:40PM",
               "idioma": "Español",
               "formato": "3D XL"
             },
             {
-              "horario": "18:10",
+              "horario": "6:10PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:50",
+              "horario": "9:50PM",
               "idioma": "Español",
               "formato": "3D"
             }
@@ -768,22 +840,27 @@
           "titulo": "ANACONDA",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "11:00AM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:00",
+              "horario": "12:00PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:35",
+              "horario": "2:00PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:35",
+              "horario": "6:35PM",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "8:35PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -794,22 +871,22 @@
           "titulo": "AYUDA!",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "12:20PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "5:30PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:50",
+              "horario": "7:50PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:10",
+              "horario": "10:10PM",
               "idioma": "Ingles",
               "formato": "2D SUB"
             }
@@ -820,22 +897,17 @@
           "titulo": "EL GRAN PREMIO A TODA VELOCIDAD",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "12:00PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:00",
+              "horario": "2:00PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
+              "horario": "4:00PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -846,12 +918,12 @@
           "titulo": "VALOR SENTIMENTAL",
           "horarios": [
             {
-              "horario": "16:00",
+              "horario": "4:00PM",
               "idioma": "Noruego",
               "formato": "2D SUB"
             },
             {
-              "horario": "21:30",
+              "horario": "9:30PM",
               "idioma": "Noruego",
               "formato": "2D SUB"
             }
@@ -862,17 +934,22 @@
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
-              "horario": "13:10",
+              "horario": "11:00AM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:10",
+              "horario": "1:10PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:20",
+              "horario": "5:10PM",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "7:20PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -883,17 +960,12 @@
           "titulo": "LA EMPLEADA",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "2:40PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
+              "horario": "7:30PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -904,12 +976,12 @@
           "titulo": "SILENT HILL: REGRESO AL INFIERNO",
           "horarios": [
             {
-              "horario": "17:15",
+              "horario": "5:15PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:05",
+              "horario": "10:05PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -920,17 +992,17 @@
           "titulo": "EXTERMINIO: EL TEMPLO DE LOS HUESOS",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "12:00PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "6:00PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "8:10PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -941,12 +1013,12 @@
           "titulo": "MARTY SUPREMO",
           "horarios": [
             {
-              "horario": "14:40",
+              "horario": "2:40PM",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:50",
+              "horario": "10:20PM",
               "idioma": "Ingles",
               "formato": "2D SUB"
             }
@@ -957,7 +1029,7 @@
           "titulo": "VERDAD Y TRAICIÓN",
           "horarios": [
             {
-              "horario": "22:35",
+              "horario": "10:35PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -968,7 +1040,7 @@
           "titulo": "SIN PIEDAD",
           "horarios": [
             {
-              "horario": "16:10",
+              "horario": "4:10PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -979,7 +1051,7 @@
           "titulo": "HAMNET",
           "horarios": [
             {
-              "horario": "15:00",
+              "horario": "12:15PM",
               "idioma": "Ingles",
               "formato": "2D SUB"
             }
@@ -990,7 +1062,7 @@
           "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
           "horarios": [
             {
-              "horario": "14:10",
+              "horario": "2:10PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -998,10 +1070,21 @@
           "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
         },
         {
+          "titulo": "EL SEÑOR DE LOS ANILLOS: EL RETORNO DEL REY Versión Extendida",
+          "horarios": [
+            {
+              "horario": "9:15PM",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "a8e4566a-c5fc-42f4-9c5a-6e465d25483b"
+        },
+        {
           "titulo": "LA EXORCISTA",
           "horarios": [
             {
-              "horario": "15:20",
+              "horario": "3:20PM",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1009,20 +1092,20 @@
           "id": "3cc225f9-556f-470e-b15b-0ed33e92f7c3"
         },
         {
-          "titulo": "PARIS HILTON - ÍCONO INFNITO: UNA MEMORIA VISUAL",
+          "titulo": "EL SEÑOR DE LOS ANILLOS: LAS DOS TORRES Versión Extendida",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "5:10PM",
               "idioma": "Ingles",
               "formato": "2D SUB"
             }
           ],
-          "id": "6d769838-b449-4aff-80c7-c599711fef4f"
+          "id": "e090fa67-5da8-446a-b6a3-14d7a95ddae8"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "2/2/2026"
+  "fecha": "3/2/2026"
 }
