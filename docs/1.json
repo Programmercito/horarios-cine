@@ -42,12 +42,12 @@
           "titulo": "EL DIA DEL FIN DEL MUNDO: MIGRACION",
           "horarios": [
             {
-              "horario": "20:00",
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:20",
+              "horario": "22:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -108,12 +108,12 @@
               "formato": "2D"
             },
             {
-              "horario": "12:20",
+              "horario": "11:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "12:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -123,7 +123,7 @@
               "formato": "2D"
             },
             {
-              "horario": "15:20",
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -133,7 +133,12 @@
               "formato": "2D"
             },
             {
-              "horario": "17:40",
+              "horario": "15:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -252,7 +257,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:30",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -267,12 +272,17 @@
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -412,22 +422,22 @@
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
+              "horario": "21:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "23:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1592,6 +1602,32 @@
           "id": "3e4dc5eb-58d8-4ec2-9d10-2282e92f6ab9"
         },
         {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
+        {
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
@@ -1627,32 +1663,6 @@
             }
           ],
           "id": "cea2bff2-9b24-4c7c-abc0-777bbcbd653f"
-        },
-        {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
           "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
@@ -2129,5 +2139,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "3/2/2026"
+  "fecha": "4/2/2026"
 }
