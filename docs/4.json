@@ -4,6 +4,17 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
+          "titulo": "STRAY KIDS: THE DOMINATE EXPERIENCE",
+          "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "17:00"
+            }
+          ],
+          "id": "ec757dbc-629b-47c3-8749-81e73f11e6fb"
+        },
+        {
           "titulo": "CREPÚSCULO, LA SAGA: LUNA NUEVA [2009]",
           "horarios": [
             {
@@ -20,15 +31,15 @@
           "id": "9eb61df0-e35e-46b5-adb4-2d76bec0ca00"
         },
         {
-          "titulo": "AUN ES DE NOCHE EN CARACAS",
+          "titulo": "SOLO NECESITAS MATAR",
           "horarios": [
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "20:30"
+              "horario": "18:30"
             }
           ],
-          "id": "bee88235-4538-41d6-9252-5d12298cbe45"
+          "id": "24e3f4f1-b821-4078-8cfc-a8dec8ba4718"
         },
         {
           "titulo": "MOON MI AMIGO EL PANDA",
@@ -42,24 +53,23 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "15:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "17:30"
             }
           ],
           "id": "0c63c387-7c61-42fa-82e8-f90902c957f5"
         },
         {
-          "titulo": "STRAY KIDS: THE DOMINATE EXPERIENCE",
-          "horarios": [
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "17:00"
-            }
-          ],
-          "id": "ec757dbc-629b-47c3-8749-81e73f11e6fb"
-        },
-        {
           "titulo": "EL GRAN PREMIO A TODO VELOCIDAD",
           "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "11:50"
+            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -79,17 +89,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:15"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "14:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "16:45"
+              "horario": "10:30"
             },
             {
               "idioma": "Dob",
@@ -100,6 +100,16 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "21:15"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "14:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "10:40"
             },
             {
               "idioma": "Dob",
@@ -115,6 +125,11 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "17:40"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "XD 2D",
+              "horario": "11:00"
             },
             {
               "idioma": "Dob",
@@ -166,8 +181,46 @@
           "id": "80fe68e4-7bf1-47e6-8296-2d67213c17a7"
         },
         {
+          "titulo": "EL SEÑOR DE LOS ANILLOS: EL RETORNO DEL REY [2003] VERSION EXTENDIDA",
+          "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "20:00"
+            }
+          ],
+          "id": "890f2a3d-3a62-496d-bdce-4bf15b863099"
+        },
+        {
+          "titulo": "EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO [2001] VERSION EXTENDIDA",
+          "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "20:00"
+            }
+          ],
+          "id": "529fbb1c-ce99-441c-9193-411da7f21208"
+        },
+        {
+          "titulo": "EL SEÑOR DE LOS ANILLOS: LAS DOS TORRES [2002] VERSION EXTENDIDA",
+          "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "20:00"
+            }
+          ],
+          "id": "d13704f8-442b-4539-a042-c2b10714d78b"
+        },
+        {
           "titulo": "HAMNET",
           "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "10:30"
+            },
             {
               "idioma": "Sub",
               "formato": "2D",
@@ -190,6 +243,11 @@
         {
           "titulo": "MARTY SUPREMO",
           "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "11:40"
+            },
             {
               "idioma": "Sub",
               "formato": "2D",
@@ -225,12 +283,17 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:40"
+              "horario": "12:10"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "14:50"
+              "horario": "14:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "16:40"
             }
           ],
           "id": "37abe165-78c3-4126-96e4-8c698770d111"
@@ -241,7 +304,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:20"
+              "horario": "10:15"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "12:25"
             },
             {
               "idioma": "Dob",
@@ -313,6 +381,16 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "11:15"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "11:45"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "13:45"
             },
             {
@@ -334,6 +412,16 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "18:45"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "20:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "21:10"
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
@@ -355,7 +443,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "20:00"
+              "horario": "20:10"
             }
           ],
           "id": "ec3d03e5-c61f-4895-a218-35164ca2f842"
@@ -364,5 +452,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "6/2/2026"
+  "fecha": "7/2/2026"
 }
