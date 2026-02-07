@@ -3,8 +3,54 @@
     {
       "peliculas": [
         {
+          "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
+          "horarios": [
+            {
+              "horario": "11:00 hrs",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "13:00 hrs",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "15:10 hrs",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "17:20 hrs",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "19:30 hrs",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "21:40 hrs",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "22:30 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "e8de4a28-0dff-43c3-ab39-b90c95b4c6ca"
+        },
+        {
           "titulo": "ZOOTOPIA 2",
           "horarios": [
+            {
+              "horario": "11:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:00 hrs",
               "idioma": "Español",
@@ -39,22 +85,22 @@
             {
               "horario": "10:40 hrs",
               "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
+              "formato": "3D XL"
             },
             {
               "horario": "14:30 hrs",
               "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
+              "formato": "3D XL"
             },
             {
               "horario": "18:20 hrs",
               "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
+              "formato": "3D XL"
             },
             {
               "horario": "22:10 hrs",
               "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
+              "formato": "3D XL"
             },
             {
               "horario": "12:00 hrs",
@@ -70,55 +116,8 @@
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
-          "titulo": "ANACONDA",
-          "horarios": [
-            {
-              "horario": "12:30 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
-        },
-        {
-          "titulo": "SILENT HILL: REGRESO AL INFIERNO",
-          "horarios": [
-            {
-              "horario": "14:10 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "a005059d-e308-43b5-b9e9-4651a62adad0"
-        },
-        {
           "titulo": "MOON MI AMIGO EL PANDA",
           "horarios": [
-            {
-              "horario": "11:00 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "12:00 hrs",
               "idioma": "Español",
@@ -143,15 +142,57 @@
           "id": "0c63c387-7c61-42fa-82e8-f90902c957f5"
         },
         {
+          "titulo": "ANACONDA",
+          "horarios": [
+            {
+              "horario": "12:30 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
+        },
+        {
+          "titulo": "SILENT HILL: REGRESO AL INFIERNO",
+          "horarios": [
+            {
+              "horario": "14:10 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "a005059d-e308-43b5-b9e9-4651a62adad0"
+        },
+        {
           "titulo": "STRAY KIDS",
           "horarios": [
             {
               "horario": "16:00 hrs",
-              "idioma": "Coreano",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "17:00 hrs",
               "idioma": "Coreano",
               "formato": "2D SUB"
             },
@@ -162,6 +203,17 @@
             }
           ],
           "id": "40978603-5984-4262-9f0f-8f41cfc49e4e"
+        },
+        {
+          "titulo": "UNA BATALLA TRAS OTRA",
+          "horarios": [
+            {
+              "horario": "20:30 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "b58333f2-5d3b-4288-9a89-9107282be837"
         },
         {
           "titulo": "CREPÚSCULO: LUNA NUEVA",
@@ -207,7 +259,7 @@
           "id": "3cc225f9-556f-470e-b15b-0ed33e92f7c3"
         },
         {
-          "titulo": "UNA BATALLA TRAS OTRA",
+          "titulo": "PECADORES",
           "horarios": [
             {
               "horario": "21:35 hrs",
@@ -215,7 +267,7 @@
               "formato": "2D"
             }
           ],
-          "id": "b58333f2-5d3b-4288-9a89-9107282be837"
+          "id": "ec3d03e5-c61f-4895-a218-35164ca2f842"
         },
         {
           "titulo": "AYUDA!",
@@ -244,52 +296,6 @@
     },
     {
       "peliculas": [
-        {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "12:40 hrs",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "16:30 hrs",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "20:20 hrs",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "14:15 hrs",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "18:10 hrs",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "17:40 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50 hrs",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
         {
           "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
           "horarios": [
@@ -398,6 +404,47 @@
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "12:40 hrs",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "20:20 hrs",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "14:15 hrs",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "18:10 hrs",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "17:40 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50 hrs",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
+        {
           "titulo": "SILENT HILL: REGRESO AL INFIERNO",
           "horarios": [
             {
@@ -443,47 +490,16 @@
             },
             {
               "horario": "16:00 hrs",
-              "idioma": "Coreano",
+              "idioma": "Cerrado",
               "formato": "2D SUB"
             },
             {
               "horario": "19:20 hrs",
               "idioma": "Coreano",
               "formato": "2D SUB"
-            },
-            {
-              "horario": "20:00 hrs",
-              "idioma": "Coreano",
-              "formato": "2D SUB"
             }
           ],
           "id": "40978603-5984-4262-9f0f-8f41cfc49e4e"
-        },
-        {
-          "titulo": "CREPÚSCULO: LUNA NUEVA",
-          "horarios": [
-            {
-              "horario": "11:20 hrs",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "19:40 hrs",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "16:20 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "0636a64c-3a46-42d6-9e7e-87e964aa13ef"
         },
         {
           "titulo": "MOON MI AMIGO EL PANDA",
@@ -505,6 +521,11 @@
             },
             {
               "horario": "17:45 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00 hrs",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -533,7 +554,54 @@
           "id": "24e3f4f1-b821-4078-8cfc-a8dec8ba4718"
         },
         {
-          "titulo": "SOLO NECESITAS MATAR",
+          "titulo": "CREPÚSCULO: LUNA NUEVA",
+          "horarios": [
+            {
+              "horario": "11:20 hrs",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "19:40 hrs",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "16:20 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "0636a64c-3a46-42d6-9e7e-87e964aa13ef"
+        },
+        {
+          "titulo": "EXTERMINIO: EL TEMPLO DE LOS HUESOS",
+          "horarios": [
+            {
+              "horario": "12:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "c89f525a-62f4-493b-8bdb-5cf4359e3860"
+        },
+        {
+          "titulo": "SIRAT: TRANCE EN EL DESIERTO",
           "horarios": [
             {
               "horario": "16:30 hrs",
@@ -546,7 +614,7 @@
               "formato": "2D PLUS"
             }
           ],
-          "id": "24e3f4f1-b821-4078-8cfc-a8dec8ba4718"
+          "id": "4d9893d3-9cdd-4b4b-8be2-736b976f99cb"
         },
         {
           "titulo": "AÚN ES DE NOCHE EN CARACAS",
@@ -565,27 +633,6 @@
           "id": "ded9d084-e45d-4e04-a397-379dc5a13de1"
         },
         {
-          "titulo": "EXTERMINIO: EL TEMPLO DE LOS HUESOS",
-          "horarios": [
-            {
-              "horario": "12:00 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:40 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "c89f525a-62f4-493b-8bdb-5cf4359e3860"
-        },
-        {
           "titulo": "VALOR SENTIMENTAL",
           "horarios": [
             {
@@ -601,6 +648,11 @@
           "horarios": [
             {
               "horario": "14:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40 hrs",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -644,8 +696,8 @@
           "horarios": [
             {
               "horario": "21:45 hrs",
-              "idioma": "Español",
-              "formato": "2D"
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             }
           ],
           "id": "b58333f2-5d3b-4288-9a89-9107282be837"
@@ -655,8 +707,8 @@
           "horarios": [
             {
               "horario": "22:10 hrs",
-              "idioma": "Español",
-              "formato": "2D"
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             }
           ],
           "id": "ec3d03e5-c61f-4895-a218-35164ca2f842"
@@ -802,11 +854,6 @@
               "formato": "2D"
             },
             {
-              "horario": "11:50 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "15:20 hrs",
               "idioma": "Español",
               "formato": "2D"
@@ -846,7 +893,23 @@
           "id": "0c63c387-7c61-42fa-82e8-f90902c957f5"
         },
         {
-          "titulo": "MOON MI AMIGO EL PANDA",
+          "titulo": "AÚN ES DE NOCHE EN CARACAS",
+          "horarios": [
+            {
+              "horario": "12:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "ded9d084-e45d-4e04-a397-379dc5a13de1"
+        },
+        {
+          "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
               "horario": "12:00 hrs",
@@ -864,7 +927,7 @@
               "formato": "2D"
             }
           ],
-          "id": "0c63c387-7c61-42fa-82e8-f90902c957f5"
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
           "titulo": "LA EMPLEADA",
@@ -883,52 +946,26 @@
           "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
         },
         {
-          "titulo": "CREPÚSCULO: LUNA NUEVA",
+          "titulo": "MARTY SUPREMO",
           "horarios": [
             {
-              "horario": "16:20 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "0636a64c-3a46-42d6-9e7e-87e964aa13ef"
-        },
-        {
-          "titulo": "AÚN ES DE NOCHE EN CARACAS",
-          "horarios": [
-            {
-              "horario": "12:00 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "ded9d084-e45d-4e04-a397-379dc5a13de1"
-        },
-        {
-          "titulo": "STRAY KIDS",
-          "horarios": [
-            {
-              "horario": "16:00 hrs",
-              "idioma": "Coreano",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "19:20 hrs",
-              "idioma": "Coreano",
+              "horario": "21:40 hrs",
+              "idioma": "Ingles",
               "formato": "2D SUB"
             }
           ],
-          "id": "40978603-5984-4262-9f0f-8f41cfc49e4e"
+          "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
+        },
+        {
+          "titulo": "SIRAT: TRANCE EN EL DESIERTO",
+          "horarios": [
+            {
+              "horario": "21:10 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "4d9893d3-9cdd-4b4b-8be2-736b976f99cb"
         },
         {
           "titulo": "SOLO NECESITAS MATAR",
@@ -947,20 +984,20 @@
           "id": "24e3f4f1-b821-4078-8cfc-a8dec8ba4718"
         },
         {
-          "titulo": "AYUDA!",
+          "titulo": "CREPÚSCULO: LUNA NUEVA",
           "horarios": [
             {
-              "horario": "13:00 hrs",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
+              "horario": "16:20 hrs",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
-              "horario": "17:20 hrs",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
+              "horario": "19:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
-          "id": "eed90621-c88d-4940-80d7-f4f7d988a435"
+          "id": "0636a64c-3a46-42d6-9e7e-87e964aa13ef"
         },
         {
           "titulo": "EL GRAN PREMIO A TODA VELOCIDAD",
@@ -979,12 +1016,44 @@
           "id": "94f53a5b-1443-4e7e-8147-62c174597c80"
         },
         {
+          "titulo": "AYUDA!",
+          "horarios": [
+            {
+              "horario": "13:00 hrs",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "17:20 hrs",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "eed90621-c88d-4940-80d7-f4f7d988a435"
+        },
+        {
+          "titulo": "STRAY KIDS",
+          "horarios": [
+            {
+              "horario": "16:00 hrs",
+              "idioma": "Coreano",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "19:20 hrs",
+              "idioma": "Coreano",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "40978603-5984-4262-9f0f-8f41cfc49e4e"
+        },
+        {
           "titulo": "UNA BATALLA TRAS OTRA",
           "horarios": [
             {
               "horario": "22:15 hrs",
-              "idioma": "Español",
-              "formato": "2D"
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             }
           ],
           "id": "b58333f2-5d3b-4288-9a89-9107282be837"
@@ -994,22 +1063,11 @@
           "horarios": [
             {
               "horario": "22:10 hrs",
-              "idioma": "Español",
-              "formato": "2D"
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             }
           ],
           "id": "ec3d03e5-c61f-4895-a218-35164ca2f842"
-        },
-        {
-          "titulo": "SIRAT: TRANCE EN EL DESIERTO",
-          "horarios": [
-            {
-              "horario": "21:10 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "4d9893d3-9cdd-4b4b-8be2-736b976f99cb"
         },
         {
           "titulo": "EXTERMINIO: EL TEMPLO DE LOS HUESOS",
@@ -1023,17 +1081,6 @@
           "id": "c89f525a-62f4-493b-8bdb-5cf4359e3860"
         },
         {
-          "titulo": "CASABLANCA",
-          "horarios": [
-            {
-              "horario": "19:00 hrs",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "78fd5e18-68a9-4201-a35c-2bd8f3a38209"
-        },
-        {
           "titulo": "VALOR SENTIMENTAL",
           "horarios": [
             {
@@ -1043,17 +1090,6 @@
             }
           ],
           "id": "08380ac7-e02d-4730-9413-f40cca570e5f"
-        },
-        {
-          "titulo": "MARTY SUPREMO",
-          "horarios": [
-            {
-              "horario": "21:40 hrs",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
         },
         {
           "titulo": "SILENT HILL: REGRESO AL INFIERNO",
@@ -1067,20 +1103,20 @@
           "id": "a005059d-e308-43b5-b9e9-4651a62adad0"
         },
         {
-          "titulo": "EL SEÑOR DE LOS ANILLOS: EL RETORNO DEL REY Versión Extendida",
+          "titulo": "CASABLANCA",
           "horarios": [
             {
-              "horario": "20:30 hrs",
+              "horario": "19:00 hrs",
               "idioma": "Ingles",
-              "formato": "2D XL SUB"
+              "formato": "2D SUB"
             }
           ],
-          "id": "a8e4566a-c5fc-42f4-9c5a-6e465d25483b"
+          "id": "78fd5e18-68a9-4201-a35c-2bd8f3a38209"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "6/2/2026"
+  "fecha": "7/2/2026"
 }
