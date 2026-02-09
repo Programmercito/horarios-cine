@@ -47,11 +47,6 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "10:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "12:50"
             },
             {
@@ -68,17 +63,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "11:50"
+              "horario": "13:50"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "14:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "16:10"
+              "horario": "16:00"
             }
           ],
           "id": "86591cd9-e389-4f1f-a2a8-b6d587feb62c"
@@ -86,11 +76,6 @@
         {
           "titulo": "EL DÍA DEL FIN DEL MUNDO 2: MIGRACION",
           "horarios": [
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "10:10"
-            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -119,27 +104,17 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "11:10"
+              "horario": "12:50"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "13:30"
+              "horario": "15:20"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "15:50"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "18:10"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "XD 2D",
-              "horario": "11:00"
+              "horario": "17:40"
             },
             {
               "idioma": "Dob",
@@ -169,12 +144,12 @@
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "20:30"
+              "horario": "20:00"
             },
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "22:40"
+              "horario": "22:20"
             }
           ],
           "id": "f8a5c2b8-d83e-411a-b741-90495924eb34"
@@ -191,17 +166,6 @@
           "id": "80fe68e4-7bf1-47e6-8296-2d67213c17a7"
         },
         {
-          "titulo": "EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO [2001] VERSION EXTENDIDA",
-          "horarios": [
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "20:00"
-            }
-          ],
-          "id": "529fbb1c-ce99-441c-9193-411da7f21208"
-        },
-        {
           "titulo": "EL SEÑOR DE LOS ANILLOS: LAS DOS TORRES [2002] VERSION EXTENDIDA",
           "horarios": [
             {
@@ -213,13 +177,19 @@
           "id": "d13704f8-442b-4539-a042-c2b10714d78b"
         },
         {
-          "titulo": "HAMNET",
+          "titulo": "EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO [2001] VERSION EXTENDIDA",
           "horarios": [
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "10:30"
-            },
+              "horario": "20:00"
+            }
+          ],
+          "id": "529fbb1c-ce99-441c-9193-411da7f21208"
+        },
+        {
+          "titulo": "HAMNET",
+          "horarios": [
             {
               "idioma": "Sub",
               "formato": "2D",
@@ -242,11 +212,6 @@
         {
           "titulo": "MARTY SUPREMO",
           "horarios": [
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "11:40"
-            },
             {
               "idioma": "Sub",
               "formato": "2D",
@@ -282,11 +247,6 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "10:10"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "12:20"
             },
             {
@@ -300,11 +260,6 @@
         {
           "titulo": "ANACONDA",
           "horarios": [
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "10:15"
-            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -385,16 +340,6 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "11:15"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "11:45"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "13:45"
             },
             {
@@ -415,12 +360,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "18:25"
+              "horario": "18:20"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "20:40"
+              "horario": "20:35"
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
@@ -451,5 +396,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "8/2/2026"
+  "fecha": "9/2/2026"
 }
