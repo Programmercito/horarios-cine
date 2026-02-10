@@ -37,6 +37,11 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "17:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "18:00"
             }
           ],
           "id": "24e3f4f1-b821-4078-8cfc-a8dec8ba4718"
@@ -63,12 +68,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "13:50"
+              "horario": "13:40"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "16:00"
+              "horario": "15:50"
             }
           ],
           "id": "86591cd9-e389-4f1f-a2a8-b6d587feb62c"
@@ -304,11 +309,6 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "18:45"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "20:30"
             },
             {
@@ -324,12 +324,12 @@
             {
               "idioma": "Dob",
               "formato": "3D",
-              "horario": "21:00"
+              "horario": "17:00"
             },
             {
               "idioma": "Sub",
               "formato": "3D",
-              "horario": "17:00"
+              "horario": "21:00"
             }
           ],
           "id": "0a814e9b-b712-4dcc-95e2-ddc16bfd6011"
@@ -360,12 +360,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "18:20"
+              "horario": "18:45"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "20:35"
+              "horario": "21:15"
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
@@ -380,21 +380,10 @@
             }
           ],
           "id": "b58333f2-5d3b-4288-9a89-9107282be837"
-        },
-        {
-          "titulo": "PECADORES",
-          "horarios": [
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "20:00"
-            }
-          ],
-          "id": "ec3d03e5-c61f-4895-a218-35164ca2f842"
         }
       ]
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "9/2/2026"
+  "fecha": "10/2/2026"
 }
