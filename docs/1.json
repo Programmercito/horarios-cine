@@ -153,12 +153,22 @@
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:00",
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -783,6 +793,16 @@
               "horario": "18:00",
               "idioma": "SUBT",
               "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "SUBT",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "SUBT",
+              "formato": "4D E-Motion 2D"
             }
           ],
           "id": "ec757dbc-629b-47c3-8749-81e73f11e6fb"
@@ -966,22 +986,12 @@
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
-              "horario": "10:00",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "22:00",
+              "horario": "20:10",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
@@ -1006,12 +1016,12 @@
               "formato": "3D CXC"
             },
             {
-              "horario": "10:00",
+              "horario": "11:10",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             },
             {
-              "horario": "14:00",
+              "horario": "20:50",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             }
@@ -1069,17 +1079,12 @@
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "10:40",
               "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
+              "formato": "2D Atmos"
             },
             {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
-            },
-            {
-              "horario": "22:40",
+              "horario": "15:10",
               "idioma": "DOB",
               "formato": "4D E-Motion 2D"
             }
@@ -1249,6 +1254,17 @@
           "id": "0ef7b797-4f75-4e4f-8d2a-bc3f7c105e2f"
         },
         {
+          "titulo": "PECADORES",
+          "horarios": [
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ec3d03e5-c61f-4895-a218-35164ca2f842"
+        },
+        {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
@@ -1303,6 +1319,11 @@
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -1313,7 +1334,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:30",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1328,7 +1349,7 @@
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1338,7 +1359,7 @@
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1954,7 +1975,7 @@
           "titulo": "EL SEÑOR DE LOS ANILLOS: EL RETORNO DEL REY",
           "horarios": [
             {
-              "horario": "19:25",
+              "horario": "20:00",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1997,17 +2018,17 @@
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:30",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2089,5 +2110,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "10/2/2026"
+  "fecha": "11/2/2026"
 }
