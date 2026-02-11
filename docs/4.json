@@ -37,11 +37,6 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "17:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "18:00"
             }
           ],
           "id": "24e3f4f1-b821-4078-8cfc-a8dec8ba4718"
@@ -49,6 +44,11 @@
         {
           "titulo": "MOON MI AMIGO EL PANDA",
           "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "10:30"
+            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -68,12 +68,17 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "13:40"
+              "horario": "11:50"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "15:50"
+              "horario": "14:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "16:10"
             }
           ],
           "id": "86591cd9-e389-4f1f-a2a8-b6d587feb62c"
@@ -81,6 +86,11 @@
         {
           "titulo": "EL DÍA DEL FIN DEL MUNDO 2: MIGRACION",
           "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "10:10"
+            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -109,6 +119,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "10:40"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "12:50"
             },
             {
@@ -120,6 +135,11 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "17:40"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "XD 2D",
+              "horario": "11:00"
             },
             {
               "idioma": "Dob",
@@ -149,7 +169,7 @@
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "20:00"
+              "horario": "20:10"
             },
             {
               "idioma": "Sub",
@@ -165,21 +185,10 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "22:50"
+              "horario": "22:55"
             }
           ],
           "id": "80fe68e4-7bf1-47e6-8296-2d67213c17a7"
-        },
-        {
-          "titulo": "EL SEÑOR DE LOS ANILLOS: LAS DOS TORRES [2002] VERSION EXTENDIDA",
-          "horarios": [
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "20:00"
-            }
-          ],
-          "id": "d13704f8-442b-4539-a042-c2b10714d78b"
         },
         {
           "titulo": "EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO [2001] VERSION EXTENDIDA",
@@ -195,6 +204,11 @@
         {
           "titulo": "HAMNET",
           "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "10:30"
+            },
             {
               "idioma": "Sub",
               "formato": "2D",
@@ -217,6 +231,11 @@
         {
           "titulo": "MARTY SUPREMO",
           "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "11:40"
+            },
             {
               "idioma": "Sub",
               "formato": "2D",
@@ -252,6 +271,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "10:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "12:20"
             },
             {
@@ -265,6 +289,11 @@
         {
           "titulo": "ANACONDA",
           "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "10:15"
+            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -309,6 +338,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "18:45"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "20:30"
             },
             {
@@ -324,12 +358,12 @@
             {
               "idioma": "Dob",
               "formato": "3D",
-              "horario": "17:00"
+              "horario": "21:00"
             },
             {
               "idioma": "Sub",
               "formato": "3D",
-              "horario": "21:00"
+              "horario": "17:00"
             }
           ],
           "id": "0a814e9b-b712-4dcc-95e2-ddc16bfd6011"
@@ -337,6 +371,16 @@
         {
           "titulo": "ZOOTOPIA 2",
           "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "11:15"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "11:45"
+            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -360,12 +404,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "18:45"
+              "horario": "18:25"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "21:15"
+              "horario": "20:40"
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
@@ -385,5 +429,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "10/2/2026"
+  "fecha": "11/2/2026"
 }
