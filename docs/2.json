@@ -3,8 +3,64 @@
     {
       "peliculas": [
         {
+          "titulo": "GOAT: LA CABRA QUE CAMBIÓ EL JUEGO",
+          "horarios": [
+            {
+              "horario": "11:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40 hrs",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "20:10 hrs",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "22:15 hrs",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "15:50 hrs",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "18:00 hrs",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            }
+          ],
+          "id": "3dd847ec-5ab9-4c7f-a953-17f2757890b3"
+        },
+        {
           "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
           "horarios": [
+            {
+              "horario": "11:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:00 hrs",
               "idioma": "Español",
@@ -39,78 +95,6 @@
           "id": "e8de4a28-0dff-43c3-ab39-b90c95b4c6ca"
         },
         {
-          "titulo": "GOAT: LA CABRA QUE CAMBIÓ EL JUEGO",
-          "horarios": [
-            {
-              "horario": "12:40 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40 hrs",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "20:10 hrs",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "22:15 hrs",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "15:50 hrs",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "18:00 hrs",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            }
-          ],
-          "id": "3dd847ec-5ab9-4c7f-a953-17f2757890b3"
-        },
-        {
-          "titulo": "ZOOTOPIA 2",
-          "horarios": [
-            {
-              "horario": "15:40 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50 hrs",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "20:00 hrs",
-              "idioma": "Español",
-              "formato": "3D"
-            }
-          ],
-          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
-        },
-        {
           "titulo": "EL SONIDO DE LA MUERTE",
           "horarios": [
             {
@@ -142,8 +126,44 @@
           "id": "2b05deff-e7fd-4e90-aa44-e429999e43db"
         },
         {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "11:30 hrs",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "15:40 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50 hrs",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "20:00 hrs",
+              "idioma": "Español",
+              "formato": "3D"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
+            {
+              "horario": "10:40 hrs",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
             {
               "horario": "14:30 hrs",
               "idioma": "Español",
@@ -161,22 +181,6 @@
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
-        {
-          "titulo": "SILENT HILL: REGRESO AL INFIERNO",
-          "horarios": [
-            {
-              "horario": "14:50 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "a005059d-e308-43b5-b9e9-4651a62adad0"
         },
         {
           "titulo": "CUMBRES BORRASCOSAS",
@@ -200,6 +204,22 @@
           "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
         },
         {
+          "titulo": "SILENT HILL: REGRESO AL INFIERNO",
+          "horarios": [
+            {
+              "horario": "14:50 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "a005059d-e308-43b5-b9e9-4651a62adad0"
+        },
+        {
           "titulo": "CAMINOS DEL CRIMEN",
           "horarios": [
             {
@@ -216,48 +236,15 @@
           "id": "314f2418-b1d2-4d12-813b-1f660b624ddd"
         },
         {
-          "titulo": "CREPÚSCULO: LUNA NUEVA",
+          "titulo": "ANACONDA",
           "horarios": [
             {
-              "horario": "13:00 hrs",
+              "horario": "14:20 hrs",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "0636a64c-3a46-42d6-9e7e-87e964aa13ef"
-        },
-        {
-          "titulo": "ARCO",
-          "horarios": [
-            {
-              "horario": "17:50 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "b1babff3-f9b2-493c-bbe1-5f979773f170"
-        },
-        {
-          "titulo": "ADORABLE CUPIDA",
-          "horarios": [
-            {
-              "horario": "13:00 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "4156790e-81d0-41ea-bd12-56de6b2e511c"
-        },
-        {
-          "titulo": "MOON MI AMIGO EL PANDA",
-          "horarios": [
-            {
-              "horario": "14:10 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "0c63c387-7c61-42fa-82e8-f90902c957f5"
+          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
         },
         {
           "titulo": "STRAY KIDS",
@@ -271,15 +258,48 @@
           "id": "40978603-5984-4262-9f0f-8f41cfc49e4e"
         },
         {
-          "titulo": "ANACONDA",
+          "titulo": "CREPÚSCULO: LUNA NUEVA",
           "horarios": [
             {
-              "horario": "14:20 hrs",
+              "horario": "13:00 hrs",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
+          "id": "0636a64c-3a46-42d6-9e7e-87e964aa13ef"
+        },
+        {
+          "titulo": "MOON MI AMIGO EL PANDA",
+          "horarios": [
+            {
+              "horario": "14:10 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "0c63c387-7c61-42fa-82e8-f90902c957f5"
+        },
+        {
+          "titulo": "ADORABLE CUPIDA",
+          "horarios": [
+            {
+              "horario": "13:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "4156790e-81d0-41ea-bd12-56de6b2e511c"
+        },
+        {
+          "titulo": "ARCO",
+          "horarios": [
+            {
+              "horario": "17:50 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "b1babff3-f9b2-493c-bbe1-5f979773f170"
         }
       ],
       "ciudad": "El Alto"
@@ -287,59 +307,23 @@
     {
       "peliculas": [
         {
-          "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
-          "horarios": [
-            {
-              "horario": "12:40 hrs",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "14:50 hrs",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "17:00 hrs",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "19:00 hrs",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "13:40 hrs",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "15:50 hrs",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "18:00 hrs",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "20:00 hrs",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:10 hrs",
-              "idioma": "Español",
-              "formato": "2D XL"
-            }
-          ],
-          "id": "e8de4a28-0dff-43c3-ab39-b90c95b4c6ca"
-        },
-        {
           "titulo": "GOAT: LA CABRA QUE CAMBIÓ EL JUEGO",
           "horarios": [
+            {
+              "horario": "11:20 hrs",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "19:40 hrs",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "11:30 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:40 hrs",
               "idioma": "Español",
@@ -379,14 +363,70 @@
               "horario": "18:00 hrs",
               "idioma": "Español",
               "formato": "3D"
-            },
-            {
-              "horario": "19:40 hrs",
-              "idioma": "Español",
-              "formato": "3D PLUS"
             }
           ],
           "id": "3dd847ec-5ab9-4c7f-a953-17f2757890b3"
+        },
+        {
+          "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
+          "horarios": [
+            {
+              "horario": "10:40 hrs",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "12:40 hrs",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "14:50 hrs",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "17:00 hrs",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "19:00 hrs",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "11:30 hrs",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "13:40 hrs",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "15:50 hrs",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "18:00 hrs",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:00 hrs",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:10 hrs",
+              "idioma": "Español",
+              "formato": "2D XL"
+            }
+          ],
+          "id": "e8de4a28-0dff-43c3-ab39-b90c95b4c6ca"
         },
         {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
@@ -428,6 +468,11 @@
           "titulo": "CUMBRES BORRASCOSAS",
           "horarios": [
             {
+              "horario": "11:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "13:40 hrs",
               "idioma": "Español",
               "formato": "2D"
@@ -466,38 +511,7 @@
           "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
         },
         {
-          "titulo": "ZOOTOPIA 2",
-          "horarios": [
-            {
-              "horario": "12:10 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:40 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
-        },
-        {
-          "titulo": "ZOOTOPIA 2",
+          "titulo": "EL SONIDO DE LA MUERTE",
           "horarios": [
             {
               "horario": "14:10 hrs",
@@ -521,6 +535,42 @@
             },
             {
               "horario": "22:45 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "2b05deff-e7fd-4e90-aa44-e429999e43db"
+        },
+        {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "11:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:10 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50 hrs",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -594,6 +644,11 @@
           "titulo": "ARCO",
           "horarios": [
             {
+              "horario": "11:20 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "13:20 hrs",
               "idioma": "Español",
               "formato": "2D"
@@ -623,37 +678,15 @@
           "id": "4156790e-81d0-41ea-bd12-56de6b2e511c"
         },
         {
-          "titulo": "SIRAT: TRANCE EN EL DESIERTO",
+          "titulo": "EXTERMINIO: EL TEMPLO DE LOS HUESOS",
           "horarios": [
             {
-              "horario": "12:50 hrs",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "4d9893d3-9cdd-4b4b-8be2-736b976f99cb"
-        },
-        {
-          "titulo": "MOON MI AMIGO EL PANDA",
-          "horarios": [
-            {
-              "horario": "14:30 hrs",
+              "horario": "21:45 hrs",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "0c63c387-7c61-42fa-82e8-f90902c957f5"
-        },
-        {
-          "titulo": "VALOR SENTIMENTAL",
-          "horarios": [
-            {
-              "horario": "12:30 hrs",
-              "idioma": "Noruego",
-              "formato": "2D PLUS SUB"
-            }
-          ],
-          "id": "08380ac7-e02d-4730-9413-f40cca570e5f"
+          "id": "c89f525a-62f4-493b-8bdb-5cf4359e3860"
         },
         {
           "titulo": "AYUDA!",
@@ -667,15 +700,26 @@
           "id": "eed90621-c88d-4940-80d7-f4f7d988a435"
         },
         {
-          "titulo": "EXTERMINIO: EL TEMPLO DE LOS HUESOS",
+          "titulo": "VALOR SENTIMENTAL",
           "horarios": [
             {
-              "horario": "21:45 hrs",
-              "idioma": "Español",
-              "formato": "2D"
+              "horario": "12:30 hrs",
+              "idioma": "Noruego",
+              "formato": "2D PLUS SUB"
             }
           ],
-          "id": "c89f525a-62f4-493b-8bdb-5cf4359e3860"
+          "id": "08380ac7-e02d-4730-9413-f40cca570e5f"
+        },
+        {
+          "titulo": "HAMNET",
+          "horarios": [
+            {
+              "horario": "22:00 hrs",
+              "idioma": "Ingles",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "192305bb-e416-4f7d-a92f-538015e2e6b6"
         },
         {
           "titulo": "MARTY SUPREMO",
@@ -687,6 +731,17 @@
             }
           ],
           "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
+        },
+        {
+          "titulo": "STRAY KIDS",
+          "horarios": [
+            {
+              "horario": "16:00 hrs",
+              "idioma": "Coreano",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "40978603-5984-4262-9f0f-8f41cfc49e4e"
         },
         {
           "titulo": "¿Y DÓNDE ESTÁN LAS RUBIAS?",
@@ -711,37 +766,26 @@
           "id": "78fd5e18-68a9-4201-a35c-2bd8f3a38209"
         },
         {
-          "titulo": "AÚN ES DE NOCHE EN CARACAS",
+          "titulo": "MOON MI AMIGO EL PANDA",
           "horarios": [
             {
-              "horario": "12:10 hrs",
+              "horario": "14:30 hrs",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "ded9d084-e45d-4e04-a397-379dc5a13de1"
+          "id": "0c63c387-7c61-42fa-82e8-f90902c957f5"
         },
         {
-          "titulo": "STRAY KIDS",
+          "titulo": "SIRAT: TRANCE EN EL DESIERTO",
           "horarios": [
             {
-              "horario": "16:00 hrs",
-              "idioma": "Coreano",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "40978603-5984-4262-9f0f-8f41cfc49e4e"
-        },
-        {
-          "titulo": "LA EMPLEADA",
-          "horarios": [
-            {
-              "horario": "16:50 hrs",
+              "horario": "12:50 hrs",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
           ],
-          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
+          "id": "4d9893d3-9cdd-4b4b-8be2-736b976f99cb"
         },
         {
           "titulo": "UN LUGAR LLAMADO NOTTING HILL",
@@ -755,8 +799,24 @@
           "id": "1ae54e17-9ef9-4505-bab0-4e36149be85e"
         },
         {
+          "titulo": "LA EMPLEADA",
+          "horarios": [
+            {
+              "horario": "16:50 hrs",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
+        },
+        {
           "titulo": "ANACONDA",
           "horarios": [
+            {
+              "horario": "10:40 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:40 hrs",
               "idioma": "Español",
@@ -764,6 +824,22 @@
             }
           ],
           "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
+        },
+        {
+          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
+          "horarios": [
+            {
+              "horario": "11:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:20 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
         }
       ],
       "ciudad": "La Paz"
@@ -774,9 +850,9 @@
           "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
           "horarios": [
             {
-              "horario": "12:00 hrs",
+              "horario": "11:10 hrs",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL"
             },
             {
               "horario": "13:20 hrs",
@@ -802,6 +878,11 @@
               "horario": "22:10 hrs",
               "idioma": "Español",
               "formato": "2D XL"
+            },
+            {
+              "horario": "12:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
           "id": "e8de4a28-0dff-43c3-ab39-b90c95b4c6ca"
@@ -841,6 +922,11 @@
           "titulo": "GOAT: LA CABRA QUE CAMBIÓ EL JUEGO",
           "horarios": [
             {
+              "horario": "11:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:40 hrs",
               "idioma": "Español",
               "formato": "2D"
@@ -869,27 +955,6 @@
           "id": "3dd847ec-5ab9-4c7f-a953-17f2757890b3"
         },
         {
-          "titulo": "EL SONIDO DE LA MUERTE",
-          "horarios": [
-            {
-              "horario": "12:00 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:50 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "2b05deff-e7fd-4e90-aa44-e429999e43db"
-        },
-        {
           "titulo": "CAMINOS DEL CRIMEN",
           "horarios": [
             {
@@ -909,6 +974,27 @@
             }
           ],
           "id": "314f2418-b1d2-4d12-813b-1f660b624ddd"
+        },
+        {
+          "titulo": "EL SONIDO DE LA MUERTE",
+          "horarios": [
+            {
+              "horario": "12:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "2b05deff-e7fd-4e90-aa44-e429999e43db"
         },
         {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
@@ -959,6 +1045,17 @@
           "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
         },
         {
+          "titulo": "UN LUGAR LLAMADO NOTTING HILL",
+          "horarios": [
+            {
+              "horario": "21:10 hrs",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "1ae54e17-9ef9-4505-bab0-4e36149be85e"
+        },
+        {
           "titulo": "MARTY SUPREMO",
           "horarios": [
             {
@@ -968,39 +1065,6 @@
             }
           ],
           "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
-        },
-        {
-          "titulo": "PECADORES",
-          "horarios": [
-            {
-              "horario": "13:10 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "ec3d03e5-c61f-4895-a218-35164ca2f842"
-        },
-        {
-          "titulo": "CASABLANCA",
-          "horarios": [
-            {
-              "horario": "16:50 hrs",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "78fd5e18-68a9-4201-a35c-2bd8f3a38209"
-        },
-        {
-          "titulo": "MOON MI AMIGO EL PANDA",
-          "horarios": [
-            {
-              "horario": "14:10 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "0c63c387-7c61-42fa-82e8-f90902c957f5"
         },
         {
           "titulo": "VALOR SENTIMENTAL",
@@ -1014,15 +1078,20 @@
           "id": "08380ac7-e02d-4730-9413-f40cca570e5f"
         },
         {
-          "titulo": "UN LUGAR LLAMADO NOTTING HILL",
+          "titulo": "ARCO",
           "horarios": [
             {
-              "horario": "21:10 hrs",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
+              "horario": "11:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30 hrs",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
-          "id": "1ae54e17-9ef9-4505-bab0-4e36149be85e"
+          "id": "b1babff3-f9b2-493c-bbe1-5f979773f170"
         },
         {
           "titulo": "ADORABLE CUPIDA",
@@ -1036,15 +1105,26 @@
           "id": "4156790e-81d0-41ea-bd12-56de6b2e511c"
         },
         {
-          "titulo": "ARCO",
+          "titulo": "MOON MI AMIGO EL PANDA",
           "horarios": [
             {
-              "horario": "17:30 hrs",
+              "horario": "14:10 hrs",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "b1babff3-f9b2-493c-bbe1-5f979773f170"
+          "id": "0c63c387-7c61-42fa-82e8-f90902c957f5"
+        },
+        {
+          "titulo": "CASABLANCA",
+          "horarios": [
+            {
+              "horario": "16:50 hrs",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "78fd5e18-68a9-4201-a35c-2bd8f3a38209"
         },
         {
           "titulo": "¿Y DÓNDE ESTÁN LAS RUBIAS?",
@@ -1067,6 +1147,17 @@
             }
           ],
           "id": "0636a64c-3a46-42d6-9e7e-87e964aa13ef"
+        },
+        {
+          "titulo": "PECADORES",
+          "horarios": [
+            {
+              "horario": "13:10 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "ec3d03e5-c61f-4895-a218-35164ca2f842"
         },
         {
           "titulo": "AYUDA!",
@@ -1116,6 +1207,11 @@
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
+              "horario": "11:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "16:00 hrs",
               "idioma": "Español",
               "formato": "2D"
@@ -1128,5 +1224,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "12/2/2026"
+  "fecha": "13/2/2026"
 }
