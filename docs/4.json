@@ -9,6 +9,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "10:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "12:40"
             },
             {
@@ -71,6 +76,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "11:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "14:20"
             },
             {
@@ -127,6 +137,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "10:15"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "13:15"
             },
             {
@@ -164,25 +179,24 @@
             {
               "idioma": "Sub",
               "formato": "2D",
+              "horario": "11:10"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
               "horario": "18:30"
             }
           ],
           "id": "5b188ac0-d710-4be8-8a02-29d969c1c4b8"
         },
         {
-          "titulo": "CREPÚSCULO, LA SAGA: LUNA NUEVA [2009]",
+          "titulo": "EL GRAN PREMIO A TODO VELOCIDAD",
           "horarios": [
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "21:20"
-            }
-          ],
-          "id": "9eb61df0-e35e-46b5-adb4-2d76bec0ca00"
-        },
-        {
-          "titulo": "EL GRAN PREMIO A TODO VELOCIDAD",
-          "horarios": [
+              "horario": "11:00"
+            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -194,6 +208,11 @@
         {
           "titulo": "EL DÍA DEL FIN DEL MUNDO 2: MIGRACION",
           "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "10:10"
+            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -222,6 +241,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "10:50"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "13:10"
             },
             {
@@ -236,6 +260,16 @@
             },
             {
               "idioma": "Dob",
+              "formato": "2D",
+              "horario": "20:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "XD 2D",
+              "horario": "11:30"
+            },
+            {
+              "idioma": "Dob",
               "formato": "XD 2D",
               "horario": "14:00"
             },
@@ -243,11 +277,6 @@
               "idioma": "Dob",
               "formato": "XD 2D",
               "horario": "22:10"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "20:10"
             },
             {
               "idioma": "Sub",
@@ -263,17 +292,7 @@
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "15:00"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "18:20"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "21:30"
+              "horario": "22:20"
             }
           ],
           "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
@@ -295,7 +314,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:40"
+              "horario": "12:30"
             },
             {
               "idioma": "Dob",
@@ -366,5 +385,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "13/2/2026"
+  "fecha": "14/2/2026"
 }
