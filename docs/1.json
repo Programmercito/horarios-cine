@@ -503,7 +503,7 @@
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "20:20",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             }
@@ -555,12 +555,17 @@
               "formato": "2D"
             },
             {
-              "horario": "14:20",
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "3D CXC Atmos"
             },
             {
-              "horario": "16:45",
+              "horario": "15:40",
+              "idioma": "DOB",
+              "formato": "3D CXC Atmos"
+            },
+            {
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "3D CXC Atmos"
             }
@@ -645,44 +650,12 @@
               "formato": "2D"
             },
             {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
-        },
-        {
-          "titulo": "¡AYUDA!",
-          "horarios": [
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "80fe68e4-7bf1-47e6-8296-2d67213c17a7"
-        },
-        {
-          "titulo": "MOON: MI AMIGO EL PANDA",
-          "horarios": [
-            {
-              "horario": "13:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "62ad8078-4050-4a91-a694-3bfe6a3bc95b"
         },
         {
           "titulo": "TERROR EN SILENT HILL: REGRESO AL INFIERNO",
@@ -915,17 +888,17 @@
               "formato": "2D"
             },
             {
-              "horario": "12:20",
+              "horario": "12:15",
               "idioma": "ESP",
               "formato": "2D"
             },
             {
-              "horario": "14:40",
+              "horario": "14:30",
               "idioma": "ESP",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "16:45",
               "idioma": "ESP",
               "formato": "2D"
             }
@@ -1638,17 +1611,7 @@
               "formato": "2D"
             },
             {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "18:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1741,12 +1704,17 @@
               "formato": "2D"
             },
             {
-              "horario": "13:30",
+              "horario": "14:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:30",
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1791,6 +1759,16 @@
               "horario": "14:10",
               "idioma": "ESP",
               "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "ESP",
+              "formato": "2D"
             }
           ],
           "id": "4156790e-81d0-41ea-bd12-56de6b2e511c"
@@ -1812,6 +1790,86 @@
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "¡AYUDA!",
+          "horarios": [
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "80fe68e4-7bf1-47e6-8296-2d67213c17a7"
+        },
+        {
+          "titulo": "MOON: MI AMIGO EL PANDA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "62ad8078-4050-4a91-a694-3bfe6a3bc95b"
+        },
+        {
+          "titulo": "ANACONDA",
+          "horarios": [
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
+        },
+        {
+          "titulo": "TERROR EN SILENT HILL: REGRESO AL INFIERNO",
+          "horarios": [
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "cc14ad96-2c75-45cf-8fbd-27f02dc419cc"
+        },
+        {
           "titulo": "LA SAGA CREPUSCULO: LUNA NUEVA",
           "horarios": [
             {
@@ -1826,22 +1884,22 @@
           "titulo": "EL DIA DEL FIN DEL MUNDO: MIGRACION",
           "horarios": [
             {
-              "horario": "14:00",
+              "horario": "14:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:10",
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:20",
+              "horario": "19:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "21:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2075,5 +2133,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "14/2/2026"
+  "fecha": "15/2/2026"
 }
