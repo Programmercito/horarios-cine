@@ -39,6 +39,11 @@
             {
               "idioma": "Dob",
               "formato": "3D",
+              "horario": "12:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "3D",
               "horario": "14:10"
             },
             {
@@ -101,12 +106,32 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "11:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "13:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "13:50"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "16:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "16:40"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "19:30"
             },
             {
               "idioma": "Dob",
@@ -176,11 +201,6 @@
         {
           "titulo": "CUANDO TE ENCUENTRE [2012] RE26",
           "horarios": [
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "11:10"
-            },
             {
               "idioma": "Sub",
               "formato": "2D",
@@ -265,6 +285,11 @@
             },
             {
               "idioma": "Dob",
+              "formato": "2D",
+              "horario": "22:30"
+            },
+            {
+              "idioma": "Dob",
               "formato": "XD 2D",
               "horario": "11:30"
             },
@@ -277,11 +302,6 @@
               "idioma": "Dob",
               "formato": "XD 2D",
               "horario": "22:10"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "22:30"
             }
           ],
           "id": "f8a5c2b8-d83e-411a-b741-90495924eb34"
@@ -385,5 +405,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "14/2/2026"
+  "fecha": "15/2/2026"
 }
