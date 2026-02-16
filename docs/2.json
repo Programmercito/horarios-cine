@@ -62,11 +62,6 @@
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "12:00 hrs",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
               "horario": "13:00 hrs",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
@@ -90,6 +85,11 @@
               "horario": "21:40 hrs",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "12:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
           "id": "e8de4a28-0dff-43c3-ab39-b90c95b4c6ca"
@@ -967,7 +967,7 @@
           "id": "2b05deff-e7fd-4e90-aa44-e429999e43db"
         },
         {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "titulo": "EL SONIDO DE LA MUERTE",
           "horarios": [
             {
               "horario": "18:20 hrs",
@@ -980,7 +980,7 @@
               "formato": "3D"
             }
           ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+          "id": "2b05deff-e7fd-4e90-aa44-e429999e43db"
         },
         {
           "titulo": "ZOOTOPIA 2",
@@ -1194,5 +1194,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "15/2/2026"
+  "fecha": "16/2/2026"
 }
