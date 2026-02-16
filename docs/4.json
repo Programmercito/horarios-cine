@@ -106,32 +106,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "11:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "13:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "13:50"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "16:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "16:40"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "19:30"
             },
             {
               "idioma": "Dob",
@@ -266,7 +246,17 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "12:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "13:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "14:30"
             },
             {
               "idioma": "Dob",
@@ -276,12 +266,27 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "16:50"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "17:50"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "19:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "20:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "21:30"
             },
             {
               "idioma": "Dob",
@@ -305,17 +310,6 @@
             }
           ],
           "id": "f8a5c2b8-d83e-411a-b741-90495924eb34"
-        },
-        {
-          "titulo": "MARTY SUPREMO",
-          "horarios": [
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "22:20"
-            }
-          ],
-          "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
         },
         {
           "titulo": "LA EMPLEADA",
@@ -405,5 +399,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "15/2/2026"
+  "fecha": "16/2/2026"
 }
