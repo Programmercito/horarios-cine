@@ -10,7 +10,7 @@
 
 body {
   font-family: 'Space Grotesk', 'Exo 2', sans-serif;
-  background: linear-gradient(135deg, #1e3a2e 0%, #2d5a3d 50%, #1e3a2e 100%);
+  background: linear-gradient(135deg, #1e3a5f 0%, #2d5a7f 50%, #1e3a5f 100%);
   min-height: 100vh;
   color: #ffffff;
   overflow-x: hidden;
@@ -70,18 +70,18 @@ html {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: linear-gradient(180deg, #4caf50, #388e3c);
+  background: linear-gradient(180deg, #2196f3, #1976d2);
   border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(180deg, #66bb6a, #4caf50);
+  background: linear-gradient(180deg, #64b5f6, #2196f3);
 }
 
 /* Focus styles */
 button:focus,
 a:focus {
-  outline: 2px solid #4caf50;
+  outline: 2px solid #2196f3;
   outline-offset: 2px;
 }
 
@@ -154,9 +154,9 @@ a:focus {
 
 /* Text effects */
 .text-glow {
-  text-shadow: 0 0 10px rgba(76, 175, 80, 0.3),
-               0 0 20px rgba(76, 175, 80, 0.2),
-               0 0 30px rgba(76, 175, 80, 0.1);
+  text-shadow: 0 0 10px rgba(33, 150, 243, 0.3),
+               0 0 20px rgba(33, 150, 243, 0.2),
+               0 0 30px rgba(33, 150, 243, 0.1);
 }
 
 .text-shadow {

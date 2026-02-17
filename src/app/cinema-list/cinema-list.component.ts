@@ -17,6 +17,7 @@ export class CinemaListComponent extends EncodingCine implements OnInit {
   cinemas: Cinema[] = [];
 
   selectedCity: string | null = null;
+  cinemaConfig: { [key: string]: boolean } = {};
 
   constructor(
     private route: ActivatedRoute,
@@ -36,6 +37,19 @@ export class CinemaListComponent extends EncodingCine implements OnInit {
   }
 
   private fetchCinemas(city: string) {
+    // Load cinema config first
+    this.http.get<{ [key: string]: boolean }>('/assets/cinema-config.json').pipe(
+      catchError(error => {
+        console.error('Error loading cinema config:', error);
+        return of({});
+      })
+    ).subscribe(config => {
+      this.cinemaConfig = config;
+      this.loadCinemas(city);
+    });
+  }
+
+  private loadCinemas(city: string) {
     let fileIndex = 1;
 
     const fetchFile = () => {
@@ -112,6 +126,10 @@ export class CinemaListComponent extends EncodingCine implements OnInit {
     if (data && data.ciudades) {
       let cinemaname = data.cine || 'Unknown Cinema';
       console.log("cinemaname ", cinemaname);
+      // Check if cinema is enabled in config
+      if (this.cinemaConfig[fileIndex.toString()] === false) {
+        return; // Skip disabled cinemas
+      }
       data.ciudades.map((cityData: any) => {
         if (cityData.ciudad.toLowerCase().startsWith(city.toLowerCase())) {
           let cinema: Cinema = {
