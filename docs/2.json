@@ -59,7 +59,12 @@
             {
               "horario": "11:00 hrs",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "13:00 hrs",
@@ -85,11 +90,6 @@
               "horario": "21:40 hrs",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "12:00 hrs",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ],
           "id": "e8de4a28-0dff-43c3-ab39-b90c95b4c6ca"
@@ -162,22 +162,22 @@
             {
               "horario": "10:40 hrs",
               "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
+              "formato": "3D XL"
             },
             {
               "horario": "14:30 hrs",
               "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
+              "formato": "3D XL"
             },
             {
               "horario": "18:20 hrs",
               "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
+              "formato": "3D XL"
             },
             {
               "horario": "22:10 hrs",
               "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
+              "formato": "3D XL"
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
@@ -371,6 +371,16 @@
           "titulo": "GOAT: LA CABRA QUE CAMBIÓ EL JUEGO",
           "horarios": [
             {
+              "horario": "11:20 hrs",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "19:40 hrs",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
               "horario": "11:30 hrs",
               "idioma": "Español",
               "formato": "2D"
@@ -414,11 +424,6 @@
               "horario": "18:00 hrs",
               "idioma": "Español",
               "formato": "3D"
-            },
-            {
-              "horario": "19:40 hrs",
-              "idioma": "Español",
-              "formato": "3D PLUS"
             }
           ],
           "id": "3dd847ec-5ab9-4c7f-a953-17f2757890b3"
@@ -647,7 +652,7 @@
             {
               "horario": "22:00 hrs",
               "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
+              "formato": "2D PLUS"
             }
           ],
           "id": "192305bb-e416-4f7d-a92f-538015e2e6b6"
@@ -967,7 +972,7 @@
           "id": "2b05deff-e7fd-4e90-aa44-e429999e43db"
         },
         {
-          "titulo": "EL SONIDO DE LA MUERTE",
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
               "horario": "18:20 hrs",
@@ -980,7 +985,7 @@
               "formato": "3D"
             }
           ],
-          "id": "2b05deff-e7fd-4e90-aa44-e429999e43db"
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
           "titulo": "ZOOTOPIA 2",
@@ -1194,5 +1199,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "16/2/2026"
+  "fecha": "17/2/2026"
 }
