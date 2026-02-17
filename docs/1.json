@@ -698,22 +698,22 @@
           "titulo": "CUMBRES BORRASCOSAS",
           "horarios": [
             {
-              "horario": "10:30",
+              "horario": "10:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:30",
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "16:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "19:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -723,7 +723,7 @@
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -906,6 +906,37 @@
           "id": "4156790e-81d0-41ea-bd12-56de6b2e511c"
         },
         {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
+        {
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
@@ -957,37 +988,6 @@
             }
           ],
           "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
-        },
-        {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
           "titulo": "TERROR EN SILENT HILL: REGRESO AL INFIERNO",
@@ -1978,11 +1978,6 @@
               "formato": "2D"
             },
             {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
               "horario": "14:10",
               "idioma": "DOB",
               "formato": "3D"
@@ -1998,11 +1993,6 @@
         {
           "titulo": "ARCO",
           "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "14:00",
               "idioma": "DOB",
@@ -2036,11 +2026,6 @@
           "titulo": "ADORABLE CUPIDA",
           "horarios": [
             {
-              "horario": "12:00",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
               "horario": "14:20",
               "idioma": "ESP",
               "formato": "2D"
@@ -2068,11 +2053,6 @@
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
@@ -2088,11 +2068,6 @@
         {
           "titulo": "MOON: MI AMIGO EL PANDA",
           "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "14:10",
               "idioma": "DOB",
@@ -2116,22 +2091,11 @@
             }
           ],
           "id": "5c8a47ed-dafa-4b90-9e14-00156f8b2ab1"
-        },
-        {
-          "titulo": "EL GRAN PREMIO: A TODA VELOCIDAD",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "3e4dc5eb-58d8-4ec2-9d10-2282e92f6ab9"
         }
       ],
       "ciudad": "Quillacollo"
     }
   ],
   "cine": "MEGA",
-  "fecha": "16/2/2026"
+  "fecha": "17/2/2026"
 }
