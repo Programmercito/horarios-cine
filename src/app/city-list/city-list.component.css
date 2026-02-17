@@ -1,7 +1,7 @@
 /* Cinema Bo - City List Component */
 .container {
   min-height: 100vh;
-  background: linear-gradient(135deg, #1e3a2e 0%, #2d5a3d 50%, #1e3a2e 100%);
+  background: var(--bg-primary);
   padding: 0;
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -27,7 +27,7 @@
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  box-shadow: 0 8px 32px rgba(46, 125, 50, 0.3);
+  box-shadow: 0 8px 32px var(--shadow-primary);
   transition: transform 0.3s ease;
 }
 
@@ -36,7 +36,7 @@
 }
 
 .app-title {
-  color: #4caf50;
+  color: var(--color-primary);
   font-size: 2.5rem;
   font-weight: 700;
   margin: 0;
@@ -45,7 +45,7 @@
 }
 
 .subtitle {
-  color: #a5d6a7;
+  color: var(--color-light);
   font-size: 1.1rem;
   margin: 0;
   font-weight: 300;
@@ -74,7 +74,7 @@
 }
 
 .city-button {
-  background: linear-gradient(145deg, #388e3c, #2e7d32);
+  background: linear-gradient(145deg, var(--color-secondary), var(--color-secondary));
   border: none;
   border-radius: 15px;
   padding: 1.5rem 2rem;
@@ -83,7 +83,7 @@
   font-weight: 600;
   cursor: pointer;
   transition: all 0.3s ease;
-  box-shadow: 0 8px 25px rgba(46, 125, 50, 0.2);
+  box-shadow: 0 8px 25px var(--shadow-secondary);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -108,8 +108,8 @@
 
 .city-button:hover {
   transform: translateY(-5px);
-  box-shadow: 0 15px 35px rgba(46, 125, 50, 0.4);
-  background: linear-gradient(145deg, #43a047, #388e3c);
+  box-shadow: 0 15px 35px var(--shadow-primary);
+  background: linear-gradient(145deg, var(--color-accent), var(--color-secondary));
 }
 
 .city-button:active {
@@ -144,7 +144,7 @@
   
   .city-button:hover {
     transform: none !important;
-    box-shadow: 0 8px 30px rgba(76, 175, 80, 0.3) !important;
+    box-shadow: 0 8px 30px var(--shadow-primary) !important;
   }
   
   .city-button:hover .arrow {

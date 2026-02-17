@@ -38,13 +38,14 @@ export class CinemaListComponent extends EncodingCine implements OnInit {
 
   private fetchCinemas(city: string) {
     // Load cinema config first
-    this.http.get<{ [key: string]: boolean }>('/assets/cinema-config.json').pipe(
+    this.http.get<{ [key: string]: boolean }>('/cinema-config.json').pipe(
       catchError(error => {
         console.error('Error loading cinema config:', error);
         return of({});
       })
     ).subscribe(config => {
       this.cinemaConfig = config;
+      console.log('Cinema config loaded:', this.cinemaConfig);
       this.loadCinemas(city);
     });
   }
@@ -128,6 +129,7 @@ export class CinemaListComponent extends EncodingCine implements OnInit {
       console.log("cinemaname ", cinemaname);
       // Check if cinema is enabled in config
       if (this.cinemaConfig[fileIndex.toString()] === false) {
+        console.log('Skipping disabled cinema:', fileIndex, cinemaname);
         return; // Skip disabled cinemas
       }
       data.ciudades.map((cityData: any) => {
