@@ -281,17 +281,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "20:10"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "21:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "22:30"
             },
             {
               "idioma": "Dob",
@@ -307,6 +297,16 @@
               "idioma": "Dob",
               "formato": "XD 2D",
               "horario": "22:10"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "20:10"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "22:30"
             }
           ],
           "id": "f8a5c2b8-d83e-411a-b741-90495924eb34"
@@ -399,5 +399,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "16/2/2026"
+  "fecha": "17/2/2026"
 }
