@@ -42,6 +42,11 @@
           "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
           "horarios": [
             {
+              "horario": "11:00 hrs",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
               "horario": "13:00 hrs",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
@@ -68,58 +73,6 @@
             }
           ],
           "id": "e8de4a28-0dff-43c3-ab39-b90c95b4c6ca"
-        },
-        {
-          "titulo": "GOAT: LA CABRA QUE CAMBIÓ EL JUEGO",
-          "horarios": [
-            {
-              "horario": "13:40 hrs",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "20:10 hrs",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "22:15 hrs",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "15:50 hrs",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
-              "horario": "18:00 hrs",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            }
-          ],
-          "id": "3dd847ec-5ab9-4c7f-a953-17f2757890b3"
-        },
-        {
-          "titulo": "ZOOTOPIA 2",
-          "horarios": [
-            {
-              "horario": "15:40 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50 hrs",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "20:00 hrs",
-              "idioma": "Español",
-              "formato": "3D"
-            }
-          ],
-          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
           "titulo": "EL ORFANATO: LA POSESIÓN",
@@ -153,25 +106,40 @@
           "id": "6b7b91ac-62d2-4608-9b7c-b3adfd8be44b"
         },
         {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "titulo": "GOAT: LA CABRA QUE CAMBIÓ EL JUEGO",
           "horarios": [
             {
-              "horario": "14:30 hrs",
+              "horario": "11:30 hrs",
               "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "18:20 hrs",
+              "horario": "13:40 hrs",
               "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "22:10 hrs",
+              "horario": "20:10 hrs",
               "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "22:15 hrs",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "15:50 hrs",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "18:00 hrs",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
             }
           ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+          "id": "3dd847ec-5ab9-4c7f-a953-17f2757890b3"
         },
         {
           "titulo": "LÍBRALOS DEL MAL",
@@ -226,6 +194,69 @@
           "id": "ba9760fb-9348-4f6b-ad42-fa708d3559c4"
         },
         {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "15:40 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50 hrs",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "20:00 hrs",
+              "idioma": "Español",
+              "formato": "3D"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "10:40 hrs",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "14:30 hrs",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "18:20 hrs",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "22:10 hrs",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
+        {
+          "titulo": "LA MALDICIÓN DE MADELINE",
+          "horarios": [
+            {
+              "horario": "14:10 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "2585dda0-2d0b-44a4-a889-b5a39bf03f90"
+        },
+        {
           "titulo": "SILENT HILL: REGRESO AL INFIERNO",
           "horarios": [
             {
@@ -248,22 +279,6 @@
           "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
         },
         {
-          "titulo": "LA MALDICIÓN DE MADELINE",
-          "horarios": [
-            {
-              "horario": "14:10 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "2585dda0-2d0b-44a4-a889-b5a39bf03f90"
-        },
-        {
           "titulo": "KILL BILL: THE WHOLE BLOODY AFFAIR",
           "horarios": [
             {
@@ -280,8 +295,54 @@
     {
       "peliculas": [
         {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "12:20 hrs",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "16:10 hrs",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "13:10 hrs",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "21:00 hrs",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "15:00 hrs",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "19:10 hrs",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "22:15 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
+        {
           "titulo": "GOAT: LA CABRA QUE CAMBIÓ EL JUEGO",
           "horarios": [
+            {
+              "horario": "10:40 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:45 hrs",
               "idioma": "Español",
@@ -326,49 +387,28 @@
           "id": "3dd847ec-5ab9-4c7f-a953-17f2757890b3"
         },
         {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "12:20 hrs",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "16:10 hrs",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "13:10 hrs",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "21:00 hrs",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "15:00 hrs",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "19:10 hrs",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "22:15 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
-        {
           "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
           "horarios": [
+            {
+              "horario": "11:10 hrs",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "17:00 hrs",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "19:00 hrs",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "11:30 hrs",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
             {
               "horario": "13:40 hrs",
               "idioma": "Español",
@@ -393,16 +433,6 @@
               "horario": "22:10 hrs",
               "idioma": "Español",
               "formato": "2D XL"
-            },
-            {
-              "horario": "17:00 hrs",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "19:00 hrs",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
             }
           ],
           "id": "e8de4a28-0dff-43c3-ab39-b90c95b4c6ca"
@@ -475,32 +505,6 @@
           "id": "ba9760fb-9348-4f6b-ad42-fa708d3559c4"
         },
         {
-          "titulo": "ZOOTOPIA 2",
-          "horarios": [
-            {
-              "horario": "12:10 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:40 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
-        },
-        {
           "titulo": "LÍBRALOS DEL MAL",
           "horarios": [
             {
@@ -525,27 +529,6 @@
             }
           ],
           "id": "6dc3ea7a-3105-4e96-9d9e-5183ba93060a"
-        },
-        {
-          "titulo": "EL SONIDO DE LA MUERTE",
-          "horarios": [
-            {
-              "horario": "14:10 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "2b05deff-e7fd-4e90-aa44-e429999e43db"
         },
         {
           "titulo": "EL ORFANATO: LA POSESIÓN",
@@ -616,6 +599,58 @@
           "id": "deede765-c8d7-4498-989d-61d539a37615"
         },
         {
+          "titulo": "EL SONIDO DE LA MUERTE",
+          "horarios": [
+            {
+              "horario": "14:10 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "2b05deff-e7fd-4e90-aa44-e429999e43db"
+        },
+        {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "11:10 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:10 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
           "titulo": "FUI FORASTERO",
           "horarios": [
             {
@@ -665,6 +700,17 @@
           "id": "9f347e4f-7e0a-445d-b2ab-195bc7f967cf"
         },
         {
+          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
+          "horarios": [
+            {
+              "horario": "12:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
+        },
+        {
           "titulo": "MARTY SUPREMO",
           "horarios": [
             {
@@ -674,17 +720,6 @@
             }
           ],
           "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
-        },
-        {
-          "titulo": "LA EMPLEADA",
-          "horarios": [
-            {
-              "horario": "14:10 hrs",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
         },
         {
           "titulo": "LA MALDICIÓN DE MADELINE",
@@ -698,6 +733,17 @@
           "id": "2585dda0-2d0b-44a4-a889-b5a39bf03f90"
         },
         {
+          "titulo": "LA EMPLEADA",
+          "horarios": [
+            {
+              "horario": "14:10 hrs",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "debfeaa7-a889-434a-af93-2170d9a5a96b"
+        },
+        {
           "titulo": "ANACONDA",
           "horarios": [
             {
@@ -707,17 +753,6 @@
             }
           ],
           "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
-        },
-        {
-          "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
-          "horarios": [
-            {
-              "horario": "12:00 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "7a910aab-2e82-4442-b818-8156f9c564c1"
         }
       ],
       "ciudad": "La Paz"
@@ -727,6 +762,11 @@
         {
           "titulo": "CUMBRES BORRASCOSAS",
           "horarios": [
+            {
+              "horario": "11:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:40 hrs",
               "idioma": "Español",
@@ -759,6 +799,11 @@
           "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
           "horarios": [
             {
+              "horario": "11:10 hrs",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
               "horario": "13:20 hrs",
               "idioma": "Español",
               "formato": "2D XL"
@@ -785,27 +830,6 @@
             }
           ],
           "id": "e8de4a28-0dff-43c3-ab39-b90c95b4c6ca"
-        },
-        {
-          "titulo": "GOAT: LA CABRA QUE CAMBIÓ EL JUEGO",
-          "horarios": [
-            {
-              "horario": "13:50 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:10 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "3dd847ec-5ab9-4c7f-a953-17f2757890b3"
         },
         {
           "titulo": "EL VENGADOR TÓXICO",
@@ -903,22 +927,6 @@
           "id": "314f2418-b1d2-4d12-813b-1f660b624ddd"
         },
         {
-          "titulo": "EL SONIDO DE LA MUERTE",
-          "horarios": [
-            {
-              "horario": "17:00 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "2b05deff-e7fd-4e90-aa44-e429999e43db"
-        },
-        {
           "titulo": "KILL BILL: THE WHOLE BLOODY AFFAIR",
           "horarios": [
             {
@@ -935,8 +943,61 @@
           "id": "deede765-c8d7-4498-989d-61d539a37615"
         },
         {
+          "titulo": "GOAT: LA CABRA QUE CAMBIÓ EL JUEGO",
+          "horarios": [
+            {
+              "horario": "11:40 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "3dd847ec-5ab9-4c7f-a953-17f2757890b3"
+        },
+        {
+          "titulo": "MARTY SUPREMO",
+          "horarios": [
+            {
+              "horario": "22:30 hrs",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
+        },
+        {
+          "titulo": "EL SONIDO DE LA MUERTE",
+          "horarios": [
+            {
+              "horario": "11:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "2b05deff-e7fd-4e90-aa44-e429999e43db"
+        },
+        {
           "titulo": "ANACONDA",
           "horarios": [
+            {
+              "horario": "11:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:00 hrs",
               "idioma": "Español",
@@ -949,17 +1010,6 @@
             }
           ],
           "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
-        },
-        {
-          "titulo": "MARTY SUPREMO",
-          "horarios": [
-            {
-              "horario": "22:30 hrs",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "8bffcafb-2f01-4fee-8650-f0dbcefd524e"
         },
         {
           "titulo": "VALOR SENTIMENTAL",
@@ -984,17 +1034,6 @@
           "id": "eed90621-c88d-4940-80d7-f4f7d988a435"
         },
         {
-          "titulo": "SILENT HILL: REGRESO AL INFIERNO",
-          "horarios": [
-            {
-              "horario": "15:00 hrs",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "a005059d-e308-43b5-b9e9-4651a62adad0"
-        },
-        {
           "titulo": "¿Y DÓNDE ESTÁN LAS RUBIAS?",
           "horarios": [
             {
@@ -1004,6 +1043,17 @@
             }
           ],
           "id": "9f347e4f-7e0a-445d-b2ab-195bc7f967cf"
+        },
+        {
+          "titulo": "SILENT HILL: REGRESO AL INFIERNO",
+          "horarios": [
+            {
+              "horario": "15:00 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "a005059d-e308-43b5-b9e9-4651a62adad0"
         },
         {
           "titulo": "LA EMPLEADA",
@@ -1042,6 +1092,11 @@
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
+              "horario": "11:30 hrs",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "16:00 hrs",
               "idioma": "Español",
               "formato": "2D"
@@ -1065,5 +1120,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "19/2/2026"
+  "fecha": "20/2/2026"
 }
