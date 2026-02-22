@@ -567,7 +567,7 @@
           "id": "83a0b100-7428-496c-a50a-da136132c322"
         },
         {
-          "titulo": "FUI FORATESRO",
+          "titulo": "FUI FORASTERO",
           "horarios": [
             {
               "horario": "15:10",
@@ -580,7 +580,7 @@
               "formato": "2D"
             }
           ],
-          "id": "8d3daf5d-8f69-41db-a1fe-89eaa9f80a9e"
+          "id": "de95544f-f744-4fbb-97ca-6769b7fbcfbc"
         },
         {
           "titulo": "LA MALDICION DE MADELINE",
@@ -610,6 +610,17 @@
           "id": "f12092f3-5583-4f00-b28a-9a29c2b63e19"
         },
         {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
+        {
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
@@ -634,17 +645,6 @@
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
-        },
-        {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
           "titulo": "CUMBRES BORRASCOSAS",
@@ -830,7 +830,7 @@
           "id": "83a0b100-7428-496c-a50a-da136132c322"
         },
         {
-          "titulo": "FUI FORATESRO",
+          "titulo": "FUI FORASTERO",
           "horarios": [
             {
               "horario": "15:35",
@@ -843,7 +843,7 @@
               "formato": "2D"
             }
           ],
-          "id": "8d3daf5d-8f69-41db-a1fe-89eaa9f80a9e"
+          "id": "de95544f-f744-4fbb-97ca-6769b7fbcfbc"
         },
         {
           "titulo": "EL ORFANATO: LA POSESION",
@@ -1172,6 +1172,37 @@
           "id": "3a56ffae-2cfe-4922-9976-b2a61d5d0a7c"
         },
         {
+          "titulo": "EL ORFANATO: LA POSESION",
+          "horarios": [
+            {
+              "horario": "13:50",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "f12092f3-5583-4f00-b28a-9a29c2b63e19"
+        },
+        {
           "titulo": "KILL BILL: THE WHOLE BLOODY AFFAIR. ",
           "horarios": [
             {
@@ -1214,7 +1245,7 @@
           "id": "83a0b100-7428-496c-a50a-da136132c322"
         },
         {
-          "titulo": "FUI FORATESRO",
+          "titulo": "FUI FORASTERO",
           "horarios": [
             {
               "horario": "19:30",
@@ -1227,7 +1258,7 @@
               "formato": "2D"
             }
           ],
-          "id": "8d3daf5d-8f69-41db-a1fe-89eaa9f80a9e"
+          "id": "de95544f-f744-4fbb-97ca-6769b7fbcfbc"
         },
         {
           "titulo": "LA MALDICION DE MADELINE",
@@ -1254,37 +1285,6 @@
             }
           ],
           "id": "7d6c0a6d-6de0-46f9-bc6e-76750b949916"
-        },
-        {
-          "titulo": "EL ORFANATO: LA POSESION",
-          "horarios": [
-            {
-              "horario": "13:50",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "ESP",
-              "formato": "2D"
-            }
-          ],
-          "id": "f12092f3-5583-4f00-b28a-9a29c2b63e19"
         },
         {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
@@ -1713,7 +1713,7 @@
           "id": "83a0b100-7428-496c-a50a-da136132c322"
         },
         {
-          "titulo": "FUI FORATESRO",
+          "titulo": "FUI FORASTERO",
           "horarios": [
             {
               "horario": "18:15",
@@ -1726,7 +1726,7 @@
               "formato": "2D"
             }
           ],
-          "id": "8d3daf5d-8f69-41db-a1fe-89eaa9f80a9e"
+          "id": "de95544f-f744-4fbb-97ca-6769b7fbcfbc"
         },
         {
           "titulo": "LA MALDICION DE MADELINE",
@@ -2184,5 +2184,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "21/2/2026"
+  "fecha": "22/2/2026"
 }
