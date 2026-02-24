@@ -9,11 +9,6 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "13:45"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "15:45"
             },
             {
@@ -25,11 +20,6 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "19:45"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "21:50"
             }
           ],
           "id": "6dc3ea7a-3105-4e96-9d9e-5183ba93060a"
@@ -56,17 +46,6 @@
           "id": "f54f4e2f-f219-4e5e-8913-ad099a9f2244"
         },
         {
-          "titulo": "EL VENGADOR TOXICO",
-          "horarios": [
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "22:40"
-            }
-          ],
-          "id": "83a0b100-7428-496c-a50a-da136132c322"
-        },
-        {
           "titulo": "KILL BILL: WHOLE BLOODY",
           "horarios": [
             {
@@ -81,6 +60,17 @@
             }
           ],
           "id": "e7e849fd-e344-42da-be97-d59f94c96185"
+        },
+        {
+          "titulo": "EL VENGADOR TOXICO",
+          "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "21:40"
+            }
+          ],
+          "id": "83a0b100-7428-496c-a50a-da136132c322"
         },
         {
           "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
@@ -211,6 +201,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "22:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "19:30"
             },
             {
@@ -248,11 +243,6 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "21:15"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "22:00"
             },
             {
               "idioma": "Dob",
@@ -369,12 +359,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "11:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "11:50"
+              "horario": "11:40"
             },
             {
               "idioma": "Dob",
@@ -407,6 +392,11 @@
         {
           "titulo": "AVATAR 3: FUEGO Y CENIZAS",
           "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "11:50"
+            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -470,5 +460,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "23/2/2026"
+  "fecha": "24/2/2026"
 }
