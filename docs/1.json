@@ -3,129 +3,186 @@
     {
       "peliculas": [
         {
-          "titulo": "LIBRALOS DEL MAL",
+          "titulo": "AMELIE Y LOS SECRETOS DE LA LLUVIA",
           "horarios": [
             {
-              "horario": "16:45",
+              "horario": "10:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:15",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "23:30",
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "3a56ffae-2cfe-4922-9976-b2a61d5d0a7c"
+          "id": "83eb12f3-d95a-412f-a06f-63dc3c1c9f98"
         },
         {
-          "titulo": "EL ORFANATO: LA POSESION",
+          "titulo": "SCREAM 7",
           "horarios": [
             {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "17:00",
-              "idioma": "ESP",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "SUBT",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            },
+            {
+              "horario": "22:35",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            }
+          ],
+          "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
+        },
+        {
+          "titulo": "LA SAGA CREPUSCULO: ECLIPSE",
+          "horarios": [
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "19:10",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:20",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:30",
-              "idioma": "ESP",
-              "formato": "2D"
-            }
-          ],
-          "id": "f12092f3-5583-4f00-b28a-9a29c2b63e19"
-        },
-        {
-          "titulo": "EL VENGADOR TOXICO",
-          "horarios": [
-            {
-              "horario": "15:35",
               "idioma": "DOB",
               "formato": "2D"
             },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "922fe950-006c-4071-b042-8d7e80140aa9"
+        },
+        {
+          "titulo": "OPERACION: SOMBRA",
+          "horarios": [
+            {
+              "horario": "13:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ba91591a-d04e-4a64-a5a6-e32faf2b81f2"
+        },
+        {
+          "titulo": "EPIC: ELVIS PRESLEY IN CONCERT",
+          "horarios": [
+            {
+              "horario": "20:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "1809db7e-a0b7-450c-a8b1-057793c91be5"
+        },
+        {
+          "titulo": "NUREMBERG: EL JUICIO DEL SIGLO",
+          "horarios": [
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "7c1535e6-090d-41c2-a63c-f616411efe30"
+        },
+        {
+          "titulo": "EL CASTILLO AMBULANTE",
+          "horarios": [
             {
               "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:50",
+              "horario": "20:40",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "83a0b100-7428-496c-a50a-da136132c322"
-        },
-        {
-          "titulo": "FUI FORASTERO",
-          "horarios": [
-            {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "de95544f-f744-4fbb-97ca-6769b7fbcfbc"
-        },
-        {
-          "titulo": "LA MALDICION DE MADELINE",
-          "horarios": [
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "7d6c0a6d-6de0-46f9-bc6e-76750b949916"
+          "id": "2b6b389f-ab84-4521-af72-3a7551809b6e"
         },
         {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
@@ -149,11 +206,6 @@
               "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "3D CXC Atmos"
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
@@ -162,22 +214,17 @@
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "10:35",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:30",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -187,12 +234,12 @@
               "formato": "2D"
             },
             {
-              "horario": "13:05",
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -202,7 +249,12 @@
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -213,27 +265,12 @@
           "titulo": "BOB ESPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS",
           "horarios": [
             {
-              "horario": "10:20",
+              "horario": "10:55",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
+              "horario": "13:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -244,22 +281,7 @@
           "titulo": "ANACONDA",
           "horarios": [
             {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
+              "horario": "11:35",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -267,75 +289,81 @@
           "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
         },
         {
+          "titulo": "LIBRALOS DEL MAL",
+          "horarios": [
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "3a56ffae-2cfe-4922-9976-b2a61d5d0a7c"
+        },
+        {
           "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
           "horarios": [
             {
-              "horario": "10:00",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "10:20",
+              "horario": "11:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:10",
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:40",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:25",
+              "horario": "15:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "17:40",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D CXC Atmos"
             },
             {
-              "horario": "19:40",
+              "horario": "20:00",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D CXC Atmos"
             },
             {
-              "horario": "10:00",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "3D CXC Atmos"
             },
             {
-              "horario": "12:20",
+              "horario": "15:20",
               "idioma": "DOB",
               "formato": "3D CXC Atmos"
             },
             {
-              "horario": "14:40",
+              "horario": "10:40",
               "idioma": "DOB",
-              "formato": "3D CXC Atmos"
+              "formato": "4D E-Motion 3D"
             },
             {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "3D CXC Atmos"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "3D CXC Atmos"
-            },
-            {
-              "horario": "10:00",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             }
@@ -346,27 +374,17 @@
           "titulo": "CUMBRES BORRASCOSAS",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:50",
+              "horario": "19:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
+              "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -374,41 +392,15 @@
           "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
         },
         {
-          "titulo": "TERROR EN SILENT HILL: REGRESO AL INFIERNO",
-          "horarios": [
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "cc14ad96-2c75-45cf-8fbd-27f02dc419cc"
-        },
-        {
           "titulo": "EL DIA DEL FIN DEL MUNDO: MIGRACION",
           "horarios": [
             {
-              "horario": "12:40",
+              "horario": "11:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -443,32 +435,12 @@
               "formato": "2D Atmos"
             },
             {
-              "horario": "12:10",
+              "horario": "15:20",
               "idioma": "DOB",
               "formato": "4D E-Motion 2D"
             },
             {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
-            },
-            {
-              "horario": "23:50",
+              "horario": "17:40",
               "idioma": "DOB",
               "formato": "4D E-Motion 2D"
             }
@@ -476,10 +448,47 @@
           "id": "5c8a47ed-dafa-4b90-9e14-00156f8b2ab1"
         },
         {
-          "titulo": "CAMINOS DEL CRIMEN",
+          "titulo": "EL ORFANATO: LA POSESION",
           "horarios": [
             {
-              "horario": "20:00",
+              "horario": "18:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:50",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "f12092f3-5583-4f00-b28a-9a29c2b63e19"
+        },
+        {
+          "titulo": "EL SONIDO DE LA MUERTE",
+          "horarios": [
+            {
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2b05deff-e7fd-4e90-aa44-e429999e43db"
+        },
+        {
+          "titulo": "EL VENGADOR TOXICO",
+          "horarios": [
+            {
+              "horario": "15:35",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -489,28 +498,7 @@
               "formato": "2D"
             }
           ],
-          "id": "314f2418-b1d2-4d12-813b-1f660b624ddd"
-        },
-        {
-          "titulo": "EL SONIDO DE LA MUERTE",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "2b05deff-e7fd-4e90-aa44-e429999e43db"
+          "id": "83a0b100-7428-496c-a50a-da136132c322"
         }
       ],
       "ciudad": "Santa Cruz Av. Trompillo"
@@ -518,92 +506,145 @@
     {
       "peliculas": [
         {
-          "titulo": "LIBRALOS DEL MAL",
+          "titulo": "TWENTY ONE PILOTS: MORE THAN WE EVER IMAGINED",
           "horarios": [
             {
-              "horario": "17:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:25",
-              "idioma": "DOB",
-              "formato": "2D"
+              "horario": "18:00",
+              "idioma": "SUBT",
+              "formato": "2D CXC Atmos"
             }
           ],
-          "id": "3a56ffae-2cfe-4922-9976-b2a61d5d0a7c"
+          "id": "803651c8-f2a4-4a92-af82-630e1802ba6f"
         },
         {
-          "titulo": "EL VENGADOR TOXICO",
+          "titulo": "AMELIE Y LOS SECRETOS DE LA LLUVIA",
           "horarios": [
             {
-              "horario": "19:00",
+              "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:15",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "83a0b100-7428-496c-a50a-da136132c322"
+          "id": "83eb12f3-d95a-412f-a06f-63dc3c1c9f98"
         },
         {
-          "titulo": "FUI FORASTERO",
+          "titulo": "SCREAM 7",
           "horarios": [
             {
-              "horario": "15:10",
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:25",
+              "horario": "20:05",
               "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "de95544f-f744-4fbb-97ca-6769b7fbcfbc"
-        },
-        {
-          "titulo": "LA MALDICION DE MADELINE",
-          "horarios": [
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "7d6c0a6d-6de0-46f9-bc6e-76750b949916"
-        },
-        {
-          "titulo": "EL ORFANATO: LA POSESION",
-          "horarios": [
-            {
-              "horario": "19:40",
-              "idioma": "ESP",
               "formato": "2D"
             },
             {
-              "horario": "21:40",
-              "idioma": "ESP",
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            }
+          ],
+          "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
+        },
+        {
+          "titulo": "LA SAGA CREPUSCULO: ECLIPSE",
+          "horarios": [
+            {
+              "horario": "18:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "f12092f3-5583-4f00-b28a-9a29c2b63e19"
+          "id": "922fe950-006c-4071-b042-8d7e80140aa9"
+        },
+        {
+          "titulo": "OPERACION: SOMBRA",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ba91591a-d04e-4a64-a5a6-e32faf2b81f2"
+        },
+        {
+          "titulo": "EPIC: ELVIS PRESLEY IN CONCERT",
+          "horarios": [
+            {
+              "horario": "20:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "1809db7e-a0b7-450c-a8b1-057793c91be5"
+        },
+        {
+          "titulo": "NUREMBERG: EL JUICIO DEL SIGLO",
+          "horarios": [
+            {
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "7c1535e6-090d-41c2-a63c-f616411efe30"
+        },
+        {
+          "titulo": "EL CASTILLO AMBULANTE",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2b6b389f-ab84-4521-af72-3a7551809b6e"
         },
         {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
-              "horario": "20:30",
+              "horario": "13:30",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D"
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
@@ -612,22 +653,12 @@
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
+              "horario": "16:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -638,12 +669,17 @@
           "titulo": "CUMBRES BORRASCOSAS",
           "horarios": [
             {
-              "horario": "17:50",
+              "horario": "14:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:40",
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -653,16 +689,6 @@
         {
           "titulo": "EL DIA DEL FIN DEL MUNDO: MIGRACION",
           "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "17:20",
               "idioma": "DOB",
@@ -682,22 +708,6 @@
           "id": "5c8a47ed-dafa-4b90-9e14-00156f8b2ab1"
         },
         {
-          "titulo": "CAMINOS DEL CRIMEN",
-          "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "314f2418-b1d2-4d12-813b-1f660b624ddd"
-        },
-        {
           "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
           "horarios": [
             {
@@ -706,7 +716,12 @@
               "formato": "2D"
             },
             {
-              "horario": "14:55",
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -724,40 +739,9 @@
               "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "13:30",
-              "idioma": "DOB",
-              "formato": "3D CXC Atmos"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "3D CXC Atmos"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "DOB",
-              "formato": "3D CXC Atmos"
             }
           ],
           "id": "2d3792f8-4849-45ef-aa7a-0bd6e6d7275f"
-        },
-        {
-          "titulo": "EL SONIDO DE LA MUERTE",
-          "horarios": [
-            {
-              "horario": "19:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "2b05deff-e7fd-4e90-aa44-e429999e43db"
         }
       ],
       "ciudad": "Santa Cruz Av. Brasil"
@@ -765,151 +749,21 @@
     {
       "peliculas": [
         {
-          "titulo": "LIBRALOS DEL MAL",
+          "titulo": "TWENTY ONE PILOTS: MORE THAN WE EVER IMAGINED",
           "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "3a56ffae-2cfe-4922-9976-b2a61d5d0a7c"
-        },
-        {
-          "titulo": "EL VENGADOR TOXICO",
-          "horarios": [
-            {
-              "horario": "14:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "83a0b100-7428-496c-a50a-da136132c322"
-        },
-        {
-          "titulo": "FUI FORASTERO",
-          "horarios": [
-            {
-              "horario": "15:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "de95544f-f744-4fbb-97ca-6769b7fbcfbc"
-        },
-        {
-          "titulo": "EL ORFANATO: LA POSESION",
-          "horarios": [
-            {
-              "horario": "20:25",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:35",
-              "idioma": "ESP",
-              "formato": "2D"
-            }
-          ],
-          "id": "f12092f3-5583-4f00-b28a-9a29c2b63e19"
-        },
-        {
-          "titulo": "LA MALDICION DE MADELINE",
-          "horarios": [
-            {
-              "horario": "21:20",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:20",
-              "idioma": "ESP",
-              "formato": "2D"
-            }
-          ],
-          "id": "7d6c0a6d-6de0-46f9-bc6e-76750b949916"
-        },
-        {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
+              "idioma": "SUBT",
               "formato": "2D Atmos"
-            },
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
             }
           ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+          "id": "803651c8-f2a4-4a92-af82-630e1802ba6f"
         },
         {
-          "titulo": "ZOOTOPIA 2",
+          "titulo": "AMELIE Y LOS SECRETOS DE LA LLUVIA",
           "horarios": [
             {
               "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -919,12 +773,205 @@
               "formato": "2D"
             },
             {
-              "horario": "12:30",
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:30",
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "83eb12f3-d95a-412f-a06f-63dc3c1c9f98"
+        },
+        {
+          "titulo": "SCREAM 7",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "23:15",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            },
+            {
+              "horario": "22:35",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            }
+          ],
+          "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
+        },
+        {
+          "titulo": "LA SAGA CREPUSCULO: ECLIPSE",
+          "horarios": [
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "922fe950-006c-4071-b042-8d7e80140aa9"
+        },
+        {
+          "titulo": "OPERACION: SOMBRA",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ba91591a-d04e-4a64-a5a6-e32faf2b81f2"
+        },
+        {
+          "titulo": "EPIC: ELVIS PRESLEY IN CONCERT",
+          "horarios": [
+            {
+              "horario": "20:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "1809db7e-a0b7-450c-a8b1-057793c91be5"
+        },
+        {
+          "titulo": "NUREMBERG: EL JUICIO DEL SIGLO",
+          "horarios": [
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "7c1535e6-090d-41c2-a63c-f616411efe30"
+        },
+        {
+          "titulo": "EL CASTILLO AMBULANTE",
+          "horarios": [
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2b6b389f-ab84-4521-af72-3a7551809b6e"
+        },
+        {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
+        {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -940,17 +987,17 @@
               "formato": "2D"
             },
             {
-              "horario": "16:40",
+              "horario": "16:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "19:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:20",
+              "horario": "22:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -961,89 +1008,7 @@
           "titulo": "EL DIA DEL FIN DEL MUNDO: MIGRACION",
           "horarios": [
             {
-              "horario": "10:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "12:50",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D CXC"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
-            }
-          ],
-          "id": "5c8a47ed-dafa-4b90-9e14-00156f8b2ab1"
-        },
-        {
-          "titulo": "CAMINOS DEL CRIMEN",
-          "horarios": [
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "314f2418-b1d2-4d12-813b-1f660b624ddd"
-        },
-        {
-          "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
-          "horarios": [
-            {
               "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1058,64 +1023,89 @@
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "19:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "11:10",
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            }
+          ],
+          "id": "5c8a47ed-dafa-4b90-9e14-00156f8b2ab1"
+        },
+        {
+          "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "13:30",
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "15:50",
+              "horario": "15:40",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "18:10",
+              "horario": "10:40",
               "idioma": "DOB",
-              "formato": "2D Atmos"
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
             }
           ],
           "id": "2d3792f8-4849-45ef-aa7a-0bd6e6d7275f"
         },
         {
-          "titulo": "ARCO",
-          "horarios": [
-            {
-              "horario": "10:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "b1babff3-f9b2-493c-bbe1-5f979773f170"
-        },
-        {
           "titulo": "EL SONIDO DE LA MUERTE",
           "horarios": [
             {
-              "horario": "14:15",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:05",
+              "horario": "13:55",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1128,213 +1118,21 @@
     {
       "peliculas": [
         {
-          "titulo": "LIBRALOS DEL MAL",
+          "titulo": "TWENTY ONE PILOTS: MORE THAN WE EVER IMAGINED",
           "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "3a56ffae-2cfe-4922-9976-b2a61d5d0a7c"
-        },
-        {
-          "titulo": "EL ORFANATO: LA POSESION",
-          "horarios": [
-            {
-              "horario": "13:50",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "ESP",
-              "formato": "2D"
-            }
-          ],
-          "id": "f12092f3-5583-4f00-b28a-9a29c2b63e19"
-        },
-        {
-          "titulo": "EL VENGADOR TOXICO",
-          "horarios": [
-            {
-              "horario": "12:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "83a0b100-7428-496c-a50a-da136132c322"
-        },
-        {
-          "titulo": "FUI FORASTERO",
-          "horarios": [
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "de95544f-f744-4fbb-97ca-6769b7fbcfbc"
-        },
-        {
-          "titulo": "LA MALDICION DE MADELINE",
-          "horarios": [
-            {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "DOB",
-              "formato": "2D"
+              "idioma": "SUBT",
+              "formato": "2D Atmos"
             }
           ],
-          "id": "7d6c0a6d-6de0-46f9-bc6e-76750b949916"
+          "id": "803651c8-f2a4-4a92-af82-630e1802ba6f"
         },
         {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
-        {
-          "titulo": "ZOOTOPIA 2",
-          "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
-        },
-        {
-          "titulo": "MOON: MI AMIGO EL PANDA",
+          "titulo": "AMELIE Y LOS SECRETOS DE LA LLUVIA",
           "horarios": [
             {
               "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "62ad8078-4050-4a91-a694-3bfe6a3bc95b"
-        },
-        {
-          "titulo": "CUMBRES BORRASCOSAS",
-          "horarios": [
-            {
-              "horario": "12:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1344,7 +1142,89 @@
               "formato": "2D"
             },
             {
-              "horario": "15:50",
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "83eb12f3-d95a-412f-a06f-63dc3c1c9f98"
+        },
+        {
+          "titulo": "SCREAM 7",
+          "horarios": [
+            {
+              "horario": "11:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "15:25",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            }
+          ],
+          "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
+        },
+        {
+          "titulo": "LA SAGA CREPUSCULO: ECLIPSE",
+          "horarios": [
+            {
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1354,17 +1234,7 @@
               "formato": "2D"
             },
             {
-              "horario": "18:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "19:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1374,292 +1244,55 @@
               "formato": "2D"
             }
           ],
-          "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
+          "id": "922fe950-006c-4071-b042-8d7e80140aa9"
         },
         {
-          "titulo": "EL DIA DEL FIN DEL MUNDO: MIGRACION",
+          "titulo": "OPERACION: SOMBRA",
           "horarios": [
             {
-              "horario": "12:50",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "18:05",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
+              "horario": "21:10",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "5c8a47ed-dafa-4b90-9e14-00156f8b2ab1"
+          "id": "ba91591a-d04e-4a64-a5a6-e32faf2b81f2"
         },
         {
-          "titulo": "CAMINOS DEL CRIMEN",
+          "titulo": "EPIC: ELVIS PRESLEY IN CONCERT",
           "horarios": [
             {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "314f2418-b1d2-4d12-813b-1f660b624ddd"
-        },
-        {
-          "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "3D Atmos"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "3D Atmos"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "DOB",
-              "formato": "3D Atmos"
-            }
-          ],
-          "id": "2d3792f8-4849-45ef-aa7a-0bd6e6d7275f"
-        },
-        {
-          "titulo": "EL SONIDO DE LA MUERTE",
-          "horarios": [
-            {
-              "horario": "21:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "2b05deff-e7fd-4e90-aa44-e429999e43db"
-        }
-      ],
-      "ciudad": "La Paz"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "3D"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
-        {
-          "titulo": "CUMBRES BORRASCOSAS",
-          "horarios": [
-            {
-              "horario": "12:40",
+              "horario": "19:30",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "15:40",
+              "horario": "21:40",
               "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "1809db7e-a0b7-450c-a8b1-057793c91be5"
+        },
+        {
+          "titulo": "NUREMBERG: EL JUICIO DEL SIGLO",
+          "horarios": [
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "18:40",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
-        },
-        {
-          "titulo": "EL DIA DEL FIN DEL MUNDO: MIGRACION",
-          "horarios": [
-            {
-              "horario": "12:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "5c8a47ed-dafa-4b90-9e14-00156f8b2ab1"
-        },
-        {
-          "titulo": "CAMINOS DEL CRIMEN",
-          "horarios": [
-            {
-              "horario": "19:10",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "314f2418-b1d2-4d12-813b-1f660b624ddd"
-        },
-        {
-          "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "2d3792f8-4849-45ef-aa7a-0bd6e6d7275f"
-        }
-      ],
-      "ciudad": "La Paz VIP"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "LIBRALOS DEL MAL",
-          "horarios": [
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1669,50 +1302,76 @@
               "formato": "2D"
             }
           ],
-          "id": "3a56ffae-2cfe-4922-9976-b2a61d5d0a7c"
+          "id": "7c1535e6-090d-41c2-a63c-f616411efe30"
         },
         {
-          "titulo": "EL VENGADOR TOXICO",
+          "titulo": "EL CASTILLO AMBULANTE",
           "horarios": [
             {
-              "horario": "17:05",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:20",
+              "horario": "14:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:35",
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "83a0b100-7428-496c-a50a-da136132c322"
+          "id": "2b6b389f-ab84-4521-af72-3a7551809b6e"
         },
         {
-          "titulo": "FUI FORASTERO",
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
-              "horario": "18:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "de95544f-f744-4fbb-97ca-6769b7fbcfbc"
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
-          "titulo": "LA MALDICION DE MADELINE",
+          "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
-              "horario": "17:30",
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "CUMBRES BORRASCOSAS",
+          "horarios": [
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1725,46 +1384,175 @@
               "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
-          "id": "7d6c0a6d-6de0-46f9-bc6e-76750b949916"
+          "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
+        },
+        {
+          "titulo": "EL DIA DEL FIN DEL MUNDO: MIGRACION",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "5c8a47ed-dafa-4b90-9e14-00156f8b2ab1"
+        },
+        {
+          "titulo": "KILL BILL: THE WHOLE BLOODY AFFAIR. ",
+          "horarios": [
+            {
+              "horario": "19:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "7e63fe3b-7032-445e-aa3b-9e75adfd9ecb"
+        },
+        {
+          "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2d3792f8-4849-45ef-aa7a-0bd6e6d7275f"
         },
         {
           "titulo": "EL ORFANATO: LA POSESION",
           "horarios": [
             {
-              "horario": "16:30",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
+              "horario": "22:10",
               "idioma": "ESP",
               "formato": "2D"
             }
           ],
           "id": "f12092f3-5583-4f00-b28a-9a29c2b63e19"
-        },
+        }
+      ],
+      "ciudad": "La Paz"
+    },
+    {
+      "peliculas": [
         {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "titulo": "SCREAM 7",
           "horarios": [
             {
-              "horario": "16:20",
-              "idioma": "DOB",
+              "horario": "13:00",
+              "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "20:10",
-              "idioma": "DOB",
+              "horario": "15:35",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "SUBT",
               "formato": "2D"
             }
           ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+          "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
+        },
+        {
+          "titulo": "EPIC: ELVIS PRESLEY IN CONCERT",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "1809db7e-a0b7-450c-a8b1-057793c91be5"
         },
         {
           "titulo": "ZOOTOPIA 2",
@@ -1775,7 +1563,255 @@
               "formato": "2D"
             },
             {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "3D"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
+        {
+          "titulo": "CUMBRES BORRASCOSAS",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
+        },
+        {
+          "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2d3792f8-4849-45ef-aa7a-0bd6e6d7275f"
+        }
+      ],
+      "ciudad": "La Paz VIP"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "TWENTY ONE PILOTS: MORE THAN WE EVER IMAGINED",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "803651c8-f2a4-4a92-af82-630e1802ba6f"
+        },
+        {
+          "titulo": "AMELIE Y LOS SECRETOS DE LA LLUVIA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "83eb12f3-d95a-412f-a06f-63dc3c1c9f98"
+        },
+        {
+          "titulo": "SCREAM 7",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
+        },
+        {
+          "titulo": "LA SAGA CREPUSCULO: ECLIPSE",
+          "horarios": [
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "922fe950-006c-4071-b042-8d7e80140aa9"
+        },
+        {
+          "titulo": "OPERACION: SOMBRA",
+          "horarios": [
+            {
+              "horario": "15:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ba91591a-d04e-4a64-a5a6-e32faf2b81f2"
+        },
+        {
+          "titulo": "EPIC: ELVIS PRESLEY IN CONCERT",
+          "horarios": [
+            {
+              "horario": "20:40",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "1809db7e-a0b7-450c-a8b1-057793c91be5"
+        },
+        {
+          "titulo": "NUREMBERG: EL JUICIO DEL SIGLO",
+          "horarios": [
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "7c1535e6-090d-41c2-a63c-f616411efe30"
+        },
+        {
+          "titulo": "EL CASTILLO AMBULANTE",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2b6b389f-ab84-4521-af72-3a7551809b6e"
+        },
+        {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
               "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
+        {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "12:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1785,12 +1821,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
+              "horario": "14:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1801,12 +1832,7 @@
           "titulo": "ANACONDA",
           "horarios": [
             {
-              "horario": "13:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:55",
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1817,22 +1843,17 @@
           "titulo": "CUMBRES BORRASCOSAS",
           "horarios": [
             {
-              "horario": "12:40",
+              "horario": "15:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:30",
+              "horario": "18:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1843,12 +1864,7 @@
           "titulo": "EL DIA DEL FIN DEL MUNDO: MIGRACION",
           "horarios": [
             {
-              "horario": "14:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
+              "horario": "16:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1858,23 +1874,12 @@
               "formato": "2D"
             },
             {
-              "horario": "21:20",
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "5c8a47ed-dafa-4b90-9e14-00156f8b2ab1"
-        },
-        {
-          "titulo": "CAMINOS DEL CRIMEN",
-          "horarios": [
-            {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "314f2418-b1d2-4d12-813b-1f660b624ddd"
         },
         {
           "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
@@ -1885,84 +1890,59 @@
               "formato": "2D"
             },
             {
-              "horario": "12:45",
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "14:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "15:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:55",
+              "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "3D"
             }
           ],
           "id": "2d3792f8-4849-45ef-aa7a-0bd6e6d7275f"
         },
         {
-          "titulo": "ARCO",
+          "titulo": "EL VENGADOR TOXICO",
           "horarios": [
             {
-              "horario": "12:10",
+              "horario": "12:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "15:15",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "b1babff3-f9b2-493c-bbe1-5f979773f170"
+          "id": "83a0b100-7428-496c-a50a-da136132c322"
         },
         {
-          "titulo": "EL SONIDO DE LA MUERTE",
+          "titulo": "EL ORFANATO: LA POSESION",
           "horarios": [
             {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:15",
-              "idioma": "DOB",
+              "horario": "21:20",
+              "idioma": "ESP",
               "formato": "2D"
             }
           ],
-          "id": "2b05deff-e7fd-4e90-aa44-e429999e43db"
+          "id": "f12092f3-5583-4f00-b28a-9a29c2b63e19"
         }
       ],
       "ciudad": "Tarija"
@@ -1970,36 +1950,57 @@
     {
       "peliculas": [
         {
-          "titulo": "LIBRALOS DEL MAL",
+          "titulo": "AMELIE Y LOS SECRETOS DE LA LLUVIA",
           "horarios": [
             {
-              "horario": "17:30",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:45",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "3a56ffae-2cfe-4922-9976-b2a61d5d0a7c"
+          "id": "83eb12f3-d95a-412f-a06f-63dc3c1c9f98"
         },
         {
-          "titulo": "EL VENGADOR TOXICO",
+          "titulo": "SCREAM 7",
           "horarios": [
             {
-              "horario": "16:55",
+              "horario": "14:25",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:10",
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
+        },
+        {
+          "titulo": "OPERACION: SOMBRA",
+          "horarios": [
+            {
+              "horario": "18:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -2009,34 +2010,50 @@
               "formato": "2D"
             }
           ],
-          "id": "83a0b100-7428-496c-a50a-da136132c322"
+          "id": "ba91591a-d04e-4a64-a5a6-e32faf2b81f2"
         },
         {
-          "titulo": "FUI FORASTERO",
+          "titulo": "EPIC: ELVIS PRESLEY IN CONCERT",
           "horarios": [
             {
-              "horario": "12:25",
+              "horario": "20:40",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "1809db7e-a0b7-450c-a8b1-057793c91be5"
+        },
+        {
+          "titulo": "LA SAGA CREPUSCULO: ECLIPSE",
+          "horarios": [
+            {
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:40",
+              "horario": "20:50",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "de95544f-f744-4fbb-97ca-6769b7fbcfbc"
+          "id": "922fe950-006c-4071-b042-8d7e80140aa9"
         },
         {
-          "titulo": "EL ORFANATO: LA POSESION",
+          "titulo": "EL CASTILLO AMBULANTE",
           "horarios": [
             {
-              "horario": "20:40",
-              "idioma": "ESP",
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "f12092f3-5583-4f00-b28a-9a29c2b63e19"
+          "id": "2b6b389f-ab84-4521-af72-3a7551809b6e"
         },
         {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
@@ -2063,12 +2080,7 @@
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
-              "horario": "12:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:05",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2076,57 +2088,25 @@
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
-          "titulo": "CUMBRES BORRASCOSAS",
-          "horarios": [
-            {
-              "horario": "18:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
-        },
-        {
           "titulo": "EL DIA DEL FIN DEL MUNDO: MIGRACION",
           "horarios": [
             {
-              "horario": "14:10",
+              "horario": "16:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:20",
+              "horario": "19:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "5c8a47ed-dafa-4b90-9e14-00156f8b2ab1"
-        },
-        {
-          "titulo": "EL GRAN PREMIO: A TODA VELOCIDAD",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "3e4dc5eb-58d8-4ec2-9d10-2282e92f6ab9"
         },
         {
           "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
@@ -2137,7 +2117,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:15",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -2147,17 +2127,12 @@
               "formato": "2D"
             },
             {
-              "horario": "14:25",
+              "horario": "14:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:35",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -2174,5 +2149,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "25/2/2026"
+  "fecha": "26/2/2026"
 }
