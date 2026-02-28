@@ -1,132 +1,187 @@
-/* Cinema Bo - Cinema List Component */
+/* ========================================
+   Cinema List – Premium Redesign
+   ======================================== */
+
 .container {
   min-height: 100vh;
-  background: var(--bg-primary);
-  padding: 0;
-  margin: 0;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: transparent;
+  display: flex;
+  flex-direction: column;
 }
 
+/* ── Header ──────────────────────────────── */
 .header {
-  background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(10px);
-  padding: 1.5rem 2rem;
-  text-align: center;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  background: var(--grad-header);
+  backdrop-filter: blur(24px) saturate(1.5);
+  -webkit-backdrop-filter: blur(24px) saturate(1.5);
+  border-bottom: 1px solid var(--border-subtle);
+  padding: 1.2rem 2rem;
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
 .logo-section {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 1rem;
+  gap: .9rem;
 }
 
 .logo {
-  width: 50px;
-  height: 50px;
+  width: 44px;
+  height: 44px;
   border-radius: 50%;
-  box-shadow: 0 4px 16px var(--shadow-primary);
+  border: 1.5px solid rgba(59, 130, 246, .4);
+  box-shadow: var(--shadow-neon);
+  transition: transform var(--t-med) var(--ease-spring);
+}
+
+.logo:hover {
+  transform: scale(1.1);
 }
 
 .app-title {
-  color: var(--color-primary);
-  font-size: 1.8rem;
-  font-weight: 700;
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 800;
   margin: 0;
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+  letter-spacing: -0.3px;
+  background: linear-gradient(135deg, #f1f5f9, var(--neon-cyan));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
+/* ── Navigation ──────────────────────────── */
 .navigation {
-  padding: 2rem 0 1rem 0;
-  text-align: center;
+  padding: 1.5rem 2rem .5rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  width: 100%;
 }
 
 .back-button {
-  background: linear-gradient(145deg, #455a64, #37474f);
-  color: white;
-  border: none;
-  padding: 12px 20px;
-  border-radius: 10px;
-  cursor: pointer;
-  font-size: 1rem;
-  font-weight: 500;
-  transition: all 0.3s ease;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-  display: flex;
+  display: inline-flex;
   align-items: center;
-  gap: 8px;
-  margin: 0 auto;
+  gap: .5rem;
+  background: var(--grad-btn-back);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-subtle);
+  padding: .6rem 1.2rem;
+  border-radius: var(--radius-full);
+  cursor: pointer;
+  font-family: var(--font-body);
+  font-size: .9rem;
+  font-weight: 500;
+  letter-spacing: .3px;
+  transition: all var(--t-med) var(--ease-smooth);
+  box-shadow: var(--shadow-sm);
 }
 
 .back-button:hover {
-  background: linear-gradient(145deg, #546e7a, #455a64);
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
-  transform: translateY(-2px);
+  color: var(--text-primary);
+  border-color: var(--border-card);
+  transform: translateX(-3px);
+  box-shadow: var(--shadow-md);
 }
 
 .arrow {
-  font-size: 1.2rem;
   font-weight: bold;
 }
 
+/* ── Content ─────────────────────────────── */
 .content {
-  padding: 2rem;
+  padding: 1.5rem 2rem 1rem;
   max-width: 1000px;
   margin: 0 auto;
+  width: 100%;
+  flex: 1;
 }
 
 .page-title {
-  color: #ffffff;
+  color: var(--text-primary);
   text-align: center;
-  font-size: 1.8rem;
-  font-weight: 600;
+  font-family: var(--font-display);
+  font-size: 1.7rem;
+  font-weight: 700;
   margin-bottom: 2rem;
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+  letter-spacing: -0.3px;
 }
 
+.page-title span {
+  display: inline-block;
+  background: var(--grad-btn);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── Cinema Grid ─────────────────────────── */
 .cinema-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1.5rem;
-  margin-top: 2rem;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.2rem;
 }
 
 .cinema-card {
-  background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  border-radius: 15px;
-  padding: 2rem 1.5rem;
+  position: relative;
+  background: var(--bg-card);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--border-card);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem 1.4rem;
   text-decoration: none;
-  transition: all 0.3s ease;
-  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+  transition: transform var(--t-med) var(--ease-spring),
+    box-shadow var(--t-med) var(--ease-smooth),
+    border-color var(--t-med) var(--ease-smooth),
+    background var(--t-med) var(--ease-smooth);
   display: flex;
   align-items: center;
-  position: relative;
   overflow: hidden;
+  box-shadow: var(--shadow-md);
   min-height: 80px;
 }
 
+/* shimmer sweep */
 .cinema-card::before {
   content: '';
   position: absolute;
-  top: 0;
-  left: -100%;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(90deg, transparent, rgba(33, 150, 243, 0.1), transparent);
-  transition: left 0.6s ease;
+  inset: 0;
+  background: linear-gradient(105deg, transparent 40%, rgba(255, 255, 255, .05) 50%, transparent 60%);
+  background-size: 200% 100%;
+  transition: background-position .5s ease;
+  border-radius: inherit;
+}
+
+/* bottom gradient line */
+.cinema-card::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 10%;
+  right: 10%;
+  height: 2px;
+  background: var(--grad-btn);
+  border-radius: var(--radius-full);
+  opacity: 0;
+  transition: opacity var(--t-med) ease;
 }
 
 .cinema-card:hover::before {
-  left: 100%;
+  background-position: 100% 0;
+}
+
+.cinema-card:hover::after {
+  opacity: 1;
 }
 
 .cinema-card:hover {
-  transform: translateY(-8px);
-  box-shadow: 0 15px 35px var(--shadow-primary);
-  border-color: var(--border-primary);
+  transform: translateY(-6px) scale(1.01);
+  background: var(--bg-card-hover);
+  border-color: rgba(59, 130, 246, .4);
+  box-shadow: var(--shadow-neon);
 }
 
 .cinema-info {
@@ -135,130 +190,137 @@
   align-items: center;
   width: 100%;
   gap: 1rem;
+  position: relative;
+  z-index: 1;
+}
+
+/* cinema icon indicator */
+.cinema-icon {
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-sm);
+  background: linear-gradient(135deg, rgba(59, 130, 246, .25), rgba(34, 211, 238, .15));
+  border: 1px solid rgba(59, 130, 246, .3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  flex-shrink: 0;
 }
 
 .cinema-name {
-  color: #ffffff;
-  font-weight: 600;
-  font-size: 1.2rem;
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+  color: var(--text-primary);
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.05rem;
   flex-grow: 1;
+  letter-spacing: .1px;
 }
 
 .cinema-info .arrow {
-  color: var(--color-primary);
-  font-size: 1.5rem;
+  color: var(--neon-cyan);
+  font-size: 1.3rem;
   font-weight: bold;
-  transition: transform 0.3s ease;
+  transition: transform var(--t-med) var(--ease-spring);
+  flex-shrink: 0;
 }
 
 .cinema-card:hover .arrow {
-  transform: translateX(5px);
+  transform: translateX(6px);
 }
 
+/* ── No Data ─────────────────────────────── */
 .no-data {
-  background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  border-radius: 15px;
-  padding: 3rem 2rem;
+  background: var(--bg-card);
+  backdrop-filter: blur(16px);
+  border: 1px solid var(--border-card);
+  border-radius: var(--radius-lg);
+  padding: 3.5rem 2rem;
   text-align: center;
-  color: #ffffff;
   margin-top: 2rem;
 }
 
 .no-data p {
-  margin: 0 0 0.5rem 0;
-  font-size: 1.2rem;
+  color: var(--text-primary);
+  margin: 0 0 .5rem 0;
+  font-size: 1.15rem;
   font-weight: 600;
 }
 
 .no-data-subtitle {
-  color: var(--color-light) !important;
-  font-size: 1rem !important;
+  color: var(--text-muted) !important;
+  font-size: .9rem !important;
   font-weight: 400 !important;
 }
 
-/* Responsive Design */
+/* ── Responsive ─────────────────────────── */
 @media (max-width: 768px) {
-  /* Disable animations on mobile for better performance */
   .cinema-card {
     transition: none !important;
   }
-  
+
   .cinema-card::before {
-    display: none !important;
+    display: none;
   }
-  
+
   .cinema-card:hover {
     transform: none !important;
-    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2) !important;
+    box-shadow: var(--shadow-md) !important;
   }
-  
+
   .cinema-info .arrow {
     transition: none !important;
   }
-  
+
   .cinema-card:hover .arrow {
     transform: none !important;
   }
-  
+
   .back-button {
     transition: none !important;
   }
-  
+
   .back-button:hover {
     transform: none !important;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2) !important;
   }
 
-  .header {
-    padding: 1rem;
-  }
-  
-  .app-title {
-    font-size: 1.5rem;
-  }
-  
   .navigation {
-    padding: 1.5rem 0 1rem 0;
+    padding: 1rem 1rem .5rem;
   }
-  
+
   .content {
     padding: 1rem;
   }
-  
+
   .cinema-grid {
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 1rem;
   }
-  
+
   .cinema-card {
     padding: 1.2rem;
+  }
+
+  .logo {
+    transition: none !important;
+  }
+
+  .logo:hover {
+    transform: none !important;
   }
 }
 
 @media (max-width: 480px) {
-  /* Extra mobile optimizations - no animations */
-  * {
-    transition: none !important;
-    animation: none !important;
+  .cinema-grid {
+    grid-template-columns: 1fr;
   }
-  
-  .cinema-card::before {
-    display: none !important;
+
+  .app-title {
+    font-size: 1.25rem;
   }
 
   .logo {
-    width: 40px;
-    height: 40px;
-  }
-  
-  .app-title {
-    font-size: 1.3rem;
-  }
-  
-  .cinema-grid {
-    grid-template-columns: 1fr;
+    width: 36px;
+    height: 36px;
   }
 }

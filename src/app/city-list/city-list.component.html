@@ -1,14 +1,18 @@
 <div class="container">
   <div class="header">
     <div class="logo-section">
-      <img src="/logo.png" alt="Cinema Bo Logo" class="logo">
+      <div class="logo-wrapper">
+        <img src="/logo.png" alt="Cinema Bo Logo" class="logo">
+        <div class="logo-ring"></div>
+      </div>
       <h1 class="app-title">Cinema Bo</h1>
     </div>
     <p class="subtitle">Encuentra los horarios de tu cine favorito</p>
+    <div class="header-divider"></div>
   </div>
-  
+
   <div class="content">
-    <h2 class="page-title">Selecciona tu ciudad</h2>
+    <h2 class="page-title">✦ Selecciona tu ciudad ✦</h2>
     <div class="city-buttons">
       @for (city of cities; track city) {
         <button class="city-button" (click)="goToCinemas(city)">
@@ -18,4 +22,15 @@
       }
     </div>
   </div>
+
+  <!-- Footer -->
+  <footer class="app-footer">
+    <div class="footer-inner">
+      <span class="footer-copy">© {{ currentYear }} Cinema Bo</span>
+      <span class="footer-love">
+        Hecho con <span class="heart">♥</span> por
+        <a class="footer-link" href="https://devcito.org" target="_blank" rel="noopener">devcito</a>
+      </span>
+    </div>
+  </footer>
 </div>

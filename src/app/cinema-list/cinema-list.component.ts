@@ -18,6 +18,7 @@ export class CinemaListComponent extends EncodingCine implements OnInit {
 
   selectedCity: string | null = null;
   cinemaConfig: { [key: string]: boolean } = {};
+  currentYear = new Date().getFullYear();
 
   constructor(
     private route: ActivatedRoute,

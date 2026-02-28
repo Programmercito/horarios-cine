@@ -5,33 +5,45 @@
       <h1 class="app-title">Cinema Bo</h1>
     </div>
   </div>
-  
-  <div class="content">
-    <h2 class="page-title">Cines en {{ selectedCity }}</h2>
-    
-    @if (cinemas.length > 0) {
-      <div class="cinema-grid">
-        @for (cinema of cinemas; track cinema.id) {
-          <a class="cinema-card" [routerLink]="['/schedule',selectedCity, cinema.id]">
-            <div class="cinema-info">
-              <span class="cinema-name">{{ cinema.name }}</span>
-              <span class="arrow">→</span>
-            </div>
-          </a>
-        }
-      </div>
-    } @else {
-      <div class="no-data">
-        <p>No se encontraron cines para {{ selectedCity }}</p>
-        <p class="no-data-subtitle">Intenta con otra ciudad</p>
-      </div>
-    }
-    
-    <div class="navigation">
-      <button class="back-button" (click)="goBack()">
-        <span class="arrow">←</span>
-        <span>Volver a ciudades</span>
-      </button>
-    </div>
+
+  <div class="navigation">
+    <button class="back-button" (click)="goBack()">
+      <span class="arrow">←</span>
+      <span>Volver a ciudades</span>
+    </button>
   </div>
+
+  <div class="content">
+    <h2 class="page-title">Cines en <span>{{ selectedCity }}</span></h2>
+
+    @if (cinemas.length > 0) {
+    <div class="cinema-grid">
+      @for (cinema of cinemas; track cinema.id) {
+      <a class="cinema-card" [routerLink]="['/schedule', selectedCity, cinema.id]">
+        <div class="cinema-info">
+          <div class="cinema-icon">🎬</div>
+          <span class="cinema-name">{{ cinema.name }}</span>
+          <span class="arrow">→</span>
+        </div>
+      </a>
+      }
+    </div>
+    } @else {
+    <div class="no-data">
+      <p>No se encontraron cines para {{ selectedCity }}</p>
+      <p class="no-data-subtitle">Intenta con otra ciudad</p>
+    </div>
+    }
+  </div>
+
+  <!-- Footer -->
+  <footer class="app-footer">
+    <div class="footer-inner">
+      <span class="footer-copy">© {{ currentYear }} Cinema Bo</span>
+      <span class="footer-love">
+        Hecho con <span class="heart">♥</span> por
+        <a class="footer-link" href="https://devcito.org" target="_blank" rel="noopener">devcito</a>
+      </span>
+    </div>
+  </footer>
 </div>

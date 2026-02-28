@@ -31,6 +31,7 @@ export class ScheduleListComponent extends EncodingCine implements OnInit {
   showSchedulePopup: boolean = false;
   currentSchedule: any = null;
   currentMovieTitle: string = '';
+  currentYear = new Date().getFullYear();
   constructor(private route: ActivatedRoute,
     private http: HttpClient,
     private router: Router,
@@ -264,7 +265,7 @@ export class ScheduleListComponent extends EncodingCine implements OnInit {
   private getShareText(): string {
     const currentCity = this.ciudadesFiltradas.length > 0 ? this.ciudadesFiltradas[0].ciudad : this.city;
     const siteUrl = 'https://cine.devcito.org';
-    
+
     return [
       '* ' + this.currentMovieTitle + ' *',
       '',

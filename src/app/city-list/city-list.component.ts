@@ -15,6 +15,7 @@ import { EncodingCine } from '../shared/common/encoding';
 })
 export class CityListComponent extends EncodingCine implements OnInit {
   cities: string[] = [];
+  currentYear = new Date().getFullYear();
   private fileIndex = 1;
   private allCities = new Set<string>();
 
