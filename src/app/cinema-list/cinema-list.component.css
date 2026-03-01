@@ -170,7 +170,7 @@
 /* ── Cinema Grid ─────────────────────────── */
 .cinema-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(260px, 320px));
   gap: 1.2rem;
   justify-content: center;
 }
@@ -344,8 +344,9 @@
   }
 
   .cinema-grid {
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(230px, 320px));
     gap: 1rem;
+    justify-content: center;
   }
 
   .cinema-card {
@@ -370,7 +371,8 @@
 
 @media (max-width: 480px) {
   .cinema-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(200px, 380px);
+    justify-content: center;
   }
 
   .app-title {
