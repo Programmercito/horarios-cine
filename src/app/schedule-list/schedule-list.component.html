@@ -1,9 +1,13 @@
 <div class="container">
   <div class="header">
     <div class="logo-section">
-      <img src="/logo.png" alt="Cinema Bo Logo" class="logo">
+      <div class="logo-wrapper">
+        <img src="/logo.png" alt="Cinema Bo Logo" class="logo">
+        <div class="logo-ring"></div>
+      </div>
       <h1 class="app-title">Cinema Bo</h1>
     </div>
+    <div class="header-divider"></div>
   </div>
 
   <div class="navigation">
@@ -42,16 +46,24 @@
               </div>
             </div>
 
-            <div class="schedules-grid">
-              @for (horario of pelicula.horarios; track horario.horario) {
-              <div class="schedule-badge" (click)="showScheduleDetails(horario, pelicula.titulo)">
-                <div class="schedule-time">{{ horario.horario }}</div>
-                <div class="schedule-details">
-                  <span class="schedule-format">{{ horario.formato }}</span>
-                  <span class="schedule-language">{{ horario.idioma }}</span>
+            <div class="movie-card-inner">
+              @if (pelicula.datos?.extras?.poster_path) {
+              <img [src]="'https://image.tmdb.org/t/p/w200' + pelicula.datos!.extras!.poster_path"
+                [alt]="pelicula.titulo + ' poster'" class="movie-thumb-poster">
+              }
+              <div class="movie-schedules-side">
+                <div class="schedules-grid">
+                  @for (horario of pelicula.horarios; track horario.horario) {
+                  <div class="schedule-badge" (click)="showScheduleDetails(horario, pelicula.titulo)">
+                    <div class="schedule-time">{{ horario.horario }}</div>
+                    <div class="schedule-details">
+                      <span class="schedule-format">{{ horario.formato }}</span>
+                      <span class="schedule-language">{{ horario.idioma }}</span>
+                    </div>
+                  </div>
+                  }
                 </div>
               </div>
-              }
             </div>
           </div>
           }

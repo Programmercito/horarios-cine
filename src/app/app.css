@@ -1,45 +1,6 @@
+/* app root shell — minimal, all real styling lives in component CSS */
 .container {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
   min-height: 100vh;
-  background-color: #f0f2f5;
-  font-family: 'Arial', sans-serif;
-}
-
-h1 {
-  color: #333;
-  margin-bottom: 30px;
-  font-size: 2.5em;
-}
-
-.city-buttons {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 15px;
-  justify-content: center;
-  max-width: 800px;
-}
-
-.city-button {
-  background-color: #007bff;
-  color: white;
-  border: none;
-  padding: 12px 25px;
-  border-radius: 8px;
-  font-size: 1.1em;
-  cursor: pointer;
-  transition: background-color 0.3s ease, transform 0.2s ease;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.city-button:hover {
-  background-color: #0056b3;
-  transform: translateY(-2px);
-}
-
-.city-button:active {
-  background-color: #004085;
-  transform: translateY(0);
 }
