@@ -3,7 +3,7 @@ import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { catchError, EMPTY, of } from 'rxjs';
 import { CommonModule } from '@angular/common';
-import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
+import { DomSanitizer, SafeResourceUrl, Title, Meta } from '@angular/platform-browser';
 import { CineData, Ciudad, Pelicula } from '../shared/models';
 import { EncodingCine } from '../shared/common/encoding';
 
@@ -35,7 +35,9 @@ export class ScheduleListComponent extends EncodingCine implements OnInit {
   constructor(private route: ActivatedRoute,
     private http: HttpClient,
     private router: Router,
-    private sanitizer: DomSanitizer
+    private sanitizer: DomSanitizer,
+    private title: Title,
+    private meta: Meta
   ) {
     super();
   }
@@ -117,6 +119,13 @@ export class ScheduleListComponent extends EncodingCine implements OnInit {
     this.cinemaData = data;
     this.cinemaName = data?.cine || 'Cinema';
     this.cinemaDate = data?.fecha || '';
+
+    // Actualizar tags SEO dinámicamente
+    this.title.setTitle(`Horarios en ${this.cinemaName} (${this.city}) - Cinema Bo`);
+    this.meta.updateTag({ name: 'description', content: `Consulta la cartelera y horarios de películas para hoy en ${this.cinemaName} de ${this.city}. Disfruta los mejores estrenos.` });
+    this.meta.updateTag({ property: 'og:title', content: `Horarios en ${this.cinemaName} (${this.city}) - Cinema Bo` });
+    this.meta.updateTag({ property: 'og:description', content: `Consulta la cartelera y horarios de películas para hoy en ${this.cinemaName} de ${this.city}.` });
+
     this.fetchMovieData();
   }
   fetchMovieData() {

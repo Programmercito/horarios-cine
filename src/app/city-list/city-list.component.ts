@@ -4,6 +4,7 @@ import { Router } from '@angular/router';
 import { CityFilterService } from '../shared/citys/city-filter.service';
 import { catchError, EMPTY } from 'rxjs';
 import { Component, OnInit } from '@angular/core';
+import { Title, Meta } from '@angular/platform-browser';
 import { EncodingCine } from '../shared/common/encoding';
 
 @Component({
@@ -19,11 +20,22 @@ export class CityListComponent extends EncodingCine implements OnInit {
   private fileIndex = 1;
   private allCities = new Set<string>();
 
-  constructor(private http: HttpClient, private cityFilterService: CityFilterService, private router: Router) {
+  constructor(
+    private http: HttpClient,
+    private cityFilterService: CityFilterService,
+    private router: Router,
+    private title: Title,
+    private meta: Meta
+  ) {
     super();
   }
 
   ngOnInit() {
+    this.title.setTitle('Cinema Bo - Horarios de Cine en Bolivia');
+    this.meta.updateTag({ name: 'description', content: 'Consulta la cartelera y horarios de películas en todos los cines de Bolivia. Elige tu ciudad y encuentra tu cine favorito.' });
+    this.meta.updateTag({ property: 'og:title', content: 'Cinema Bo - Horarios de Cine en Bolivia' });
+    this.meta.updateTag({ property: 'og:description', content: 'Consulta la cartelera y horarios de películas en todos los cines de Bolivia. Elige tu ciudad y encuentra tu cine favorito.' });
+
     // Verificar si hay una ciudad guardada para redirección automática
     const savedCity = localStorage.getItem('selected_city');
     if (savedCity) {

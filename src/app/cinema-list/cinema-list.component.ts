@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { ActivatedRoute, Router, RouterLink } from '@angular/router';
+import { Title, Meta } from '@angular/platform-browser';
 import { HttpClient } from '@angular/common/http';
 import { catchError, EMPTY, forkJoin, map, of } from 'rxjs';
 import { Cinema } from '../shared/models';
@@ -23,7 +24,9 @@ export class CinemaListComponent extends EncodingCine implements OnInit {
   constructor(
     private route: ActivatedRoute,
     private router: Router,
-    private http: HttpClient
+    private http: HttpClient,
+    private title: Title,
+    private meta: Meta
   ) {
     super();
   }
@@ -32,6 +35,11 @@ export class CinemaListComponent extends EncodingCine implements OnInit {
     this.route.paramMap.subscribe(params => {
       this.selectedCity = params.get('city');
       if (this.selectedCity) {
+        this.title.setTitle(`Cines en ${this.selectedCity} - Cinema Bo`);
+        this.meta.updateTag({ name: 'description', content: `Explora la cartelera y los cines de ${this.selectedCity}. Encuentra funciones, horarios y estrenos.` });
+        this.meta.updateTag({ property: 'og:title', content: `Cines en ${this.selectedCity} - Cinema Bo` });
+        this.meta.updateTag({ property: 'og:description', content: `Explora la cartelera y los cines de ${this.selectedCity}. Encuentra funciones, horarios y estrenos.` });
+
         this.fetchCinemas(this.selectedCity);
       }
     });
