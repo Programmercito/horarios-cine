@@ -344,11 +344,6 @@
               "formato": "2D"
             },
             {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
               "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D Atmos"
@@ -509,17 +504,6 @@
           "id": "ba91591a-d04e-4a64-a5a6-e32faf2b81f2"
         },
         {
-          "titulo": "EPIC: ELVIS PRESLEY IN CONCERT",
-          "horarios": [
-            {
-              "horario": "20:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "1809db7e-a0b7-450c-a8b1-057793c91be5"
-        },
-        {
           "titulo": "NUREMBERG: EL JUICIO DEL SIGLO",
           "horarios": [
             {
@@ -566,17 +550,12 @@
           "titulo": "CUMBRES BORRASCOSAS",
           "horarios": [
             {
-              "horario": "14:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "17:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -629,23 +608,33 @@
             }
           ],
           "id": "2d3792f8-4849-45ef-aa7a-0bd6e6d7275f"
+        },
+        {
+          "titulo": "EL VENGADOR TOXICO",
+          "horarios": [
+            {
+              "horario": "13:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "83a0b100-7428-496c-a50a-da136132c322"
         }
       ],
       "ciudad": "Santa Cruz Av. Brasil"
     },
     {
       "peliculas": [
-        {
-          "titulo": "TWENTY ONE PILOTS: MORE THAN WE EVER IMAGINED",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "SUBT",
-              "formato": "2D Atmos"
-            }
-          ],
-          "id": "803651c8-f2a4-4a92-af82-630e1802ba6f"
-        },
         {
           "titulo": "AMELIE Y LOS SECRETOS DE LA LLUVIA",
           "horarios": [
@@ -706,12 +695,17 @@
               "formato": "2D"
             },
             {
-              "horario": "20:40",
+              "horario": "17:10",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "23:15",
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
@@ -769,22 +763,6 @@
             }
           ],
           "id": "ba91591a-d04e-4a64-a5a6-e32faf2b81f2"
-        },
-        {
-          "titulo": "EPIC: ELVIS PRESLEY IN CONCERT",
-          "horarios": [
-            {
-              "horario": "20:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "1809db7e-a0b7-450c-a8b1-057793c91be5"
         },
         {
           "titulo": "NUREMBERG: EL JUICIO DEL SIGLO",
@@ -870,6 +848,11 @@
           "titulo": "EL DIA DEL FIN DEL MUNDO: MIGRACION",
           "horarios": [
             {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "19:50",
               "idioma": "DOB",
               "formato": "2D"
@@ -901,17 +884,17 @@
               "formato": "2D"
             },
             {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
+              "horario": "10:10",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "15:50",
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "14:50",
               "idioma": "DOB",
               "formato": "2D Atmos"
             }
@@ -930,6 +913,16 @@
               "horario": "13:55",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "23:05",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "2b05deff-e7fd-4e90-aa44-e429999e43db"
@@ -939,17 +932,6 @@
     },
     {
       "peliculas": [
-        {
-          "titulo": "TWENTY ONE PILOTS: MORE THAN WE EVER IMAGINED",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "SUBT",
-              "formato": "2D Atmos"
-            }
-          ],
-          "id": "803651c8-f2a4-4a92-af82-630e1802ba6f"
-        },
         {
           "titulo": "AMELIE Y LOS SECRETOS DE LA LLUVIA",
           "horarios": [
@@ -980,37 +962,47 @@
           "titulo": "SCREAM 7",
           "horarios": [
             {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "11:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:25",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "20:40",
+              "horario": "14:10",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "16:45",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "21:55",
               "idioma": "DOB",
               "formato": "2D Atmos"
             }
@@ -1346,22 +1338,22 @@
           "horarios": [
             {
               "horario": "13:00",
-              "idioma": "SUBT",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "16:00",
-              "idioma": "SUBT",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "19:00",
-              "idioma": "SUBT",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "22:00",
-              "idioma": "SUBT",
+              "idioma": "DOB",
               "formato": "2D"
             }
           ],
@@ -1372,17 +1364,6 @@
     },
     {
       "peliculas": [
-        {
-          "titulo": "TWENTY ONE PILOTS: MORE THAN WE EVER IMAGINED",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "803651c8-f2a4-4a92-af82-630e1802ba6f"
-        },
         {
           "titulo": "AMELIE Y LOS SECRETOS DE LA LLUVIA",
           "horarios": [
@@ -1418,17 +1399,17 @@
               "formato": "2D"
             },
             {
-              "horario": "16:50",
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:15",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "21:55",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1460,7 +1441,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:35",
+              "horario": "21:25",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1492,7 +1473,7 @@
               "formato": "2D"
             },
             {
-              "horario": "20:40",
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1504,6 +1485,16 @@
           "horarios": [
             {
               "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1533,17 +1524,6 @@
           "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
         },
         {
-          "titulo": "LIBRALOS DEL MAL",
-          "horarios": [
-            {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "3a56ffae-2cfe-4922-9976-b2a61d5d0a7c"
-        },
-        {
           "titulo": "CUMBRES BORRASCOSAS",
           "horarios": [
             {
@@ -1568,17 +1548,27 @@
           "titulo": "EL DIA DEL FIN DEL MUNDO: MIGRACION",
           "horarios": [
             {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:20",
+              "horario": "18:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:40",
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1594,17 +1584,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "14:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1717,17 +1697,6 @@
           "id": "ba91591a-d04e-4a64-a5a6-e32faf2b81f2"
         },
         {
-          "titulo": "EPIC: ELVIS PRESLEY IN CONCERT",
-          "horarios": [
-            {
-              "horario": "20:40",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "1809db7e-a0b7-450c-a8b1-057793c91be5"
-        },
-        {
           "titulo": "LA SAGA CREPUSCULO: ECLIPSE",
           "horarios": [
             {
@@ -1760,17 +1729,6 @@
           "id": "2b6b389f-ab84-4521-af72-3a7551809b6e"
         },
         {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
-        {
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
@@ -1785,7 +1743,7 @@
           "titulo": "LIBRALOS DEL MAL",
           "horarios": [
             {
-              "horario": "21:00",
+              "horario": "20:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1801,12 +1759,12 @@
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "19:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:10",
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1854,5 +1812,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "28/2/2026"
+  "fecha": "1/3/2026"
 }
