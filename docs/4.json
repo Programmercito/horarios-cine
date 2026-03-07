@@ -4,6 +4,17 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
+          "titulo": "DAVID",
+          "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "15:00"
+            }
+          ],
+          "id": "0dc9a78c-ef4f-4f22-8a33-8c067573ba33"
+        },
+        {
           "titulo": "MUERTE EN INVIERNO",
           "horarios": [
             {
@@ -17,6 +28,11 @@
         {
           "titulo": "LA NOVIA!",
           "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "11:20"
+            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -38,14 +54,9 @@
               "horario": "22:00"
             },
             {
-              "idioma": "Dob",
-              "formato": "XD 2D",
-              "horario": "18:20"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "XD 2D",
-              "horario": "21:00"
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "11:20"
             },
             {
               "idioma": "Sub",
@@ -76,6 +87,16 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "10:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "11:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "12:50"
             },
             {
@@ -101,6 +122,11 @@
             {
               "idioma": "Dob",
               "formato": "3D",
+              "horario": "11:25"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "3D",
               "horario": "13:45"
             },
             {
@@ -112,6 +138,11 @@
               "idioma": "Dob",
               "formato": "3D",
               "horario": "18:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "12:00"
             },
             {
               "idioma": "Dob",
@@ -136,6 +167,11 @@
             {
               "idioma": "Dob",
               "formato": "3D",
+              "horario": "12:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "3D",
               "horario": "15:00"
             },
             {
@@ -151,15 +187,36 @@
             {
               "idioma": "Dob",
               "formato": "XD 2D",
+              "horario": "11:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "XD 2D",
               "horario": "13:40"
             },
             {
               "idioma": "Dob",
               "formato": "XD 2D",
               "horario": "16:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "XD 2D",
+              "horario": "18:30"
             }
           ],
           "id": "08dc6187-3935-42f7-92c8-8bea0425966b"
+        },
+        {
+          "titulo": "ENHYPEN [WALK THE LINE]",
+          "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "15:30"
+            }
+          ],
+          "id": "3126f7b5-380e-44cf-981b-291c12a8db63"
         },
         {
           "titulo": "EL AGENTE SECRETO",
@@ -178,28 +235,12 @@
           "id": "21912cc0-c5b6-4c44-9d55-bad04d7b98ec"
         },
         {
-          "titulo": "ENHYPEN [WALK THE LINE]",
-          "horarios": [
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "15:30"
-            }
-          ],
-          "id": "3126f7b5-380e-44cf-981b-291c12a8db63"
-        },
-        {
           "titulo": "SCREAM 7",
           "horarios": [
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "13:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "15:30"
+              "horario": "10:30"
             },
             {
               "idioma": "Dob",
@@ -220,6 +261,11 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "22:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "XD 2D",
+              "horario": "21:00"
             }
           ],
           "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
@@ -227,6 +273,11 @@
         {
           "titulo": "NUREMBERG: EL JUICIO DEL SIGLO",
           "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "11:30"
+            },
             {
               "idioma": "Sub",
               "formato": "2D",
@@ -251,7 +302,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:40"
+              "horario": "13:10"
             },
             {
               "idioma": "Dob",
@@ -272,22 +323,32 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "10:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "12:50"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "15:50"
+              "horario": "15:40"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "18:50"
+              "horario": "18:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "21:50"
+              "horario": "21:20"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "11:50"
             },
             {
               "idioma": "Sub",
@@ -316,6 +377,11 @@
         {
           "titulo": "ANACONDA",
           "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "10:45"
+            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -349,5 +415,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "6/3/2026"
+  "fecha": "7/3/2026"
 }
