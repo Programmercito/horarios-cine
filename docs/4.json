@@ -56,11 +56,6 @@
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "11:20"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
               "horario": "14:00"
             },
             {
@@ -88,11 +83,6 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "10:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "11:30"
             },
             {
               "idioma": "Dob",
@@ -208,17 +198,6 @@
           "id": "08dc6187-3935-42f7-92c8-8bea0425966b"
         },
         {
-          "titulo": "ENHYPEN [WALK THE LINE]",
-          "horarios": [
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "15:30"
-            }
-          ],
-          "id": "3126f7b5-380e-44cf-981b-291c12a8db63"
-        },
-        {
           "titulo": "EL AGENTE SECRETO",
           "horarios": [
             {
@@ -241,6 +220,16 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "10:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "13:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "15:30"
             },
             {
               "idioma": "Dob",
@@ -302,7 +291,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "13:10"
+              "horario": "10:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "12:40"
             },
             {
               "idioma": "Dob",
@@ -323,32 +317,22 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "10:10"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "12:50"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "15:40"
+              "horario": "15:50"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "18:30"
+              "horario": "18:50"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "21:20"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "11:50"
+              "horario": "21:50"
             },
             {
               "idioma": "Sub",
@@ -415,5 +399,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "7/3/2026"
+  "fecha": "8/3/2026"
 }
