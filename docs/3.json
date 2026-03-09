@@ -1,10 +1,108 @@
 {
   "ciudades": [
     {
-      "peliculas": [],
+      "peliculas": [
+        {
+          "id": "7551aba9-53f4-437b-83e8-8d312f67aced",
+          "titulo": "HOPPER OPERACION CASTOR",
+          "horarios": [
+            {
+              "horario": "17:10",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "43cd9774-cbc5-4e7f-a4a0-dc0e44cbd9f3",
+          "titulo": "LA NOVIA",
+          "horarios": [
+            {
+              "horario": "21:25",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "08dc6187-3935-42f7-92c8-8bea0425966b",
+          "titulo": "HOPPERS",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea",
+          "titulo": "SCREAM 7",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:15",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "e7794d42-c654-4fb6-ad71-5ebab58e1e26",
+          "titulo": "LA CABRA QUE CAMBIO EL JUEGO",
+          "horarios": [
+            {
+              "horario": "10:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "578e088f-df8c-471b-880d-77fb528b33e6",
+          "titulo": "AVATAR FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "17:20",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "6b526c65-00ec-42ce-addf-182ec0b6664c",
+          "titulo": "EL DIA DEL FIN DEL MUNDO",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        }
+      ],
       "ciudad": "La Paz"
     }
   ],
   "cine": "MONJE",
-  "fecha": "1/3/2026"
+  "fecha": "9/3/2026"
 }
