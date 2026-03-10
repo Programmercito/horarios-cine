@@ -6,6 +6,11 @@
           "titulo": "HOPPERS: OPERACIÓN CASTOR",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D XL - 2D XL KRONOS"
@@ -162,27 +167,6 @@
           "id": "c9bd943b-f399-4c0d-9cc6-e985a346339d"
         },
         {
-          "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
-          "horarios": [
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "e8de4a28-0dff-43c3-ab39-b90c95b4c6ca"
-        },
-        {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
@@ -202,6 +186,27 @@
             }
           ],
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
+        {
+          "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
+          "horarios": [
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "e8de4a28-0dff-43c3-ab39-b90c95b4c6ca"
         },
         {
           "titulo": "OPERACIÓN SOMBRA",
@@ -252,17 +257,6 @@
           "id": "a0b3522f-d734-421a-932a-bd54a51ac66d"
         },
         {
-          "titulo": "EL ORFANATO: LA POSESIÓN",
-          "horarios": [
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6b7b91ac-62d2-4608-9b7c-b3adfd8be44b"
-        },
-        {
           "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
@@ -272,6 +266,17 @@
             }
           ],
           "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
+          "titulo": "EL ORFANATO: LA POSESIÓN",
+          "horarios": [
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6b7b91ac-62d2-4608-9b7c-b3adfd8be44b"
         }
       ],
       "ciudad": "El Alto"
@@ -281,6 +286,56 @@
         {
           "titulo": "HOPPERS: OPERACIÓN CASTOR",
           "horarios": [
+            {
+              "horario": "10:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "12:45",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -312,31 +367,6 @@
               "formato": "2D PLUS"
             },
             {
-              "horario": "13:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "15:10",
               "idioma": "Español",
               "formato": "3D PLUS"
@@ -365,27 +395,12 @@
               "horario": "19:10",
               "idioma": "Español",
               "formato": "2D XL"
-            },
-            {
-              "horario": "12:45",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
             }
           ],
           "id": "76de4f03-05c9-40d3-bb31-883d4696e6eb"
         },
         {
-          "titulo": "HOPPERS: OPERACIÓN CASTOR",
+          "titulo": "¡LA NOVIA!",
           "horarios": [
             {
               "horario": "12:00",
@@ -428,73 +443,16 @@
               "formato": "2D PLUS SUB"
             }
           ],
-          "id": "76de4f03-05c9-40d3-bb31-883d4696e6eb"
-        },
-        {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
-        },
-        {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+          "id": "c9bd943b-f399-4c0d-9cc6-e985a346339d"
         },
         {
           "titulo": "GOAT: LA CABRA QUE CAMBIÓ EL JUEGO",
           "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:20",
               "idioma": "Español",
@@ -529,8 +487,80 @@
           "id": "3dd847ec-5ab9-4c7f-a953-17f2757890b3"
         },
         {
+          "titulo": "SCREAM 7",
+          "horarios": [
+            {
+              "horario": "11:05",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            }
+          ],
+          "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
+        },
+        {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+        },
+        {
           "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
           "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
             {
               "horario": "13:40",
               "idioma": "Español",
@@ -550,25 +580,30 @@
           "id": "e8de4a28-0dff-43c3-ab39-b90c95b4c6ca"
         },
         {
-          "titulo": "MUERTE EN INVIERNO",
+          "titulo": "EL CASTILLO AMBULANTE",
           "horarios": [
             {
-              "horario": "18:00",
+              "horario": "11:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "13:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "15:40",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Japones",
+              "formato": "2D PLUS SUB"
             }
           ],
-          "id": "edd9ea25-3370-415d-8290-6f726c1ed60f"
+          "id": "2b6b389f-ab84-4521-af72-3a7551809b6e"
         },
         {
           "titulo": "EL VIGILANTE NOCTURNO",
@@ -592,6 +627,27 @@
           "id": "a0b3522f-d734-421a-932a-bd54a51ac66d"
         },
         {
+          "titulo": "MUERTE EN INVIERNO",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "edd9ea25-3370-415d-8290-6f726c1ed60f"
+        },
+        {
           "titulo": "CUMBRES BORRASCOSAS",
           "horarios": [
             {
@@ -611,27 +667,6 @@
             }
           ],
           "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
-        },
-        {
-          "titulo": "EL CASTILLO AMBULANTE",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "Japones",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "2b6b389f-ab84-4521-af72-3a7551809b6e"
         },
         {
           "titulo": "NUREMBERG: EL JUICIO DEL SIGLO",
@@ -666,6 +701,22 @@
           "id": "8c15a34e-e30c-4698-a5fe-b0316c3bb247"
         },
         {
+          "titulo": "ZOOTOPIA 2",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
+        },
+        {
           "titulo": "KILL BILL: THE WHOLE BLOODY AFFAIR",
           "horarios": [
             {
@@ -675,6 +726,17 @@
             }
           ],
           "id": "deede765-c8d7-4498-989d-61d539a37615"
+        },
+        {
+          "titulo": "CREPÚSCULO: ECLIPSE",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "81e7cf0c-9157-47e6-87a1-b3d7453bdbd2"
         },
         {
           "titulo": "OPERACIÓN SOMBRA",
@@ -697,28 +759,6 @@
             }
           ],
           "id": "6b7b91ac-62d2-4608-9b7c-b3adfd8be44b"
-        },
-        {
-          "titulo": "CREPÚSCULO: ECLIPSE",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "81e7cf0c-9157-47e6-87a1-b3d7453bdbd2"
-        },
-        {
-          "titulo": "ZOOTOPIA 2",
-          "horarios": [
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         }
       ],
       "ciudad": "La Paz"
@@ -729,24 +769,9 @@
           "titulo": "HOPPERS: OPERACIÓN CASTOR",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "11:00",
               "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "14:15",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "18:50",
-              "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             },
             {
               "horario": "12:30",
@@ -782,6 +807,26 @@
               "horario": "22:20",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "14:15",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D XL"
             },
             {
               "horario": "17:00",
@@ -828,6 +873,42 @@
           "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
         },
         {
+          "titulo": "GOAT: LA CABRA QUE CAMBIÓ EL JUEGO",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "3dd847ec-5ab9-4c7f-a953-17f2757890b3"
+        },
+        {
           "titulo": "¡LA NOVIA!",
           "horarios": [
             {
@@ -859,30 +940,20 @@
           "id": "c9bd943b-f399-4c0d-9cc6-e985a346339d"
         },
         {
-          "titulo": "GOAT: LA CABRA QUE CAMBIÓ EL JUEGO",
+          "titulo": "CUMBRES BORRASCOSAS",
           "horarios": [
             {
-              "horario": "14:30",
+              "horario": "19:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Español",
-              "formato": "2D"
+              "horario": "21:40",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             }
           ],
-          "id": "3dd847ec-5ab9-4c7f-a953-17f2757890b3"
+          "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
         },
         {
           "titulo": "MUERTE EN INVIERNO",
@@ -901,20 +972,15 @@
           "id": "edd9ea25-3370-415d-8290-6f726c1ed60f"
         },
         {
-          "titulo": "CUMBRES BORRASCOSAS",
+          "titulo": "ZOOTOPIA 2",
           "horarios": [
             {
-              "horario": "19:00",
+              "horario": "12:20",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
             }
           ],
-          "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
+          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
         },
         {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
@@ -928,39 +994,6 @@
           "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
-          "titulo": "NUREMBERG: EL JUICIO DEL SIGLO",
-          "horarios": [
-            {
-              "horario": "22:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "7c1535e6-090d-41c2-a63c-f616411efe30"
-        },
-        {
-          "titulo": "AGENTE SECRETO",
-          "horarios": [
-            {
-              "horario": "21:20",
-              "idioma": "Portugues",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "8c15a34e-e30c-4698-a5fe-b0316c3bb247"
-        },
-        {
-          "titulo": "ZOOTOPIA 2",
-          "horarios": [
-            {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "4ea12855-dc3c-4491-8295-2a180b49d155"
-        },
-        {
           "titulo": "ANACONDA",
           "horarios": [
             {
@@ -970,17 +1003,6 @@
             }
           ],
           "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
-        },
-        {
-          "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
-          "horarios": [
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "e8de4a28-0dff-43c3-ab39-b90c95b4c6ca"
         },
         {
           "titulo": "CREPÚSCULO: ECLIPSE",
@@ -1016,6 +1038,17 @@
           "id": "8aaa6947-572c-4eff-9539-3e928e51dad4"
         },
         {
+          "titulo": "OPERACIÓN SOMBRA",
+          "horarios": [
+            {
+              "horario": "21:20",
+              "idioma": "Portugues",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "8aaa6947-572c-4eff-9539-3e928e51dad4"
+        },
+        {
           "titulo": "EL VIGILANTE NOCTURNO",
           "horarios": [
             {
@@ -1031,5 +1064,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "9/3/2026"
+  "fecha": "10/3/2026"
 }
