@@ -1,15 +1,144 @@
 {
   "ciudades": [
     {
-      "peliculas": [],
+      "peliculas": [
+        {
+          "titulo": "DAVID",
+          "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "0dc9a78c-ef4f-4f22-8a33-8c067573ba33"
+        },
+        {
+          "titulo": "LA SAGA CREPÚSCULO - AMANECER PARTE 1",
+          "horarios": [
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "38c52a4c-d51d-4dbd-8345-9f439ca3e584"
+        }
+      ],
       "ciudad": "El Alto"
     },
     {
-      "peliculas": [],
+      "peliculas": [
+        {
+          "titulo": "LA SAGA CREPÚSCULO - AMANECER PARTE 1",
+          "horarios": [
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ],
+          "id": "38c52a4c-d51d-4dbd-8345-9f439ca3e584"
+        },
+        {
+          "titulo": "DAVID",
+          "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "0dc9a78c-ef4f-4f22-8a33-8c067573ba33"
+        }
+      ],
       "ciudad": "La Paz"
     },
     {
-      "peliculas": [],
+      "peliculas": [
+        {
+          "titulo": "DAVID",
+          "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "0dc9a78c-ef4f-4f22-8a33-8c067573ba33"
+        },
+        {
+          "titulo": "LA SAGA CREPÚSCULO - AMANECER PARTE 1",
+          "horarios": [
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "38c52a4c-d51d-4dbd-8345-9f439ca3e584"
+        }
+      ],
       "ciudad": "Santa Cruz"
     }
   ],
