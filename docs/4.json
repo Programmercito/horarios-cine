@@ -4,15 +4,115 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
-          "titulo": "MUERTE EN INVIERNO",
+          "titulo": "NO TE OLVIDARE",
           "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "14:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "17:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "19:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "22:10"
+            },
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "22:30"
+              "horario": "22:20"
             }
           ],
-          "id": "edd9ea25-3370-415d-8290-6f726c1ed60f"
+          "id": "570228d7-513c-4397-860d-25ce5480d0d4"
+        },
+        {
+          "titulo": "CREPUSCULO: AMANECER PT1",
+          "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "19:00"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "19:40"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "21:30"
+            }
+          ],
+          "id": "cbc3e1d2-011a-4272-96d8-82152dcc13d5"
+        },
+        {
+          "titulo": "EL GUARDIAN",
+          "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "16:50"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "19:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "21:50"
+            }
+          ],
+          "id": "6544ac2d-973f-4125-b5aa-49f62a391175"
+        },
+        {
+          "titulo": "DAVID",
+          "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "14:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "16:30"
+            }
+          ],
+          "id": "0dc9a78c-ef4f-4f22-8a33-8c067573ba33"
+        },
+        {
+          "titulo": "IRON LUNG",
+          "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "19:40"
+            }
+          ],
+          "id": "b4e5874b-7ed4-4803-bd44-fdc311b909d1"
+        },
+        {
+          "titulo": "BALLENA ASESINA",
+          "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "21:30"
+            }
+          ],
+          "id": "69275161-3568-43e0-aa13-d417fba5f5d6"
         },
         {
           "titulo": "LA NOVIA!",
@@ -20,52 +120,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "11:20"
+              "horario": "16:50"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "14:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "16:40"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "19:20"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "22:00"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "11:20"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "14:00"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "16:40"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "19:20"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "22:00"
+              "horario": "22:30"
             }
           ],
           "id": "fb61936e-d56d-4825-b96b-cec36969a9a2"
@@ -76,82 +136,72 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "10:30"
+              "horario": "13:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:50"
+              "horario": "15:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "15:10"
+              "horario": "18:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "17:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "19:50"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "22:10"
+              "horario": "20:30"
             },
             {
               "idioma": "Dob",
               "formato": "3D",
-              "horario": "11:25"
+              "horario": "12:20"
             },
             {
               "idioma": "Dob",
               "formato": "3D",
-              "horario": "13:45"
+              "horario": "14:40"
             },
             {
               "idioma": "Dob",
               "formato": "3D",
-              "horario": "16:05"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
-              "horario": "18:20"
+              "horario": "17:10"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "11:30"
+              "horario": "14:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "14:00"
+              "horario": "17:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "16:30"
+              "horario": "19:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "19:00"
+              "horario": "22:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "21:30"
+              "horario": "13:30"
             },
             {
               "idioma": "Dob",
-              "formato": "3D",
-              "horario": "12:30"
+              "formato": "2D",
+              "horario": "16:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "18:30"
             },
             {
               "idioma": "Dob",
@@ -171,41 +221,20 @@
             {
               "idioma": "Dob",
               "formato": "XD 2D",
-              "horario": "12:10"
+              "horario": "14:00"
             },
             {
               "idioma": "Dob",
               "formato": "XD 2D",
-              "horario": "14:40"
+              "horario": "16:30"
             },
             {
               "idioma": "Dob",
               "formato": "XD 2D",
-              "horario": "17:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "XD 2D",
-              "horario": "19:20"
+              "horario": "19:00"
             }
           ],
           "id": "08dc6187-3935-42f7-92c8-8bea0425966b"
-        },
-        {
-          "titulo": "EL AGENTE SECRETO",
-          "horarios": [
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "18:00"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "21:30"
-            }
-          ],
-          "id": "21912cc0-c5b6-4c44-9d55-bad04d7b98ec"
         },
         {
           "titulo": "SCREAM 7",
@@ -213,42 +242,27 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "10:30"
+              "horario": "12:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "13:00"
+              "horario": "17:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "15:30"
+              "horario": "20:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "18:05"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "19:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "20:35"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "22:00"
+              "horario": "22:30"
             },
             {
               "idioma": "Dob",
               "formato": "XD 2D",
-              "horario": "21:40"
+              "horario": "21:30"
             }
           ],
           "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
@@ -259,22 +273,22 @@
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "11:30"
+              "horario": "12:50"
             },
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "14:30"
+              "horario": "15:50"
             },
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "17:50"
+              "horario": "19:00"
             },
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "21:00"
+              "horario": "22:00"
             }
           ],
           "id": "7c1535e6-090d-41c2-a63c-f616411efe30"
@@ -285,22 +299,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "10:20"
+              "horario": "12:10"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:40"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "15:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "17:15"
+              "horario": "14:30"
             }
           ],
           "id": "2d3792f8-4849-45ef-aa7a-0bd6e6d7275f"
@@ -311,32 +315,27 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:50"
+              "horario": "13:50"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "15:50"
+              "horario": "16:50"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "18:50"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "21:50"
+              "horario": "22:20"
             },
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "11:50"
+              "horario": "14:00"
             },
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "14:50"
+              "horario": "19:30"
             }
           ],
           "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
@@ -347,12 +346,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "19:45"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "22:10"
+              "horario": "22:30"
             }
           ],
           "id": "f8a5c2b8-d83e-411a-b741-90495924eb34"
@@ -363,22 +357,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "10:45"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "13:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "15:15"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "17:30"
+              "horario": "15:10"
             }
           ],
           "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
@@ -388,8 +367,8 @@
           "horarios": [
             {
               "idioma": "Dob",
-              "formato": "2D",
-              "horario": "20:40"
+              "formato": "3D",
+              "horario": "21:00"
             }
           ],
           "id": "0a814e9b-b712-4dcc-95e2-ddc16bfd6011"
@@ -398,5 +377,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "11/3/2026"
+  "fecha": "12/3/2026"
 }
