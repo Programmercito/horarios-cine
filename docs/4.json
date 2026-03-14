@@ -9,6 +9,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "11:40"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "14:20"
             },
             {
@@ -27,6 +32,11 @@
               "horario": "22:10"
             },
             {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "16:50"
+            },
+            {
               "idioma": "Sub",
               "formato": "2D",
               "horario": "22:20"
@@ -41,11 +51,6 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "19:00"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "19:40"
             }
           ],
           "id": "cbc3e1d2-011a-4272-96d8-82152dcc13d5"
@@ -77,6 +82,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "11:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "14:00"
             },
             {
@@ -93,6 +103,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "19:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "21:30"
             }
           ],
@@ -104,11 +119,6 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "16:50"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "22:30"
             }
           ],
@@ -117,6 +127,11 @@
         {
           "titulo": "HOPPERS",
           "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "10:30"
+            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -151,6 +166,11 @@
               "idioma": "Dob",
               "formato": "3D",
               "horario": "17:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "12:00"
             },
             {
               "idioma": "Dob",
@@ -190,6 +210,11 @@
             {
               "idioma": "Dob",
               "formato": "3D",
+              "horario": "12:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "3D",
               "horario": "15:00"
             },
             {
@@ -201,6 +226,11 @@
               "idioma": "Dob",
               "formato": "3D",
               "horario": "20:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "XD 2D",
+              "horario": "11:30"
             },
             {
               "idioma": "Dob",
@@ -241,7 +271,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "22:30"
+              "horario": "22:40"
             },
             {
               "idioma": "Dob",
@@ -283,11 +313,6 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:10"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "14:30"
             }
           ],
@@ -296,6 +321,11 @@
         {
           "titulo": "CUMBRES BORRASCOSAS",
           "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "10:50"
+            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -309,7 +339,17 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "22:20"
+              "horario": "19:40"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "22:30"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "11:00"
             },
             {
               "idioma": "Sub",
@@ -330,7 +370,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "22:30"
+              "horario": "22:10"
             }
           ],
           "id": "f8a5c2b8-d83e-411a-b741-90495924eb34"
@@ -361,5 +401,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "13/3/2026"
+  "fecha": "14/3/2026"
 }
