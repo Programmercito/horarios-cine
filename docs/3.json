@@ -7,17 +7,17 @@
           "titulo": "HOPPER OPERACION CASTOR",
           "horarios": [
             {
-              "horario": "17:10",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:20",
+              "horario": "17:15",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             },
             {
               "horario": "15:10",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:40",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             }
@@ -28,7 +28,7 @@
           "titulo": "LA NOVIA",
           "horarios": [
             {
-              "horario": "21:25",
+              "horario": "19:25",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -39,12 +39,39 @@
           "titulo": "HOPPERS",
           "horarios": [
             {
+              "horario": "10:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "570228d7-513c-4397-860d-25ce5480d0d4",
+          "titulo": "NO TE OLVIDARE",
+          "horarios": [
+            {
               "horario": "12:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "10:45",
+              "horario": "21:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "0dc9a78c-ef4f-4f22-8a33-8c067573ba33",
+          "titulo": "DAVID",
+          "horarios": [
+            {
+              "horario": "10:40",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -55,45 +82,23 @@
           "titulo": "SCREAM 7",
           "horarios": [
             {
-              "horario": "12:50",
+              "horario": "15:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "8a035fbc-7f5e-46fe-bff0-6aaf5a673c3a",
+          "titulo": "EL GUARDIAN: EL ULTIMO REFUGIO",
+          "horarios": [
+            {
+              "horario": "17:25",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "21:15",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "e7794d42-c654-4fb6-ad71-5ebab58e1e26",
-          "titulo": "LA CABRA QUE CAMBIO EL JUEGO",
-          "horarios": [
-            {
-              "horario": "10:45",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            }
-          ]
-        },
-        {
-          "id": "578e088f-df8c-471b-880d-77fb528b33e6",
-          "titulo": "AVATAR FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "17:20",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "6b526c65-00ec-42ce-addf-182ec0b6664c",
-          "titulo": "EL DIA DEL FIN DEL MUNDO",
-          "horarios": [
-            {
-              "horario": "15:00",
+              "horario": "21:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -104,5 +109,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "12/3/2026"
+  "fecha": "14/3/2026"
 }
