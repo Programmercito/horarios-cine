@@ -79,6 +79,27 @@
           "id": "76de4f03-05c9-40d3-bb31-883d4696e6eb"
         },
         {
+          "titulo": "SCREAM 7",
+          "horarios": [
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
+        },
+        {
           "titulo": "GOAT: LA CABRA QUE CAMBIÓ EL JUEGO",
           "horarios": [
             {
@@ -110,15 +131,15 @@
           "id": "3dd847ec-5ab9-4c7f-a953-17f2757890b3"
         },
         {
-          "titulo": "SCREAM 7",
+          "titulo": "EL GUARDIÁN: ÚLTIMO REFUGIO",
           "horarios": [
             {
-              "horario": "14:30",
+              "horario": "12:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "20:35",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -128,7 +149,7 @@
               "formato": "2D"
             }
           ],
-          "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
+          "id": "cb5b238f-05f2-4f9a-9749-8fb465861518"
         },
         {
           "titulo": "DAVID",
@@ -157,25 +178,36 @@
           "id": "0dc9a78c-ef4f-4f22-8a33-8c067573ba33"
         },
         {
-          "titulo": "EL GUARDIÁN: ÚLTIMO REFUGIO",
+          "titulo": "NO TE OLVIDARÉ",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "20:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:35",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:45",
+              "horario": "22:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "cb5b238f-05f2-4f9a-9749-8fb465861518"
+          "id": "472555e2-2194-4d15-9ce6-54a81485479c"
+        },
+        {
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
+          "horarios": [
+            {
+              "horario": "16:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            }
+          ],
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
           "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
@@ -215,22 +247,6 @@
           "id": "c9bd943b-f399-4c0d-9cc6-e985a346339d"
         },
         {
-          "titulo": "NO TE OLVIDARÉ",
-          "horarios": [
-            {
-              "horario": "20:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "472555e2-2194-4d15-9ce6-54a81485479c"
-        },
-        {
           "titulo": "IRON LUNG: OCEANO DE SANGRE",
           "horarios": [
             {
@@ -261,22 +277,6 @@
             }
           ],
           "id": "89a94f1a-1f0c-4875-a5bc-b2cc38c48d94"
-        },
-        {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "16:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
           "titulo": "LA SAGA CREPÚSCULO - AMANECER PARTE 1",
@@ -504,32 +504,6 @@
           "id": "89a94f1a-1f0c-4875-a5bc-b2cc38c48d94"
         },
         {
-          "titulo": "IRON LUNG: OCEANO DE SANGRE",
-          "horarios": [
-            {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "c59ae874-2842-478d-a3c0-2f3629f93dc6"
-        },
-        {
           "titulo": "EL GUARDIÁN: ÚLTIMO REFUGIO",
           "horarios": [
             {
@@ -554,6 +528,32 @@
             }
           ],
           "id": "cb5b238f-05f2-4f9a-9749-8fb465861518"
+        },
+        {
+          "titulo": "SCREAM 7",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            }
+          ],
+          "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
         },
         {
           "titulo": "DAVID",
@@ -587,15 +587,20 @@
           "id": "0dc9a78c-ef4f-4f22-8a33-8c067573ba33"
         },
         {
-          "titulo": "SCREAM 7",
+          "titulo": "IRON LUNG: OCEANO DE SANGRE",
           "horarios": [
             {
-              "horario": "15:10",
+              "horario": "12:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "17:05",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -603,14 +608,9 @@
               "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
             }
           ],
-          "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
+          "id": "c59ae874-2842-478d-a3c0-2f3629f93dc6"
         },
         {
           "titulo": "¡LA NOVIA!",
@@ -713,6 +713,17 @@
           "id": "3dd847ec-5ab9-4c7f-a953-17f2757890b3"
         },
         {
+          "titulo": "NUREMBERG: EL JUICIO DEL SIGLO",
+          "horarios": [
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "7c1535e6-090d-41c2-a63c-f616411efe30"
+        },
+        {
           "titulo": "AGENTE SECRETO",
           "horarios": [
             {
@@ -733,17 +744,6 @@
             }
           ],
           "id": "2b6b389f-ab84-4521-af72-3a7551809b6e"
-        },
-        {
-          "titulo": "NUREMBERG: EL JUICIO DEL SIGLO",
-          "horarios": [
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "7c1535e6-090d-41c2-a63c-f616411efe30"
         },
         {
           "titulo": "MUERTE EN INVIERNO",
@@ -886,6 +886,27 @@
           "id": "89a94f1a-1f0c-4875-a5bc-b2cc38c48d94"
         },
         {
+          "titulo": "IRON LUNG: OCEANO DE SANGRE",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "c59ae874-2842-478d-a3c0-2f3629f93dc6"
+        },
+        {
           "titulo": "NO TE OLVIDARÉ",
           "horarios": [
             {
@@ -980,27 +1001,6 @@
           "id": "cb5b238f-05f2-4f9a-9749-8fb465861518"
         },
         {
-          "titulo": "IRON LUNG: OCEANO DE SANGRE",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "c59ae874-2842-478d-a3c0-2f3629f93dc6"
-        },
-        {
           "titulo": "CUMBRES BORRASCOSAS",
           "horarios": [
             {
@@ -1015,6 +1015,17 @@
             }
           ],
           "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
+        },
+        {
+          "titulo": "NUREMBERG: EL JUICIO DEL SIGLO",
+          "horarios": [
+            {
+              "horario": "21:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "7c1535e6-090d-41c2-a63c-f616411efe30"
         },
         {
           "titulo": "LA SAGA CREPÚSCULO - AMANECER PARTE 1",
@@ -1033,7 +1044,7 @@
           "id": "38c52a4c-d51d-4dbd-8345-9f439ca3e584"
         },
         {
-          "titulo": "NUREMBERG: EL JUICIO DEL SIGLO",
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
               "horario": "21:20",
@@ -1041,29 +1052,7 @@
               "formato": "2D"
             }
           ],
-          "id": "7c1535e6-090d-41c2-a63c-f616411efe30"
-        },
-        {
-          "titulo": "MUERTE EN INVIERNO",
-          "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "edd9ea25-3370-415d-8290-6f726c1ed60f"
-        },
-        {
-          "titulo": "AGENTE SECRETO",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "Portugues",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "8c15a34e-e30c-4698-a5fe-b0316c3bb247"
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
           "titulo": "¡LA NOVIA!",
@@ -1075,6 +1064,17 @@
             }
           ],
           "id": "c9bd943b-f399-4c0d-9cc6-e985a346339d"
+        },
+        {
+          "titulo": "AGENTE SECRETO",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "Portugues",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "8c15a34e-e30c-4698-a5fe-b0316c3bb247"
         },
         {
           "titulo": "ZOOTOPIA 2",
@@ -1108,22 +1108,11 @@
             }
           ],
           "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
-        },
-        {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "21:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "13/3/2026"
+  "fecha": "14/3/2026"
 }
