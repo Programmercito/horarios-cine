@@ -32,11 +32,6 @@
               "horario": "22:10"
             },
             {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "16:50"
-            },
-            {
               "idioma": "Sub",
               "formato": "2D",
               "horario": "22:20"
@@ -119,6 +114,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "16:50"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "22:30"
             }
           ],
@@ -170,27 +170,27 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:00"
+              "horario": "12:20"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "14:30"
+              "horario": "17:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "17:00"
+              "horario": "20:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "19:30"
+              "horario": "22:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "22:00"
+              "horario": "11:10"
             },
             {
               "idioma": "Dob",
@@ -313,6 +313,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "12:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "14:30"
             }
           ],
@@ -401,5 +406,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "14/3/2026"
+  "fecha": "15/3/2026"
 }
