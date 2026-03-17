@@ -578,42 +578,37 @@
           "titulo": "HOPPERS: OPERACION CASTOR",
           "horarios": [
             {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "13:30",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D"
             },
             {
               "horario": "16:00",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D"
             },
             {
-              "horario": "18:30",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
             {
-              "horario": "21:00",
+              "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
             {
               "horario": "18:00",
               "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
               "formato": "3D"
             },
             {
-              "horario": "20:30",
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "3D"
             }
@@ -1043,7 +1038,7 @@
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "22:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1275,27 +1270,17 @@
               "formato": "2D"
             },
             {
-              "horario": "11:30",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "14:00",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "16:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "21:30",
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
             }
@@ -2053,5 +2038,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "16/3/2026"
+  "fecha": "17/3/2026"
 }
