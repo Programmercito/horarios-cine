@@ -4,7 +4,83 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
-          "titulo": "NO TE OLVIDARE",
+          "titulo": "PROYECTO FIN DEL MUNDO",
+          "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "19:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "12:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "15:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "18:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "21:40"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "14:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "17:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "20:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "XD 2D",
+              "horario": "14:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "XD 2D",
+              "horario": "17:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "XD 2D",
+              "horario": "20:40"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "15:00"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "18:10"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "21:30"
+            }
+          ],
+          "id": "0cf34709-2cde-4994-ae4b-20da6260f3e2"
+        },
+        {
+          "titulo": "BODA SANGRIENTA 2",
           "horarios": [
             {
               "idioma": "Dob",
@@ -14,7 +90,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "14:35"
+              "horario": "14:30"
             },
             {
               "idioma": "Dob",
@@ -29,31 +105,42 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "22:10"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "16:50"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "22:20"
+              "horario": "22:00"
             }
           ],
-          "id": "570228d7-513c-4397-860d-25ce5480d0d4"
+          "id": "2250f5eb-7dbb-4e3c-b825-989c4b41d1c2"
         },
         {
-          "titulo": "CREPUSCULO: AMANECER PT1",
+          "titulo": "PINOCHO",
           "horarios": [
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "19:00"
+              "horario": "13:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "15:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "17:40"
             }
           ],
-          "id": "cbc3e1d2-011a-4272-96d8-82152dcc13d5"
+          "id": "11e5f986-b00b-4af7-a25d-a787d37dcb5f"
+        },
+        {
+          "titulo": "NO TE OLVIDARE",
+          "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "20:00"
+            }
+          ],
+          "id": "570228d7-513c-4397-860d-25ce5480d0d4"
         },
         {
           "titulo": "EL GUARDIAN",
@@ -61,17 +148,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "16:50"
+              "horario": "20:10"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "19:20"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "21:50"
+              "horario": "22:40"
             }
           ],
           "id": "6544ac2d-973f-4125-b5aa-49f62a391175"
@@ -82,17 +164,17 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "11:20"
+              "horario": "12:40"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "14:00"
+              "horario": "15:10"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "16:30"
+              "horario": "17:40"
             }
           ],
           "id": "0dc9a78c-ef4f-4f22-8a33-8c067573ba33"
@@ -103,26 +185,10 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "19:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "21:30"
+              "horario": "21:20"
             }
           ],
           "id": "69275161-3568-43e0-aa13-d417fba5f5d6"
-        },
-        {
-          "titulo": "LA NOVIA!",
-          "horarios": [
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "22:30"
-            }
-          ],
-          "id": "fb61936e-d56d-4825-b96b-cec36969a9a2"
         },
         {
           "titulo": "HOPPERS",
@@ -130,7 +196,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "10:30"
+              "horario": "12:30"
             },
             {
               "idioma": "Dob",
@@ -140,7 +206,27 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "14:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "14:50"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "15:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "16:40"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "17:10"
             },
             {
               "idioma": "Dob",
@@ -150,52 +236,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "20:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
-              "horario": "12:20"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
-              "horario": "14:40"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
-              "horario": "17:10"
+              "horario": "19:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:20"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "15:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "17:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "20:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "22:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "11:10"
+              "horario": "20:20"
             },
             {
               "idioma": "Dob",
@@ -215,42 +261,17 @@
             {
               "idioma": "Dob",
               "formato": "3D",
-              "horario": "12:30"
+              "horario": "14:30"
             },
             {
               "idioma": "Dob",
               "formato": "3D",
-              "horario": "15:00"
+              "horario": "17:00"
             },
             {
               "idioma": "Dob",
               "formato": "3D",
-              "horario": "17:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
-              "horario": "20:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "XD 2D",
-              "horario": "11:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "XD 2D",
-              "horario": "14:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "XD 2D",
-              "horario": "16:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "XD 2D",
-              "horario": "19:00"
+              "horario": "19:30"
             }
           ],
           "id": "08dc6187-3935-42f7-92c8-8bea0425966b"
@@ -261,27 +282,27 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:30"
+              "horario": "12:20"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "17:30"
+              "horario": "14:40"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "20:00"
+              "horario": "17:20"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "22:40"
+              "horario": "19:50"
             },
             {
               "idioma": "Dob",
-              "formato": "XD 2D",
-              "horario": "21:30"
+              "formato": "2D",
+              "horario": "22:20"
             }
           ],
           "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
@@ -292,65 +313,14 @@
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "12:50"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "15:50"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "19:00"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "22:00"
+              "horario": "21:50"
             }
           ],
           "id": "7c1535e6-090d-41c2-a63c-f616411efe30"
         },
         {
-          "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
-          "horarios": [
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "12:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "14:30"
-            }
-          ],
-          "id": "2d3792f8-4849-45ef-aa7a-0bd6e6d7275f"
-        },
-        {
           "titulo": "CUMBRES BORRASCOSAS",
           "horarios": [
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "10:50"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "13:50"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "16:50"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "19:40"
-            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -359,57 +329,14 @@
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "11:00"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "14:00"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "19:30"
+              "horario": "20:50"
             }
           ],
           "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
-        },
-        {
-          "titulo": "EL DÍA DEL FIN DEL MUNDO 2: MIGRACION",
-          "horarios": [
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "22:10"
-            }
-          ],
-          "id": "f8a5c2b8-d83e-411a-b741-90495924eb34"
-        },
-        {
-          "titulo": "ANACONDA",
-          "horarios": [
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "15:10"
-            }
-          ],
-          "id": "f6636324-5564-4e10-a513-c850bbf54ef6"
-        },
-        {
-          "titulo": "AVATAR 3: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "idioma": "Dob",
-              "formato": "3D",
-              "horario": "21:00"
-            }
-          ],
-          "id": "0a814e9b-b712-4dcc-95e2-ddc16bfd6011"
         }
       ]
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "18/3/2026"
+  "fecha": "19/3/2026"
 }
