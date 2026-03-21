@@ -6,17 +6,12 @@
           "titulo": "PROYECTO FIN DEL MUNDO",
           "horarios": [
             {
-              "horario": "11:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "12:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -26,7 +21,7 @@
               "formato": "2D"
             },
             {
-              "horario": "18:20",
+              "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -36,7 +31,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -46,17 +41,17 @@
               "formato": "2D CXC Atmos"
             },
             {
-              "horario": "13:50",
+              "horario": "13:45",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
             {
-              "horario": "17:10",
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
             {
-              "horario": "20:30",
+              "horario": "20:20",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
@@ -77,32 +72,32 @@
           "titulo": "PINOCHO",
           "horarios": [
             {
-              "horario": "10:30",
+              "horario": "10:55",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "11:45",
+              "horario": "11:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:45",
+              "horario": "11:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "13:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:35",
+              "horario": "15:55",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "18:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -113,17 +108,17 @@
           "titulo": "NOTA DE VOZ",
           "horarios": [
             {
-              "horario": "18:00",
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:10",
+              "horario": "19:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:20",
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -134,22 +129,17 @@
           "titulo": "JUMBO: UN CORAZON GIGANTE",
           "horarios": [
             {
-              "horario": "10:45",
+              "horario": "10:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:10",
+              "horario": "12:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
+              "horario": "15:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -160,48 +150,64 @@
           "titulo": "BODA SANGRIENTA 2",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "11:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "13:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "16:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "18:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "21:15",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
             }
           ],
           "id": "2250f5eb-7dbb-4e3c-b825-989c4b41d1c2"
         },
         {
+          "titulo": "EL LADRON DE PERROS",
+          "horarios": [
+            {
+              "horario": "16:20",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "f1cb069e-3fa2-4ff6-b7fc-359bbc98b7eb"
+        },
+        {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
-              "horario": "16:30",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -212,22 +218,22 @@
           "titulo": "HOPPERS: OPERACION CASTOR",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "11:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:00",
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -270,46 +276,41 @@
           "id": "56bb6e64-e62d-4c43-9faf-4235945cdfde"
         },
         {
-          "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
+          "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
           "horarios": [
             {
-              "horario": "11:50",
+              "horario": "14:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "2d3792f8-4849-45ef-aa7a-0bd6e6d7275f"
+          "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
         },
         {
           "titulo": "BALLENA ASESINA",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:35",
+              "horario": "12:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -320,22 +321,22 @@
           "titulo": "EL DIA DEL FIN DEL MUNDO: MIGRACION",
           "horarios": [
             {
-              "horario": "15:00",
+              "horario": "14:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "16:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "18:55",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "21:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -346,17 +347,12 @@
           "titulo": "SCREAM 7",
           "horarios": [
             {
-              "horario": "17:00",
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
+              "horario": "21:05",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -367,22 +363,22 @@
           "titulo": "DAVID",
           "horarios": [
             {
-              "horario": "11:40",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:10",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:20",
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:50",
+              "horario": "13:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -393,7 +389,7 @@
           "titulo": "OPERACION: SOMBRA",
           "horarios": [
             {
-              "horario": "21:25",
+              "horario": "20:45",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -404,17 +400,17 @@
           "titulo": "EL GUARDIAN: ULTIMO REFUGIO",
           "horarios": [
             {
-              "horario": "17:30",
+              "horario": "16:05",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "18:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "21:05",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -422,21 +418,10 @@
           "id": "850c4be2-56ff-4f07-bee2-dbb880369623"
         },
         {
-          "titulo": "LA SAGA CREPUSCULO: AMANECER PARTE 1",
-          "horarios": [
-            {
-              "horario": "22:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "db12e58c-dbb1-4b1c-a792-e81836a9b9a2"
-        },
-        {
           "titulo": "NO TE OLVIDARE",
           "horarios": [
             {
-              "horario": "21:30",
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -472,12 +457,12 @@
               "formato": "2D CXC Atmos"
             },
             {
-              "horario": "17:10",
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
             {
-              "horario": "20:30",
+              "horario": "20:20",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             }
@@ -506,43 +491,6 @@
           "id": "11e5f986-b00b-4af7-a25d-a787d37dcb5f"
         },
         {
-          "titulo": "NOTA DE VOZ",
-          "horarios": [
-            {
-              "horario": "19:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "9ab80c7e-b016-4bfc-bf5e-ece4bff0a253"
-        },
-        {
-          "titulo": "JUMBO: UN CORAZON GIGANTE",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "fb403cdc-e504-4cce-a3f8-7dcc17eceff7"
-        },
-        {
           "titulo": "BODA SANGRIENTA 2",
           "horarios": [
             {
@@ -551,17 +499,17 @@
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "16:25",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "18:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:30",
+              "horario": "21:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -569,20 +517,31 @@
           "id": "2250f5eb-7dbb-4e3c-b825-989c4b41d1c2"
         },
         {
-          "titulo": "HOPPERS: OPERACION CASTOR",
+          "titulo": "EL LADRON DE PERROS",
           "horarios": [
             {
-              "horario": "13:00",
-              "idioma": "DOB",
+              "horario": "19:30",
+              "idioma": "ESP",
               "formato": "2D"
             },
+            {
+              "horario": "21:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "f1cb069e-3fa2-4ff6-b7fc-359bbc98b7eb"
+        },
+        {
+          "titulo": "HOPPERS: OPERACION CASTOR",
+          "horarios": [
             {
               "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:20",
+              "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -592,12 +551,12 @@
               "formato": "2D"
             },
             {
-              "horario": "17:40",
+              "horario": "16:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "18:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -605,39 +564,7 @@
           "id": "56bb6e64-e62d-4c43-9faf-4235945cdfde"
         },
         {
-          "titulo": "BALLENA ASESINA",
-          "horarios": [
-            {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "69275161-3568-43e0-aa13-d417fba5f5d6"
-        },
-        {
-          "titulo": "EL DIA DEL FIN DEL MUNDO: MIGRACION",
-          "horarios": [
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "5c8a47ed-dafa-4b90-9e14-00156f8b2ab1"
-        },
-        {
-          "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
+          "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
           "horarios": [
             {
               "horario": "13:00",
@@ -648,6 +575,54 @@
               "horario": "15:10",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
+        },
+        {
+          "titulo": "BALLENA ASESINA",
+          "horarios": [
+            {
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "69275161-3568-43e0-aa13-d417fba5f5d6"
+        },
+        {
+          "titulo": "EL DIA DEL FIN DEL MUNDO: MIGRACION",
+          "horarios": [
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "5c8a47ed-dafa-4b90-9e14-00156f8b2ab1"
+        },
+        {
+          "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:15",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "2d3792f8-4849-45ef-aa7a-0bd6e6d7275f"
@@ -656,17 +631,12 @@
           "titulo": "EL GUARDIAN: ULTIMO REFUGIO",
           "horarios": [
             {
-              "horario": "17:20",
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -677,7 +647,7 @@
           "titulo": "NO TE OLVIDARE",
           "horarios": [
             {
-              "horario": "21:30",
+              "horario": "21:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -693,22 +663,17 @@
           "titulo": "PROYECTO FIN DEL MUNDO",
           "horarios": [
             {
-              "horario": "11:40",
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -733,12 +698,12 @@
               "formato": "2D CXC"
             },
             {
-              "horario": "18:20",
+              "horario": "15:50",
               "idioma": "DOB",
               "formato": "4D E-Motion 2D"
             },
             {
-              "horario": "21:40",
+              "horario": "19:10",
               "idioma": "DOB",
               "formato": "4D E-Motion 2D"
             }
@@ -749,22 +714,12 @@
           "titulo": "PINOCHO",
           "horarios": [
             {
-              "horario": "10:30",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:45",
+              "horario": "13:25",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -775,17 +730,7 @@
           "titulo": "NOTA DE VOZ",
           "horarios": [
             {
-              "horario": "18:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
+              "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -796,17 +741,12 @@
           "titulo": "JUMBO: UN CORAZON GIGANTE",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "10:55",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:45",
+              "horario": "12:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -817,32 +757,58 @@
           "titulo": "BODA SANGRIENTA 2",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "15:00",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "17:30",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "20:00",
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "22:30",
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
             }
           ],
           "id": "2250f5eb-7dbb-4e3c-b825-989c4b41d1c2"
+        },
+        {
+          "titulo": "EL LADRON DE PERROS",
+          "horarios": [
+            {
+              "horario": "15:50",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "f1cb069e-3fa2-4ff6-b7fc-359bbc98b7eb"
         },
         {
           "titulo": "HOPPERS: OPERACION CASTOR",
@@ -853,7 +819,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:00",
+              "horario": "11:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -863,7 +829,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:30",
+              "horario": "14:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -873,7 +839,7 @@
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "16:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -883,7 +849,7 @@
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "19:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -896,30 +862,46 @@
               "horario": "13:20",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
             }
           ],
           "id": "56bb6e64-e62d-4c43-9faf-4235945cdfde"
         },
         {
+          "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
+          "horarios": [
+            {
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
+        },
+        {
           "titulo": "BALLENA ASESINA",
           "horarios": [
             {
-              "horario": "18:30",
+              "horario": "17:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:50",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -930,17 +912,17 @@
           "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:50",
+              "horario": "12:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:10",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -951,17 +933,17 @@
           "titulo": "SCREAM 7",
           "horarios": [
             {
-              "horario": "17:00",
+              "horario": "16:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:35",
+              "horario": "18:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:10",
+              "horario": "21:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -972,12 +954,12 @@
           "titulo": "DAVID",
           "horarios": [
             {
-              "horario": "11:40",
+              "horario": "10:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:20",
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -988,28 +970,12 @@
           "titulo": "EL GUARDIAN: ULTIMO REFUGIO",
           "horarios": [
             {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "850c4be2-56ff-4f07-bee2-dbb880369623"
-        },
-        {
-          "titulo": "LA SAGA CREPUSCULO: AMANECER PARTE 1",
-          "horarios": [
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "db12e58c-dbb1-4b1c-a792-e81836a9b9a2"
         },
         {
           "titulo": "NO TE OLVIDARE",
@@ -1074,11 +1040,6 @@
               "horario": "18:10",
               "idioma": "DOB",
               "formato": "2D Atmos"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
             }
           ],
           "id": "0cf34709-2cde-4994-ae4b-20da6260f3e2"
@@ -1087,12 +1048,17 @@
           "titulo": "PINOCHO",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "11:45",
+              "horario": "13:25",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1102,17 +1068,12 @@
               "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "15:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
+              "horario": "18:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1136,11 +1097,6 @@
               "horario": "20:20",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "2D"
             }
           ],
           "id": "9ab80c7e-b016-4bfc-bf5e-ece4bff0a253"
@@ -1149,22 +1105,22 @@
           "titulo": "JUMBO: UN CORAZON GIGANTE",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:55",
+              "horario": "13:25",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:20",
+              "horario": "15:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:45",
+              "horario": "18:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1175,32 +1131,53 @@
           "titulo": "BODA SANGRIENTA 2",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:30",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "2250f5eb-7dbb-4e3c-b825-989c4b41d1c2"
+        },
+        {
+          "titulo": "EL LADRON DE PERROS",
+          "horarios": [
+            {
+              "horario": "13:20",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "f1cb069e-3fa2-4ff6-b7fc-359bbc98b7eb"
         },
         {
           "titulo": "HOPPERS: OPERACION CASTOR",
@@ -1211,7 +1188,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:30",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1221,7 +1198,7 @@
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1231,7 +1208,7 @@
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1241,17 +1218,7 @@
               "formato": "2D"
             },
             {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1259,67 +1226,36 @@
           "id": "56bb6e64-e62d-4c43-9faf-4235945cdfde"
         },
         {
-          "titulo": "CUMBRES BORRASCOSAS",
+          "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
           "horarios": [
             {
-              "horario": "16:30",
+              "horario": "12:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
-        },
-        {
-          "titulo": "BALLENA ASESINA",
-          "horarios": [
-            {
-              "horario": "20:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "69275161-3568-43e0-aa13-d417fba5f5d6"
+          "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
         },
         {
           "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
           "horarios": [
             {
-              "horario": "11:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1336,11 +1272,6 @@
             },
             {
               "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1367,27 +1298,22 @@
           "titulo": "EL GUARDIAN: ULTIMO REFUGIO",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:30",
+              "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1398,8 +1324,8 @@
           "titulo": "LA SAGA CREPUSCULO: AMANECER PARTE 1",
           "horarios": [
             {
-              "horario": "21:25",
-              "idioma": "SUBT",
+              "horario": "20:40",
+              "idioma": "DOB",
               "formato": "2D"
             }
           ],
@@ -1409,12 +1335,7 @@
           "titulo": "NO TE OLVIDARE",
           "horarios": [
             {
-              "horario": "21:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
+              "horario": "20:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1467,7 +1388,7 @@
           "titulo": "JUMBO: UN CORAZON GIGANTE",
           "horarios": [
             {
-              "horario": "11:35",
+              "horario": "11:25",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1478,28 +1399,28 @@
           "titulo": "BODA SANGRIENTA 2",
           "horarios": [
             {
-              "horario": "12:30",
-              "idioma": "SUBT",
+              "horario": "11:00",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
-              "idioma": "SUBT",
+              "horario": "13:30",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:30",
-              "idioma": "SUBT",
+              "horario": "16:00",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
-              "idioma": "SUBT",
+              "horario": "18:30",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:30",
-              "idioma": "SUBT",
+              "horario": "21:00",
+              "idioma": "DOB",
               "formato": "2D"
             }
           ],
@@ -1509,27 +1430,22 @@
           "titulo": "HOPPERS: OPERACION CASTOR",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:00",
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1541,17 +1457,12 @@
           "horarios": [
             {
               "horario": "17:00",
-              "idioma": "SUBT",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "19:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "SUBT",
+              "idioma": "DOB",
               "formato": "2D"
             }
           ],
@@ -1571,7 +1482,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:50",
+              "horario": "13:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1581,7 +1492,7 @@
               "formato": "2D"
             },
             {
-              "horario": "17:10",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1591,12 +1502,7 @@
               "formato": "2D"
             },
             {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
+              "horario": "19:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1612,17 +1518,17 @@
               "formato": "2D"
             },
             {
-              "horario": "14:15",
+              "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:45",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1633,17 +1539,17 @@
           "titulo": "NOTA DE VOZ",
           "horarios": [
             {
-              "horario": "18:00",
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "19:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "21:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1654,17 +1560,12 @@
           "titulo": "JUMBO: UN CORAZON GIGANTE",
           "horarios": [
             {
-              "horario": "12:10",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
+              "horario": "14:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1693,14 +1594,30 @@
               "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
             }
           ],
           "id": "2250f5eb-7dbb-4e3c-b825-989c4b41d1c2"
+        },
+        {
+          "titulo": "EL LADRON DE PERROS",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "f1cb069e-3fa2-4ff6-b7fc-359bbc98b7eb"
         },
         {
           "titulo": "HOPPERS: OPERACION CASTOR",
@@ -1726,11 +1643,6 @@
               "formato": "2D"
             },
             {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
@@ -1744,41 +1656,20 @@
           "id": "56bb6e64-e62d-4c43-9faf-4235945cdfde"
         },
         {
-          "titulo": "BALLENA ASESINA",
-          "horarios": [
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "69275161-3568-43e0-aa13-d417fba5f5d6"
-        },
-        {
           "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:20",
+              "horario": "14:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:40",
+              "horario": "17:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1789,17 +1680,12 @@
           "titulo": "SCREAM 7",
           "horarios": [
             {
-              "horario": "16:50",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
+              "horario": "18:55",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1810,12 +1696,12 @@
           "titulo": "DAVID",
           "horarios": [
             {
-              "horario": "12:40",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:20",
+              "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1823,26 +1709,10 @@
           "id": "0dc9a78c-ef4f-4f22-8a33-8c067573ba33"
         },
         {
-          "titulo": "OPERACION: SOMBRA",
-          "horarios": [
-            {
-              "horario": "13:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "ba91591a-d04e-4a64-a5a6-e32faf2b81f2"
-        },
-        {
           "titulo": "EL GUARDIAN: ULTIMO REFUGIO",
           "horarios": [
             {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1850,26 +1720,35 @@
           "id": "850c4be2-56ff-4f07-bee2-dbb880369623"
         },
         {
-          "titulo": "LA SAGA CREPUSCULO: AMANECER PARTE 1",
+          "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
           "horarios": [
             {
-              "horario": "19:15",
-              "idioma": "DOB",
+              "horario": "12:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "ESP",
               "formato": "2D"
             }
           ],
-          "id": "db12e58c-dbb1-4b1c-a792-e81836a9b9a2"
-        },
-        {
-          "titulo": "NO TE OLVIDARE",
-          "horarios": [
-            {
-              "horario": "21:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "570228d7-513c-4397-860d-25ce5480d0d4"
+          "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
         }
       ],
       "ciudad": "Tarija"
@@ -1916,33 +1795,17 @@
           "titulo": "PINOCHO",
           "horarios": [
             {
-              "horario": "12:25",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:15",
+              "horario": "14:15",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "11e5f986-b00b-4af7-a25d-a787d37dcb5f"
-        },
-        {
-          "titulo": "NOTA DE VOZ",
-          "horarios": [
-            {
-              "horario": "22:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "9ab80c7e-b016-4bfc-bf5e-ece4bff0a253"
         },
         {
           "titulo": "JUMBO: UN CORAZON GIGANTE",
@@ -1969,32 +1832,38 @@
           "titulo": "BODA SANGRIENTA 2",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:30",
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "2250f5eb-7dbb-4e3c-b825-989c4b41d1c2"
+        },
+        {
+          "titulo": "EL LADRON DE PERROS",
+          "horarios": [
+            {
+              "horario": "19:40",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "f1cb069e-3fa2-4ff6-b7fc-359bbc98b7eb"
         },
         {
           "titulo": "HOPPERS: OPERACION CASTOR",
@@ -2023,15 +1892,31 @@
           "id": "56bb6e64-e62d-4c43-9faf-4235945cdfde"
         },
         {
-          "titulo": "BALLENA ASESINA",
+          "titulo": "UN MILAGRO DE NAVIDAD EN LA PAZ",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "12:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
+        },
+        {
+          "titulo": "BALLENA ASESINA",
+          "horarios": [
+            {
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2045,11 +1930,6 @@
               "horario": "19:05",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "21:25",
-              "idioma": "DOB",
-              "formato": "2D"
             }
           ],
           "id": "850c4be2-56ff-4f07-bee2-dbb880369623"
@@ -2058,7 +1938,7 @@
           "titulo": "NO TE OLVIDARE",
           "horarios": [
             {
-              "horario": "21:30",
+              "horario": "21:25",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2070,5 +1950,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "20/3/2026"
+  "fecha": "21/3/2026"
 }
