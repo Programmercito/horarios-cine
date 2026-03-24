@@ -6,24 +6,9 @@
           "titulo": "HOPPERS: OPERACIÓN CASTOR",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "11:00",
               "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "14:15",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
+              "formato": "2D - 2D KRONOS"
             },
             {
               "horario": "13:05",
@@ -49,6 +34,26 @@
               "horario": "21:50",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "14:15",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
             },
             {
               "horario": "15:45",
@@ -100,29 +105,13 @@
           "id": "0cf34709-2cde-4994-ae4b-20da6260f3e2"
         },
         {
-          "titulo": "LA HISTORIA SIN FIN",
-          "horarios": [
-            {
-              "horario": "13:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "ead9e280-10b5-426c-a9cb-4c87758ec773"
-        },
-        {
           "titulo": "PINOCHO",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "15:00",
               "idioma": "Español",
@@ -152,12 +141,12 @@
             {
               "horario": "20:25",
               "idioma": "Español",
-              "formato": "2D MULTIESCALOFRIOS"
+              "formato": "2D"
             },
             {
               "horario": "22:15",
               "idioma": "Español",
-              "formato": "2D MULTIESCALOFRIOS"
+              "formato": "2D"
             }
           ],
           "id": "9ab80c7e-b016-4bfc-bf5e-ece4bff0a253"
@@ -216,6 +205,17 @@
           "id": "cba766ad-ad62-4959-aeea-e960b479fefe"
         },
         {
+          "titulo": "EL GUARDIÁN: ÚLTIMO REFUGIO",
+          "horarios": [
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "cb5b238f-05f2-4f9a-9749-8fb465861518"
+        },
+        {
           "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
@@ -236,17 +236,6 @@
             }
           ],
           "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
-        },
-        {
-          "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "e8de4a28-0dff-43c3-ab39-b90c95b4c6ca"
         },
         {
           "titulo": "DAVID",
@@ -271,23 +260,12 @@
           "id": "38c52a4c-d51d-4dbd-8345-9f439ca3e584"
         },
         {
-          "titulo": "EL GUARDIÁN: ÚLTIMO REFUGIO",
-          "horarios": [
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "cb5b238f-05f2-4f9a-9749-8fb465861518"
-        },
-        {
           "titulo": "LA BALLENA ASESINA",
           "horarios": [
             {
               "horario": "21:00",
               "idioma": "Español",
-              "formato": "2D MULTIESCALOFRIOS"
+              "formato": "2D"
             }
           ],
           "id": "89a94f1a-1f0c-4875-a5bc-b2cc38c48d94"
@@ -300,6 +278,11 @@
         {
           "titulo": "HOPPERS: OPERACIÓN CASTOR",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -458,6 +441,11 @@
           "titulo": "LA HISTORIA SIN FIN",
           "horarios": [
             {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "13:40",
               "idioma": "Español",
               "formato": "2D"
@@ -498,6 +486,11 @@
         {
           "titulo": "PINOCHO",
           "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:20",
               "idioma": "Español",
@@ -553,7 +546,7 @@
           "id": "2250f5eb-7dbb-4e3c-b825-989c4b41d1c2"
         },
         {
-          "titulo": "BODA SANGRIENTA 2",
+          "titulo": "NOTA DE VOZ",
           "horarios": [
             {
               "horario": "14:15",
@@ -568,10 +561,63 @@
             {
               "horario": "22:20",
               "idioma": "Español",
-              "formato": "2D MULTIESCALOFRIOS"
+              "formato": "2D"
             }
           ],
-          "id": "2250f5eb-7dbb-4e3c-b825-989c4b41d1c2"
+          "id": "9ab80c7e-b016-4bfc-bf5e-ece4bff0a253"
+        },
+        {
+          "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
+          "horarios": [
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "e8de4a28-0dff-43c3-ab39-b90c95b4c6ca"
+        },
+        {
+          "titulo": "JUMBO",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:05",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "cba766ad-ad62-4959-aeea-e960b479fefe"
+        },
+        {
+          "titulo": "SCREAM 7",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
         },
         {
           "titulo": "LA SAGA CREPÚSCULO - AMANECER PARTE 1",
@@ -590,20 +636,20 @@
           "id": "38c52a4c-d51d-4dbd-8345-9f439ca3e584"
         },
         {
-          "titulo": "JUMBO",
+          "titulo": "AVATAR: FUEGO Y CENIZAS",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "12:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D PLUS"
             },
             {
-              "horario": "14:05",
+              "horario": "16:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "cba766ad-ad62-4959-aeea-e960b479fefe"
+          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
         },
         {
           "titulo": "LA BALLENA ASESINA",
@@ -622,79 +668,48 @@
           "id": "89a94f1a-1f0c-4875-a5bc-b2cc38c48d94"
         },
         {
-          "titulo": "LA BALLENA ASESINA",
+          "titulo": "EL GUARDIÁN: ÚLTIMO REFUGIO",
           "horarios": [
             {
               "horario": "20:20",
               "idioma": "Español",
               "formato": "2D"
-            },
+            }
+          ],
+          "id": "cb5b238f-05f2-4f9a-9749-8fb465861518"
+        },
+        {
+          "titulo": "NO TE OLVIDARÉ",
+          "horarios": [
             {
               "horario": "22:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "89a94f1a-1f0c-4875-a5bc-b2cc38c48d94"
+          "id": "472555e2-2194-4d15-9ce6-54a81485479c"
         },
         {
-          "titulo": "EL GUARDIÁN: ÚLTIMO REFUGIO",
+          "titulo": "IRON LUNG: OCEANO DE SANGRE",
           "horarios": [
             {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "cb5b238f-05f2-4f9a-9749-8fb465861518"
-        },
-        {
-          "titulo": "SCREAM 7",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "Español",
-              "formato": "2D MULTIESCALOFRIOS"
-            }
-          ],
-          "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
-        },
-        {
-          "titulo": "AVATAR: FUEGO Y CENIZAS",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "16:30",
+              "horario": "21:40",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "13f42ed2-6f49-4053-82cd-ff35a0dc2040"
+          "id": "c59ae874-2842-478d-a3c0-2f3629f93dc6"
         },
         {
-          "titulo": "EL CASTILLO AMBULANTE",
+          "titulo": "LLUNKU´S",
           "horarios": [
             {
-              "horario": "12:40",
+              "horario": "20:20",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             }
           ],
-          "id": "2b6b389f-ab84-4521-af72-3a7551809b6e"
+          "id": "71c9bb78-7243-46fc-b7bf-82f857d4b1e4"
         },
         {
           "titulo": "NUREMBERG: EL JUICIO DEL SIGLO",
@@ -708,7 +723,7 @@
           "id": "7c1535e6-090d-41c2-a63c-f616411efe30"
         },
         {
-          "titulo": "NUREMBERG: EL JUICIO DEL SIGLO",
+          "titulo": "EL LADRÓN DE PERROS",
           "horarios": [
             {
               "horario": "17:20",
@@ -716,7 +731,18 @@
               "formato": "2D"
             }
           ],
-          "id": "7c1535e6-090d-41c2-a63c-f616411efe30"
+          "id": "3d89e5a9-2339-4662-89c3-2c1fd6183912"
+        },
+        {
+          "titulo": "EL CASTILLO AMBULANTE",
+          "horarios": [
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "2b6b389f-ab84-4521-af72-3a7551809b6e"
         },
         {
           "titulo": "DAVID",
@@ -728,28 +754,6 @@
             }
           ],
           "id": "0dc9a78c-ef4f-4f22-8a33-8c067573ba33"
-        },
-        {
-          "titulo": "NO TE OLVIDARÉ",
-          "horarios": [
-            {
-              "horario": "21:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "472555e2-2194-4d15-9ce6-54a81485479c"
-        },
-        {
-          "titulo": "IRON LUNG: OCEANO DE SANGRE",
-          "horarios": [
-            {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D MULTIESCALOFRIOS"
-            }
-          ],
-          "id": "c59ae874-2842-478d-a3c0-2f3629f93dc6"
         },
         {
           "titulo": "CUMBRES BORRASCOSAS",
@@ -796,15 +800,15 @@
           "id": "5a5509ad-a8cf-4951-a926-240103df99a5"
         },
         {
-          "titulo": "LLUNKU´S",
+          "titulo": "EL ÚLTIMO BLUES DEL CROATA",
           "horarios": [
             {
-              "horario": "20:20",
+              "horario": "21:40",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "71c9bb78-7243-46fc-b7bf-82f857d4b1e4"
+          "id": "f0c1545c-13a1-4192-9929-68ad005f1529"
         }
       ],
       "ciudad": "La Paz"
@@ -865,6 +869,11 @@
         {
           "titulo": "HOPPERS: OPERACIÓN CASTOR",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:15",
               "idioma": "Español",
@@ -938,6 +947,11 @@
           "titulo": "PINOCHO",
           "horarios": [
             {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "15:25",
               "idioma": "Español",
               "formato": "2D"
@@ -966,15 +980,31 @@
             {
               "horario": "20:15",
               "idioma": "Español",
-              "formato": "2D MULTIESCALOFRIOS"
+              "formato": "2D"
             },
             {
               "horario": "22:10",
               "idioma": "Español",
-              "formato": "2D MULTIESCALOFRIOS"
+              "formato": "2D"
             }
           ],
           "id": "9ab80c7e-b016-4bfc-bf5e-ece4bff0a253"
+        },
+        {
+          "titulo": "CUMBRES BORRASCOSAS",
+          "horarios": [
+            {
+              "horario": "21:35",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
         },
         {
           "titulo": "BODA SANGRIENTA 2",
@@ -998,22 +1028,6 @@
           "id": "2250f5eb-7dbb-4e3c-b825-989c4b41d1c2"
         },
         {
-          "titulo": "CUMBRES BORRASCOSAS",
-          "horarios": [
-            {
-              "horario": "21:35",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
-        },
-        {
           "titulo": "EL GUARDIÁN: ÚLTIMO REFUGIO",
           "horarios": [
             {
@@ -1028,6 +1042,27 @@
             }
           ],
           "id": "cb5b238f-05f2-4f9a-9749-8fb465861518"
+        },
+        {
+          "titulo": "JUMBO",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "cba766ad-ad62-4959-aeea-e960b479fefe"
         },
         {
           "titulo": "NO TE OLVIDARÉ",
@@ -1046,20 +1081,15 @@
           "id": "472555e2-2194-4d15-9ce6-54a81485479c"
         },
         {
-          "titulo": "JUMBO",
+          "titulo": "SCREAM 7",
           "horarios": [
             {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
+              "horario": "19:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "cba766ad-ad62-4959-aeea-e960b479fefe"
+          "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
         },
         {
           "titulo": "GOAT: LA CABRA QUE CAMBIÓ EL JUEGO",
@@ -1121,5 +1151,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "23/3/2026"
+  "fecha": "24/3/2026"
 }
