@@ -4,19 +4,13 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
-          "titulo": "PELÍCULA SORPRESA",
+          "titulo": "PROYECTO FIN DEL MUNDO",
           "horarios": [
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "19:50"
-            }
-          ],
-          "id": "78c05f44-1f0f-486c-bd26-1686b40a8c27"
-        },
-        {
-          "titulo": "PROYECTO FIN DEL MUNDO",
-          "horarios": [
+              "horario": "19:30"
+            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -81,27 +75,6 @@
           "id": "0cf34709-2cde-4994-ae4b-20da6260f3e2"
         },
         {
-          "titulo": "PINOCHO",
-          "horarios": [
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "13:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "15:20"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "17:40"
-            }
-          ],
-          "id": "11e5f986-b00b-4af7-a25d-a787d37dcb5f"
-        },
-        {
           "titulo": "BODA SANGRIENTA 2",
           "horarios": [
             {
@@ -131,6 +104,27 @@
             }
           ],
           "id": "2250f5eb-7dbb-4e3c-b825-989c4b41d1c2"
+        },
+        {
+          "titulo": "PINOCHO",
+          "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "13:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "15:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "17:40"
+            }
+          ],
+          "id": "11e5f986-b00b-4af7-a25d-a787d37dcb5f"
         },
         {
           "titulo": "NO TE OLVIDARE",
@@ -197,6 +191,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "12:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "13:00"
             },
             {
@@ -207,12 +206,22 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "14:50"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "15:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
               "horario": "16:40"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "17:10"
             },
             {
               "idioma": "Dob",
@@ -283,6 +292,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "19:50"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "22:20"
             }
           ],
@@ -319,5 +333,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "23/3/2026"
+  "fecha": "24/3/2026"
 }
