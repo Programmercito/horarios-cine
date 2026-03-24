@@ -212,17 +212,7 @@
           "titulo": "HOPPERS: OPERACION CASTOR",
           "horarios": [
             {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -232,17 +222,7 @@
               "formato": "2D"
             },
             {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "16:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -252,9 +232,29 @@
               "formato": "2D"
             },
             {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
               "horario": "20:30",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D Atmos"
             },
             {
               "horario": "10:50",
@@ -2070,5 +2070,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "23/3/2026"
+  "fecha": "24/3/2026"
 }
