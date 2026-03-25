@@ -4,12 +4,28 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
+          "titulo": "BRING ME THE HORIZON - L.I.V.E. IN SAO PAULO",
+          "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "20:00"
+            }
+          ],
+          "id": "a479a410-83d9-4695-bede-4725d9a10f0d"
+        },
+        {
           "titulo": "PROYECTO FIN DEL MUNDO",
           "horarios": [
             {
               "idioma": "Dob",
               "formato": "2D",
               "horario": "19:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "12:00"
             },
             {
               "idioma": "Dob",
@@ -29,6 +45,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "10:50"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "14:00"
             },
             {
@@ -44,6 +65,11 @@
             {
               "idioma": "Dob",
               "formato": "XD 2D",
+              "horario": "10:50"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "XD 2D",
               "horario": "14:10"
             },
             {
@@ -55,6 +81,11 @@
               "idioma": "Dob",
               "formato": "XD 2D",
               "horario": "20:40"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "11:50"
             },
             {
               "idioma": "Sub",
@@ -80,7 +111,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:10"
+              "horario": "12:00"
             },
             {
               "idioma": "Dob",
@@ -111,17 +142,22 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "13:00"
+              "horario": "10:40"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "15:20"
+              "horario": "12:50"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "17:40"
+              "horario": "15:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "17:30"
             }
           ],
           "id": "11e5f986-b00b-4af7-a25d-a787d37dcb5f"
@@ -132,7 +168,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "20:00"
+              "horario": "19:50"
             }
           ],
           "id": "570228d7-513c-4397-860d-25ce5480d0d4"
@@ -159,6 +195,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "10:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "12:40"
             },
             {
@@ -180,7 +221,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "21:20"
+              "horario": "22:30"
             }
           ],
           "id": "69275161-3568-43e0-aa13-d417fba5f5d6"
@@ -188,6 +229,21 @@
         {
           "titulo": "HOPPERS",
           "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "10:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "10:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "12:05"
+            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -201,7 +257,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "14:10"
+              "horario": "14:40"
             },
             {
               "idioma": "Dob",
@@ -216,12 +272,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "16:40"
+              "horario": "17:10"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "17:10"
+              "horario": "17:20"
             },
             {
               "idioma": "Dob",
@@ -231,12 +287,17 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "19:00"
+              "horario": "20:20"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "20:20"
+              "horario": "11:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "12:00"
             },
             {
               "idioma": "Dob",
@@ -262,11 +323,6 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "18:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "19:30"
             }
           ],
           "id": "08dc6187-3935-42f7-92c8-8bea0425966b"
@@ -308,7 +364,7 @@
             {
               "idioma": "Sub",
               "formato": "2D",
-              "horario": "21:50"
+              "horario": "19:30"
             }
           ],
           "id": "7c1535e6-090d-41c2-a63c-f616411efe30"
@@ -319,7 +375,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "22:30"
+              "horario": "22:20"
             },
             {
               "idioma": "Sub",
@@ -333,5 +389,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "24/3/2026"
+  "fecha": "25/3/2026"
 }
