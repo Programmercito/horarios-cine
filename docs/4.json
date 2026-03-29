@@ -82,17 +82,6 @@
           "id": "3b47b13a-605a-4174-92ad-eebcec70f507"
         },
         {
-          "titulo": "BRING ME THE HORIZON - L.I.V.E. IN SAO PAULO",
-          "horarios": [
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "16:40"
-            }
-          ],
-          "id": "a479a410-83d9-4695-bede-4725d9a10f0d"
-        },
-        {
           "titulo": "PROYECTO FIN DEL MUNDO",
           "horarios": [
             {
@@ -283,6 +272,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "16:40"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "18:00"
             },
             {
@@ -405,5 +399,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "28/3/2026"
+  "fecha": "29/3/2026"
 }
