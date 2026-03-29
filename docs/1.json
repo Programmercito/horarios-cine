@@ -219,11 +219,6 @@
               "formato": "2D"
             },
             {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
               "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
@@ -432,7 +427,7 @@
           "horarios": [
             {
               "horario": "22:20",
-              "idioma": "DOB",
+              "idioma": "SUBT",
               "formato": "2D"
             }
           ],
@@ -2063,6 +2058,27 @@
           "id": "93d94727-7081-41d3-b090-930029f0f646"
         },
         {
+          "titulo": "MILLENNIUM ACTRESS",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "94ccb2a0-fcd1-4af7-b155-01b943a6365f"
+        },
+        {
           "titulo": "TURBULENCIA: PANICO EN EL AIRE",
           "horarios": [
             {
@@ -2188,5 +2204,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "28/3/2026"
+  "fecha": "29/3/2026"
 }
