@@ -64,32 +64,6 @@
           "id": "76de4f03-05c9-40d3-bb31-883d4696e6eb"
         },
         {
-          "titulo": "PROYECTO FIN DEL MUNDO",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            }
-          ],
-          "id": "0cf34709-2cde-4994-ae4b-20da6260f3e2"
-        },
-        {
           "titulo": "TURBULENCIA: PÁNICO EN EL AIRE",
           "horarios": [
             {
@@ -142,30 +116,30 @@
           "id": "0ebbd42e-1026-44f4-906a-de1475a643ef"
         },
         {
-          "titulo": "MAMUT: EL REGRESO DE LOS DINOSAURIOS",
+          "titulo": "PROYECTO FIN DEL MUNDO",
           "horarios": [
             {
               "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D - 2D KRONOS"
             },
             {
               "horario": "15:10",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "17:20",
+              "horario": "18:20",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "19:30",
+              "horario": "21:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D - 2D KRONOS"
             }
           ],
-          "id": "93d94727-7081-41d3-b090-930029f0f646"
+          "id": "0cf34709-2cde-4994-ae4b-20da6260f3e2"
         },
         {
           "titulo": "LA HISTORIA SIN FIN",
@@ -210,7 +184,7 @@
           "id": "2250f5eb-7dbb-4e3c-b825-989c4b41d1c2"
         },
         {
-          "titulo": "PINOCHO",
+          "titulo": "MAMUT: EL REGRESO DE LOS DINOSAURIOS",
           "horarios": [
             {
               "horario": "12:00",
@@ -218,28 +192,22 @@
               "formato": "2D"
             },
             {
-              "horario": "14:05",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "11e5f986-b00b-4af7-a25d-a787d37dcb5f"
-        },
-        {
-          "titulo": "MI SOCIO 1",
-          "horarios": [
-            {
-              "horario": "14:10",
+              "horario": "15:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "6807f1f0-855d-457e-a00d-e24c18de72dd"
+          "id": "93d94727-7081-41d3-b090-930029f0f646"
         },
         {
           "titulo": "MI SOCIO 2.0",
@@ -269,15 +237,20 @@
           "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
         },
         {
-          "titulo": "GOAT: LA CABRA QUE CAMBIÓ EL JUEGO",
+          "titulo": "PINOCHO",
           "horarios": [
             {
-              "horario": "13:10",
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:05",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "3dd847ec-5ab9-4c7f-a953-17f2757890b3"
+          "id": "11e5f986-b00b-4af7-a25d-a787d37dcb5f"
         },
         {
           "titulo": "NOTA DE VOZ",
@@ -289,6 +262,33 @@
             }
           ],
           "id": "9ab80c7e-b016-4bfc-bf5e-ece4bff0a253"
+        },
+        {
+          "titulo": "MI SOCIO 1",
+          "horarios": [
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6807f1f0-855d-457e-a00d-e24c18de72dd"
+        },
+        {
+          "titulo": "GOAT: LA CABRA QUE CAMBIÓ EL JUEGO",
+          "horarios": [
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "3dd847ec-5ab9-4c7f-a953-17f2757890b3"
         }
       ],
       "ciudad": "El Alto"
@@ -405,6 +405,11 @@
               "formato": "2D"
             },
             {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "17:30",
               "idioma": "Español",
               "formato": "2D PLUS"
@@ -431,11 +436,6 @@
             },
             {
               "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:30",
               "idioma": "Español",
               "formato": "2D XL"
             },
@@ -587,7 +587,7 @@
           "id": "3dd72725-25b4-4e14-a6a7-bd8a4f7fceb1"
         },
         {
-          "titulo": "TURBULENCIA: PÁNICO EN EL AIRE",
+          "titulo": "SCREAM 7",
           "horarios": [
             {
               "horario": "12:40",
@@ -600,23 +600,23 @@
               "formato": "2D"
             }
           ],
-          "id": "3dd72725-25b4-4e14-a6a7-bd8a4f7fceb1"
+          "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
         },
         {
-          "titulo": "SCREAM 7",
+          "titulo": "MI SOCIO 2.0",
           "horarios": [
             {
-              "horario": "12:10",
+              "horario": "16:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "20:45",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
+          "id": "e6aaff02-0d8f-43cc-be05-e433f6a9506b"
         },
         {
           "titulo": "BODA SANGRIENTA 2",
@@ -635,36 +635,15 @@
           "id": "2250f5eb-7dbb-4e3c-b825-989c4b41d1c2"
         },
         {
-          "titulo": "MI SOCIO 1",
+          "titulo": "NOTA DE VOZ",
           "horarios": [
             {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
+              "horario": "12:10",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "6807f1f0-855d-457e-a00d-e24c18de72dd"
-        },
-        {
-          "titulo": "MI SOCIO 2.0",
-          "horarios": [
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "e6aaff02-0d8f-43cc-be05-e433f6a9506b"
+          "id": "9ab80c7e-b016-4bfc-bf5e-ece4bff0a253"
         },
         {
           "titulo": "LA BALLENA ASESINA",
@@ -694,6 +673,33 @@
           "id": "11e5f986-b00b-4af7-a25d-a787d37dcb5f"
         },
         {
+          "titulo": "LLUNKU´S",
+          "horarios": [
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "71c9bb78-7243-46fc-b7bf-82f857d4b1e4"
+        },
+        {
+          "titulo": "MI SOCIO 1",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6807f1f0-855d-457e-a00d-e24c18de72dd"
+        },
+        {
           "titulo": "KOKUHO: EL ALMA DEL KABUKI",
           "horarios": [
             {
@@ -703,6 +709,17 @@
             }
           ],
           "id": "017a74c5-4465-4d49-b301-08ffe21b2bda"
+        },
+        {
+          "titulo": "EL GUARDIÁN: ÚLTIMO REFUGIO",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "cb5b238f-05f2-4f9a-9749-8fb465861518"
         },
         {
           "titulo": "LA SAGA CREPÚSCULO - AMANECER PARTE 1",
@@ -716,18 +733,7 @@
           "id": "38c52a4c-d51d-4dbd-8345-9f439ca3e584"
         },
         {
-          "titulo": "NUREMBERG: EL JUICIO DEL SIGLO",
-          "horarios": [
-            {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "7c1535e6-090d-41c2-a63c-f616411efe30"
-        },
-        {
-          "titulo": "NUREMBERG: EL JUICIO DEL SIGLO",
+          "titulo": "CUMBRES BORRASCOSAS",
           "horarios": [
             {
               "horario": "14:40",
@@ -735,18 +741,7 @@
               "formato": "2D PLUS"
             }
           ],
-          "id": "7c1535e6-090d-41c2-a63c-f616411efe30"
-        },
-        {
-          "titulo": "LLUNKU´S",
-          "horarios": [
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "71c9bb78-7243-46fc-b7bf-82f857d4b1e4"
+          "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
         },
         {
           "titulo": "MILLENIUM ACTRESS",
@@ -769,17 +764,6 @@
             }
           ],
           "id": "3dd847ec-5ab9-4c7f-a953-17f2757890b3"
-        },
-        {
-          "titulo": "EL GUARDIÁN: ÚLTIMO REFUGIO",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "cb5b238f-05f2-4f9a-9749-8fb465861518"
         },
         {
           "titulo": "EL DIA DEL FIN DEL MUNDO MIGRACION",
@@ -808,52 +792,6 @@
     },
     {
       "peliculas": [
-        {
-          "titulo": "PROYECTO FIN DEL MUNDO",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "0cf34709-2cde-4994-ae4b-20da6260f3e2"
-        },
         {
           "titulo": "HOPPERS: OPERACIÓN CASTOR",
           "horarios": [
@@ -899,6 +837,52 @@
             }
           ],
           "id": "76de4f03-05c9-40d3-bb31-883d4696e6eb"
+        },
+        {
+          "titulo": "PROYECTO FIN DEL MUNDO",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "0cf34709-2cde-4994-ae4b-20da6260f3e2"
         },
         {
           "titulo": "LA HISTORIA SIN FIN",
@@ -997,7 +981,7 @@
               "formato": "2D"
             },
             {
-              "horario": "22:40",
+              "horario": "22:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1021,29 +1005,7 @@
           "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
         },
         {
-          "titulo": "CUMBRES BORRASCOSAS",
-          "horarios": [
-            {
-              "horario": "22:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "ea05cc73-1509-4013-83fd-e9a76d7bca10"
-        },
-        {
           "titulo": "EL GUARDIÁN: ÚLTIMO REFUGIO",
-          "horarios": [
-            {
-              "horario": "22:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "cb5b238f-05f2-4f9a-9749-8fb465861518"
-        },
-        {
-          "titulo": "NOTA DE VOZ",
           "horarios": [
             {
               "horario": "22:45",
@@ -1051,7 +1013,18 @@
               "formato": "2D"
             }
           ],
-          "id": "9ab80c7e-b016-4bfc-bf5e-ece4bff0a253"
+          "id": "cb5b238f-05f2-4f9a-9749-8fb465861518"
+        },
+        {
+          "titulo": "MI SOCIO 2.0",
+          "horarios": [
+            {
+              "horario": "20:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "e6aaff02-0d8f-43cc-be05-e433f6a9506b"
         },
         {
           "titulo": "PINOCHO",
@@ -1085,17 +1058,6 @@
             }
           ],
           "id": "b458ea77-51bb-491a-90c2-41db8bc783a0"
-        },
-        {
-          "titulo": "MI SOCIO 2.0",
-          "horarios": [
-            {
-              "horario": "20:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "e6aaff02-0d8f-43cc-be05-e433f6a9506b"
         },
         {
           "titulo": "MI SOCIO 1",
@@ -1157,5 +1119,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "29/3/2026"
+  "fecha": "30/3/2026"
 }
