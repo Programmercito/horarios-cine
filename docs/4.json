@@ -61,19 +61,13 @@
           "id": "4111dd69-ded1-4aa3-a61b-b26b46cbb7e4"
         },
         {
-          "titulo": "MILENNIUM ACTRESS [2001]",
-          "horarios": [
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "20:00"
-            }
-          ],
-          "id": "3b47b13a-605a-4174-92ad-eebcec70f507"
-        },
-        {
           "titulo": "PROYECTO FIN DEL MUNDO",
           "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "20:00"
+            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -82,27 +76,22 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "22:10"
+              "horario": "13:10"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:40"
+              "horario": "16:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "16:10"
+              "horario": "19:40"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "19:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "22:40"
+              "horario": "22:50"
             },
             {
               "idioma": "Dob",
@@ -122,17 +111,12 @@
             {
               "idioma": "Dob",
               "formato": "XD 2D",
-              "horario": "14:00"
+              "horario": "12:40"
             },
             {
               "idioma": "Dob",
               "formato": "XD 2D",
-              "horario": "17:20"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "XD 2D",
-              "horario": "20:30"
+              "horario": "16:00"
             },
             {
               "idioma": "Sub",
@@ -344,5 +328,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "30/3/2026"
+  "fecha": "31/3/2026"
 }
