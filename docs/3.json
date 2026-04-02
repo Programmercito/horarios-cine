@@ -1,10 +1,58 @@
 {
   "ciudades": [
     {
-      "peliculas": [],
+      "peliculas": [
+        {
+          "id": "4343efa2-27d3-4986-84ff-c92ab1345700",
+          "titulo": "SUPER MARIO 2 GALAXY",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:15",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "36a4539e-539c-482b-97fa-d0f102ecfa68",
+          "titulo": "2D",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "17:15",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            }
+          ]
+        }
+      ],
       "ciudad": "La Paz"
     }
   ],
   "cine": "MONJE",
-  "fecha": "1/4/2026"
+  "fecha": "2/4/2026"
 }
