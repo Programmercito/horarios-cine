@@ -243,6 +243,17 @@
           "id": "a85bbd46-4669-4070-ae5e-c1e5a1a95c6f"
         },
         {
+          "titulo": "LA HISTORIA SIN FIN",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "ead9e280-10b5-426c-a9cb-4c87758ec773"
+        },
+        {
           "titulo": "MI SOCIO 1",
           "horarios": [
             {
@@ -274,17 +285,6 @@
             }
           ],
           "id": "0ebbd42e-1026-44f4-906a-de1475a643ef"
-        },
-        {
-          "titulo": "LA HISTORIA SIN FIN",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "ead9e280-10b5-426c-a9cb-4c87758ec773"
         }
       ],
       "ciudad": "El Alto"
@@ -641,22 +641,6 @@
           "id": "f237f227-297d-4aaa-940d-5ef0ab8dfbf7"
         },
         {
-          "titulo": "LA HISTORIA SIN FIN",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "ead9e280-10b5-426c-a9cb-4c87758ec773"
-        },
-        {
           "titulo": "MAMUT: EL REGRESO DE LOS DINOSAURIOS",
           "horarios": [
             {
@@ -689,26 +673,20 @@
           "id": "a85bbd46-4669-4070-ae5e-c1e5a1a95c6f"
         },
         {
-          "titulo": "MI SOCIO 1",
+          "titulo": "LA HISTORIA SIN FIN",
           "horarios": [
             {
-              "horario": "17:00",
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "6807f1f0-855d-457e-a00d-e24c18de72dd"
-        },
-        {
-          "titulo": "MI SOCIO 2.0",
-          "horarios": [
-            {
-              "horario": "18:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "e6aaff02-0d8f-43cc-be05-e433f6a9506b"
+          "id": "ead9e280-10b5-426c-a9cb-4c87758ec773"
         },
         {
           "titulo": "BODA SANGRIENTA 2",
@@ -742,6 +720,28 @@
             }
           ],
           "id": "0ebbd42e-1026-44f4-906a-de1475a643ef"
+        },
+        {
+          "titulo": "MI SOCIO 1",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6807f1f0-855d-457e-a00d-e24c18de72dd"
+        },
+        {
+          "titulo": "MI SOCIO 2.0",
+          "horarios": [
+            {
+              "horario": "18:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "e6aaff02-0d8f-43cc-be05-e433f6a9506b"
         }
       ],
       "ciudad": "La Paz"
@@ -1038,17 +1038,6 @@
           "id": "3dd72725-25b4-4e14-a6a7-bd8a4f7fceb1"
         },
         {
-          "titulo": "MAMUT: EL REGRESO DE LOS DINOSAURIOS",
-          "horarios": [
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "93d94727-7081-41d3-b090-930029f0f646"
-        },
-        {
           "titulo": "TE VAN A MATAR",
           "horarios": [
             {
@@ -1064,5 +1053,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "2/4/2026"
+  "fecha": "3/4/2026"
 }
