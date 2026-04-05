@@ -189,6 +189,11 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "14:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "14:30"
             },
             {
@@ -209,12 +214,27 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "18:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "18:50"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
               "horario": "19:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "20:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "22:40"
             },
             {
               "idioma": "Dob",
@@ -234,11 +254,6 @@
             {
               "idioma": "Dob",
               "formato": "3D",
-              "horario": "14:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
               "horario": "15:40"
             },
             {
@@ -254,27 +269,12 @@
             {
               "idioma": "Dob",
               "formato": "3D",
-              "horario": "18:20"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
               "horario": "20:00"
             },
             {
               "idioma": "Dob",
               "formato": "3D",
-              "horario": "20:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
               "horario": "22:10"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
-              "horario": "22:40"
             },
             {
               "idioma": "Dob",
@@ -414,5 +414,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "4/4/2026"
+  "fecha": "5/4/2026"
 }
