@@ -9,11 +9,6 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "10:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "11:30"
             },
             {
@@ -89,11 +84,6 @@
             {
               "idioma": "Dob",
               "formato": "3D",
-              "horario": "10:50"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
               "horario": "12:00"
             },
             {
@@ -144,11 +134,6 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "11:10"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "13:20"
             },
             {
@@ -174,22 +159,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "10:40"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "12:20"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
               "horario": "12:50"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "14:00"
             },
             {
               "idioma": "Dob",
@@ -214,11 +189,6 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "18:20"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "18:50"
             },
             {
@@ -229,27 +199,17 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "20:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "22:40"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
-              "horario": "11:20"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
-              "horario": "11:50"
+              "horario": "21:30"
             },
             {
               "idioma": "Dob",
               "formato": "3D",
               "horario": "13:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "3D",
+              "horario": "14:00"
             },
             {
               "idioma": "Dob",
@@ -269,12 +229,27 @@
             {
               "idioma": "Dob",
               "formato": "3D",
+              "horario": "18:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "3D",
               "horario": "20:00"
             },
             {
               "idioma": "Dob",
               "formato": "3D",
+              "horario": "20:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "3D",
               "horario": "22:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "3D",
+              "horario": "22:40"
             },
             {
               "idioma": "Dob",
@@ -305,11 +280,6 @@
               "idioma": "Dob",
               "formato": "XD 2D",
               "horario": "22:30"
-            },
-            {
-              "idioma": "Sub",
-              "formato": "2D",
-              "horario": "21:30"
             }
           ],
           "id": "67ca0162-9166-46fa-b551-617f6b890cfd"
@@ -339,6 +309,11 @@
         {
           "titulo": "PROYECTO FIN DEL MUNDO",
           "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "10:50"
+            },
             {
               "idioma": "Dob",
               "formato": "2D",
@@ -398,21 +373,10 @@
             }
           ],
           "id": "ca00d9fa-4e04-47bd-96e0-6ef0686a2eea"
-        },
-        {
-          "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
-          "horarios": [
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "11:40"
-            }
-          ],
-          "id": "2d3792f8-4849-45ef-aa7a-0bd6e6d7275f"
         }
       ]
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "5/4/2026"
+  "fecha": "6/4/2026"
 }
