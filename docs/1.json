@@ -56,22 +56,12 @@
               "formato": "2D"
             },
             {
-              "horario": "16:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "16:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "17:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:25",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -86,22 +76,12 @@
               "formato": "2D"
             },
             {
-              "horario": "18:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "19:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:45",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -274,12 +254,12 @@
           "titulo": "HOPPERS: OPERACION CASTOR",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:25",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -289,7 +269,22 @@
               "formato": "2D"
             },
             {
-              "horario": "13:55",
+              "horario": "12:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -426,7 +421,7 @@
           "titulo": "TE VAN A MATAR",
           "horarios": [
             {
-              "horario": "21:05",
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -437,12 +432,22 @@
           "titulo": "MAMUT: EL REGRESO DE LOS DINOSAURIOS",
           "horarios": [
             {
-              "horario": "14:55",
+              "horario": "15:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:05",
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1370,11 +1375,6 @@
               "formato": "2D"
             },
             {
-              "horario": "15:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D"
@@ -1437,6 +1437,11 @@
           "horarios": [
             {
               "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1689,17 +1694,17 @@
           "titulo": "PROYECTO FIN DEL MUNDO",
           "horarios": [
             {
-              "horario": "14:05",
+              "horario": "14:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:15",
+              "horario": "17:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:25",
+              "horario": "20:55",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1725,7 +1730,7 @@
               "formato": "2D"
             },
             {
-              "horario": "15:05",
+              "horario": "15:15",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1741,12 +1746,12 @@
           "titulo": "MAMUT: EL REGRESO DE LOS DINOSAURIOS",
           "horarios": [
             {
-              "horario": "17:10",
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "19:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1955,5 +1960,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "5/4/2026"
+  "fecha": "6/4/2026"
 }
