@@ -1,10 +1,96 @@
 {
   "ciudades": [
     {
-      "peliculas": [],
+      "peliculas": [
+        {
+          "id": "08dc6187-3935-42f7-92c8-8bea0425966b",
+          "titulo": "HOPPERS",
+          "horarios": [
+            {
+              "horario": "10:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "e6aaff02-0d8f-43cc-be05-e433f6a9506b",
+          "titulo": "MI SOCIO 2.0",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "0907afc8-20f7-41c5-92eb-b2174bf055c9",
+          "titulo": "PROYECTO DEL FIN DEL MUNDO",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "4343efa2-27d3-4986-84ff-c92ab1345700",
+          "titulo": "SUPER MARIO 2 GALAXY",
+          "horarios": [
+            {
+              "horario": "10:40",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:15",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "4343efa2-27d3-4986-84ff-c92ab1345700",
+          "titulo": "SUPER MARIO 2 GALAXY",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "17:15",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            }
+          ]
+        }
+      ],
       "ciudad": "La Paz"
     }
   ],
   "cine": "MONJE",
-  "fecha": "6/4/2026"
+  "fecha": "7/4/2026"
 }
