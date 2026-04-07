@@ -9,12 +9,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "11:30"
+              "horario": "10:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "12:20"
+              "horario": "11:30"
             },
             {
               "idioma": "Dob",
@@ -29,22 +29,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "14:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "14:50"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
               "horario": "15:50"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "16:40"
             },
             {
               "idioma": "Dob",
@@ -59,12 +49,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "18:50"
+              "horario": "19:10"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "19:10"
+              "horario": "19:40"
             },
             {
               "idioma": "Dob",
@@ -74,12 +64,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "21:00"
+              "horario": "21:20"
             },
             {
               "idioma": "Dob",
-              "formato": "2D",
-              "horario": "21:20"
+              "formato": "3D",
+              "horario": "10:50"
             },
             {
               "idioma": "Dob",
@@ -130,6 +120,11 @@
               "idioma": "Dob",
               "formato": "3D",
               "horario": "21:40"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "11:10"
             },
             {
               "idioma": "Dob",
@@ -296,17 +291,6 @@
           "id": "a85bbd46-4669-4070-ae5e-c1e5a1a95c6f"
         },
         {
-          "titulo": "JUGADA MAESTRA",
-          "horarios": [
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "19:40"
-            }
-          ],
-          "id": "f237f227-297d-4aaa-940d-5ef0ab8dfbf7"
-        },
-        {
           "titulo": "PROYECTO FIN DEL MUNDO",
           "horarios": [
             {
@@ -328,6 +312,11 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "20:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "22:20"
             },
             {
               "idioma": "Sub",
@@ -378,5 +367,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "6/4/2026"
+  "fecha": "7/4/2026"
 }
