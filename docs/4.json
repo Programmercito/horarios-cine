@@ -9,7 +9,17 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "10:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "10:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "10:50"
             },
             {
               "idioma": "Dob",
@@ -19,7 +29,17 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "12:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "12:40"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "13:00"
             },
             {
               "idioma": "Dob",
@@ -29,7 +49,17 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "14:30"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "14:50"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "15:10"
             },
             {
               "idioma": "Dob",
@@ -39,7 +69,17 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "16:40"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "17:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "17:20"
             },
             {
               "idioma": "Dob",
@@ -49,7 +89,17 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "18:50"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "19:10"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "19:30"
             },
             {
               "idioma": "Dob",
@@ -64,12 +114,17 @@
             {
               "idioma": "Dob",
               "formato": "2D",
+              "horario": "21:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
               "horario": "21:20"
             },
             {
               "idioma": "Dob",
-              "formato": "3D",
-              "horario": "10:50"
+              "formato": "2D",
+              "horario": "21:40"
             },
             {
               "idioma": "Dob",
@@ -79,17 +134,7 @@
             {
               "idioma": "Dob",
               "formato": "3D",
-              "horario": "13:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
               "horario": "14:10"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
-              "horario": "15:10"
             },
             {
               "idioma": "Dob",
@@ -99,27 +144,12 @@
             {
               "idioma": "Dob",
               "formato": "3D",
-              "horario": "17:20"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
               "horario": "18:30"
             },
             {
               "idioma": "Dob",
               "formato": "3D",
-              "horario": "19:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
               "horario": "20:40"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
-              "horario": "21:40"
             },
             {
               "idioma": "Dob",
@@ -150,6 +180,11 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "22:00"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "10:40"
             },
             {
               "idioma": "Dob",
@@ -193,8 +228,13 @@
             },
             {
               "idioma": "Dob",
-              "formato": "2D",
-              "horario": "21:30"
+              "formato": "3D",
+              "horario": "11:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "3D",
+              "horario": "11:50"
             },
             {
               "idioma": "Dob",
@@ -275,6 +315,11 @@
               "idioma": "Dob",
               "formato": "XD 2D",
               "horario": "22:30"
+            },
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "21:30"
             }
           ],
           "id": "67ca0162-9166-46fa-b551-617f6b890cfd"
@@ -289,6 +334,17 @@
             }
           ],
           "id": "a85bbd46-4669-4070-ae5e-c1e5a1a95c6f"
+        },
+        {
+          "titulo": "JUGADA MAESTRA",
+          "horarios": [
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "22:20"
+            }
+          ],
+          "id": "f237f227-297d-4aaa-940d-5ef0ab8dfbf7"
         },
         {
           "titulo": "PROYECTO FIN DEL MUNDO",
@@ -312,11 +368,6 @@
               "idioma": "Dob",
               "formato": "2D",
               "horario": "20:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "22:20"
             },
             {
               "idioma": "Sub",
@@ -367,5 +418,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "7/4/2026"
+  "fecha": "8/4/2026"
 }
