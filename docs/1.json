@@ -3,6 +3,173 @@
     {
       "peliculas": [
         {
+          "titulo": "LA MUERTE DE BLANCANIEVES",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2abed7fc-6f73-4e78-8def-961538c06365"
+        },
+        {
+          "titulo": "BUENA SUERTE, DIVIERTETE, NO MUERAS",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "85f30cf1-2441-4524-880c-eb877e5ced48"
+        },
+        {
+          "titulo": "LA LAGRIMA DEL DIABLO",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "fed7c09c-8d5c-4df1-ae13-1b83db496419"
+        },
+        {
+          "titulo": "EL DRAMA",
+          "horarios": [
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "868b8cd8-1e48-448a-9814-9ffc794786f4"
+        },
+        {
+          "titulo": "LA HABITACION NEGRA",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "c739517c-ed91-4b06-aa16-eea82ce2aedb"
+        },
+        {
+          "titulo": "HOPPERS: OPERACION CASTOR",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "56bb6e64-e62d-4c43-9faf-4235945cdfde"
+        },
+        {
+          "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2d3792f8-4849-45ef-aa7a-0bd6e6d7275f"
+        },
+        {
           "titulo": "SUPER MARIO GALAXY: LA PELICULA",
           "horarios": [
             {
@@ -46,11 +213,6 @@
               "formato": "2D"
             },
             {
-              "horario": "15:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "15:20",
               "idioma": "DOB",
               "formato": "2D"
@@ -61,27 +223,12 @@
               "formato": "2D"
             },
             {
-              "horario": "16:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "16:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "17:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:25",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -96,27 +243,12 @@
               "formato": "2D"
             },
             {
-              "horario": "18:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "19:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:45",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -127,11 +259,6 @@
             },
             {
               "horario": "20:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:05",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -149,11 +276,6 @@
               "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
             },
             {
               "horario": "13:20",
@@ -239,75 +361,7 @@
           "id": "e23048f5-46b8-406e-b94f-36652f46d88a"
         },
         {
-          "titulo": "CRIATURAS DIABOLICAS",
-          "horarios": [
-            {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "95004c86-2404-4e49-8e9c-98f977b1c54c"
-        },
-        {
-          "titulo": "JUGADA MAESTRA",
-          "horarios": [
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "f237f227-297d-4aaa-940d-5ef0ab8dfbf7"
-        },
-        {
-          "titulo": "HOPPERS: OPERACION CASTOR",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "56bb6e64-e62d-4c43-9faf-4235945cdfde"
-        },
-        {
-          "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
+          "titulo": "EL DIA DEL FIN DEL MUNDO: MIGRACION",
           "horarios": [
             {
               "horario": "10:30",
@@ -316,53 +370,6 @@
             },
             {
               "horario": "12:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "2d3792f8-4849-45ef-aa7a-0bd6e6d7275f"
-        },
-        {
-          "titulo": "BALLENA ASESINA",
-          "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "69275161-3568-43e0-aa13-d417fba5f5d6"
-        },
-        {
-          "titulo": "EL DIA DEL FIN DEL MUNDO: MIGRACION",
-          "horarios": [
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -396,52 +403,46 @@
           "id": "0cf34709-2cde-4994-ae4b-20da6260f3e2"
         },
         {
-          "titulo": "EL GUARDIAN: ULTIMO REFUGIO",
-          "horarios": [
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "850c4be2-56ff-4f07-bee2-dbb880369623"
-        },
-        {
-          "titulo": "PINOCHO",
-          "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "11e5f986-b00b-4af7-a25d-a787d37dcb5f"
-        },
-        {
           "titulo": "MAMUT: EL REGRESO DE LOS DINOSAURIOS",
           "horarios": [
             {
-              "horario": "22:05",
+              "horario": "15:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "93d94727-7081-41d3-b090-930029f0f646"
+        },
+        {
+          "titulo": "CRIATURAS DIABOLICAS",
+          "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "95004c86-2404-4e49-8e9c-98f977b1c54c"
         }
       ],
       "ciudad": "Santa Cruz Av. Trompillo"
@@ -449,10 +450,106 @@
     {
       "peliculas": [
         {
+          "titulo": "LA MUERTE DE BLANCANIEVES",
+          "horarios": [
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2abed7fc-6f73-4e78-8def-961538c06365"
+        },
+        {
+          "titulo": "BUENA SUERTE, DIVIERTETE, NO MUERAS",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "85f30cf1-2441-4524-880c-eb877e5ced48"
+        },
+        {
+          "titulo": "LA LAGRIMA DEL DIABLO",
+          "horarios": [
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "fed7c09c-8d5c-4df1-ae13-1b83db496419"
+        },
+        {
+          "titulo": "EL DRAMA",
+          "horarios": [
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "868b8cd8-1e48-448a-9814-9ffc794786f4"
+        },
+        {
+          "titulo": "LA HABITACION NEGRA",
+          "horarios": [
+            {
+              "horario": "21:10",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "c739517c-ed91-4b06-aa16-eea82ce2aedb"
+        },
+        {
+          "titulo": "HOPPERS: OPERACION CASTOR",
+          "horarios": [
+            {
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "56bb6e64-e62d-4c43-9faf-4235945cdfde"
+        },
+        {
           "titulo": "SUPER MARIO GALAXY: LA PELICULA",
           "horarios": [
             {
-              "horario": "12:45",
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -467,7 +564,12 @@
               "formato": "2D"
             },
             {
-              "horario": "14:55",
+              "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -482,7 +584,12 @@
               "formato": "2D"
             },
             {
-              "horario": "17:05",
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -497,39 +604,19 @@
               "formato": "2D"
             },
             {
-              "horario": "20:50",
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:20",
+              "horario": "20:40",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
             },
             {
               "horario": "22:10",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D"
             },
             {
               "horario": "12:45",
@@ -558,59 +645,6 @@
             }
           ],
           "id": "e23048f5-46b8-406e-b94f-36652f46d88a"
-        },
-        {
-          "titulo": "CRIATURAS DIABOLICAS",
-          "horarios": [
-            {
-              "horario": "19:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "95004c86-2404-4e49-8e9c-98f977b1c54c"
-        },
-        {
-          "titulo": "JUGADA MAESTRA",
-          "horarios": [
-            {
-              "horario": "19:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "f237f227-297d-4aaa-940d-5ef0ab8dfbf7"
-        },
-        {
-          "titulo": "HOPPERS: OPERACION CASTOR",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "56bb6e64-e62d-4c43-9faf-4235945cdfde"
         },
         {
           "titulo": "PROYECTO FIN DEL MUNDO",
@@ -632,38 +666,6 @@
             }
           ],
           "id": "0cf34709-2cde-4994-ae4b-20da6260f3e2"
-        },
-        {
-          "titulo": "TE VAN A MATAR",
-          "horarios": [
-            {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "0ebbd42e-1026-44f4-906a-de1475a643ef"
-        },
-        {
-          "titulo": "MAMUT: EL REGRESO DE LOS DINOSAURIOS",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "93d94727-7081-41d3-b090-930029f0f646"
         }
       ],
       "ciudad": "Santa Cruz Av. Brasil"
@@ -671,60 +673,68 @@
     {
       "peliculas": [
         {
-          "titulo": "SUPER MARIO GALAXY: LA PELICULA",
+          "titulo": "LA MUERTE DE BLANCANIEVES",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "17:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:40",
+              "horario": "19:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:50",
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
-            },
+            }
+          ],
+          "id": "2abed7fc-6f73-4e78-8def-961538c06365"
+        },
+        {
+          "titulo": "BUENA SUERTE, DIVIERTETE, NO MUERAS",
+          "horarios": [
             {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "85f30cf1-2441-4524-880c-eb877e5ced48"
+        },
+        {
+          "titulo": "LA LAGRIMA DEL DIABLO",
+          "horarios": [
+            {
+              "horario": "11:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "fed7c09c-8d5c-4df1-ae13-1b83db496419"
+        },
+        {
+          "titulo": "EL DRAMA",
+          "horarios": [
+            {
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -734,22 +744,125 @@
               "formato": "2D"
             },
             {
-              "horario": "20:10",
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "868b8cd8-1e48-448a-9814-9ffc794786f4"
+        },
+        {
+          "titulo": "LA HABITACION NEGRA",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "c739517c-ed91-4b06-aa16-eea82ce2aedb"
+        },
+        {
+          "titulo": "HOPPERS: OPERACION CASTOR",
+          "horarios": [
+            {
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:20",
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "56bb6e64-e62d-4c43-9faf-4235945cdfde"
+        },
+        {
+          "titulo": "SUPER MARIO GALAXY: LA PELICULA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "21:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -812,56 +925,6 @@
               "horario": "22:40",
               "idioma": "DOB",
               "formato": "2D CXC"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "12:10",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:20",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "3D"
             },
             {
               "horario": "10:40",
@@ -897,84 +960,20 @@
           "id": "e23048f5-46b8-406e-b94f-36652f46d88a"
         },
         {
-          "titulo": "CRIATURAS DIABOLICAS",
-          "horarios": [
-            {
-              "horario": "22:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "95004c86-2404-4e49-8e9c-98f977b1c54c"
-        },
-        {
-          "titulo": "JUGADA MAESTRA",
-          "horarios": [
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "f237f227-297d-4aaa-940d-5ef0ab8dfbf7"
-        },
-        {
-          "titulo": "HOPPERS: OPERACION CASTOR",
-          "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "56bb6e64-e62d-4c43-9faf-4235945cdfde"
-        },
-        {
-          "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "2d3792f8-4849-45ef-aa7a-0bd6e6d7275f"
-        },
-        {
           "titulo": "PROYECTO FIN DEL MUNDO",
           "horarios": [
             {
               "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -992,90 +991,15 @@
     {
       "peliculas": [
         {
-          "titulo": "SUPER MARIO GALAXY: LA PELICULA",
+          "titulo": "LA MUERTE DE BLANCANIEVES",
           "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1085,27 +1009,23 @@
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2abed7fc-6f73-4e78-8def-961538c06365"
+        },
+        {
+          "titulo": "BUENA SUERTE, DIVIERTETE, NO MUERAS",
+          "horarios": [
+            {
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1113,42 +1033,12 @@
               "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "3D Atmos"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "DOB",
-              "formato": "3D Atmos"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "3D Atmos"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "3D Atmos"
-            },
-            {
-              "horario": "21:20",
-              "idioma": "DOB",
-              "formato": "3D Atmos"
             }
           ],
-          "id": "e23048f5-46b8-406e-b94f-36652f46d88a"
+          "id": "85f30cf1-2441-4524-880c-eb877e5ced48"
         },
         {
-          "titulo": "CRIATURAS DIABOLICAS",
+          "titulo": "LA LAGRIMA DEL DIABLO",
           "horarios": [
             {
               "horario": "15:00",
@@ -1171,33 +1061,64 @@
               "formato": "2D"
             }
           ],
-          "id": "95004c86-2404-4e49-8e9c-98f977b1c54c"
+          "id": "fed7c09c-8d5c-4df1-ae13-1b83db496419"
         },
         {
-          "titulo": "JUGADA MAESTRA",
+          "titulo": "EL DRAMA",
           "horarios": [
             {
-              "horario": "14:30",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "f237f227-297d-4aaa-940d-5ef0ab8dfbf7"
+          "id": "868b8cd8-1e48-448a-9814-9ffc794786f4"
+        },
+        {
+          "titulo": "LA HABITACION NEGRA",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "c739517c-ed91-4b06-aa16-eea82ce2aedb"
         },
         {
           "titulo": "HOPPERS: OPERACION CASTOR",
@@ -1213,12 +1134,43 @@
               "formato": "2D"
             },
             {
-              "horario": "12:45",
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "56bb6e64-e62d-4c43-9faf-4235945cdfde"
+        },
+        {
+          "titulo": "SUPER MARIO GALAXY: LA PELICULA",
+          "horarios": [
+            {
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:00",
+              "horario": "12:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1228,17 +1180,72 @@
               "formato": "2D"
             },
             {
-              "horario": "15:15",
+              "horario": "14:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "15:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "15:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1246,9 +1253,49 @@
               "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "3D Atmos"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "3D Atmos"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "3D Atmos"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "3D Atmos"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "3D Atmos"
             }
           ],
-          "id": "56bb6e64-e62d-4c43-9faf-4235945cdfde"
+          "id": "e23048f5-46b8-406e-b94f-36652f46d88a"
         },
         {
           "titulo": "PROYECTO FIN DEL MUNDO",
@@ -1292,68 +1339,84 @@
           "id": "0cf34709-2cde-4994-ae4b-20da6260f3e2"
         },
         {
-          "titulo": "PINOCHO",
+          "titulo": "JUGADA MAESTRA",
           "horarios": [
             {
-              "horario": "12:05",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:35",
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "11e5f986-b00b-4af7-a25d-a787d37dcb5f"
-        },
-        {
-          "titulo": "TE VAN A MATAR",
-          "horarios": [
-            {
-              "horario": "17:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "0ebbd42e-1026-44f4-906a-de1475a643ef"
-        },
-        {
-          "titulo": "MAMUT: EL REGRESO DE LOS DINOSAURIOS",
-          "horarios": [
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "93d94727-7081-41d3-b090-930029f0f646"
+          "id": "f237f227-297d-4aaa-940d-5ef0ab8dfbf7"
         }
       ],
       "ciudad": "La Paz"
     },
     {
       "peliculas": [
+        {
+          "titulo": "EL DRAMA",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "868b8cd8-1e48-448a-9814-9ffc794786f4"
+        },
+        {
+          "titulo": "HOPPERS: OPERACION CASTOR",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "56bb6e64-e62d-4c43-9faf-4235945cdfde"
+        },
+        {
+          "titulo": "PROYECTO FIN DEL MUNDO",
+          "horarios": [
+            {
+              "horario": "13:55",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:15",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:35",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "0cf34709-2cde-4994-ae4b-20da6260f3e2"
+        },
         {
           "titulo": "SUPER MARIO GALAXY: LA PELICULA",
           "horarios": [
@@ -1363,17 +1426,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "14:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1383,27 +1436,12 @@
               "formato": "2D"
             },
             {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "21:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1436,31 +1474,10 @@
           "id": "e23048f5-46b8-406e-b94f-36652f46d88a"
         },
         {
-          "titulo": "PROYECTO FIN DEL MUNDO",
-          "horarios": [
-            {
-              "horario": "13:50",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "0cf34709-2cde-4994-ae4b-20da6260f3e2"
-        },
-        {
           "titulo": "PINOCHO",
           "horarios": [
             {
-              "horario": "11:25",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1472,6 +1489,127 @@
     },
     {
       "peliculas": [
+        {
+          "titulo": "LA MUERTE DE BLANCANIEVES",
+          "horarios": [
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2abed7fc-6f73-4e78-8def-961538c06365"
+        },
+        {
+          "titulo": "BUENA SUERTE, DIVIERTETE, NO MUERAS",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "85f30cf1-2441-4524-880c-eb877e5ced48"
+        },
+        {
+          "titulo": "LA LAGRIMA DEL DIABLO",
+          "horarios": [
+            {
+              "horario": "16:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "fed7c09c-8d5c-4df1-ae13-1b83db496419"
+        },
+        {
+          "titulo": "EL DRAMA",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "868b8cd8-1e48-448a-9814-9ffc794786f4"
+        },
+        {
+          "titulo": "LA HABITACION NEGRA",
+          "horarios": [
+            {
+              "horario": "17:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "c739517c-ed91-4b06-aa16-eea82ce2aedb"
+        },
+        {
+          "titulo": "HOPPERS: OPERACION CASTOR",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "56bb6e64-e62d-4c43-9faf-4235945cdfde"
+        },
         {
           "titulo": "SUPER MARIO GALAXY: LA PELICULA",
           "horarios": [
@@ -1487,11 +1625,6 @@
             },
             {
               "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1511,11 +1644,6 @@
               "formato": "2D"
             },
             {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D"
@@ -1531,11 +1659,6 @@
               "formato": "2D"
             },
             {
-              "horario": "18:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -1547,11 +1670,6 @@
             },
             {
               "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1594,20 +1712,63 @@
           "id": "e23048f5-46b8-406e-b94f-36652f46d88a"
         },
         {
+          "titulo": "PROYECTO FIN DEL MUNDO",
+          "horarios": [
+            {
+              "horario": "13:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "0cf34709-2cde-4994-ae4b-20da6260f3e2"
+        },
+        {
+          "titulo": "TE VAN A MATAR",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "0ebbd42e-1026-44f4-906a-de1475a643ef"
+        },
+        {
+          "titulo": "MAMUT: EL REGRESO DE LOS DINOSAURIOS",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "93d94727-7081-41d3-b090-930029f0f646"
+        },
+        {
           "titulo": "CRIATURAS DIABOLICAS",
           "horarios": [
             {
-              "horario": "16:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
+              "horario": "12:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1618,10 +1779,37 @@
           "titulo": "JUGADA MAESTRA",
           "horarios": [
             {
-              "horario": "17:00",
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f237f227-297d-4aaa-940d-5ef0ab8dfbf7"
+        }
+      ],
+      "ciudad": "Tarija"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "BUENA SUERTE, DIVIERTETE, NO MUERAS",
+          "horarios": [
+            {
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "85f30cf1-2441-4524-880c-eb877e5ced48"
+        },
+        {
+          "titulo": "EL DRAMA",
+          "horarios": [
             {
               "horario": "19:20",
               "idioma": "DOB",
@@ -1633,139 +1821,19 @@
               "formato": "2D"
             }
           ],
-          "id": "f237f227-297d-4aaa-940d-5ef0ab8dfbf7"
+          "id": "868b8cd8-1e48-448a-9814-9ffc794786f4"
         },
         {
-          "titulo": "HOPPERS: OPERACION CASTOR",
+          "titulo": "LA HABITACION NEGRA",
           "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "56bb6e64-e62d-4c43-9faf-4235945cdfde"
-        },
-        {
-          "titulo": "GOAT: LA CABRA QUE CAMBIO EL JUEGO",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "2d3792f8-4849-45ef-aa7a-0bd6e6d7275f"
-        },
-        {
-          "titulo": "PROYECTO FIN DEL MUNDO",
-          "horarios": [
-            {
-              "horario": "14:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "0cf34709-2cde-4994-ae4b-20da6260f3e2"
-        },
-        {
-          "titulo": "TE VAN A MATAR",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "21:50",
-              "idioma": "DOB",
+              "idioma": "ESP",
               "formato": "2D"
             }
           ],
-          "id": "0ebbd42e-1026-44f4-906a-de1475a643ef"
+          "id": "c739517c-ed91-4b06-aa16-eea82ce2aedb"
         },
-        {
-          "titulo": "MAMUT: EL REGRESO DE LOS DINOSAURIOS",
-          "horarios": [
-            {
-              "horario": "17:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "93d94727-7081-41d3-b090-930029f0f646"
-        },
-        {
-          "titulo": "TURBULENCIA: PANICO EN EL AIRE",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "784cf72c-a52a-42e5-9a60-2fde8e30c52e"
-        }
-      ],
-      "ciudad": "Tarija"
-    },
-    {
-      "peliculas": [
         {
           "titulo": "SUPER MARIO GALAXY: LA PELICULA",
           "horarios": [
@@ -1813,92 +1881,9 @@
               "horario": "21:20",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:20",
-              "idioma": "DOB",
-              "formato": "3D"
             }
           ],
           "id": "e23048f5-46b8-406e-b94f-36652f46d88a"
-        },
-        {
-          "titulo": "CRIATURAS DIABOLICAS",
-          "horarios": [
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "95004c86-2404-4e49-8e9c-98f977b1c54c"
-        },
-        {
-          "titulo": "JUGADA MAESTRA",
-          "horarios": [
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "f237f227-297d-4aaa-940d-5ef0ab8dfbf7"
-        },
-        {
-          "titulo": "HOPPERS: OPERACION CASTOR",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "56bb6e64-e62d-4c43-9faf-4235945cdfde"
         },
         {
           "titulo": "PROYECTO FIN DEL MUNDO",
@@ -1920,32 +1905,11 @@
             }
           ],
           "id": "0cf34709-2cde-4994-ae4b-20da6260f3e2"
-        },
-        {
-          "titulo": "MAMUT: EL REGRESO DE LOS DINOSAURIOS",
-          "horarios": [
-            {
-              "horario": "12:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "93d94727-7081-41d3-b090-930029f0f646"
         }
       ],
       "ciudad": "Quillacollo"
     }
   ],
   "cine": "MEGA",
-  "fecha": "8/4/2026"
+  "fecha": "9/4/2026"
 }
