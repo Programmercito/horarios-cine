@@ -4,15 +4,56 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
-          "titulo": "BUENA SUERTE, DIVIERTETE, NO MUERAS",
+          "titulo": "THE AMAZING DIGITAL CIRCUS: ÚLTIMO ACTO",
           "horarios": [
             {
-              "idioma": "Sub",
+              "idioma": "Dob",
               "formato": "2D",
-              "horario": "22:20"
+              "horario": "18:30"
             }
           ],
-          "id": "85f30cf1-2441-4524-880c-eb877e5ced48"
+          "id": "3657866f-c4ee-4c33-8cac-f9bb8f6d20a7"
+        },
+        {
+          "titulo": "BTS WORLD TOUR ‘ARIRANG’ IN GOYANG: LIVE VIEWING",
+          "horarios": [
+            {
+              "idioma": "",
+              "formato": "2D",
+              "horario": "15:00"
+            },
+            {
+              "idioma": "",
+              "formato": "2D",
+              "horario": "15:00"
+            },
+            {
+              "idioma": "",
+              "formato": "2D",
+              "horario": "15:00"
+            },
+            {
+              "idioma": "",
+              "formato": "2D",
+              "horario": "18:45"
+            },
+            {
+              "idioma": "",
+              "formato": "2D",
+              "horario": "18:45"
+            },
+            {
+              "idioma": "",
+              "formato": "2D",
+              "horario": "18:45"
+            },
+            {
+              "idioma": "",
+              "formato": "2D",
+              "horario": "15:00"
+            }
+          ],
+          "id": "29b6ff36-ec01-42b6-8d79-be04288a8d28"
         },
         {
           "titulo": "EL DRAMA",
@@ -46,10 +87,21 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "22:40"
+              "horario": "22:30"
             }
           ],
           "id": "20805e9e-5f87-4d9a-a2a2-1f35b3129c03"
+        },
+        {
+          "titulo": "BUENA SUERTE, DIVIERTETE, NO MUERAS",
+          "horarios": [
+            {
+              "idioma": "Sub",
+              "formato": "2D",
+              "horario": "22:20"
+            }
+          ],
+          "id": "85f30cf1-2441-4524-880c-eb877e5ced48"
         },
         {
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
@@ -57,12 +109,12 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "11:00"
+              "horario": "10:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "11:20"
+              "horario": "11:00"
             },
             {
               "idioma": "Dob",
@@ -72,12 +124,17 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "13:20"
+              "horario": "12:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "13:40"
+              "horario": "12:50"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "13:20"
             },
             {
               "idioma": "Dob",
@@ -92,11 +149,6 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "16:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "16:40"
             },
             {
@@ -107,17 +159,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "18:20"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "19:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "20:20"
             },
             {
               "idioma": "Dob",
@@ -131,13 +173,18 @@
             },
             {
               "idioma": "Dob",
-              "formato": "3D",
-              "horario": "10:40"
+              "formato": "2D",
+              "horario": "21:50"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "2D",
+              "horario": "22:20"
             },
             {
               "idioma": "Dob",
               "formato": "3D",
-              "horario": "12:20"
+              "horario": "10:40"
             },
             {
               "idioma": "Dob",
@@ -147,17 +194,7 @@
             {
               "idioma": "Dob",
               "formato": "3D",
-              "horario": "14:40"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
               "horario": "15:20"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
-              "horario": "17:00"
             },
             {
               "idioma": "Dob",
@@ -167,17 +204,7 @@
             {
               "idioma": "Dob",
               "formato": "3D",
-              "horario": "19:20"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
               "horario": "20:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "3D",
-              "horario": "21:40"
             },
             {
               "idioma": "Dob",
@@ -192,27 +219,22 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "15:00"
+              "horario": "10:20"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "17:20"
+              "horario": "10:30"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "19:40"
+              "horario": "11:20"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "22:00"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
-              "horario": "12:20"
+              "horario": "12:40"
             },
             {
               "idioma": "Dob",
@@ -227,11 +249,6 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "14:30"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "15:00"
             },
             {
@@ -242,22 +259,22 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "16:50"
-            },
-            {
-              "idioma": "Dob",
-              "formato": "2D",
               "horario": "17:20"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "19:10"
+              "horario": "19:00"
             },
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "21:30"
+              "horario": "21:20"
+            },
+            {
+              "idioma": "Dob",
+              "formato": "3D",
+              "horario": "10:40"
             },
             {
               "idioma": "Dob",
@@ -313,7 +330,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "22:20"
+              "horario": "22:40"
             }
           ],
           "id": "f237f227-297d-4aaa-940d-5ef0ab8dfbf7"
@@ -339,7 +356,7 @@
             {
               "idioma": "Dob",
               "formato": "2D",
-              "horario": "22:00"
+              "horario": "22:20"
             },
             {
               "idioma": "Dob",
@@ -379,5 +396,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "10/4/2026"
+  "fecha": "11/4/2026"
 }
