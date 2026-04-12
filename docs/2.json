@@ -6,69 +6,34 @@
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
           "horarios": [
             {
-              "horario": "10:40",
+              "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "3D - 3D KRONOS"
             },
             {
-              "horario": "12:50",
+              "horario": "14:00",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "3D - 3D KRONOS"
             },
             {
-              "horario": "15:00",
+              "horario": "16:10",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "3D - 3D KRONOS"
             },
             {
-              "horario": "17:10",
+              "horario": "18:20",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "3D - 3D KRONOS"
             },
             {
-              "horario": "19:20",
+              "horario": "20:30",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "3D - 3D KRONOS"
             },
             {
-              "horario": "21:30",
+              "horario": "22:40",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D - 3D KRONOS"
             },
             {
               "horario": "12:10",
@@ -121,48 +86,57 @@
               "formato": "2D"
             },
             {
-              "horario": "12:00",
+              "horario": "12:50",
               "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "14:00",
+              "horario": "15:00",
               "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "16:10",
+              "horario": "17:10",
               "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "18:20",
+              "horario": "19:20",
               "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "20:30",
+              "horario": "21:30",
               "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "22:40",
+              "horario": "13:10",
               "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
             }
           ],
           "id": "67ca0162-9166-46fa-b551-617f6b890cfd"
-        },
-        {
-          "titulo": "HOPPERS: OPERACIÓN CASTOR",
-          "horarios": [
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "76de4f03-05c9-40d3-bb31-883d4696e6eb"
         },
         {
           "titulo": "PROYECTO FIN DEL MUNDO",
@@ -183,11 +157,6 @@
         {
           "titulo": "MAMUT: EL REGRESO DE LOS DINOSAURIOS",
           "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "15:50",
               "idioma": "Español",
@@ -266,8 +235,24 @@
           "id": "649f23f7-fdbd-45c2-8b40-b4cea660f24c"
         },
         {
+          "titulo": "HOPPERS: OPERACIÓN CASTOR",
+          "horarios": [
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "76de4f03-05c9-40d3-bb31-883d4696e6eb"
+        },
+        {
           "titulo": "LA LÁGRIMA DEL DIABLO",
           "horarios": [
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "18:10",
               "idioma": "Español",
@@ -285,49 +270,34 @@
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
           "horarios": [
             {
-              "horario": "09:20",
+              "horario": "12:00",
               "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "formato": "3D"
             },
             {
-              "horario": "11:20",
+              "horario": "14:00",
               "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "formato": "3D"
             },
             {
-              "horario": "13:30",
+              "horario": "16:10",
               "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "formato": "3D"
             },
             {
-              "horario": "15:40",
+              "horario": "18:20",
               "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "formato": "3D"
             },
             {
-              "horario": "17:50",
+              "horario": "20:30",
               "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "formato": "3D"
             },
             {
-              "horario": "20:00",
+              "horario": "22:40",
               "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "22:15",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "10:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:20",
-              "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             },
             {
               "horario": "12:10",
@@ -410,61 +380,6 @@
               "formato": "2D"
             },
             {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "21:20",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
               "horario": "12:40",
               "idioma": "Español",
               "formato": "3D PLUS"
@@ -485,9 +400,24 @@
               "formato": "3D PLUS"
             },
             {
-              "horario": "11:00",
+              "horario": "13:50",
               "idioma": "Español",
-              "formato": "3D XL"
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
             },
             {
               "horario": "13:10",
@@ -515,11 +445,6 @@
               "formato": "3D XL"
             },
             {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
               "horario": "13:40",
               "idioma": "Español",
               "formato": "2D XL"
@@ -543,6 +468,31 @@
               "horario": "22:20",
               "idioma": "Español",
               "formato": "2D XL"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
             }
           ],
           "id": "67ca0162-9166-46fa-b551-617f6b890cfd"
@@ -551,9 +501,9 @@
           "titulo": "BUENA SUERTE, DIVIÉRTETE, NO MUERAS",
           "horarios": [
             {
-              "horario": "14:15",
+              "horario": "12:10",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             },
             {
               "horario": "17:00",
@@ -571,6 +521,11 @@
               "formato": "2D"
             },
             {
+              "horario": "14:15",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
               "horario": "21:30",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
@@ -582,17 +537,22 @@
           "titulo": "PROYECTO FIN DEL MUNDO",
           "horarios": [
             {
-              "horario": "14:30",
+              "horario": "13:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:20",
+              "horario": "16:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:30",
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -607,6 +567,11 @@
         {
           "titulo": "EL DRAMA",
           "horarios": [
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "16:00",
               "idioma": "Español",
@@ -639,6 +604,11 @@
           "titulo": "LA MUERTE DE BLANCA NIEVES",
           "horarios": [
             {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "19:50",
               "idioma": "Español",
               "formato": "2D"
@@ -655,6 +625,11 @@
           "titulo": "LA LÁGRIMA DEL DIABLO",
           "horarios": [
             {
+              "horario": "13:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "17:00",
               "idioma": "Español",
               "formato": "2D"
@@ -670,6 +645,11 @@
         {
           "titulo": "LA HABITACIÓN NEGRA",
           "horarios": [
+            {
+              "horario": "15:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "19:00",
               "idioma": "Español",
@@ -725,14 +705,19 @@
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
           "horarios": [
             {
-              "horario": "10:40",
+              "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             },
             {
-              "horario": "11:20",
+              "horario": "18:20",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "3D"
             },
             {
               "horario": "12:10",
@@ -751,6 +736,11 @@
             },
             {
               "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -800,9 +790,9 @@
               "formato": "2D"
             },
             {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D XL"
+              "horario": "13:20",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             },
             {
               "horario": "13:40",
@@ -828,26 +818,6 @@
               "horario": "22:20",
               "idioma": "Español",
               "formato": "2D XL"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
             }
           ],
           "id": "67ca0162-9166-46fa-b551-617f6b890cfd"
@@ -884,32 +854,6 @@
           "id": "0cf34709-2cde-4994-ae4b-20da6260f3e2"
         },
         {
-          "titulo": "EL DRAMA",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "868b8cd8-1e48-448a-9814-9ffc794786f4"
-        },
-        {
           "titulo": "BUENA SUERTE, DIVIÉRTETE, NO MUERAS",
           "horarios": [
             {
@@ -936,13 +880,34 @@
           "id": "649f23f7-fdbd-45c2-8b40-b4cea660f24c"
         },
         {
-          "titulo": "HOPPERS: OPERACIÓN CASTOR",
+          "titulo": "EL DRAMA",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "12:50",
               "idioma": "Español",
               "formato": "2D"
             },
+            {
+              "horario": "17:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "868b8cd8-1e48-448a-9814-9ffc794786f4"
+        },
+        {
+          "titulo": "HOPPERS: OPERACIÓN CASTOR",
+          "horarios": [
             {
               "horario": "14:00",
               "idioma": "Español",
@@ -955,6 +920,22 @@
             }
           ],
           "id": "76de4f03-05c9-40d3-bb31-883d4696e6eb"
+        },
+        {
+          "titulo": "LA MUERTE DE BLANCA NIEVES",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "92fd3317-6807-4156-a554-be5bd9b988ce"
         },
         {
           "titulo": "JUGADA MAESTRA",
@@ -1000,22 +981,6 @@
           "id": "6944dbb1-b233-498f-bbb7-7dd76a91cf8b"
         },
         {
-          "titulo": "LA MUERTE DE BLANCA NIEVES",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "92fd3317-6807-4156-a554-be5bd9b988ce"
-        },
-        {
           "titulo": "CRIATURAS DIABÓLICAS",
           "horarios": [
             {
@@ -1031,5 +996,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "11/4/2026"
+  "fecha": "12/4/2026"
 }
