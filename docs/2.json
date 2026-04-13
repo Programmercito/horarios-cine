@@ -155,22 +155,6 @@
           "id": "0cf34709-2cde-4994-ae4b-20da6260f3e2"
         },
         {
-          "titulo": "MAMUT: EL REGRESO DE LOS DINOSAURIOS",
-          "horarios": [
-            {
-              "horario": "15:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "93d94727-7081-41d3-b090-930029f0f646"
-        },
-        {
           "titulo": "EL DRAMA",
           "horarios": [
             {
@@ -219,6 +203,22 @@
           "id": "92fd3317-6807-4156-a554-be5bd9b988ce"
         },
         {
+          "titulo": "MAMUT: EL REGRESO DE LOS DINOSAURIOS",
+          "horarios": [
+            {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "93d94727-7081-41d3-b090-930029f0f646"
+        },
+        {
           "titulo": "BUENA SUERTE, DIVIÉRTETE, NO MUERAS",
           "horarios": [
             {
@@ -235,17 +235,6 @@
           "id": "649f23f7-fdbd-45c2-8b40-b4cea660f24c"
         },
         {
-          "titulo": "HOPPERS: OPERACIÓN CASTOR",
-          "horarios": [
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "76de4f03-05c9-40d3-bb31-883d4696e6eb"
-        },
-        {
           "titulo": "LA LÁGRIMA DEL DIABLO",
           "horarios": [
             {
@@ -260,6 +249,17 @@
             }
           ],
           "id": "20805e9e-5f87-4d9a-a2a2-1f35b3129c03"
+        },
+        {
+          "titulo": "HOPPERS: OPERACIÓN CASTOR",
+          "horarios": [
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "76de4f03-05c9-40d3-bb31-883d4696e6eb"
         }
       ],
       "ciudad": "El Alto"
@@ -609,12 +609,7 @@
               "formato": "2D"
             },
             {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
+              "horario": "22:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -684,6 +679,39 @@
             }
           ],
           "id": "76de4f03-05c9-40d3-bb31-883d4696e6eb"
+        },
+        {
+          "titulo": "MI SOCIO 1",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6807f1f0-855d-457e-a00d-e24c18de72dd"
+        },
+        {
+          "titulo": "MI SOCIO 2.0",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "e6aaff02-0d8f-43cc-be05-e433f6a9506b"
+        },
+        {
+          "titulo": "MAMUT: EL REGRESO DE LOS DINOSAURIOS",
+          "horarios": [
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "93d94727-7081-41d3-b090-930029f0f646"
         },
         {
           "titulo": "JUGADA MAESTRA",
@@ -841,7 +869,7 @@
               "formato": "2D"
             },
             {
-              "horario": "20:45",
+              "horario": "21:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -893,33 +921,17 @@
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "19:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:45",
+              "horario": "21:50",
               "idioma": "Ingles",
               "formato": "2D SUB"
             }
           ],
           "id": "868b8cd8-1e48-448a-9814-9ffc794786f4"
-        },
-        {
-          "titulo": "HOPPERS: OPERACIÓN CASTOR",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "76de4f03-05c9-40d3-bb31-883d4696e6eb"
         },
         {
           "titulo": "LA MUERTE DE BLANCA NIEVES",
@@ -938,15 +950,20 @@
           "id": "92fd3317-6807-4156-a554-be5bd9b988ce"
         },
         {
-          "titulo": "JUGADA MAESTRA",
+          "titulo": "HOPPERS: OPERACIÓN CASTOR",
           "horarios": [
             {
-              "horario": "21:50",
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "f237f227-297d-4aaa-940d-5ef0ab8dfbf7"
+          "id": "76de4f03-05c9-40d3-bb31-883d4696e6eb"
         },
         {
           "titulo": "LA LÁGRIMA DEL DIABLO",
@@ -957,7 +974,7 @@
               "formato": "2D"
             },
             {
-              "horario": "18:45",
+              "horario": "17:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -969,11 +986,6 @@
           "horarios": [
             {
               "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -996,5 +1008,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "12/4/2026"
+  "fecha": "13/4/2026"
 }
