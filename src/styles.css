@@ -98,6 +98,19 @@ body {
     radial-gradient(circle at 52% 90%, rgba(59, 130, 246, .08) 0%, transparent 26%);
   background-blend-mode: screen;
   background-attachment: fixed;
+  /* NOTE: filter is NOT applied directly to body so that position:fixed children
+     (popup overlays) are always positioned relative to the viewport, not the body.
+     The subtle brightness/saturation pulse is delegated to a pseudo-element below. */
+}
+
+/* Subtle ambient animation on a pseudo-element so it never creates a new
+   containing block for any position:fixed descendant. */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
   animation: backgroundPulse 18s ease-in-out infinite;
 }
 
