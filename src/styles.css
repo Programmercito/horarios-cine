@@ -2,7 +2,7 @@
    Cinema Bo – Global Design System v2
    Premium Dark UI + Neon Accents
    ======================================== */
-@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,700&family=Nunito:wght@300;400;500;600;700&family=Fira+Code:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,700&family=Fira+Code:wght@400;500;700&display=swap');
 
 /* ─── Reset ─────────────────────────────── */
 *,
@@ -36,8 +36,8 @@
   --grad-header: linear-gradient(180deg, rgba(13, 32, 57, .94) 0%, rgba(19, 40, 68, .94) 100%);
 
   /* Typography */
-  --font-display: 'Exo 2', sans-serif;
-  --font-body: 'Nunito', sans-serif;
+  --font-display: 'Inter', sans-serif;
+  --font-body: 'Inter', sans-serif;
   --font-mono: 'Fira Code', monospace;
 
   /* Text */
@@ -81,6 +81,16 @@ html {
   background: #0d1e36 !important;
 }
 
+html,
+body,
+button,
+input,
+textarea,
+select,
+optgroup {
+  font-family: var(--font-body);
+}
+
 body {
   font-family: var(--font-body);
   background-color: var(--bg-base) !important;
@@ -91,6 +101,8 @@ body {
   font-weight: 400;
   letter-spacing: .3px;
   line-height: 1.6;
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: 'tnum' 1;
   /* ambient glow background */
   background-image:
     radial-gradient(circle at 16% 14%, rgba(56, 189, 248, .16) 0%, transparent 30%),
