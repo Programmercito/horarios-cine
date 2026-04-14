@@ -95,7 +95,7 @@
   font-weight: 800;
   margin: 0;
   letter-spacing: -0.5px;
-  background: linear-gradient(135deg, #f1f5f9 0%, var(--neon-cyan) 50%, var(--neon-blue) 100%);
+  background: linear-gradient(135deg, #c7d2fe 0%, var(--neon-cyan) 50%, var(--neon-blue) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -111,7 +111,7 @@
   justify-content: space-between;
   align-items: center;
   gap: 1rem;
-  background: rgba(255, 255, 255, .015);
+  background: rgba(12, 21, 42, .92);
 }
 
 .nav-button {
@@ -250,7 +250,7 @@
   margin: 0;
   font-weight: 700;
   letter-spacing: .5px;
-  background: linear-gradient(135deg, #f1f5f9, var(--neon-cyan));
+  background: linear-gradient(135deg, #c7d2fe, var(--neon-cyan));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -288,7 +288,7 @@
 
 /* ── Movie Card ──────────────────────────── */
 .movie-card {
-  background: rgba(255, 255, 255, .04);
+  background: rgba(8, 18, 38, .94);
   border: 1px solid var(--border-subtle);
   border-radius: var(--radius-lg);
   padding: 1.3rem 1.4rem;
@@ -321,9 +321,9 @@
 
 .movie-card:hover {
   transform: translateY(-3px);
-  background: rgba(255, 255, 255, .07);
-  border-color: rgba(59, 130, 246, .3);
-  box-shadow: 0 6px 24px rgba(59, 130, 246, .15);
+  background: rgba(18, 36, 70, .96);
+  border-color: rgba(59, 130, 246, .4);
+  box-shadow: 0 6px 24px rgba(59, 130, 246, .18);
 }
 
 /* ── Movie Header ────────────────────────── */
@@ -362,7 +362,7 @@
   cursor: pointer;
   overflow: hidden;
   transition: transform var(--t-med) var(--ease-spring), box-shadow var(--t-med) ease;
-  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.05);
+  box-shadow: 0 0 0 1px rgba(56, 189, 248, 0.15);
 }
 
 /* The moving dot */
@@ -474,11 +474,12 @@
 .schedule-time {
   color: var(--text-primary);
   font-family: var(--font-mono);
-  font-size: 1.3rem;
-  font-weight: 700;
-  margin-bottom: .4rem;
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: .25rem;
   letter-spacing: 1px;
-  text-shadow: 0 0 14px rgba(34, 211, 238, .3);
+  line-height: 1.05;
+  text-shadow: 0 0 16px rgba(34, 211, 238, .35);
 }
 
 .schedule-details {
@@ -555,7 +556,7 @@
   position: absolute;
   top: 1rem;
   right: 1rem;
-  background: rgba(255, 255, 255, .08);
+  background: rgba(10, 18, 36, .85);
   color: var(--text-secondary);
   border: 1px solid var(--border-subtle);
   width: 34px;

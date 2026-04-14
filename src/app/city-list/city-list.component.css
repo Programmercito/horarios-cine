@@ -84,7 +84,7 @@
   font-weight: 800;
   margin: 0;
   letter-spacing: -1px;
-  background: linear-gradient(135deg, #f1f5f9 0%, var(--neon-cyan) 50%, var(--neon-blue) 100%);
+  background: linear-gradient(135deg, #c7d2fe 0%, var(--neon-cyan) 50%, var(--neon-blue) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -170,7 +170,7 @@
   content: '';
   position: absolute;
   inset: 0;
-  background: linear-gradient(105deg, transparent 35%, rgba(255, 255, 255, .08) 50%, transparent 65%);
+  background: linear-gradient(105deg, transparent 35%, rgba(34, 211, 238, .08) 50%, transparent 65%);
   background-size: 200% 100%;
   transition: background-position .5s ease;
   border-radius: inherit;
