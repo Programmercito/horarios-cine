@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, ElementRef, OnDestroy, OnInit, ViewChild } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
-import { catchError, EMPTY, of } from 'rxjs';
+import { catchError, EMPTY, of, tap } from 'rxjs';
 import { CommonModule } from '@angular/common';
 import { DomSanitizer, SafeResourceUrl, Title, Meta } from '@angular/platform-browser';
 import { CineData, Ciudad, Pelicula } from '../shared/models';
@@ -32,6 +32,7 @@ export class ScheduleListComponent extends EncodingCine implements OnInit, OnDes
   currentSchedule: any = null;
   currentMovieTitle: string = '';
   currentYear = new Date().getFullYear();
+  cinemaConfig: { [key: string]: boolean } = {};
 
   @ViewChild('movieDialog') movieDialogRef!: ElementRef<HTMLDialogElement>;
   @ViewChild('scheduleDialog') scheduleDialogRef!: ElementRef<HTMLDialogElement>;
@@ -47,11 +48,25 @@ export class ScheduleListComponent extends EncodingCine implements OnInit, OnDes
   }
 
   ngOnInit(): void {
-    this.route.paramMap.subscribe(params => {
-      this.city = params.get('city') || '';
-      this.cinemid = params.get('id') || '';
-      this.fetchcinema(this.cinemid, this.city);
+    this.loadCinemaConfig().subscribe(() => {
+      this.route.paramMap.subscribe(params => {
+        this.city = params.get('city') || '';
+        this.cinemid = params.get('id') || '';
+        this.fetchcinema(this.cinemid, this.city);
+      });
     });
+  }
+
+  private loadCinemaConfig() {
+    return this.http.get<{ [key: string]: boolean }>('/cinema-config.json').pipe(
+      catchError(error => {
+        console.error('Error loading cinema config:', error);
+        return of({});
+      }),
+      tap(config => {
+        this.cinemaConfig = config || {};
+      })
+    );
   }
   fetchcinema(cinemid: string, city: string) {
     // Check localStorage first
@@ -91,6 +106,20 @@ export class ScheduleListComponent extends EncodingCine implements OnInit, OnDes
   }
 
   private fetchAllRemoteCinemas(targetCinemId: string) {
+    const enabledIds = Object.keys(this.cinemaConfig)
+      .filter(id => this.cinemaConfig[id])
+      .map(id => Number(id))
+      .filter(id => !isNaN(id))
+      .sort((a, b) => a - b);
+
+    if (enabledIds.length > 0) {
+      const targetIdNumber = Number(targetCinemId);
+      const ids = enabledIds.includes(targetIdNumber) ? enabledIds : [...enabledIds, targetIdNumber];
+      const uniqueIds = Array.from(new Set(ids)).sort((a, b) => a - b);
+      this.fetchRemoteCinemasByIds(uniqueIds, 0, targetCinemId);
+      return;
+    }
+
     let fileIndex = 1;
     const fetchRemote = () => {
       this.http.get<any>(`/${fileIndex}.json`).pipe(
@@ -103,20 +132,42 @@ export class ScheduleListComponent extends EncodingCine implements OnInit, OnDes
         })
       ).subscribe(data => {
         if (data) {
-          // Store in localStorage
           localStorage.setItem('cine_' + fileIndex, this.codificarBase64(JSON.stringify(data)));
-
-          // If this is the cinema we need, process it
           if (fileIndex.toString() === targetCinemId) {
             this.processCinemaData(data);
           }
-
           fileIndex++;
           fetchRemote();
         }
       });
     };
     fetchRemote();
+  }
+
+  private fetchRemoteCinemasByIds(ids: number[], index: number, targetCinemId: string) {
+    if (index >= ids.length) {
+      return;
+    }
+
+    const fileIndex = ids[index];
+    this.http.get<any>(`/${fileIndex}.json`).pipe(
+      catchError(error => {
+        if (error.status === 404) {
+          console.warn(`Active config says /${fileIndex}.json should exist, but it returned 404. Continuing.`);
+          return of(null);
+        }
+        console.error(`Error fetching /${fileIndex}.json:`, error);
+        return of(null);
+      })
+    ).subscribe(data => {
+      if (data) {
+        localStorage.setItem('cine_' + fileIndex, this.codificarBase64(JSON.stringify(data)));
+        if (fileIndex.toString() === targetCinemId) {
+          this.processCinemaData(data);
+        }
+      }
+      this.fetchRemoteCinemasByIds(ids, index + 1, targetCinemId);
+    });
   }
 
   private processCinemaData(data: any) {

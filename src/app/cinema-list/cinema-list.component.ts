@@ -110,6 +110,18 @@ export class CinemaListComponent extends EncodingCine implements OnInit {
       today.getDate() === dataDate.getDate();
   }
   private fetchRemoteCinemas(city: string) {
+    const enabledIds = Object.keys(this.cinemaConfig)
+      .filter(id => this.cinemaConfig[id])
+      .map(id => Number(id))
+      .filter(id => !isNaN(id))
+      .sort((a, b) => a - b);
+
+    if (enabledIds.length > 0) {
+      this.fetchRemoteCinemasByIds(enabledIds, 0, city);
+      this.loadPeliculasData();
+      return;
+    }
+
     let fileIndex = 1;
     const fetchremote = () => {
       this.http.get<any>(`/${fileIndex}.json`).pipe(
@@ -131,6 +143,30 @@ export class CinemaListComponent extends EncodingCine implements OnInit {
     }
     fetchremote();
     this.loadPeliculasData();
+  }
+
+  private fetchRemoteCinemasByIds(ids: number[], index: number, city: string) {
+    if (index >= ids.length) {
+      return;
+    }
+
+    const fileIndex = ids[index];
+    this.http.get<any>(`/${fileIndex}.json`).pipe(
+      catchError(error => {
+        if (error.status === 404) {
+          console.warn(`Active config says /${fileIndex}.json should exist, but it returned 404. Continuing.`);
+          return of(null);
+        }
+        console.error(`Error fetching /${fileIndex}.json:`, error);
+        return of(null);
+      })
+    ).subscribe(data => {
+      if (data) {
+        this.processCinemaData(data, fileIndex, city);
+        localStorage.setItem('cine_' + fileIndex, this.codificarBase64(JSON.stringify(data)));
+      }
+      this.fetchRemoteCinemasByIds(ids, index + 1, city);
+    });
   }
   private processCinemaData(data: any, fileIndex: number, city: string) {
     if (data && data.ciudades) {
