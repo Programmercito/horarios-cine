@@ -1,5 +1,5 @@
 import { HttpClient } from '@angular/common/http';
-import { Component, OnInit } from '@angular/core';
+import { Component, OnDestroy, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { catchError, EMPTY, of } from 'rxjs';
 import { CommonModule } from '@angular/common';
@@ -14,7 +14,7 @@ import { EncodingCine } from '../shared/common/encoding';
   templateUrl: './schedule-list.component.html',
   styleUrls: ['./schedule-list.component.css']
 })
-export class ScheduleListComponent extends EncodingCine implements OnInit {
+export class ScheduleListComponent extends EncodingCine implements OnInit, OnDestroy {
   city: string = '';
   cinemid: string = '';
   cinemaName: string = '';
@@ -48,6 +48,11 @@ export class ScheduleListComponent extends EncodingCine implements OnInit {
       this.cinemid = params.get('id') || '';
       this.fetchcinema(this.cinemid, this.city);
     });
+  }
+
+  ngOnDestroy(): void {
+    // Ensure body scroll is restored if the component is destroyed while a popup is open
+    document.body.style.overflow = '';
   }
   fetchcinema(cinemid: string, city: string) {
     // Check localStorage first
@@ -254,14 +259,34 @@ export class ScheduleListComponent extends EncodingCine implements OnInit {
   loadMovieData(movieId: string) {
     // Buscar la película en pelidata por ID
     this.currentPeli = this.pelidata.find(p => p.id === movieId) || null;
+    this.openMoviePopup();
+  }
+
+  openMoviePopup() {
     this.showMoviePopup = true;
+    document.body.style.overflow = 'hidden';
+  }
+
+  closeMoviePopup() {
+    this.showMoviePopup = false;
+    document.body.style.overflow = '';
   }
 
   // Schedule popup method
   showScheduleDetails(schedule: any, movieTitle: string) {
     this.currentSchedule = schedule;
     this.currentMovieTitle = movieTitle;
+    this.openSchedulePopup();
+  }
+
+  openSchedulePopup() {
     this.showSchedulePopup = true;
+    document.body.style.overflow = 'hidden';
+  }
+
+  closeSchedulePopup() {
+    this.showSchedulePopup = false;
+    document.body.style.overflow = '';
   }
 
   // Sanitize YouTube URL

@@ -80,59 +80,6 @@
     }
   </div>
 
-  <!-- Movie Popup (vacío por ahora) -->
-  @if (showMoviePopup) {
-  <div class="movie-popup-overlay" (click)="showMoviePopup = false">
-    <div class="movie-popup" (click)="$event.stopPropagation()">
-      <!-- Botón de cerrar -->
-      <button class="close-btn" (click)="showMoviePopup = false" title="Cerrar">✕</button>
-
-      <!-- Mostrar título de la película -->
-      @if (currentPeli) {
-      <h2>{{ currentPeli.titulo }}</h2>
-      <!-- Fecha de estreno -->
-      @if (currentPeli.extras?.release_date) {
-      <div class="release-date">
-        <span>Estreno: {{ currentPeli.extras?.release_date | date:'dd/MM/yyyy' }}</span>
-        @if (currentPeli.extras?.adult) {
-        <span class="adult-badge">+18</span>
-        }
-      </div>
-      }
-      <!-- Video de YouTube embedido -->
-      @if (currentPeli.video) {
-      <div class="video-container">
-        <iframe [src]="getYouTubeUrl(currentPeli.video)" title="YouTube video player" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen>
-        </iframe>
-      </div>
-      }
-
-      <!-- Poster y descripción -->
-      @if (currentPeli.extras) {
-      <div class="movie-details">
-        <div class="poster-and-overview">
-          @if (currentPeli.extras.poster_path) {
-          <img [src]="'https://image.tmdb.org/t/p/w200' + currentPeli.extras.poster_path"
-            [alt]="currentPeli.titulo + ' poster'" class="movie-poster">
-          }
-          @if (currentPeli.extras.overview) {
-          <div class="movie-overview">
-            <h3>Sinopsis</h3>
-            <p>{{ currentPeli.extras.overview }}</p>
-          </div>
-          }
-        </div>
-      </div>
-      }
-      } @else {
-      <p>No se encontró información de la película</p>
-      }
-    </div>
-  </div>
-  }
-
   <!-- Footer -->
   <footer class="app-footer">
     <div class="footer-inner">
@@ -145,11 +92,64 @@
   </footer>
 </div>
 
-<!-- Schedule Popup -->
+<!-- Movie Popup – outside .container so position:fixed works correctly -->
+@if (showMoviePopup) {
+<div class="movie-popup-overlay" (click)="closeMoviePopup()">
+  <div class="movie-popup" (click)="$event.stopPropagation()">
+    <!-- Botón de cerrar -->
+    <button class="close-btn" (click)="closeMoviePopup()" title="Cerrar">✕</button>
+
+    <!-- Mostrar título de la película -->
+    @if (currentPeli) {
+    <h2>{{ currentPeli.titulo }}</h2>
+    <!-- Fecha de estreno -->
+    @if (currentPeli.extras?.release_date) {
+    <div class="release-date">
+      <span>Estreno: {{ currentPeli.extras?.release_date | date:'dd/MM/yyyy' }}</span>
+      @if (currentPeli.extras?.adult) {
+      <span class="adult-badge">+18</span>
+      }
+    </div>
+    }
+    <!-- Video de YouTube embedido -->
+    @if (currentPeli.video) {
+    <div class="video-container">
+      <iframe [src]="getYouTubeUrl(currentPeli.video)" title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+    }
+
+    <!-- Poster y descripción -->
+    @if (currentPeli.extras) {
+    <div class="movie-details">
+      <div class="poster-and-overview">
+        @if (currentPeli.extras.poster_path) {
+        <img [src]="'https://image.tmdb.org/t/p/w200' + currentPeli.extras.poster_path"
+          [alt]="currentPeli.titulo + ' poster'" class="movie-poster">
+        }
+        @if (currentPeli.extras.overview) {
+        <div class="movie-overview">
+          <h3>Sinopsis</h3>
+          <p>{{ currentPeli.extras.overview }}</p>
+        </div>
+        }
+      </div>
+    </div>
+    }
+    } @else {
+    <p>No se encontró información de la película</p>
+    }
+  </div>
+</div>
+}
+
+<!-- Schedule Popup – outside .container so position:fixed works correctly -->
 @if (showSchedulePopup) {
-<div class="schedule-popup-overlay" (click)="showSchedulePopup = false">
+<div class="schedule-popup-overlay" (click)="closeSchedulePopup()">
   <div class="schedule-popup" (click)="$event.stopPropagation()">
-    <button class="close-btn" (click)="showSchedulePopup = false">×</button>
+    <button class="close-btn" (click)="closeSchedulePopup()">×</button>
 
     <h2>{{ currentMovieTitle }}</h2>
 
