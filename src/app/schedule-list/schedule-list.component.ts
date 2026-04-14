@@ -1,5 +1,5 @@
 import { HttpClient } from '@angular/common/http';
-import { Component, OnInit } from '@angular/core';
+import { Component, ElementRef, OnDestroy, OnInit, ViewChild } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { catchError, EMPTY, of } from 'rxjs';
 import { CommonModule } from '@angular/common';
@@ -14,7 +14,7 @@ import { EncodingCine } from '../shared/common/encoding';
   templateUrl: './schedule-list.component.html',
   styleUrls: ['./schedule-list.component.css']
 })
-export class ScheduleListComponent extends EncodingCine implements OnInit {
+export class ScheduleListComponent extends EncodingCine implements OnInit, OnDestroy {
   city: string = '';
   cinemid: string = '';
   cinemaName: string = '';
@@ -32,6 +32,10 @@ export class ScheduleListComponent extends EncodingCine implements OnInit {
   currentSchedule: any = null;
   currentMovieTitle: string = '';
   currentYear = new Date().getFullYear();
+
+  @ViewChild('movieDialog') movieDialogRef!: ElementRef<HTMLDialogElement>;
+  @ViewChild('scheduleDialog') scheduleDialogRef!: ElementRef<HTMLDialogElement>;
+
   constructor(private route: ActivatedRoute,
     private http: HttpClient,
     private router: Router,
@@ -252,9 +256,14 @@ export class ScheduleListComponent extends EncodingCine implements OnInit {
 
   // Movie data method
   loadMovieData(movieId: string) {
-    // Buscar la película en pelidata por ID
     this.currentPeli = this.pelidata.find(p => p.id === movieId) || null;
     this.showMoviePopup = true;
+    this.movieDialogRef.nativeElement.showModal();
+  }
+
+  closeMoviePopup(): void {
+    this.showMoviePopup = false;
+    this.movieDialogRef.nativeElement.close();
   }
 
   // Schedule popup method
@@ -262,6 +271,20 @@ export class ScheduleListComponent extends EncodingCine implements OnInit {
     this.currentSchedule = schedule;
     this.currentMovieTitle = movieTitle;
     this.showSchedulePopup = true;
+    this.scheduleDialogRef.nativeElement.showModal();
+  }
+
+  closeSchedulePopup(): void {
+    this.showSchedulePopup = false;
+    this.scheduleDialogRef.nativeElement.close();
+  }
+
+  onDialogBackdropClick(event: MouseEvent, dialog: HTMLDialogElement): void {
+    if (event.target === dialog) {
+      dialog.close();
+      this.showMoviePopup = false;
+      this.showSchedulePopup = false;
+    }
   }
 
   // Sanitize YouTube URL
@@ -303,5 +326,14 @@ export class ScheduleListComponent extends EncodingCine implements OnInit {
     const siteUrl = encodeURIComponent('https://cine.devcito.org');
     const url = `https://t.me/share/url?url=${siteUrl}&text=${text}`;
     window.open(url, '_blank');
+  }
+
+  ngOnDestroy(): void {
+    if (this.movieDialogRef?.nativeElement?.open) {
+      this.movieDialogRef.nativeElement.close();
+    }
+    if (this.scheduleDialogRef?.nativeElement?.open) {
+      this.scheduleDialogRef.nativeElement.close();
+    }
   }
 }
