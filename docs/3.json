@@ -3,38 +3,26 @@
     {
       "peliculas": [
         {
-          "id": "25ca897a-fb15-402c-9d34-1ad66e9cd760",
-          "titulo": "HOPPERS",
+          "id": "f68ab3a7-d28c-4965-a379-10e9c4edfc2c",
+          "titulo": "LA MOMIA - LEE CRONIN",
           "horarios": [
             {
-              "horario": "10:45",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "2c469df5-6588-4a14-85da-30eaf9568356",
-          "titulo": "MI SOCIO 2.0",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "7c7f13d9-1665-4e4a-a312-d8fb552a85ed",
-          "titulo": "PROYECTO DEL FIN DEL MUNDO",
-          "horarios": [
-            {
-              "horario": "15:10",
+              "horario": "10:25",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "13:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:45",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -55,12 +43,12 @@
               "formato": "2D"
             },
             {
-              "horario": "21:50",
+              "horario": "21:45",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "18:15",
+              "horario": "18:30",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -92,5 +80,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "16/4/2026"
+  "fecha": "17/4/2026"
 }
