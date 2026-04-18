@@ -1,32 +1,5 @@
 {
-  "ciudades": [
-    {
-      "peliculas": [
-        {
-          "titulo": "RETRATOS SINIESTROS",
-          "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "e131b24f-eb96-45f8-91a9-727613c8ccb7"
-        }
-      ],
-      "ciudad": "Santa Cruz Av. Trompillo"
-    }
-  ],
+  "ciudades": [],
   "cine": "MEGA",
   "fecha": "18/4/2026"
 }
