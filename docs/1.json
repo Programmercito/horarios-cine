@@ -1,5 +1,188 @@
 {
-  "ciudades": [],
+  "ciudades": [
+    {
+      "peliculas": [
+        {
+          "titulo": "RETRATOS SINIESTROS",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e131b24f-eb96-45f8-91a9-727613c8ccb7"
+        }
+      ],
+      "ciudad": "Santa Cruz Av. Trompillo"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "RETRATOS SINIESTROS",
+          "horarios": [
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e131b24f-eb96-45f8-91a9-727613c8ccb7"
+        }
+      ],
+      "ciudad": "Santa Cruz Av. Brasil"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "RETRATOS SINIESTROS",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e131b24f-eb96-45f8-91a9-727613c8ccb7"
+        }
+      ],
+      "ciudad": "Cochabamba"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "RETRATOS SINIESTROS",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e131b24f-eb96-45f8-91a9-727613c8ccb7"
+        }
+      ],
+      "ciudad": "La Paz"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "LA POSESION DE LA MOMIA",
+          "horarios": [
+            {
+              "horario": "22:05",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f69767a4-72c6-48c7-829d-5ea049e59355"
+        }
+      ],
+      "ciudad": "La Paz VIP"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "RETRATOS SINIESTROS",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e131b24f-eb96-45f8-91a9-727613c8ccb7"
+        }
+      ],
+      "ciudad": "Tarija"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "RETRATOS SINIESTROS",
+          "horarios": [
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e131b24f-eb96-45f8-91a9-727613c8ccb7"
+        }
+      ],
+      "ciudad": "Quillacollo"
+    }
+  ],
   "cine": "MEGA",
   "fecha": "18/4/2026"
 }
