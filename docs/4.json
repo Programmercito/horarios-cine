@@ -2,9 +2,234 @@
   "ciudades": [
     {
       "ciudad": "Santa Cruz",
-      "peliculas": []
+      "peliculas": [
+        {
+          "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "18:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "20:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "21:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "21:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "18:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "19:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
+              "horario": "18:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "18:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "18:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "20:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "21:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "21:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "18:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "19:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
+              "horario": "18:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "18:50"
+            }
+          ],
+          "id": "a6c81e73-5307-4204-89ae-0e561183dc57"
+        },
+        {
+          "titulo": "LA POSESIÓN DE LA MOMIA",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "21:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:30"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D + PREMIER",
+              "horario": "21:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "21:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:30"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D + PREMIER",
+              "horario": "21:00"
+            }
+          ],
+          "id": "3dbf07bb-197f-4bb1-a7a4-d4929a6b1066"
+        },
+        {
+          "titulo": "CREPUSCULO, LA SAGA: AMANECER PT2 [2012]",
+          "horarios": [],
+          "id": "cc791ab8-d53d-47d1-94fd-ef3751ee791d"
+        },
+        {
+          "titulo": "EL DRAMA",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "19:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "22:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "19:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "22:10"
+            }
+          ],
+          "id": "7521737a-f204-4dd6-9794-ddef72f33ea2"
+        },
+        {
+          "titulo": "PROYECTO FIN DEL MUNDO",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:20"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D + PREMIER",
+              "horario": "20:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:20"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D + PREMIER",
+              "horario": "20:40"
+            }
+          ],
+          "id": "51c3e650-8b7f-4f4c-b4eb-0e23f7d01c0c"
+        },
+        {
+          "titulo": "HOPPERS",
+          "horarios": [],
+          "id": "25ca897a-fb15-402c-9d34-1ad66e9cd760"
+        }
+      ]
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "18/4/2026"
+  "fecha": "19/4/2026"
 }
