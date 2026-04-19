@@ -6,69 +6,34 @@
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
           "horarios": [
             {
-              "horario": "10:40",
+              "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "3D - 3D KRONOS"
             },
             {
-              "horario": "12:50",
+              "horario": "14:00",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "3D - 3D KRONOS"
             },
             {
-              "horario": "15:00",
+              "horario": "16:10",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "3D - 3D KRONOS"
             },
             {
-              "horario": "17:10",
+              "horario": "18:20",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "3D - 3D KRONOS"
             },
             {
-              "horario": "19:20",
+              "horario": "20:30",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "3D - 3D KRONOS"
             },
             {
-              "horario": "21:30",
+              "horario": "22:40",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D - 3D KRONOS"
             },
             {
               "horario": "12:10",
@@ -121,34 +86,54 @@
               "formato": "2D"
             },
             {
-              "horario": "12:00",
+              "horario": "12:50",
               "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "14:00",
+              "horario": "15:00",
               "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "16:10",
+              "horario": "17:10",
               "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "18:20",
+              "horario": "19:20",
               "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "20:30",
+              "horario": "21:30",
               "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "22:40",
+              "horario": "13:10",
               "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
             }
           ],
           "id": "a6c81e73-5307-4204-89ae-0e561183dc57"
@@ -156,11 +141,6 @@
         {
           "titulo": "LA POSESIÓN DE LA MOMIA",
           "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "14:10",
               "idioma": "Español",
@@ -201,22 +181,6 @@
           "id": "0242932e-f984-4370-b6f6-fa41738fa2ca"
         },
         {
-          "titulo": "RETRATOS SINIESTROS",
-          "horarios": [
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "e131b24f-eb96-45f8-91a9-727613c8ccb7"
-        },
-        {
           "titulo": "PROYECTO FIN DEL MUNDO",
           "horarios": [
             {
@@ -242,6 +206,22 @@
             }
           ],
           "id": "2bb6a051-1265-46c8-944f-f06b34f9a66d"
+        },
+        {
+          "titulo": "RETRATOS SINIESTROS",
+          "horarios": [
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "e131b24f-eb96-45f8-91a9-727613c8ccb7"
         },
         {
           "titulo": "HOPPERS: OPERACIÓN CASTOR",
@@ -285,11 +265,6 @@
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
           "horarios": [
             {
-              "horario": "09:20",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
               "horario": "11:20",
               "idioma": "Español",
               "formato": "4D E-MOTION"
@@ -320,14 +295,34 @@
               "formato": "4D E-MOTION"
             },
             {
-              "horario": "10:40",
+              "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             },
             {
-              "horario": "11:20",
+              "horario": "14:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "3D"
             },
             {
               "horario": "12:10",
@@ -410,61 +405,6 @@
               "formato": "2D"
             },
             {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "21:20",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
               "horario": "12:40",
               "idioma": "Español",
               "formato": "3D PLUS"
@@ -485,9 +425,24 @@
               "formato": "3D PLUS"
             },
             {
-              "horario": "11:00",
+              "horario": "13:50",
               "idioma": "Español",
-              "formato": "3D XL"
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
             },
             {
               "horario": "13:10",
@@ -513,11 +468,6 @@
               "horario": "21:50",
               "idioma": "Español",
               "formato": "3D XL"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D XL"
             },
             {
               "horario": "13:40",
@@ -551,12 +501,17 @@
           "titulo": "LA POSESIÓN DE LA MOMIA",
           "horarios": [
             {
-              "horario": "11:20",
+              "horario": "12:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -587,17 +542,22 @@
           "titulo": "PROYECTO FIN DEL MUNDO",
           "horarios": [
             {
-              "horario": "17:00",
+              "horario": "13:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "16:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
@@ -655,6 +615,11 @@
           "titulo": "WILLAQ PIRQA: EL CINE DE MI PUEBLO",
           "horarios": [
             {
+              "horario": "12:10",
+              "idioma": "Quechua",
+              "formato": "2D SUB"
+            },
+            {
               "horario": "16:10",
               "idioma": "Quechua",
               "formato": "2D SUB"
@@ -671,6 +636,11 @@
           "titulo": "666 EXORCISMOS",
           "horarios": [
             {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
@@ -684,19 +654,18 @@
           "id": "0242932e-f984-4370-b6f6-fa41738fa2ca"
         },
         {
-          "titulo": "BUENA SUERTE, DIVIÉRTETE, NO MUERAS",
-          "horarios": [
-            {
-              "horario": "12:45",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "37fe8f1e-e41d-43ed-b4dd-097d4f75f3cb"
-        },
-        {
           "titulo": "RETRATOS SINIESTROS",
           "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "21:40",
               "idioma": "Español",
@@ -709,21 +678,160 @@
           "titulo": "HOPPERS: OPERACIÓN CASTOR",
           "horarios": [
             {
-              "horario": "17:40",
+              "horario": "14:20",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
           "id": "76de4f03-05c9-40d3-bb31-883d4696e6eb"
+        },
+        {
+          "titulo": "BUENA SUERTE, DIVIÉRTETE, NO MUERAS",
+          "horarios": [
+            {
+              "horario": "12:45",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "37fe8f1e-e41d-43ed-b4dd-097d4f75f3cb"
         }
       ],
       "ciudad": "La Paz"
     },
     {
-      "peliculas": [],
+      "peliculas": [
+        {
+          "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "3D XL"
+            }
+          ],
+          "id": "a6c81e73-5307-4204-89ae-0e561183dc57"
+        },
+        {
+          "titulo": "EL DRAMA",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "7521737a-f204-4dd6-9794-ddef72f33ea2"
+        }
+      ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "18/4/2026"
+  "fecha": "19/4/2026"
 }
