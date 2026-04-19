@@ -58,53 +58,13 @@
             },
             {
               "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:20"
+              "formato": "2D + DBOX",
+              "horario": "19:40"
             },
             {
               "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "19:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "19:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "20:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "21:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "21:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "18:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "19:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "18:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D + PREMIER",
-              "horario": "18:50"
+              "formato": "2D + DBOX",
+              "horario": "22:00"
             }
           ],
           "id": "a6c81e73-5307-4204-89ae-0e561183dc57"
@@ -134,30 +94,21 @@
             },
             {
               "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "19:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "21:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "22:30"
-            },
-            {
-              "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
-              "horario": "21:00"
+              "horario": "21:30"
             }
           ],
           "id": "3dbf07bb-197f-4bb1-a7a4-d4929a6b1066"
         },
         {
           "titulo": "CREPUSCULO, LA SAGA: AMANECER PT2 [2012]",
-          "horarios": [],
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:00"
+            }
+          ],
           "id": "cc791ab8-d53d-47d1-94fd-ef3751ee791d"
         },
         {
@@ -175,13 +126,8 @@
             },
             {
               "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "19:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "22:10"
+              "formato": "2D",
+              "horario": "21:00"
             }
           ],
           "id": "7521737a-f204-4dd6-9794-ddef72f33ea2"
@@ -206,25 +152,21 @@
             },
             {
               "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "19:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "22:20"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "20:40"
+              "formato": "2D + XD + DBOX",
+              "horario": "21:00"
             }
           ],
           "id": "51c3e650-8b7f-4f4c-b4eb-0e23f7d01c0c"
         },
         {
           "titulo": "HOPPERS",
-          "horarios": [],
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "18:40"
+            }
+          ],
           "id": "25ca897a-fb15-402c-9d34-1ad66e9cd760"
         }
       ]
