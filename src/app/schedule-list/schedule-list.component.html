@@ -1,24 +1,26 @@
 <div class="container">
-  <div class="header">
-    <div class="logo-section">
-      <div class="logo-wrapper">
-        <img src="/logo.png" alt="Cinema Bo Logo" class="logo">
-        <div class="logo-ring"></div>
+  <div class="topbar">
+    <div class="header">
+      <div class="logo-section">
+        <div class="logo-wrapper">
+          <img src="/logo.png" alt="Cinema Bo Logo" class="logo">
+          <div class="logo-ring"></div>
+        </div>
+        <h1 class="app-title">Cinema Bo</h1>
       </div>
-      <h1 class="app-title">Cinema Bo</h1>
+      <div class="header-divider"></div>
     </div>
-    <div class="header-divider"></div>
-  </div>
 
-  <div class="navigation">
-    <button class="nav-button back-button" (click)="goBack()">
-      <span class="arrow">←</span>
-      <span>Volver a cines</span>
-    </button>
-    <button class="nav-button refresh-button" (click)="refreshData()">
-      <span class="refresh-icon">🔄</span>
-      <span>Refrescar</span>
-    </button>
+    <div class="navigation">
+      <button class="nav-button back-button" (click)="goBack()">
+        <span class="arrow">←</span>
+        <span>Volver a cines</span>
+      </button>
+      <button class="nav-button refresh-button" (click)="refreshData()">
+        <span class="refresh-icon">🔄</span>
+        <span>Refrescar</span>
+      </button>
+    </div>
   </div>
 
   <div class="content">
