@@ -8,6 +8,56 @@
           "horarios": [
             {
               "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "10:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "10:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "12:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "12:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "14:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "15:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "17:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "17:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "18:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "19:20"
+            },
+            {
+              "idioma": "Doblada",
               "formato": "2D",
               "horario": "10:10"
             },
@@ -15,11 +65,6 @@
               "idioma": "Doblada",
               "formato": "2D",
               "horario": "10:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "11:10"
             },
             {
               "idioma": "Doblada",
@@ -138,6 +183,41 @@
             },
             {
               "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "10:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "11:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "13:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "14:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "15:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "16:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "17:50"
+            },
+            {
+              "idioma": "Doblada",
               "formato": "2D + XD + DBOX",
               "horario": "11:40"
             },
@@ -170,66 +250,6 @@
               "idioma": "Doblada",
               "formato": "3D",
               "horario": "16:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "12:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "12:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "14:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "15:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "17:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "17:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "18:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "19:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D + PREMIER",
-              "horario": "13:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D + PREMIER",
-              "horario": "13:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D + PREMIER",
-              "horario": "15:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D + PREMIER",
-              "horario": "17:50"
             }
           ],
           "id": "a6c81e73-5307-4204-89ae-0e561183dc57"
@@ -271,11 +291,6 @@
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
               "horario": "20:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "21:30"
             }
           ],
           "id": "3dbf07bb-197f-4bb1-a7a4-d4929a6b1066"
@@ -373,5 +388,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "21/4/2026"
+  "fecha": "22/4/2026"
 }
