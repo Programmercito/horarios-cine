@@ -3,80 +3,8 @@
     {
       "peliculas": [
         {
-          "titulo": "MICHAEL",
-          "horarios": [
-            {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
-            }
-          ],
-          "id": "9e539a9a-55a5-479f-9eb6-c559c41a08aa"
-        },
-        {
-          "titulo": "LA POSESION DE LA BRUJA",
-          "horarios": [
-            {
-              "horario": "17:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "372b77a9-84c3-49d6-b1e1-9daa7b4b42a3"
-        },
-        {
           "titulo": "CHAO: LA SIRENA",
           "horarios": [
-            {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "18:00",
               "idioma": "DOB",
@@ -107,29 +35,150 @@
           "id": "8aff7e76-d0a9-4466-aa38-9280e81cf79a"
         },
         {
-          "titulo": "SE LEVANTA EL VIENTO",
+          "titulo": "LA POSESION DE LA BRUJA",
           "horarios": [
             {
-              "horario": "17:00",
-              "idioma": "SUBT",
+              "horario": "17:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "fb3ea2d0-aba0-4d81-8d46-9c67ba36f4ee"
+          "id": "372b77a9-84c3-49d6-b1e1-9daa7b4b42a3"
+        },
+        {
+          "titulo": "MICHAEL",
+          "horarios": [
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            }
+          ],
+          "id": "9e539a9a-55a5-479f-9eb6-c559c41a08aa"
+        },
+        {
+          "titulo": "666 EXORCISMOS",
+          "horarios": [
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "0242932e-f984-4370-b6f6-fa41738fa2ca"
+        },
+        {
+          "titulo": "LA POSESION DE LA MOMIA",
+          "horarios": [
+            {
+              "horario": "17:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f69767a4-72c6-48c7-829d-5ea049e59355"
+        },
+        {
+          "titulo": "LA SAGA CREPUSCULO: AMANECER PARTE 2",
+          "horarios": [
+            {
+              "horario": "19:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "6fe24942-3d4c-4525-a8ad-dafeee13bc42"
+        },
+        {
+          "titulo": "MAMUT: EL REGRESO DE LOS DINOSAURIOS",
+          "horarios": [
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "cc64eacf-5a43-41db-8d49-d021bb9231ce"
+        },
+        {
+          "titulo": "PROYECTO FIN DEL MUNDO",
+          "horarios": [
+            {
+              "horario": "18:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "51c3e650-8b7f-4f4c-b4eb-0e23f7d01c0c"
         },
         {
           "titulo": "SUPER MARIO GALAXY: LA PELICULA",
           "horarios": [
-            {
-              "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "17:30",
               "idioma": "DOB",
@@ -161,11 +210,6 @@
               "formato": "2D"
             },
             {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
               "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
@@ -179,104 +223,9 @@
               "horario": "22:40",
               "idioma": "DOB",
               "formato": "2D Atmos"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
             }
           ],
           "id": "fe3f7aa4-d379-4bdf-8bae-84c55ad61d57"
-        },
-        {
-          "titulo": "PROYECTO FIN DEL MUNDO",
-          "horarios": [
-            {
-              "horario": "18:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "51c3e650-8b7f-4f4c-b4eb-0e23f7d01c0c"
-        },
-        {
-          "titulo": "MAMUT: EL REGRESO DE LOS DINOSAURIOS",
-          "horarios": [
-            {
-              "horario": "20:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "cc64eacf-5a43-41db-8d49-d021bb9231ce"
-        },
-        {
-          "titulo": "LA SAGA CREPUSCULO: AMANECER PARTE 2",
-          "horarios": [
-            {
-              "horario": "19:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "6fe24942-3d4c-4525-a8ad-dafeee13bc42"
-        },
-        {
-          "titulo": "LA POSESION DE LA MOMIA",
-          "horarios": [
-            {
-              "horario": "16:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "f69767a4-72c6-48c7-829d-5ea049e59355"
-        },
-        {
-          "titulo": "666 EXORCISMOS",
-          "horarios": [
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "0242932e-f984-4370-b6f6-fa41738fa2ca"
         }
       ],
       "ciudad": "Santa Cruz Av. Trompillo"
@@ -284,40 +233,20 @@
     {
       "peliculas": [
         {
-          "titulo": "MICHAEL",
+          "titulo": "EL BUFON 2",
           "horarios": [
             {
-              "horario": "17:30",
+              "horario": "20:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:10",
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "18:50",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
             }
           ],
-          "id": "9e539a9a-55a5-479f-9eb6-c559c41a08aa"
+          "id": "8aff7e76-d0a9-4466-aa38-9280e81cf79a"
         },
         {
           "titulo": "LA POSESION DE LA BRUJA",
@@ -341,31 +270,35 @@
           "id": "372b77a9-84c3-49d6-b1e1-9daa7b4b42a3"
         },
         {
-          "titulo": "CHAO: LA SIRENA",
+          "titulo": "MICHAEL",
           "horarios": [
             {
-              "horario": "16:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a8261ae9-8a2a-4e90-979b-8f0263ae7206"
-        },
-        {
-          "titulo": "EL BUFON 2",
-          "horarios": [
-            {
-              "horario": "20:10",
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:20",
+              "horario": "18:10",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
             }
           ],
-          "id": "8aff7e76-d0a9-4466-aa38-9280e81cf79a"
+          "id": "9e539a9a-55a5-479f-9eb6-c559c41a08aa"
         },
         {
           "titulo": "SE LEVANTA EL VIENTO",
@@ -384,13 +317,35 @@
           "id": "fb3ea2d0-aba0-4d81-8d46-9c67ba36f4ee"
         },
         {
-          "titulo": "SUPER MARIO GALAXY: LA PELICULA",
+          "titulo": "LA POSESION DE LA MOMIA",
           "horarios": [
             {
-              "horario": "16:40",
+              "horario": "18:15",
               "idioma": "DOB",
               "formato": "2D"
             },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "f69767a4-72c6-48c7-829d-5ea049e59355"
+        },
+        {
+          "titulo": "PROYECTO FIN DEL MUNDO",
+          "horarios": [
+            {
+              "horario": "21:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "51c3e650-8b7f-4f4c-b4eb-0e23f7d01c0c"
+        },
+        {
+          "titulo": "SUPER MARIO GALAXY: LA PELICULA",
+          "horarios": [
             {
               "horario": "17:20",
               "idioma": "DOB",
@@ -413,33 +368,6 @@
             }
           ],
           "id": "fe3f7aa4-d379-4bdf-8bae-84c55ad61d57"
-        },
-        {
-          "titulo": "PROYECTO FIN DEL MUNDO",
-          "horarios": [
-            {
-              "horario": "21:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "51c3e650-8b7f-4f4c-b4eb-0e23f7d01c0c"
-        },
-        {
-          "titulo": "LA POSESION DE LA MOMIA",
-          "horarios": [
-            {
-              "horario": "18:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "f69767a4-72c6-48c7-829d-5ea049e59355"
         }
       ],
       "ciudad": "Santa Cruz Av. Brasil"
