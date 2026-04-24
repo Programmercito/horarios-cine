@@ -7,36 +7,6 @@
           "titulo": "MICHAEL",
           "horarios": [
             {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "16:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "19:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "22:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "16:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "18:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "21:30"
-            },
-            {
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
               "horario": "17:50"
@@ -75,17 +45,37 @@
               "idioma": "Doblada",
               "formato": "2D",
               "horario": "21:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "18:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "21:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
+              "horario": "19:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
+              "horario": "22:10"
             }
           ],
-          "id": "9e539a9a-55a5-479f-9eb6-c559c41a08aa"
+          "id": "ad132e2e-151c-4917-ac00-2139cdfd53df"
         },
         {
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
           "horarios": [
             {
               "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "16:20"
+              "formato": "2D + PREMIER",
+              "horario": "18:30"
             },
             {
               "idioma": "Doblada",
@@ -96,16 +86,6 @@
               "idioma": "Doblada",
               "formato": "2D + DBOX",
               "horario": "21:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "17:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "17:40"
             },
             {
               "idioma": "Doblada",
@@ -121,14 +101,9 @@
               "idioma": "Doblada",
               "formato": "2D",
               "horario": "22:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "18:30"
             }
           ],
-          "id": "a6c81e73-5307-4204-89ae-0e561183dc57"
+          "id": "d9bbf31a-cd3c-49df-934b-43272b3549bc"
         },
         {
           "titulo": "EL BUFÓN 2",
@@ -139,7 +114,7 @@
               "horario": "18:40"
             }
           ],
-          "id": "dcd0694b-2235-4f68-8d4c-c499066a4f79"
+          "id": "59cbdbb1-ef0a-4bc5-aad4-7290f46b9c7c"
         },
         {
           "titulo": "BLUEY EN CINES: MOMENTOS DE DIVERSIÓN CON AMIGOS",
@@ -155,7 +130,7 @@
               "horario": "14:30"
             }
           ],
-          "id": "49dfa845-a999-4bb5-85af-2a05b3a98a52"
+          "id": "8a5d2457-3326-4e73-8168-98ff48f75227"
         },
         {
           "titulo": "SE LEVANTA EL VIENTO [2013] - GHIBLI FEST 2026",
@@ -166,7 +141,7 @@
               "horario": "16:00"
             }
           ],
-          "id": "a0a25522-67ae-4e84-8983-3b2c703ea2dc"
+          "id": "11504d4a-2dd3-438e-8b71-a99f75b015c7"
         },
         {
           "titulo": "CHAO: LA SIRENA",
@@ -177,7 +152,7 @@
               "horario": "21:40"
             }
           ],
-          "id": "a8261ae9-8a2a-4e90-979b-8f0263ae7206"
+          "id": "a909a28b-0759-4021-9cb2-c7f0157f809f"
         },
         {
           "titulo": "LA POSESIÓN DE LA MOMIA",
@@ -198,7 +173,7 @@
               "horario": "22:00"
             }
           ],
-          "id": "3dbf07bb-197f-4bb1-a7a4-d4929a6b1066"
+          "id": "f524fea2-54db-43bc-b3b8-8ea84f011e52"
         },
         {
           "titulo": "EL DRAMA",
@@ -209,7 +184,7 @@
               "horario": "21:00"
             }
           ],
-          "id": "7521737a-f204-4dd6-9794-ddef72f33ea2"
+          "id": "72fa06b3-de5a-464a-85f0-826c2616f068"
         }
       ]
     }
