@@ -40,8 +40,8 @@
           <div class="movie-card">
             <div class="movie-header">
               <div class="movie-title-with-info">
-                <div class="movie-title-row">
-                  <h4 class="movie-title">{{ pelicula.titulo }}</h4>
+                <h4 class="movie-title">{{ pelicula.titulo }}</h4>
+                <div class="movie-title-controls">
                   @if (getMovieRuntime(pelicula) || getMovieAverageRating(pelicula)) {
                   <div class="movie-card-chips">
                     @if (getMovieRuntime(pelicula)) {
@@ -52,12 +52,12 @@
                     }
                   </div>
                   }
+                  <button class="movie-info-btn-cool" (click)="loadMovieData(pelicula.id)"
+                    title="Ver información de la película">
+                    <img src="/info.svg" alt="Info" class="info-icon">
+                    <span class="cool-btn-text">Info</span>
+                  </button>
                 </div>
-                <button class="movie-info-btn-cool" (click)="loadMovieData(pelicula.id)"
-                  title="Ver información de la película">
-                  <img src="/info.svg" alt="Info" class="info-icon">
-                  <span class="cool-btn-text">Info</span>
-                </button>
               </div>
             </div>
 

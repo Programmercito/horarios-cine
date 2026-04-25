@@ -368,6 +368,15 @@
   min-width: 0;
 }
 
+.movie-title-controls {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  min-width: 0;
+}
+
 .movie-card-chips {
   display: flex;
   align-items: center;
@@ -1108,6 +1117,35 @@
   .movie-card-inner {
     flex-direction: column;
     align-items: center;
+  }
+
+  .movie-title-with-info {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+  }
+
+  .movie-title {
+    text-align: center;
+    width: 100%;
+  }
+
+  .movie-title-controls {
+    width: 100%;
+    justify-content: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  .movie-card-chips {
+    justify-content: center;
+    width: 100%;
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .movie-info-btn-cool {
+    width: auto;
   }
 
   .movie-thumb-poster {
