@@ -338,6 +338,8 @@
 /* ── Movie Header ────────────────────────── */
 .movie-header {
   margin-bottom: 1rem;
+  padding-bottom: 0.95rem;
+  border-bottom: 1px solid var(--border-subtle);
 }
 
 .movie-title-with-info {
