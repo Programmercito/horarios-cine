@@ -40,7 +40,19 @@
           <div class="movie-card">
             <div class="movie-header">
               <div class="movie-title-with-info">
-                <h4 class="movie-title">{{ pelicula.titulo }}</h4>
+                <div class="movie-title-row">
+                  <h4 class="movie-title">{{ pelicula.titulo }}</h4>
+                  @if (getMovieRuntime(pelicula) || getMovieAverageRating(pelicula)) {
+                  <div class="movie-card-chips">
+                    @if (getMovieRuntime(pelicula)) {
+                    <span class="movie-chip runtime-chip">🕝{{ getMovieRuntime(pelicula) }}</span>
+                    }
+                    @if (getMovieAverageRating(pelicula)) {
+                    <span class="movie-chip rating-chip">⭐ {{ getMovieAverageRating(pelicula) }}</span>
+                    }
+                  </div>
+                  }
+                </div>
                 <button class="movie-info-btn-cool" (click)="loadMovieData(pelicula.id)"
                   title="Ver información de la película">
                   <img src="/info.svg" alt="Info" class="info-icon">
@@ -120,6 +132,14 @@
 
     @if (currentPeli.extras) {
     <div class="movie-details">
+      <div class="movie-highlight">
+        @if (getMovieAverageRating(currentPeli)) {
+        <span class="rating-hero">★ {{ getMovieAverageRating(currentPeli) }}</span>
+        }
+        @if (getMovieRuntime(currentPeli)) {
+        <span class="runtime-hero">{{ getMovieRuntime(currentPeli) }}</span>
+        }
+      </div>
       <div class="poster-and-overview">
         @if (currentPeli.extras.poster_path) {
         <img [src]="'https://image.tmdb.org/t/p/w200' + currentPeli.extras.poster_path"
@@ -130,6 +150,20 @@
           <h3>Sinopsis</h3>
           <p>{{ currentPeli.extras.overview }}</p>
         </div>
+        }
+      </div>
+      <div class="movie-extra-text">
+        @if (getMovieGenres(currentPeli)) {
+        <p><strong>Géneros:</strong> {{ getMovieGenres(currentPeli) }}</p>
+        }
+        @if (getMovieHomepage(currentPeli)) {
+        <p><strong>Sitio oficial:</strong> <a [href]="getMovieHomepage(currentPeli)" target="_blank" rel="noopener">{{ getMovieHomepage(currentPeli) }}</a></p>
+        }
+        @if (getMoviePopularity(currentPeli)) {
+        <p><strong>Popularidad:</strong> {{ getMoviePopularity(currentPeli) }}</p>
+        }
+        @if (getMovieProductionCompanies(currentPeli)) {
+        <p><strong>Productoras:</strong> {{ getMovieProductionCompanies(currentPeli) }}</p>
         }
       </div>
     </div>

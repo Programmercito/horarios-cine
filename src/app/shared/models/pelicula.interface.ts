@@ -15,10 +15,21 @@ export interface PeliculaExtras {
   vote_count: number;
 }
 
+export interface PeliculaDetails {
+  genres?: string;
+  homepage?: string;
+  popularity?: number;
+  production_companies?: string;
+  runtime?: number;
+  vote_count?: number;
+  vote_average?: number;
+}
+
 export interface Pelicula {
   id: string;
   titulo: string;
   video: string;
   extras: PeliculaExtras | null;
   fecha: string;
+  details?: PeliculaDetails;
 }

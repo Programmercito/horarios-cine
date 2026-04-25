@@ -4,7 +4,7 @@ import { ActivatedRoute, Router } from '@angular/router';
 import { catchError, EMPTY, of, tap } from 'rxjs';
 import { CommonModule } from '@angular/common';
 import { DomSanitizer, SafeResourceUrl, Title, Meta } from '@angular/platform-browser';
-import { CineData, Ciudad, Pelicula } from '../shared/models';
+import { CineData, Ciudad, Pelicula, PeliculaHorario } from '../shared/models';
 import { EncodingCine } from '../shared/common/encoding';
 
 @Component({
@@ -234,6 +234,59 @@ export class ScheduleListComponent extends EncodingCine implements OnInit, OnDes
         localStorage.setItem('peliculas', this.codificarBase64(JSON.stringify(data)));
       }
     });
+  }
+
+  private formatRuntime(minutes?: number): string {
+    if (minutes == null || isNaN(minutes)) {
+      return '';
+    }
+    const hours = Math.floor(minutes / 60);
+    const mins = minutes % 60;
+    return hours > 0 ? `${hours}h ${mins.toString().padStart(2, '0')}m` : `${mins}m`;
+  }
+
+  private resolveMovie(movie: Pelicula | PeliculaHorario | null | undefined): Pelicula | null {
+    if (!movie) {
+      return null;
+    }
+    if ('datos' in movie) {
+      return movie.datos || null;
+    }
+    return movie;
+  }
+
+  getMovieRuntime(movie: Pelicula | PeliculaHorario | null | undefined): string | null {
+    const movieData = this.resolveMovie(movie);
+    const runtime = movieData?.details?.runtime;
+    return runtime ? this.formatRuntime(runtime) : null;
+  }
+
+  getMovieAverageRating(movie: Pelicula | PeliculaHorario | null | undefined): string | null {
+    const movieData = this.resolveMovie(movie);
+    const average = movieData?.details?.vote_average ?? movieData?.extras?.vote_average;
+    return average != null && average > 0 ? average.toFixed(1) : null;
+  }
+
+  getMovieGenres(movie: Pelicula | PeliculaHorario | null | undefined): string | null {
+    const movieData = this.resolveMovie(movie);
+    return movieData?.details?.genres || null;
+  }
+
+  getMovieHomepage(movie: Pelicula | PeliculaHorario | null | undefined): string | null {
+    const movieData = this.resolveMovie(movie);
+    const homepage = movieData?.details?.homepage;
+    return homepage?.trim() ? homepage : null;
+  }
+
+  getMoviePopularity(movie: Pelicula | PeliculaHorario | null | undefined): string | null {
+    const movieData = this.resolveMovie(movie);
+    const popularity = movieData?.details?.popularity;
+    return popularity != null ? popularity.toFixed(1) : null;
+  }
+
+  getMovieProductionCompanies(movie: Pelicula | PeliculaHorario | null | undefined): string | null {
+    const movieData = this.resolveMovie(movie);
+    return movieData?.details?.production_companies || null;
   }
 
   private processPeliculasData(data: any) {
