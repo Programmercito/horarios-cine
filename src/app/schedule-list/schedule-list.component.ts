@@ -4,7 +4,7 @@ import { ActivatedRoute, Router } from '@angular/router';
 import { catchError, EMPTY, of, tap } from 'rxjs';
 import { CommonModule } from '@angular/common';
 import { DomSanitizer, SafeResourceUrl, Title, Meta } from '@angular/platform-browser';
-import { CineData, Ciudad, Pelicula, PeliculaHorario } from '../shared/models';
+import { CineData, Ciudad, Horario, Pelicula, PeliculaHorario } from '../shared/models';
 import { EncodingCine } from '../shared/common/encoding';
 
 @Component({
@@ -376,6 +376,64 @@ export class ScheduleListComponent extends EncodingCine implements OnInit, OnDes
     this.currentMovieTitle = movieTitle;
     this.showSchedulePopup = true;
     this.scheduleDialogRef.nativeElement.showModal();
+  }
+
+  isScheduleExpired(schedule: Horario): boolean {
+    const scheduleDate = this.getScheduleDate(schedule.horario);
+    if (!scheduleDate) {
+      return false;
+    }
+    const now = new Date();
+    return scheduleDate.getTime() <= now.getTime();
+  }
+
+  private getScheduleDate(time: string): Date | null {
+    const rawDate = this.cinemaDate || this.cinemaData?.fecha || '';
+    const formattedDate = this.formatCinemaDate(rawDate);
+    if (!formattedDate) {
+      return null;
+    }
+    const normalizedTime = this.normalizeTimeString(time);
+    if (!normalizedTime) {
+      return null;
+    }
+
+    return new Date(`${formattedDate}T${normalizedTime}:00-04:00`);
+  }
+
+  private formatCinemaDate(dateStr: string): string | null {
+    if (!dateStr) {
+      return null;
+    }
+    const slashParts = dateStr.split('/');
+    if (slashParts.length === 3) {
+      const [day, month, year] = slashParts.map(part => parseInt(part, 10));
+      if (!day || !month || !year) {
+        return null;
+      }
+      return `${year.toString().padStart(4, '0')}-${month.toString().padStart(2, '0')}-${day.toString().padStart(2, '0')}`;
+    }
+
+    const isoDate = new Date(dateStr);
+    if (isNaN(isoDate.getTime())) {
+      return null;
+    }
+    return `${isoDate.getFullYear().toString().padStart(4, '0')}-${(isoDate.getMonth() + 1).toString().padStart(2, '0')}-${isoDate.getDate().toString().padStart(2, '0')}`;
+  }
+
+  private normalizeTimeString(time: string): string | null {
+    const cleaned = time.trim().toLowerCase();
+    const match = cleaned.match(/^(\d{1,2}:\d{2})\s*(?:h(?:rs?)?)?$/i);
+    if (!match) {
+      return null;
+    }
+    const [hoursStr, minutesStr] = match[1].split(':');
+    const hours = parseInt(hoursStr, 10);
+    const minutes = parseInt(minutesStr, 10);
+    if (hours > 23 || minutes > 59) {
+      return null;
+    }
+    return `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}`;
   }
 
   closeSchedulePopup(): void {

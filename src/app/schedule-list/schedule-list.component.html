@@ -24,7 +24,13 @@
   </div>
 
   <div class="content">
-    <h2 class="page-title">{{ cinemaName }}@if (cinemaDate) {<span class="cinema-date"> - {{ cinemaDate }}</span>}</h2>
+    <h2 class="page-title">
+      {{ cinemaName }}
+      @if (city) {
+      <span class="cinema-city">· {{ city | uppercase }}</span>
+      }
+      @if (cinemaDate) {<span class="cinema-date"> - {{ cinemaDate }}</span>}
+    </h2>
 
     @if (ciudadesFiltradas.length > 0) {
     <div class="schedules-container">
@@ -69,7 +75,9 @@
               <div class="movie-schedules-side">
                 <div class="schedules-grid">
                   @for (horario of pelicula.horarios; track horario.horario) {
-                  <div class="schedule-badge" (click)="showScheduleDetails(horario, pelicula.titulo)">
+                  <div class="schedule-badge" [class.expired]="isScheduleExpired(horario)"
+                    (click)="!isScheduleExpired(horario) && showScheduleDetails(horario, pelicula.titulo)"
+                    title="{{ isScheduleExpired(horario) ? '' : 'Ver detalles del horario' }}">
                     <div class="schedule-time">{{ horario.horario }}</div>
                     <div class="schedule-details">
                       <span class="schedule-format">{{ horario.formato }}</span>
