@@ -176,22 +176,6 @@
           "id": "59ab430c-a1c0-4213-8a5e-efb9ec2c7079"
         },
         {
-          "titulo": "EL BUFÓN 2",
-          "horarios": [
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "ec9226db-230f-46c9-9b9d-a7b1ff5aa910"
-        },
-        {
           "titulo": "LA POSESIÓN DE LA BRUJA",
           "horarios": [
             {
@@ -228,6 +212,22 @@
             }
           ],
           "id": "851affec-5dfb-49c0-a6c0-949445f7bb81"
+        },
+        {
+          "titulo": "EL BUFÓN 2",
+          "horarios": [
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "ec9226db-230f-46c9-9b9d-a7b1ff5aa910"
         },
         {
           "titulo": "RETRATOS SINIESTROS",
@@ -421,7 +421,7 @@
               "formato": "2D"
             },
             {
-              "horario": "15:30",
+              "horario": "15:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -437,6 +437,11 @@
             },
             {
               "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -545,27 +550,6 @@
           "id": "59ab430c-a1c0-4213-8a5e-efb9ec2c7079"
         },
         {
-          "titulo": "EL BUFÓN 2",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "ec9226db-230f-46c9-9b9d-a7b1ff5aa910"
-        },
-        {
           "titulo": "LA POSESIÓN DE LA BRUJA",
           "horarios": [
             {
@@ -619,6 +603,27 @@
           "id": "38ee1dd1-a19f-48f9-b9e1-50964c97dc7d"
         },
         {
+          "titulo": "EL BUFÓN 2",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "ec9226db-230f-46c9-9b9d-a7b1ff5aa910"
+        },
+        {
           "titulo": "SE LEVANTA EL VIENTO",
           "horarios": [
             {
@@ -651,17 +656,6 @@
           "id": "baf83d4d-1469-4069-87d0-d767bc0aabd1"
         },
         {
-          "titulo": "WILLAQ PIRQA: EL CINE DE MI PUEBLO",
-          "horarios": [
-            {
-              "horario": "14:30",
-              "idioma": "Quechua",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "86c5f43c-546c-4dfd-95f7-23085dc1ecea"
-        },
-        {
           "titulo": "LA SAGA CREPÚSCULO: AMANECER PARTE 2",
           "horarios": [
             {
@@ -671,6 +665,17 @@
             }
           ],
           "id": "8c654608-0a5a-4b15-80b4-506fa1c55b04"
+        },
+        {
+          "titulo": "WILLAQ PIRQA: EL CINE DE MI PUEBLO",
+          "horarios": [
+            {
+              "horario": "14:30",
+              "idioma": "Quechua",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "86c5f43c-546c-4dfd-95f7-23085dc1ecea"
         },
         {
           "titulo": "666 EXORCISMOS",
@@ -738,11 +743,6 @@
             },
             {
               "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -896,28 +896,12 @@
               "formato": "2D SUB"
             },
             {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "38ee1dd1-a19f-48f9-b9e1-50964c97dc7d"
-        },
-        {
-          "titulo": "LA POSESIÓN DE LA BRUJA",
-          "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "22:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "aaaf0c8a-cf02-40f3-baee-54a08197eff8"
+          "id": "38ee1dd1-a19f-48f9-b9e1-50964c97dc7d"
         },
         {
           "titulo": "EL BUFÓN 2",
@@ -934,6 +918,22 @@
             }
           ],
           "id": "ec9226db-230f-46c9-9b9d-a7b1ff5aa910"
+        },
+        {
+          "titulo": "LA POSESIÓN DE LA BRUJA",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "aaaf0c8a-cf02-40f3-baee-54a08197eff8"
         },
         {
           "titulo": "LA SAGA CREPÚSCULO: AMANECER PARTE 2",
@@ -973,5 +973,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "26/4/2026"
+  "fecha": "27/4/2026"
 }
