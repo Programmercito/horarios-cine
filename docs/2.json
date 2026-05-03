@@ -6,16 +6,6 @@
           "titulo": "MICHAEL",
           "horarios": [
             {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D XL - 2D XL KRONOS"
@@ -42,6 +32,11 @@
             },
             {
               "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "13:40",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
@@ -82,29 +77,14 @@
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
           "horarios": [
             {
-              "horario": "12:10",
+              "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             },
             {
-              "horario": "14:10",
+              "horario": "14:00",
               "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:55",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             },
             {
               "horario": "16:10",
@@ -120,6 +100,31 @@
               "horario": "20:30",
               "idioma": "Español",
               "formato": "3D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
           "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
@@ -128,7 +133,12 @@
           "titulo": "EL DIABLO VISTE A LA MODA 2",
           "horarios": [
             {
-              "horario": "15:45",
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -138,7 +148,7 @@
               "formato": "2D"
             },
             {
-              "horario": "18:05",
+              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -159,7 +169,7 @@
           "titulo": "EXIT 8",
           "horarios": [
             {
-              "horario": "10:50",
+              "horario": "14:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -180,7 +190,17 @@
           "titulo": "LA POSESIÓN DE LA MOMIA",
           "horarios": [
             {
-              "horario": "20:25",
+              "horario": "12:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -202,6 +222,16 @@
           "titulo": "STREAMING PARANORMAL",
           "horarios": [
             {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "21:40",
               "idioma": "Español",
               "formato": "2D"
@@ -217,86 +247,6 @@
         {
           "titulo": "MICHAEL",
           "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:30",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "11:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -343,6 +293,86 @@
               "formato": "2D XL SUB"
             },
             {
+              "horario": "12:30",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "14:30",
               "idioma": "Español",
               "formato": "4D E-MOTION"
@@ -368,11 +398,6 @@
         {
           "titulo": "EL DIABLO VISTE A LA MODA 2",
           "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "12:10",
               "idioma": "Español",
@@ -465,17 +490,22 @@
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "12:20",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "4D E-MOTION"
             },
             {
-              "horario": "12:45",
+              "horario": "12:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -508,11 +538,6 @@
               "horario": "15:10",
               "idioma": "Español",
               "formato": "3D PLUS"
-            },
-            {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
             }
           ],
           "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
@@ -521,7 +546,7 @@
           "titulo": "EXIT 8",
           "horarios": [
             {
-              "horario": "10:50",
+              "horario": "13:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -547,7 +572,7 @@
           "titulo": "LA POSESIÓN DE LA MOMIA",
           "horarios": [
             {
-              "horario": "15:45",
+              "horario": "15:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -563,7 +588,17 @@
           "titulo": "STREAMING PARANORMAL",
           "horarios": [
             {
-              "horario": "18:20",
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -574,12 +609,45 @@
           "titulo": "PROYECTO FIN DEL MUNDO",
           "horarios": [
             {
-              "horario": "20:10",
+              "horario": "19:40",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
           "id": "df732459-aca6-437f-877e-5fb01cb3375e"
+        },
+        {
+          "titulo": "EL DRAMA",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "38ee1dd1-a19f-48f9-b9e1-50964c97dc7d"
+        },
+        {
+          "titulo": "EL BUFÓN 2",
+          "horarios": [
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "ec9226db-230f-46c9-9b9d-a7b1ff5aa910"
+        },
+        {
+          "titulo": "LA POSESIÓN DE LA BRUJA",
+          "horarios": [
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "aaaf0c8a-cf02-40f3-baee-54a08197eff8"
         }
       ],
       "ciudad": "La Paz"
@@ -590,9 +658,29 @@
           "titulo": "MICHAEL",
           "horarios": [
             {
-              "horario": "11:10",
+              "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D XL"
             },
             {
               "horario": "12:50",
@@ -630,31 +718,6 @@
               "formato": "2D"
             },
             {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
               "horario": "14:30",
               "idioma": "Ingles",
               "formato": "2D SUB"
@@ -680,11 +743,6 @@
         {
           "titulo": "EL DIABLO VISTE A LA MODA 2",
           "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "12:10",
               "idioma": "Español",
@@ -751,11 +809,6 @@
         {
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
           "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -879,5 +932,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "2/5/2026"
+  "fecha": "3/5/2026"
 }
