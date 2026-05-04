@@ -166,27 +166,6 @@
           "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
         },
         {
-          "titulo": "EXIT 8",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "95fd13fb-a75d-4a41-b977-ec1127ebba82"
-        },
-        {
           "titulo": "LA POSESIÓN DE LA MOMIA",
           "horarios": [
             {
@@ -208,15 +187,25 @@
           "id": "59ab430c-a1c0-4213-8a5e-efb9ec2c7079"
         },
         {
-          "titulo": "LA POSESIÓN DE LA BRUJA",
+          "titulo": "EXIT 8",
           "horarios": [
             {
-              "horario": "22:30",
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:45",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "aaaf0c8a-cf02-40f3-baee-54a08197eff8"
+          "id": "95fd13fb-a75d-4a41-b977-ec1127ebba82"
         },
         {
           "titulo": "STREAMING PARANORMAL",
@@ -238,6 +227,17 @@
             }
           ],
           "id": "3a876d76-9b4e-4a8e-96b3-4b1b4a8e0bb2"
+        },
+        {
+          "titulo": "LA POSESIÓN DE LA BRUJA",
+          "horarios": [
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "aaaf0c8a-cf02-40f3-baee-54a08197eff8"
         }
       ],
       "ciudad": "El Alto"
@@ -429,11 +429,6 @@
               "formato": "2D"
             },
             {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "19:40",
               "idioma": "Español",
               "formato": "2D"
@@ -577,7 +572,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:30",
+              "horario": "22:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -932,5 +927,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "3/5/2026"
+  "fecha": "4/5/2026"
 }
