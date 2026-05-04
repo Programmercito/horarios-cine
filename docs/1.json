@@ -23,6 +23,16 @@
             {
               "horario": "16:50",
               "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
             {
@@ -52,11 +62,6 @@
           "titulo": "EXIT 8",
           "horarios": [
             {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "17:50",
               "idioma": "DOB",
               "formato": "2D"
@@ -77,11 +82,6 @@
         {
           "titulo": "STREAMING PARANORMAL",
           "horarios": [
-            {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "18:00",
               "idioma": "DOB",
@@ -152,16 +152,6 @@
           "titulo": "MICHAEL",
           "horarios": [
             {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D"
@@ -192,19 +182,9 @@
               "formato": "2D"
             },
             {
-              "horario": "22:10",
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
             },
             {
               "horario": "16:40",
@@ -233,11 +213,6 @@
         {
           "titulo": "SUPER MARIO GALAXY: LA PELICULA",
           "horarios": [
-            {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "16:40",
               "idioma": "DOB",
@@ -274,11 +249,6 @@
         {
           "titulo": "EL DIABLO VISTE A LA MODA 2",
           "horarios": [
-            {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "18:30",
               "idioma": "DOB",
@@ -354,16 +324,6 @@
           "titulo": "MICHAEL",
           "horarios": [
             {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D"
@@ -399,11 +359,6 @@
         {
           "titulo": "SUPER MARIO GALAXY: LA PELICULA",
           "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "16:40",
               "idioma": "DOB",
@@ -472,11 +427,6 @@
           "titulo": "EXIT 8",
           "horarios": [
             {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "17:50",
               "idioma": "DOB",
               "formato": "2D"
@@ -514,11 +464,6 @@
           "titulo": "LA POSESION DE LA MOMIA",
           "horarios": [
             {
-              "horario": "15:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "18:40",
               "idioma": "DOB",
               "formato": "2D"
@@ -535,17 +480,17 @@
           "titulo": "MICHAEL",
           "horarios": [
             {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -560,14 +505,14 @@
               "formato": "2D"
             },
             {
-              "horario": "22:10",
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:10",
+              "horario": "22:10",
               "idioma": "DOB",
-              "formato": "2D Atmos"
+              "formato": "2D"
             },
             {
               "horario": "19:00",
@@ -601,27 +546,7 @@
           "titulo": "SUPER MARIO GALAXY: LA PELICULA",
           "horarios": [
             {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -636,11 +561,6 @@
         {
           "titulo": "EL DIABLO VISTE A LA MODA 2",
           "horarios": [
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "18:00",
               "idioma": "DOB",
@@ -673,11 +593,6 @@
           "titulo": "EXIT 8",
           "horarios": [
             {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "17:50",
               "idioma": "DOB",
               "formato": "2D"
@@ -698,11 +613,6 @@
         {
           "titulo": "STREAMING PARANORMAL",
           "horarios": [
-            {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "18:05",
               "idioma": "DOB",
@@ -751,16 +661,6 @@
         {
           "titulo": "MICHAEL",
           "horarios": [
-            {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "16:50",
               "idioma": "DOB",
@@ -839,11 +739,6 @@
           "titulo": "SUPER MARIO GALAXY: LA PELICULA",
           "horarios": [
             {
-              "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "17:10",
               "idioma": "DOB",
               "formato": "2D"
@@ -880,17 +775,7 @@
               "formato": "2D"
             },
             {
-              "horario": "18:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
               "horario": "19:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -937,7 +822,12 @@
           "titulo": "SUPER MARIO GALAXY: LA PELICULA",
           "horarios": [
             {
-              "horario": "16:10",
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1005,11 +895,6 @@
           "titulo": "STREAMING PARANORMAL",
           "horarios": [
             {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -1039,17 +924,6 @@
           "id": "0ebc2703-db5e-4ae9-a513-3f7c312a62c3"
         },
         {
-          "titulo": "LA POSESION DE LA BRUJA",
-          "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a42aacff-62f5-4944-9d6c-ef3a22041f9e"
-        },
-        {
           "titulo": "LA POSESION DE LA MOMIA",
           "horarios": [
             {
@@ -1068,11 +942,6 @@
         {
           "titulo": "MICHAEL",
           "horarios": [
-            {
-              "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "17:40",
               "idioma": "DOB",
@@ -1125,11 +994,6 @@
         {
           "titulo": "SUPER MARIO GALAXY: LA PELICULA",
           "horarios": [
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "17:40",
               "idioma": "DOB",
@@ -1210,11 +1074,6 @@
           "titulo": "MICHAEL",
           "horarios": [
             {
-              "horario": "16:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "17:40",
               "idioma": "DOB",
               "formato": "2D"
@@ -1263,5 +1122,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "3/5/2026"
+  "fecha": "4/5/2026"
 }
