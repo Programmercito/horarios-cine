@@ -1,11 +1,138 @@
 {
   "ciudades": [
     {
-      "peliculas": [],
+      "peliculas": [
+        {
+          "titulo": "MORTAL KOMBAT 2",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            }
+          ],
+          "id": "0593bca5-db12-4e9a-a2c3-63bf4b947238"
+        },
+        {
+          "titulo": "BILLIE EILISH HIT ME HARD AND SOFT THE TOUR",
+          "horarios": [
+            {
+              "horario": "19:00",
+              "idioma": "Ingles",
+              "formato": "3D"
+            }
+          ],
+          "id": "ceeedd03-fae6-4170-8448-787c8bf83949"
+        }
+      ],
       "ciudad": "El Alto"
     },
     {
-      "peliculas": [],
+      "peliculas": [
+        {
+          "titulo": "MORTAL KOMBAT 2",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "Español",
+              "formato": "2D XL"
+            }
+          ],
+          "id": "0593bca5-db12-4e9a-a2c3-63bf4b947238"
+        },
+        {
+          "titulo": "PULP FICTION: TIEMPOS VIOLENTOS",
+          "horarios": [
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D FUNCION FAN"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "0bec8d35-3fe5-44b6-a6ed-f16873a6b17b"
+        },
+        {
+          "titulo": "BILLIE EILISH HIT ME HARD AND SOFT THE TOUR",
+          "horarios": [
+            {
+              "horario": "17:10",
+              "idioma": "Ingles",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Ingles",
+              "formato": "3D"
+            }
+          ],
+          "id": "ceeedd03-fae6-4170-8448-787c8bf83949"
+        }
+      ],
       "ciudad": "La Paz"
     },
     {
