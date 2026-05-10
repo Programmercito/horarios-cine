@@ -8,6 +8,16 @@
           "horarios": [
             {
               "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "11:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "14:10"
+            },
+            {
+              "idioma": "Doblada",
               "formato": "2D",
               "horario": "11:30"
             },
@@ -32,26 +42,6 @@
               "horario": "21:30"
             },
             {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "12:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "14:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "17:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "19:30"
-            },
-            {
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
               "horario": "22:00"
@@ -65,12 +55,17 @@
             {
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
-              "horario": "10:30"
+              "horario": "10:20"
             },
             {
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
-              "horario": "15:40"
+              "horario": "12:50"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D + PREMIER",
+              "horario": "18:20"
             },
             {
               "idioma": "Subtitulada",
@@ -105,7 +100,7 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "16:00"
+              "horario": "15:55"
             },
             {
               "idioma": "Doblada",
@@ -139,26 +134,6 @@
             },
             {
               "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "11:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "14:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "17:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "21:00"
-            },
-            {
-              "idioma": "Doblada",
               "formato": "2D + DBOX",
               "horario": "11:40"
             },
@@ -181,6 +156,21 @@
               "idioma": "Doblada",
               "formato": "2D + DBOX",
               "horario": "22:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "11:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "14:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "17:00"
             }
           ],
           "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
@@ -298,17 +288,17 @@
             {
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
-              "horario": "13:00"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "18:10"
+              "horario": "15:30"
             },
             {
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
               "horario": "18:40"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D + PREMIER",
+              "horario": "21:00"
             },
             {
               "idioma": "Subtitulada",
@@ -379,5 +369,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "9/5/2026"
+  "fecha": "10/5/2026"
 }
