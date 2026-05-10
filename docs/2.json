@@ -6,9 +6,49 @@
           "titulo": "MICHAEL",
           "horarios": [
             {
-              "horario": "11:10",
+              "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
             },
             {
               "horario": "13:40",
@@ -37,9 +77,29 @@
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
           "horarios": [
             {
-              "horario": "10:40",
+              "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "3D"
             },
             {
               "horario": "12:50",
@@ -65,21 +125,6 @@
               "horario": "21:00",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "3D"
             }
           ],
           "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
@@ -88,14 +133,14 @@
           "titulo": "MORTAL KOMBAT 2",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "13:50",
+              "horario": "14:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D - 2D KRONOS"
             },
             {
               "horario": "17:00",
@@ -116,8 +161,34 @@
           "id": "0593bca5-db12-4e9a-a2c3-63bf4b947238"
         },
         {
+          "titulo": "EL DIABLO VISTE A LA MODA 2",
+          "horarios": [
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:15",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
+        },
+        {
           "titulo": "LAS OVEJAS DETECTIVES",
           "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "17:05",
               "idioma": "Español",
@@ -132,20 +203,15 @@
           "id": "d65a44e8-6f28-4992-a47e-c8107aafe206"
         },
         {
-          "titulo": "EL DIABLO VISTE A LA MODA 2",
+          "titulo": "PULP FICTION: TIEMPOS VIOLENTOS",
           "horarios": [
             {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:15",
+              "horario": "21:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
+          "id": "0bec8d35-3fe5-44b6-a6ed-f16873a6b17b"
         },
         {
           "titulo": "LA HIJA CÓNDOR",
@@ -170,28 +236,661 @@
           "id": "ceeedd03-fae6-4170-8448-787c8bf83949"
         },
         {
-          "titulo": "PULP FICTION: TIEMPOS VIOLENTOS",
+          "titulo": "LA POSESIÓN DE LA MOMIA",
           "horarios": [
             {
-              "horario": "21:30",
+              "horario": "14:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "0bec8d35-3fe5-44b6-a6ed-f16873a6b17b"
+          "id": "59ab430c-a1c0-4213-8a5e-efb9ec2c7079"
+        },
+        {
+          "titulo": "EXIT 8",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "95fd13fb-a75d-4a41-b977-ec1127ebba82"
         }
       ],
       "ciudad": "El Alto"
     },
     {
-      "peliculas": [],
+      "peliculas": [
+        {
+          "titulo": "MICHAEL",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            }
+          ],
+          "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
+        },
+        {
+          "titulo": "EL DIABLO VISTE A LA MODA 2",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
+        },
+        {
+          "titulo": "MORTAL KOMBAT 2",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "Español",
+              "formato": "2D XL"
+            }
+          ],
+          "id": "0593bca5-db12-4e9a-a2c3-63bf4b947238"
+        },
+        {
+          "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
+        },
+        {
+          "titulo": "LA HIJA CÓNDOR",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
+        },
+        {
+          "titulo": "‌\n",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Ingles",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "17:15",
+              "idioma": "Ingles",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Ingles",
+              "formato": "3D"
+            }
+          ],
+          "id": "14200c0b-935c-453c-9adf-5654c00ae6c1"
+        },
+        {
+          "titulo": "PULP FICTION: TIEMPOS VIOLENTOS",
+          "horarios": [
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "0bec8d35-3fe5-44b6-a6ed-f16873a6b17b"
+        },
+        {
+          "titulo": "LAS OVEJAS DETECTIVES",
+          "horarios": [
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "d65a44e8-6f28-4992-a47e-c8107aafe206"
+        },
+        {
+          "titulo": "PROYECTO FIN DEL MUNDO",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "df732459-aca6-437f-877e-5fb01cb3375e"
+        },
+        {
+          "titulo": "LA POSESIÓN DE LA MOMIA",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "59ab430c-a1c0-4213-8a5e-efb9ec2c7079"
+        },
+        {
+          "titulo": "EXIT 8",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "95fd13fb-a75d-4a41-b977-ec1127ebba82"
+        }
+      ],
       "ciudad": "La Paz"
     },
     {
-      "peliculas": [],
+      "peliculas": [
+        {
+          "titulo": "EL DIABLO VISTE A LA MODA 2",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
+        },
+        {
+          "titulo": "MORTAL KOMBAT 2",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "0593bca5-db12-4e9a-a2c3-63bf4b947238"
+        },
+        {
+          "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
+        },
+        {
+          "titulo": "LAS OVEJAS DETECTIVES",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "d65a44e8-6f28-4992-a47e-c8107aafe206"
+        },
+        {
+          "titulo": "PULP FICTION: TIEMPOS VIOLENTOS",
+          "horarios": [
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "0bec8d35-3fe5-44b6-a6ed-f16873a6b17b"
+        },
+        {
+          "titulo": "LA HIJA CÓNDOR",
+          "horarios": [
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
+        },
+        {
+          "titulo": "LA HIJA CÓNDOR",
+          "horarios": [
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
+        },
+        {
+          "titulo": "EXIT 8",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "95fd13fb-a75d-4a41-b977-ec1127ebba82"
+        },
+        {
+          "titulo": "BILLIE EILISH HIT ME HARD AND SOFT THE TOUR",
+          "horarios": [
+            {
+              "horario": "20:30",
+              "idioma": "Ingles",
+              "formato": "3D"
+            }
+          ],
+          "id": "ceeedd03-fae6-4170-8448-787c8bf83949"
+        }
+      ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "9/5/2026"
+  "fecha": "10/5/2026"
 }
