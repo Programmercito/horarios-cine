@@ -214,28 +214,6 @@
           "id": "0bec8d35-3fe5-44b6-a6ed-f16873a6b17b"
         },
         {
-          "titulo": "LA HIJA CÓNDOR",
-          "horarios": [
-            {
-              "horario": "19:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
-        },
-        {
-          "titulo": "BILLIE EILISH HIT ME HARD AND SOFT THE TOUR",
-          "horarios": [
-            {
-              "horario": "19:00",
-              "idioma": "Ingles",
-              "formato": "3D"
-            }
-          ],
-          "id": "ceeedd03-fae6-4170-8448-787c8bf83949"
-        },
-        {
           "titulo": "LA POSESIÓN DE LA MOMIA",
           "horarios": [
             {
@@ -256,6 +234,28 @@
             }
           ],
           "id": "95fd13fb-a75d-4a41-b977-ec1127ebba82"
+        },
+        {
+          "titulo": "LA HIJA CÓNDOR",
+          "horarios": [
+            {
+              "horario": "19:15",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
+        },
+        {
+          "titulo": "BILLIE EILISH HIT ME HARD AND SOFT THE TOUR",
+          "horarios": [
+            {
+              "horario": "19:00",
+              "idioma": "Ingles",
+              "formato": "3D"
+            }
+          ],
+          "id": "ceeedd03-fae6-4170-8448-787c8bf83949"
         }
       ],
       "ciudad": "El Alto"
@@ -573,27 +573,6 @@
           "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
         },
         {
-          "titulo": "‌\n",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "Ingles",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "17:15",
-              "idioma": "Ingles",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Ingles",
-              "formato": "3D"
-            }
-          ],
-          "id": "14200c0b-935c-453c-9adf-5654c00ae6c1"
-        },
-        {
           "titulo": "PULP FICTION: TIEMPOS VIOLENTOS",
           "horarios": [
             {
@@ -602,7 +581,7 @@
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "22:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -636,15 +615,31 @@
           "id": "d65a44e8-6f28-4992-a47e-c8107aafe206"
         },
         {
+          "titulo": "BILLIE EILISH HIT ME HARD AND SOFT THE TOUR",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Ingles",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "17:15",
+              "idioma": "Ingles",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Ingles",
+              "formato": "3D"
+            }
+          ],
+          "id": "ceeedd03-fae6-4170-8448-787c8bf83949"
+        },
+        {
           "titulo": "PROYECTO FIN DEL MUNDO",
           "horarios": [
             {
               "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -660,7 +655,7 @@
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "22:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -683,6 +678,82 @@
     },
     {
       "peliculas": [
+        {
+          "titulo": "MICHAEL",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
+        },
         {
           "titulo": "EL DIABLO VISTE A LA MODA 2",
           "horarios": [
@@ -740,6 +811,32 @@
           "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
         },
         {
+          "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
+        },
+        {
           "titulo": "MORTAL KOMBAT 2",
           "horarios": [
             {
@@ -771,37 +868,6 @@
           "id": "0593bca5-db12-4e9a-a2c3-63bf4b947238"
         },
         {
-          "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
-        },
-        {
           "titulo": "LAS OVEJAS DETECTIVES",
           "horarios": [
             {
@@ -815,7 +881,7 @@
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "22:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -855,7 +921,18 @@
           "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
         },
         {
-          "titulo": "LA HIJA CÓNDOR",
+          "titulo": "BILLIE EILISH HIT ME HARD AND SOFT THE TOUR",
+          "horarios": [
+            {
+              "horario": "20:30",
+              "idioma": "Ingles",
+              "formato": "3D"
+            }
+          ],
+          "id": "ceeedd03-fae6-4170-8448-787c8bf83949"
+        },
+        {
+          "titulo": "LA POSESIÓN DE LA MOMIA",
           "horarios": [
             {
               "horario": "15:30",
@@ -863,7 +940,7 @@
               "formato": "2D"
             }
           ],
-          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
+          "id": "59ab430c-a1c0-4213-8a5e-efb9ec2c7079"
         },
         {
           "titulo": "EXIT 8",
@@ -875,22 +952,11 @@
             }
           ],
           "id": "95fd13fb-a75d-4a41-b977-ec1127ebba82"
-        },
-        {
-          "titulo": "BILLIE EILISH HIT ME HARD AND SOFT THE TOUR",
-          "horarios": [
-            {
-              "horario": "20:30",
-              "idioma": "Ingles",
-              "formato": "3D"
-            }
-          ],
-          "id": "ceeedd03-fae6-4170-8448-787c8bf83949"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "10/5/2026"
+  "fecha": "11/5/2026"
 }
