@@ -4,6 +4,28 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
+          "titulo": "TOP GUN [1986] - 40 ANIVERSARIO",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DBOX",
+              "horario": "19:40"
+            }
+          ],
+          "id": "b4c93c51-b84e-492e-8aab-a6db417f1c34"
+        },
+        {
+          "titulo": "TOP GUN MAVERICK [2022]",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DBOX",
+              "horario": "22:20"
+            }
+          ],
+          "id": "b48601dc-b679-4505-8b63-131da62713d3"
+        },
+        {
           "titulo": "MORTAL KOMBAT 2",
           "horarios": [
             {
@@ -20,6 +42,11 @@
               "idioma": "Doblada",
               "formato": "2D + PREMIER",
               "horario": "16:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "19:30"
             },
             {
               "idioma": "Doblada",
@@ -59,83 +86,8 @@
           "horarios": [
             {
               "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "10:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "11:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "13:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "13:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "16:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "16:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "19:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "20:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "21:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "21:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "11:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "14:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "17:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "19:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "22:20"
+              "formato": "2D + PREMIER",
+              "horario": "10:20"
             },
             {
               "idioma": "Doblada",
@@ -145,7 +97,7 @@
             {
               "idioma": "Doblada",
               "formato": "2D + PREMIER",
-              "horario": "13:00"
+              "horario": "12:50"
             },
             {
               "idioma": "Doblada",
@@ -166,6 +118,81 @@
               "idioma": "Doblada",
               "formato": "2D + PREMIER",
               "horario": "18:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "21:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "11:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "11:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "13:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "13:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "16:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "16:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "20:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "21:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DBOX",
+              "horario": "11:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DBOX",
+              "horario": "14:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DBOX",
+              "horario": "17:00"
             },
             {
               "idioma": "Subtitulada",
@@ -197,12 +224,12 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "11:10"
+              "horario": "10:40"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "13:30"
+              "horario": "15:00"
             }
           ],
           "id": "d65a44e8-6f28-4992-a47e-c8107aafe206"
@@ -210,6 +237,21 @@
         {
           "titulo": "MICHAEL",
           "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "10:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "13:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "16:00"
+            },
             {
               "idioma": "Doblada",
               "formato": "2D + XD + DBOX",
@@ -243,6 +285,11 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
+              "horario": "13:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
               "horario": "14:40"
             },
             {
@@ -263,11 +310,6 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "19:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
               "horario": "20:20"
             },
             {
@@ -276,24 +318,9 @@
               "horario": "21:10"
             },
             {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "13:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "16:00"
-            },
-            {
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
               "horario": "18:40"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "19:20"
             },
             {
               "idioma": "Subtitulada",
@@ -313,56 +340,10 @@
             }
           ],
           "id": "59ab430c-a1c0-4213-8a5e-efb9ec2c7079"
-        },
-        {
-          "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "10:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "11:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "12:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "13:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "14:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "16:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "17:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:10"
-            }
-          ],
-          "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
         }
       ]
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "12/5/2026"
+  "fecha": "13/5/2026"
 }
