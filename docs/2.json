@@ -6,6 +6,31 @@
           "titulo": "MICHAEL",
           "horarios": [
             {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
               "horario": "13:40",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
@@ -24,11 +49,6 @@
               "horario": "21:30",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ],
           "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
@@ -50,11 +70,6 @@
               "horario": "17:00",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "3D"
             },
             {
               "horario": "19:00",
@@ -86,51 +101,35 @@
               "horario": "19:30",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ],
           "id": "0593bca5-db12-4e9a-a2c3-63bf4b947238"
         },
         {
-          "titulo": "LAS OVEJAS DETECTIVES",
+          "titulo": "HOKUM: LA MALDICIÓN DE LA BRUJA",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "14:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:35",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "d65a44e8-6f28-4992-a47e-c8107aafe206"
-        },
-        {
-          "titulo": "PANDA PLAN: LA TRIBU MÁGICA",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "c0045ae3-ab24-4c64-b70b-64d9b3d53e4f"
+          "id": "17050503-effe-40b4-9198-0482b39dfb6e"
         },
         {
           "titulo": "VOLCÁN: FUEGO BAJO TIERRA",
@@ -159,30 +158,51 @@
           "id": "3168137c-1b87-46bb-b0f8-9da36edc5d50"
         },
         {
-          "titulo": "HOKUM: LA MALDICIÓN DE LA BRUJA",
+          "titulo": "PANDA PLAN: LA TRIBU MÁGICA",
           "horarios": [
             {
-              "horario": "14:15",
+              "horario": "12:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:35",
+              "horario": "16:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "20:45",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:40",
+              "horario": "22:50",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "17050503-effe-40b4-9198-0482b39dfb6e"
+          "id": "c0045ae3-ab24-4c64-b70b-64d9b3d53e4f"
+        },
+        {
+          "titulo": "OBSESIÓN",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "30cb9a47-3cdc-400a-b0ed-1cbc2c8592ae"
         },
         {
           "titulo": "EL DIABLO VISTE A LA MODA 2",
@@ -196,26 +216,26 @@
           "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
         },
         {
-          "titulo": "BILLIE EILISH HIT ME HARD AND SOFT THE TOUR",
+          "titulo": "LA HIJA CÓNDOR",
           "horarios": [
             {
-              "horario": "13:40",
-              "idioma": "Ingles",
-              "formato": "3D"
-            }
-          ],
-          "id": "ceeedd03-fae6-4170-8448-787c8bf83949"
-        },
-        {
-          "titulo": "TOP GUN",
-          "horarios": [
-            {
-              "horario": "12:00",
+              "horario": "14:50",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "6371db6a-872e-49b0-8ba1-f5afd20407fb"
+          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
+        },
+        {
+          "titulo": "LAS OVEJAS DETECTIVES",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "d65a44e8-6f28-4992-a47e-c8107aafe206"
         },
         {
           "titulo": "TOP GUN: MAVERICK",
@@ -229,15 +249,15 @@
           "id": "cff1c223-c822-478d-8ded-2d0c94652efd"
         },
         {
-          "titulo": "LA HIJA CÓNDOR",
+          "titulo": "BILLIE EILISH HIT ME HARD AND SOFT THE TOUR",
           "horarios": [
             {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
+              "horario": "13:40",
+              "idioma": "Ingles",
+              "formato": "3D"
             }
           ],
-          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
+          "id": "ceeedd03-fae6-4170-8448-787c8bf83949"
         },
         {
           "titulo": "PONYO Y EL SECRETO DE LA SIRENITA",
@@ -262,6 +282,17 @@
           "id": "49dd28d5-bb01-43a0-82b9-499677090991"
         },
         {
+          "titulo": "TOP GUN",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6371db6a-872e-49b0-8ba1-f5afd20407fb"
+        },
+        {
           "titulo": "UMAMUSUME: PRETTY DERBY",
           "horarios": [
             {
@@ -280,6 +311,51 @@
         {
           "titulo": "MICHAEL",
           "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
             {
               "horario": "13:20",
               "idioma": "Ingles",
@@ -333,21 +409,6 @@
           "horarios": [
             {
               "horario": "12:00",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -362,11 +423,6 @@
               "formato": "2D"
             },
             {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "19:50",
               "idioma": "Español",
               "formato": "2D"
@@ -375,6 +431,21 @@
               "horario": "22:20",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             },
             {
               "horario": "15:20",
@@ -398,9 +469,19 @@
           "titulo": "MORTAL KOMBAT 2",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "12:50",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
             },
             {
               "horario": "14:30",
@@ -421,21 +502,6 @@
               "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "12:50",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
             }
           ],
           "id": "0593bca5-db12-4e9a-a2c3-63bf4b947238"
@@ -445,11 +511,6 @@
           "horarios": [
             {
               "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -472,26 +533,30 @@
           "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
         },
         {
-          "titulo": "LA HIJA CÓNDOR",
+          "titulo": "OBSESIÓN",
           "horarios": [
             {
-              "horario": "16:30",
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:35",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:45",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
-        },
-        {
-          "titulo": "PULP FICTION: TIEMPOS VIOLENTOS",
-          "horarios": [
-            {
-              "horario": "21:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "0bec8d35-3fe5-44b6-a6ed-f16873a6b17b"
+          "id": "30cb9a47-3cdc-400a-b0ed-1cbc2c8592ae"
         },
         {
           "titulo": "PANDA PLAN: LA TRIBU MÁGICA",
@@ -502,17 +567,17 @@
               "formato": "2D"
             },
             {
+              "horario": "14:05",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "16:15",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:45",
+              "horario": "18:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -523,12 +588,12 @@
           "titulo": "VOLCÁN: FUEGO BAJO TIERRA",
           "horarios": [
             {
-              "horario": "14:05",
+              "horario": "12:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "15:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -598,55 +663,6 @@
           "id": "694f92c0-2aa3-4574-bb5a-7a64a7f5f00e"
         },
         {
-          "titulo": "BILLIE EILISH HIT ME HARD AND SOFT THE TOUR",
-          "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "Ingles",
-              "formato": "3D PLUS"
-            }
-          ],
-          "id": "ceeedd03-fae6-4170-8448-787c8bf83949"
-        },
-        {
-          "titulo": "LA POSESIÓN DE LA MOMIA",
-          "horarios": [
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "59ab430c-a1c0-4213-8a5e-efb9ec2c7079"
-        },
-        {
-          "titulo": "LAS OVEJAS DETECTIVES",
-          "horarios": [
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "d65a44e8-6f28-4992-a47e-c8107aafe206"
-        },
-        {
-          "titulo": "TOP GUN",
-          "horarios": [
-            {
-              "horario": "18:15",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6371db6a-872e-49b0-8ba1-f5afd20407fb"
-        },
-        {
           "titulo": "TOP GUN: MAVERICK",
           "horarios": [
             {
@@ -684,6 +700,17 @@
           "id": "e3790eb1-e82b-4cd9-a1fe-ccc4d7352561"
         },
         {
+          "titulo": "PULP FICTION: TIEMPOS VIOLENTOS",
+          "horarios": [
+            {
+              "horario": "21:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "0bec8d35-3fe5-44b6-a6ed-f16873a6b17b"
+        },
+        {
           "titulo": "IRON MAIDEN- BURNING AMBITION",
           "horarios": [
             {
@@ -700,15 +727,64 @@
           "id": "49dd28d5-bb01-43a0-82b9-499677090991"
         },
         {
-          "titulo": "PROYECTO FIN DEL MUNDO",
+          "titulo": "TOP GUN",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "18:15",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "19:10",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "df732459-aca6-437f-877e-5fb01cb3375e"
+          "id": "6371db6a-872e-49b0-8ba1-f5afd20407fb"
+        },
+        {
+          "titulo": "LAS OVEJAS DETECTIVES",
+          "horarios": [
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "d65a44e8-6f28-4992-a47e-c8107aafe206"
+        },
+        {
+          "titulo": "LA HIJA CÓNDOR",
+          "horarios": [
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
+        },
+        {
+          "titulo": "LA POSESIÓN DE LA MOMIA",
+          "horarios": [
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "59ab430c-a1c0-4213-8a5e-efb9ec2c7079"
+        },
+        {
+          "titulo": "BILLIE EILISH HIT ME HARD AND SOFT THE TOUR",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "Ingles",
+              "formato": "3D PLUS"
+            }
+          ],
+          "id": "ceeedd03-fae6-4170-8448-787c8bf83949"
         }
       ],
       "ciudad": "La Paz"
@@ -718,6 +794,31 @@
         {
           "titulo": "MICHAEL",
           "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
             {
               "horario": "13:40",
               "idioma": "Español",
@@ -755,17 +856,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -819,7 +910,7 @@
           "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
         },
         {
-          "titulo": "MORTAL KOMBAT 2",
+          "titulo": "OBSESIÓN",
           "horarios": [
             {
               "horario": "15:00",
@@ -827,92 +918,17 @@
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "18:05",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "21:50",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "0593bca5-db12-4e9a-a2c3-63bf4b947238"
-        },
-        {
-          "titulo": "PULP FICTION: TIEMPOS VIOLENTOS",
-          "horarios": [
-            {
-              "horario": "22:20",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "0bec8d35-3fe5-44b6-a6ed-f16873a6b17b"
-        },
-        {
-          "titulo": "LAS OVEJAS DETECTIVES",
-          "horarios": [
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "d65a44e8-6f28-4992-a47e-c8107aafe206"
-        },
-        {
-          "titulo": "LA HIJA CÓNDOR",
-          "horarios": [
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
-        },
-        {
-          "titulo": "HOKUM: LA MALDICIÓN DE LA BRUJA",
-          "horarios": [
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:55",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "17050503-effe-40b4-9198-0482b39dfb6e"
-        },
-        {
-          "titulo": "VOLCÁN: FUEGO BAJO TIERRA",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "3168137c-1b87-46bb-b0f8-9da36edc5d50"
+          "id": "30cb9a47-3cdc-400a-b0ed-1cbc2c8592ae"
         },
         {
           "titulo": "PANDA PLAN: LA TRIBU MÁGICA",
@@ -936,15 +952,62 @@
           "id": "c0045ae3-ab24-4c64-b70b-64d9b3d53e4f"
         },
         {
-          "titulo": "BILLIE EILISH HIT ME HARD AND SOFT THE TOUR",
+          "titulo": "VOLCÁN: FUEGO BAJO TIERRA",
           "horarios": [
             {
-              "horario": "12:40",
-              "idioma": "Ingles",
-              "formato": "3D"
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
-          "id": "ceeedd03-fae6-4170-8448-787c8bf83949"
+          "id": "3168137c-1b87-46bb-b0f8-9da36edc5d50"
+        },
+        {
+          "titulo": "HOKUM: LA MALDICIÓN DE LA BRUJA",
+          "horarios": [
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:55",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "17050503-effe-40b4-9198-0482b39dfb6e"
+        },
+        {
+          "titulo": "MORTAL KOMBAT 2",
+          "horarios": [
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "0593bca5-db12-4e9a-a2c3-63bf4b947238"
         },
         {
           "titulo": "PONYO Y EL SECRETO DE LA SIRENITA",
@@ -963,28 +1026,6 @@
           "id": "694f92c0-2aa3-4574-bb5a-7a64a7f5f00e"
         },
         {
-          "titulo": "TOP GUN",
-          "horarios": [
-            {
-              "horario": "18:05",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6371db6a-872e-49b0-8ba1-f5afd20407fb"
-        },
-        {
-          "titulo": "TOP GUN: MAVERICK",
-          "horarios": [
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "cff1c223-c822-478d-8ded-2d0c94652efd"
-        },
-        {
           "titulo": "UMAMUSUME: PRETTY DERBY",
           "horarios": [
             {
@@ -1001,6 +1042,39 @@
           "id": "e3790eb1-e82b-4cd9-a1fe-ccc4d7352561"
         },
         {
+          "titulo": "PULP FICTION: TIEMPOS VIOLENTOS",
+          "horarios": [
+            {
+              "horario": "22:20",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "0bec8d35-3fe5-44b6-a6ed-f16873a6b17b"
+        },
+        {
+          "titulo": "TOP GUN: MAVERICK",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "cff1c223-c822-478d-8ded-2d0c94652efd"
+        },
+        {
+          "titulo": "BILLIE EILISH HIT ME HARD AND SOFT THE TOUR",
+          "horarios": [
+            {
+              "horario": "12:40",
+              "idioma": "Ingles",
+              "formato": "3D"
+            }
+          ],
+          "id": "ceeedd03-fae6-4170-8448-787c8bf83949"
+        },
+        {
           "titulo": "IRON MAIDEN- BURNING AMBITION",
           "horarios": [
             {
@@ -1010,11 +1084,44 @@
             }
           ],
           "id": "49dd28d5-bb01-43a0-82b9-499677090991"
+        },
+        {
+          "titulo": "TOP GUN",
+          "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6371db6a-872e-49b0-8ba1-f5afd20407fb"
+        },
+        {
+          "titulo": "LAS OVEJAS DETECTIVES",
+          "horarios": [
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "d65a44e8-6f28-4992-a47e-c8107aafe206"
+        },
+        {
+          "titulo": "LA HIJA CÓNDOR",
+          "horarios": [
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "13/5/2026"
+  "fecha": "14/5/2026"
 }
