@@ -4,32 +4,6 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
-          "titulo": "UMAMUSUME: PRETTY DERBY",
-          "horarios": [
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D",
-              "horario": "11:00"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D",
-              "horario": "13:30"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D",
-              "horario": "16:00"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D",
-              "horario": "18:30"
-            }
-          ],
-          "id": "e3790eb1-e82b-4cd9-a1fe-ccc4d7352561"
-        },
-        {
           "titulo": "MORTAL KOMBAT 2",
           "horarios": [
             {
@@ -243,42 +217,42 @@
           "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
         },
         {
-          "titulo": "VOLCÁN: FUEGO BAJO TIERRA",
+          "titulo": "UMAMUSUME: PRETTY DERBY",
           "horarios": [
             {
-              "idioma": "Doblada",
+              "idioma": "Subtitulada",
               "formato": "2D",
-              "horario": "19:50"
-            }
-          ],
-          "id": "3168137c-1b87-46bb-b0f8-9da36edc5d50"
-        },
-        {
-          "titulo": "OBSESIÓN",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "17:00"
+              "horario": "16:00"
             },
             {
-              "idioma": "Doblada",
+              "idioma": "Subtitulada",
               "formato": "2D",
-              "horario": "22:20"
+              "horario": "18:30"
             }
           ],
-          "id": "30cb9a47-3cdc-400a-b0ed-1cbc2c8592ae"
+          "id": "e3790eb1-e82b-4cd9-a1fe-ccc4d7352561"
         },
         {
-          "titulo": "PONYO [2008] - GHIBLI FEST 2026",
+          "titulo": "TOP GUN [1986] - 40 ANIVERSARIO",
           "horarios": [
             {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "16:10"
+              "idioma": "Subtitulada",
+              "formato": "2D + PREMIER",
+              "horario": "22:00"
             }
           ],
-          "id": "160ec7c8-61df-4d32-bc51-f6bb18da2e49"
+          "id": "b4c93c51-b84e-492e-8aab-a6db417f1c34"
+        },
+        {
+          "titulo": "TOP GUN MAVERICK [2022]",
+          "horarios": [
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D + PREMIER",
+              "horario": "19:10"
+            }
+          ],
+          "id": "b48601dc-b679-4505-8b63-131da62713d3"
         },
         {
           "titulo": "HOKUM: LA MALDICIÓN DE LA BRUJA",
@@ -305,10 +279,21 @@
             }
           ],
           "id": "17050503-effe-40b4-9198-0482b39dfb6e"
+        },
+        {
+          "titulo": "VOLCÁN: FUEGO BAJO TIERRA",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:50"
+            }
+          ],
+          "id": "3168137c-1b87-46bb-b0f8-9da36edc5d50"
         }
       ]
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "14/5/2026"
+  "fecha": "15/5/2026"
 }
