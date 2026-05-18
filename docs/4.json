@@ -49,31 +49,6 @@
           "horarios": [
             {
               "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "10:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "13:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "15:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "16:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "19:20"
-            },
-            {
-              "idioma": "Doblada",
               "formato": "2D + DBOX",
               "horario": "10:50"
             },
@@ -143,6 +118,26 @@
               "horario": "20:40"
             },
             {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "13:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "15:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "16:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "19:20"
+            },
+            {
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
               "horario": "18:40"
@@ -158,11 +153,6 @@
         {
           "titulo": "EL DIABLO VISTE A LA MODA 2",
           "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "10:10"
-            },
             {
               "idioma": "Doblada",
               "formato": "2D + PREMIER",
@@ -258,12 +248,7 @@
             {
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
-              "horario": "11:10"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "22:00"
+              "horario": "11:20"
             }
           ],
           "id": "b4c93c51-b84e-492e-8aab-a6db417f1c34"
@@ -274,7 +259,12 @@
             {
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
-              "horario": "13:40"
+              "horario": "13:50"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D + PREMIER",
+              "horario": "22:00"
             }
           ],
           "id": "b48601dc-b679-4505-8b63-131da62713d3"
@@ -285,7 +275,7 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "12:30"
+              "horario": "12:20"
             },
             {
               "idioma": "Doblada",
@@ -315,5 +305,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "17/5/2026"
+  "fecha": "18/5/2026"
 }
