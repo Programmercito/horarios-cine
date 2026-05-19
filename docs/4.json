@@ -249,6 +249,11 @@
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
               "horario": "11:20"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D + PREMIER",
+              "horario": "22:00"
             }
           ],
           "id": "b4c93c51-b84e-492e-8aab-a6db417f1c34"
@@ -260,11 +265,6 @@
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
               "horario": "13:50"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "22:00"
             }
           ],
           "id": "b48601dc-b679-4505-8b63-131da62713d3"
@@ -280,12 +280,12 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "19:30"
+              "horario": "19:20"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "21:50"
+              "horario": "21:40"
             }
           ],
           "id": "17050503-effe-40b4-9198-0482b39dfb6e"
@@ -305,5 +305,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "18/5/2026"
+  "fecha": "19/5/2026"
 }
