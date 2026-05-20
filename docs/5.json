@@ -16,6 +16,11 @@
               "horario": "14:55",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -70,11 +75,6 @@
           "titulo": "EL DIABLO VISTE A LA MODA 2",
           "horarios": [
             {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "13:05",
               "idioma": "Español",
               "formato": "2D"
@@ -114,6 +114,16 @@
               "horario": "20:10",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -121,11 +131,6 @@
           "id": "6b5a7f92-dc6c-489a-8999-ecc8e6d89ae2",
           "titulo": "MORTAL KOMBAT II",
           "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "13:00",
               "idioma": "Español",
@@ -147,7 +152,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "10:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -196,7 +201,7 @@
           "titulo": "IRON MAIDEN: BURNING AMBITION",
           "horarios": [
             {
-              "horario": "20:50",
+              "horario": "22:05",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -213,22 +218,6 @@
             },
             {
               "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "628d2940-8e9d-4dfc-9250-623c0958bcd4",
-          "titulo": "HOKUM:LA MALDICIÓN DE LA BRUJA",
-          "horarios": [
-            {
-              "horario": "18:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:05",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -254,5 +243,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "19/5/2026"
+  "fecha": "20/5/2026"
 }
