@@ -91,7 +91,7 @@
               "formato": "2D"
             },
             {
-              "horario": "19:15",
+              "horario": "19:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -110,6 +110,11 @@
               "horario": "20:00",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "21:35",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -123,7 +128,27 @@
               "formato": "2D"
             },
             {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -133,12 +158,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:40",
+              "horario": "21:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -151,26 +171,54 @@
               "horario": "18:30",
               "idioma": "Español",
               "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "15b2b952-0f45-4f5d-9c2e-a22b24dcc60f",
+          "titulo": "BEN UN LÉMUR EN FUGA",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "15:55",
               "idioma": "Español",
-              "formato": "2D ULTRALASER ATMOS"
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "4374165a-c13d-48df-9ef0-940a7eb8aad8",
+          "titulo": "ZONA DE RIESGO",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
-              "horario": "16:40",
+              "horario": "17:35",
               "idioma": "Español",
-              "formato": "2D ULTRALASER ATMOS"
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "129b5f81-0163-4958-8ef4-bfdd5e085ca2",
+          "titulo": "EL PASAJERO DEL DIABLO",
+          "horarios": [
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
-              "horario": "19:10",
+              "horario": "22:10",
               "idioma": "Español",
-              "formato": "2D ULTRALASER ATMOS"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D ULTRALASER ATMOS"
+              "formato": "2D"
             }
           ]
         }
@@ -178,5 +226,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "21/5/2026"
+  "fecha": "22/5/2026"
 }
