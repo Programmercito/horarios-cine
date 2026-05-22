@@ -4,20 +4,115 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
-          "titulo": "MORTAL KOMBAT 2",
+          "titulo": "STAR WARS: THE MANDALORIAN AND GROGU",
           "horarios": [
             {
               "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "19:50"
+              "formato": "2D + XD + DBOX",
+              "horario": "10:50"
             },
             {
               "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "22:20"
+              "formato": "2D + XD + DBOX",
+              "horario": "13:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
+              "horario": "16:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
+              "horario": "19:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
+              "horario": "22:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D",
+              "horario": "12:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D",
+              "horario": "14:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D",
+              "horario": "17:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D",
+              "horario": "20:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "12:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "15:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "18:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "21:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DBOX",
+              "horario": "12:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DBOX",
+              "horario": "15:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DBOX",
+              "horario": "18:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DBOX",
+              "horario": "21:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "13:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "16:20"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "3D + PREMIER",
+              "horario": "19:10"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "3D + PREMIER",
+              "horario": "22:00"
             }
           ],
-          "id": "0593bca5-db12-4e9a-a2c3-63bf4b947238"
+          "id": "b02c0e3d-72e1-495b-8c3d-ed8ad05a2797"
         },
         {
           "titulo": "MICHAEL",
@@ -167,128 +262,6 @@
           "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
         },
         {
-          "titulo": "HOKUM: LA MALDICIÓN DE LA BRUJA",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "22:30"
-            }
-          ],
-          "id": "17050503-effe-40b4-9198-0482b39dfb6e"
-        },
-        {
-          "titulo": "STAR WARS: THE MANDALORIAN AND GROGU",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "10:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "13:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "16:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "19:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "22:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D",
-              "horario": "12:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D",
-              "horario": "14:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D",
-              "horario": "17:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D",
-              "horario": "20:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "12:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "15:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "18:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "21:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "12:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "15:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "18:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "21:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D + PREMIER",
-              "horario": "13:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D + PREMIER",
-              "horario": "16:20"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "3D + PREMIER",
-              "horario": "19:10"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "3D + PREMIER",
-              "horario": "22:00"
-            }
-          ],
-          "id": "b02c0e3d-72e1-495b-8c3d-ed8ad05a2797"
-        },
-        {
           "titulo": "EL PASAJERO DEL DIABLO",
           "horarios": [
             {
@@ -308,6 +281,33 @@
             }
           ],
           "id": "129b5f81-0163-4958-8ef4-bfdd5e085ca2"
+        },
+        {
+          "titulo": "HOKUM: LA MALDICIÓN DE LA BRUJA",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:30"
+            }
+          ],
+          "id": "17050503-effe-40b4-9198-0482b39dfb6e"
+        },
+        {
+          "titulo": "MORTAL KOMBAT 2",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:20"
+            }
+          ],
+          "id": "0593bca5-db12-4e9a-a2c3-63bf4b947238"
         },
         {
           "titulo": "LAS OVEJAS DETECTIVES",
@@ -360,5 +360,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "21/5/2026"
+  "fecha": "22/5/2026"
 }
