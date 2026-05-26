@@ -6,6 +6,11 @@
           "titulo": "THE MANDALORIAN AND GROGU",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
               "horario": "13:45",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
@@ -24,6 +29,11 @@
               "horario": "21:50",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
             },
             {
               "horario": "13:50",
@@ -107,6 +117,11 @@
         {
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
           "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:50",
               "idioma": "Español",
@@ -198,6 +213,11 @@
           "titulo": "VOLCÁN: FUEGO BAJO TIERRA",
           "horarios": [
             {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "21:10",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
@@ -270,131 +290,10 @@
     {
       "peliculas": [
         {
-          "titulo": "THE MANDALORIAN AND GROGU",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "22:35",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "20:10",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "13:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:15",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "19:45",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "a6653299-679c-4f8d-b72d-2ceec7affb54"
-        },
-        {
           "titulo": "MICHAEL",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "11:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -404,17 +303,7 @@
               "formato": "2D"
             },
             {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -424,17 +313,7 @@
               "formato": "2D"
             },
             {
-              "horario": "20:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:45",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -452,6 +331,31 @@
               "horario": "22:10",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D XL"
             }
           ],
           "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
@@ -529,27 +433,6 @@
           "id": "129b5f81-0163-4958-8ef4-bfdd5e085ca2"
         },
         {
-          "titulo": "MORTAL KOMBAT 2",
-          "horarios": [
-            {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "0593bca5-db12-4e9a-a2c3-63bf4b947238"
-        },
-        {
           "titulo": "ZONA DE RIESGO",
           "horarios": [
             {
@@ -573,6 +456,11 @@
         {
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
           "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:30",
               "idioma": "Español",
@@ -613,6 +501,27 @@
           "id": "c47a7e3a-1fef-42f5-af55-1c8dae07e810"
         },
         {
+          "titulo": "MORTAL KOMBAT 2",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "0593bca5-db12-4e9a-a2c3-63bf4b947238"
+        },
+        {
           "titulo": "HOKUM: LA MALDICIÓN DE LA BRUJA",
           "horarios": [
             {
@@ -631,6 +540,11 @@
         {
           "titulo": "BEM, UN LÉMUR EN FUGA",
           "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:00",
               "idioma": "Español",
@@ -658,6 +572,11 @@
         {
           "titulo": "VOLCÁN: FUEGO BAJO TIERRA",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "21:50",
               "idioma": "Español",
@@ -694,17 +613,6 @@
           "id": "c0045ae3-ab24-4c64-b70b-64d9b3d53e4f"
         },
         {
-          "titulo": "UMAMUSUME: PRETTY DERBY",
-          "horarios": [
-            {
-              "horario": "17:10",
-              "idioma": "Japones",
-              "formato": "2D PLUS SUB"
-            }
-          ],
-          "id": "e3790eb1-e82b-4cd9-a1fe-ccc4d7352561"
-        },
-        {
           "titulo": "IRON MAIDEN- BURNING AMBITION",
           "horarios": [
             {
@@ -718,6 +626,11 @@
         {
           "titulo": "PONYO Y EL SECRETO DE LA SIRENITA",
           "horarios": [
+            {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "14:50",
               "idioma": "Español",
@@ -734,6 +647,26 @@
         {
           "titulo": "THE MANDALORIAN AND GROGU",
           "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -758,21 +691,6 @@
               "horario": "22:50",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D XL"
             },
             {
               "horario": "17:00",
@@ -847,6 +765,11 @@
           "titulo": "MICHAEL",
           "horarios": [
             {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "13:40",
               "idioma": "Español",
               "formato": "2D"
@@ -880,7 +803,7 @@
           "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
         },
         {
-          "titulo": "MICHAEL",
+          "titulo": "ZONA DE RIESGO",
           "horarios": [
             {
               "horario": "12:00",
@@ -898,7 +821,7 @@
               "formato": "2D"
             }
           ],
-          "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
+          "id": "4374165a-c13d-48df-9ef0-940a7eb8aad8"
         },
         {
           "titulo": "EL PASAJERO DEL DIABLO",
@@ -949,8 +872,24 @@
           "id": "17050503-effe-40b4-9198-0482b39dfb6e"
         },
         {
+          "titulo": "OBSESIÓN",
+          "horarios": [
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "30cb9a47-3cdc-400a-b0ed-1cbc2c8592ae"
+        },
+        {
           "titulo": "BEM, UN LÉMUR EN FUGA",
           "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:10",
               "idioma": "Español",
@@ -974,6 +913,17 @@
             }
           ],
           "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
+        },
+        {
+          "titulo": "MORTAL KOMBAT 2",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "0593bca5-db12-4e9a-a2c3-63bf4b947238"
         },
         {
           "titulo": "LA HIJA CÓNDOR",
@@ -1035,5 +985,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "25/5/2026"
+  "fecha": "26/5/2026"
 }
