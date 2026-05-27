@@ -8,48 +8,93 @@
           "horarios": [
             {
               "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "10:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "13:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "16:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "19:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "22:10"
+              "formato": "3D",
+              "horario": "10:30"
             },
             {
               "idioma": "Doblada",
               "formato": "3D",
-              "horario": "12:00"
+              "horario": "13:15"
             },
             {
               "idioma": "Doblada",
               "formato": "3D",
-              "horario": "14:50"
+              "horario": "16:00"
             },
             {
               "idioma": "Doblada",
               "formato": "3D",
-              "horario": "17:40"
+              "horario": "18:45"
             },
             {
               "idioma": "Doblada",
               "formato": "3D",
+              "horario": "21:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "10:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "13:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "16:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DBOX",
+              "horario": "11:15"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DBOX",
+              "horario": "14:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DBOX",
+              "horario": "16:45"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DBOX",
+              "horario": "19:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DBOX",
+              "horario": "22:15"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
+              "horario": "12:15"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
+              "horario": "15:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
+              "horario": "17:45"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
               "horario": "20:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
+              "horario": "23:15"
             },
             {
               "idioma": "Doblada",
@@ -65,41 +110,6 @@
               "idioma": "Doblada",
               "formato": "2D + PREMIER",
               "horario": "18:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "21:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "12:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "15:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "18:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "21:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D + PREMIER",
-              "horario": "13:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D + PREMIER",
-              "horario": "16:20"
             },
             {
               "idioma": "Subtitulada",
@@ -120,17 +130,17 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "10:30"
+              "horario": "10:10"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "12:20"
+              "horario": "12:30"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "13:20"
+              "horario": "12:50"
             },
             {
               "idioma": "Doblada",
@@ -140,17 +150,22 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "16:20"
+              "horario": "15:30"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "18:00"
+              "horario": "17:50"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "19:10"
+              "horario": "18:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "20:30"
             },
             {
               "idioma": "Doblada",
@@ -160,7 +175,7 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "22:00"
+              "horario": "23:10"
             },
             {
               "idioma": "Doblada",
@@ -241,22 +256,32 @@
             {
               "idioma": "Doblada",
               "formato": "2D + PREMIER",
-              "horario": "13:10"
+              "horario": "11:00"
             },
             {
               "idioma": "Doblada",
               "formato": "2D + PREMIER",
-              "horario": "16:00"
+              "horario": "13:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "16:20"
             },
             {
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
-              "horario": "18:50"
+              "horario": "19:00"
             },
             {
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
-              "horario": "21:30"
+              "horario": "21:00"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D + PREMIER",
+              "horario": "21:40"
             }
           ],
           "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
@@ -283,15 +308,20 @@
           "id": "129b5f81-0163-4958-8ef4-bfdd5e085ca2"
         },
         {
-          "titulo": "HOKUM: LA MALDICIÓN DE LA BRUJA",
+          "titulo": "OBSESIÓN",
           "horarios": [
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "22:30"
+              "horario": "19:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:00"
             }
           ],
-          "id": "17050503-effe-40b4-9198-0482b39dfb6e"
+          "id": "30cb9a47-3cdc-400a-b0ed-1cbc2c8592ae"
         },
         {
           "titulo": "MORTAL KOMBAT 2",
@@ -336,6 +366,11 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
+              "horario": "10:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
               "horario": "10:40"
             },
             {
@@ -360,5 +395,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "26/5/2026"
+  "fecha": "27/5/2026"
 }
