@@ -285,12 +285,12 @@
               "formato": "2D"
             },
             {
-              "horario": "14:15",
+              "horario": "14:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:40",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -610,30 +610,51 @@
           "id": "6b5a7f92-dc6c-489a-8999-ecc8e6d89ae2"
         },
         {
+          "titulo": "OBSESION",
+          "horarios": [
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "0cdaa1ee-d9f7-4e13-b12b-e14e82b61a2c"
+        },
+        {
           "titulo": "STAR WARS: THE MANDALORIAN AND GROGU",
           "horarios": [
             {
-              "horario": "13:30",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
               "horario": "12:00",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "3D"
             },
             {
               "horario": "15:00",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "3D"
             },
             {
               "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             }
@@ -1579,11 +1600,6 @@
               "horario": "18:40",
               "idioma": "SUBT",
               "formato": "2D"
-            },
-            {
-              "horario": "21:35",
-              "idioma": "SUBT",
-              "formato": "2D"
             }
           ],
           "id": "ca705098-42ca-46b7-b1f6-3baf01f50081"
@@ -1603,11 +1619,6 @@
             },
             {
               "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1673,6 +1684,17 @@
           "id": "129b5f81-0163-4958-8ef4-bfdd5e085ca2"
         },
         {
+          "titulo": "LA HIJA CONDOR",
+          "horarios": [
+            {
+              "horario": "18:10",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "b3d6d9fd-1449-4ad4-942a-c104c1fe02cf"
+        },
+        {
           "titulo": "LAS OVEJAS DETECTIVES",
           "horarios": [
             {
@@ -1707,7 +1729,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1718,7 +1740,7 @@
           "titulo": "OBSESION",
           "horarios": [
             {
-              "horario": "20:00",
+              "horario": "20:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1828,6 +1850,17 @@
             }
           ],
           "id": "5d18d329-d4e6-48f5-baf5-07fb91bb2fdd"
+        },
+        {
+          "titulo": "ZONA DE RIESGO",
+          "horarios": [
+            {
+              "horario": "21:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "4374165a-c13d-48df-9ef0-940a7eb8aad8"
         }
       ],
       "ciudad": "Tarija"
@@ -1911,7 +1944,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "21:30",
               "idioma": "ESP",
               "formato": "2D"
             }
@@ -2033,5 +2066,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "28/5/2026"
+  "fecha": "29/5/2026"
 }
