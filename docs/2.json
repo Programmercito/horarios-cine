@@ -6,29 +6,9 @@
           "titulo": "MICHAEL",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "11:00",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "2D"
             },
             {
               "horario": "13:40",
@@ -59,6 +39,31 @@
               "horario": "21:30",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
             }
           ],
           "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
@@ -67,24 +72,9 @@
           "titulo": "THE MANDALORIAN AND GROGU",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "11:10",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "3D XL - 3D XL KRONOS"
             },
             {
               "horario": "13:50",
@@ -105,35 +95,29 @@
               "horario": "22:15",
               "idioma": "Español",
               "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
             }
           ],
           "id": "a6653299-679c-4f8d-b72d-2ceec7affb54"
-        },
-        {
-          "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "3D"
-            }
-          ],
-          "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
         },
         {
           "titulo": "BACKROOMS: SIN SALIDA",
@@ -167,8 +151,44 @@
           "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
         },
         {
+          "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "3D"
+            }
+          ],
+          "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
+        },
+        {
           "titulo": "PEQUEÑOS MONSTRUOS",
           "horarios": [
+            {
+              "horario": "11:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:40",
               "idioma": "Español",
@@ -209,6 +229,17 @@
           "id": "0593bca5-db12-4e9a-a2c3-63bf4b947238"
         },
         {
+          "titulo": "PANDA PLAN: LA TRIBU MÁGICA",
+          "horarios": [
+            {
+              "horario": "21:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "c0045ae3-ab24-4c64-b70b-64d9b3d53e4f"
+        },
+        {
           "titulo": "EL PASAJERO DEL DIABLO",
           "horarios": [
             {
@@ -218,17 +249,6 @@
             }
           ],
           "id": "129b5f81-0163-4958-8ef4-bfdd5e085ca2"
-        },
-        {
-          "titulo": "VOLCÁN: FUEGO BAJO TIERRA",
-          "horarios": [
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "3168137c-1b87-46bb-b0f8-9da36edc5d50"
         }
       ],
       "ciudad": "El Alto"
@@ -238,6 +258,76 @@
         {
           "titulo": "THE MANDALORIAN AND GROGU",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:15",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "16:45",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:15",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -287,66 +377,6 @@
               "horario": "22:50",
               "idioma": "Español",
               "formato": "2D XL"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "13:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "16:45",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "22:15",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "21:15",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
             }
           ],
           "id": "a6653299-679c-4f8d-b72d-2ceec7affb54"
@@ -355,29 +385,9 @@
           "titulo": "MICHAEL",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "11:00",
               "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "20:15",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:45",
-              "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             },
             {
               "horario": "13:40",
@@ -413,59 +423,43 @@
               "horario": "19:40",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D XL"
             }
           ],
           "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
         },
         {
-          "titulo": "EL DIABLO VISTE A LA MODA 2",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ],
-          "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
-        },
-        {
           "titulo": "BACKROOMS: SIN SALIDA",
           "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:30",
               "idioma": "Español",
@@ -525,6 +519,57 @@
           "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
         },
         {
+          "titulo": "EL DIABLO VISTE A LA MODA 2",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ],
+          "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
+        },
+        {
           "titulo": "MORTAL KOMBAT 2",
           "horarios": [
             {
@@ -546,8 +591,34 @@
           "id": "0593bca5-db12-4e9a-a2c3-63bf4b947238"
         },
         {
+          "titulo": "LA HIJA CÓNDOR",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
+        },
+        {
           "titulo": "PEQUEÑOS MONSTRUOS",
           "horarios": [
+            {
+              "horario": "11:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:40",
               "idioma": "Español",
@@ -572,8 +643,13 @@
           "id": "358a1e30-92e3-47e3-b486-ff83fe4150ff"
         },
         {
-          "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
+          "titulo": "‌\n",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "14:00",
               "idioma": "Español",
@@ -585,28 +661,7 @@
               "formato": "2D"
             }
           ],
-          "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
-        },
-        {
-          "titulo": "LA HIJA CÓNDOR",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
+          "id": "14200c0b-935c-453c-9adf-5654c00ae6c1"
         },
         {
           "titulo": "EL PASAJERO DEL DIABLO",
@@ -618,6 +673,17 @@
             }
           ],
           "id": "129b5f81-0163-4958-8ef4-bfdd5e085ca2"
+        },
+        {
+          "titulo": "ELLA Y SU HIJO",
+          "horarios": [
+            {
+              "horario": "21:10",
+              "idioma": "Frances",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "ca705098-42ca-46b7-b1f6-3baf01f50081"
         },
         {
           "titulo": "ZONA DE RIESGO",
@@ -651,17 +717,6 @@
             }
           ],
           "id": "c47a7e3a-1fef-42f5-af55-1c8dae07e810"
-        },
-        {
-          "titulo": "ELLA Y SU HIJO",
-          "horarios": [
-            {
-              "horario": "21:10",
-              "idioma": "Frances",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "ca705098-42ca-46b7-b1f6-3baf01f50081"
         }
       ],
       "ciudad": "La Paz"
@@ -672,9 +727,9 @@
           "titulo": "THE MANDALORIAN AND GROGU",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "11:10",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D XL"
             },
             {
               "horario": "13:50",
@@ -697,17 +752,17 @@
               "formato": "2D XL"
             },
             {
-              "horario": "14:40",
+              "horario": "14:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "17:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:10",
+              "horario": "20:15",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -728,7 +783,7 @@
           "titulo": "MICHAEL",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "11:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -771,37 +826,6 @@
           "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
         },
         {
-          "titulo": "EL DIABLO VISTE A LA MODA 2",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
-        },
-        {
           "titulo": "BACKROOMS: SIN SALIDA",
           "horarios": [
             {
@@ -838,13 +862,34 @@
           "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
         },
         {
-          "titulo": "ZONA DE RIESGO",
+          "titulo": "EL DIABLO VISTE A LA MODA 2",
           "horarios": [
             {
-              "horario": "15:00",
+              "horario": "12:30",
               "idioma": "Español",
               "formato": "2D"
             },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
+        },
+        {
+          "titulo": "ZONA DE RIESGO",
+          "horarios": [
             {
               "horario": "21:20",
               "idioma": "Español",
@@ -857,12 +902,7 @@
           "titulo": "OBSESIÓN",
           "horarios": [
             {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
+              "horario": "21:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -870,36 +910,20 @@
           "id": "30cb9a47-3cdc-400a-b0ed-1cbc2c8592ae"
         },
         {
-          "titulo": "EL PASAJERO DEL DIABLO",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "129b5f81-0163-4958-8ef4-bfdd5e085ca2"
-        },
-        {
           "titulo": "PEQUEÑOS MONSTRUOS",
           "horarios": [
             {
-              "horario": "15:30",
+              "horario": "16:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:20",
+              "horario": "19:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -923,8 +947,24 @@
           "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
         },
         {
+          "titulo": "EL PASAJERO DEL DIABLO",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "129b5f81-0163-4958-8ef4-bfdd5e085ca2"
+        },
+        {
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "15:20",
               "idioma": "Español",
@@ -949,5 +989,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "28/5/2026"
+  "fecha": "29/5/2026"
 }
