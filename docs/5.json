@@ -118,6 +118,11 @@
               "formato": "2D"
             },
             {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "14:00",
               "idioma": "Español",
               "formato": "2D"
@@ -128,27 +133,22 @@
               "formato": "2D"
             },
             {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "18:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -205,10 +205,26 @@
               "formato": "2D"
             }
           ]
+        },
+        {
+          "id": "358a1e30-92e3-47e3-b486-ff83fe4150ff",
+          "titulo": "PEQUEÑOS MONSTRUOS",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:05",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
         }
       ]
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "28/5/2026"
+  "fecha": "29/5/2026"
 }
