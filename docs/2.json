@@ -236,6 +236,122 @@
     {
       "peliculas": [
         {
+          "titulo": "THE MANDALORIAN AND GROGU",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "22:35",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "13:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "16:45",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:15",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "a6653299-679c-4f8d-b72d-2ceec7affb54"
+        },
+        {
           "titulo": "MICHAEL",
           "horarios": [
             {
@@ -743,17 +859,6 @@
           "id": "358a1e30-92e3-47e3-b486-ff83fe4150ff"
         },
         {
-          "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
-          "horarios": [
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
-        },
-        {
           "titulo": "ZONA DE RIESGO",
           "horarios": [
             {
@@ -768,22 +873,6 @@
             }
           ],
           "id": "4374165a-c13d-48df-9ef0-940a7eb8aad8"
-        },
-        {
-          "titulo": "LA HIJA CÓNDOR",
-          "horarios": [
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
         },
         {
           "titulo": "OBSESIÓN",
@@ -802,6 +891,49 @@
           "id": "30cb9a47-3cdc-400a-b0ed-1cbc2c8592ae"
         },
         {
+          "titulo": "LA HIJA CÓNDOR",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
+        },
+        {
+          "titulo": "EL PASAJERO DEL DIABLO",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "129b5f81-0163-4958-8ef4-bfdd5e085ca2"
+        },
+        {
+          "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
+          "horarios": [
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
+        },
+        {
           "titulo": "MORTAL KOMBAT 2",
           "horarios": [
             {
@@ -817,5 +949,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "31/5/2026"
+  "fecha": "1/6/2026"
 }
