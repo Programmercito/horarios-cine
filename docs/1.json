@@ -26,17 +26,17 @@
               "formato": "2D"
             },
             {
-              "horario": "17:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -51,27 +51,27 @@
               "formato": "2D"
             },
             {
-              "horario": "12:30",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
               "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             }
@@ -98,6 +98,16 @@
           "titulo": "PEQUEÑOS MONSTRUOS",
           "horarios": [
             {
+              "horario": "10:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
@@ -118,11 +128,6 @@
         {
           "titulo": "BEN UN LEMUR EN FUGA",
           "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "13:35",
               "idioma": "DOB",
@@ -171,12 +176,17 @@
           "titulo": "EL PASAJERO DEL DIABLO",
           "horarios": [
             {
-              "horario": "20:15",
+              "horario": "17:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -205,6 +215,11 @@
               "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
             },
             {
               "horario": "13:50",
@@ -285,12 +300,12 @@
               "formato": "2D"
             },
             {
-              "horario": "14:15",
+              "horario": "14:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:40",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -339,24 +354,18 @@
           "id": "b02c0e3d-72e1-495b-8c3d-ed8ad05a2797"
         },
         {
-          "titulo": "SUEGROS SINIESTROS",
+          "titulo": "SUPER MARIO GALAXY: LA PELICULA",
           "horarios": [
             {
-              "horario": "20:00",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "11:10",
               "idioma": "DOB",
               "formato": "2D"
-            }
-          ],
-          "id": "eb539b2b-ba1f-4be7-bd45-de2b4e760b1a"
-        },
-        {
-          "titulo": "SUPER MARIO GALAXY: LA PELICULA",
-          "horarios": [
+            },
             {
               "horario": "12:50",
               "idioma": "DOB",
@@ -376,6 +385,11 @@
               "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "10:40",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
             }
           ],
           "id": "5d18d329-d4e6-48f5-baf5-07fb91bb2fdd"
@@ -404,6 +418,11 @@
         {
           "titulo": "ZONA DE RIESGO",
           "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "12:40",
               "idioma": "DOB",
@@ -604,17 +623,17 @@
               "formato": "3D"
             },
             {
-              "horario": "12:50",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
             {
-              "horario": "15:50",
+              "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
             {
-              "horario": "18:40",
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             },
@@ -735,6 +754,11 @@
           "titulo": "PEQUEÑOS MONSTRUOS",
           "horarios": [
             {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "12:40",
               "idioma": "DOB",
               "formato": "2D"
@@ -755,6 +779,11 @@
         {
           "titulo": "BEN UN LEMUR EN FUGA",
           "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "12:25",
               "idioma": "DOB",
@@ -855,6 +884,11 @@
               "formato": "2D"
             },
             {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
               "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D Atmos"
@@ -890,6 +924,11 @@
         {
           "titulo": "MORTAL KOMBAT II",
           "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "13:00",
               "idioma": "DOB",
@@ -974,6 +1013,22 @@
             }
           ],
           "id": "b02c0e3d-72e1-495b-8c3d-ed8ad05a2797"
+        },
+        {
+          "titulo": "SUPER MARIO GALAXY: LA PELICULA",
+          "horarios": [
+            {
+              "horario": "10:40",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "10:40",
+              "idioma": "DOB",
+              "formato": "2D CXC"
+            }
+          ],
+          "id": "5d18d329-d4e6-48f5-baf5-07fb91bb2fdd"
         }
       ],
       "ciudad": "Cochabamba"
@@ -983,6 +1038,11 @@
         {
           "titulo": "BACKROOMS: SIN SALIDA",
           "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "14:00",
               "idioma": "DOB",
@@ -1051,6 +1111,11 @@
           "titulo": "PEQUEÑOS MONSTRUOS",
           "horarios": [
             {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "13:40",
               "idioma": "DOB",
               "formato": "2D"
@@ -1093,6 +1158,11 @@
           "titulo": "EL DIABLO VISTE A LA MODA 2",
           "horarios": [
             {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "14:10",
               "idioma": "DOB",
               "formato": "2D"
@@ -1134,6 +1204,11 @@
         {
           "titulo": "MICHAEL",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "13:00",
               "idioma": "DOB",
@@ -1244,6 +1319,11 @@
           "titulo": "STAR WARS: THE MANDALORIAN AND GROGU",
           "horarios": [
             {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -1304,6 +1384,11 @@
         {
           "titulo": "SUPER MARIO GALAXY: LA PELICULA",
           "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "12:30",
               "idioma": "DOB",
@@ -1382,6 +1467,11 @@
         {
           "titulo": "MICHAEL",
           "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
             {
               "horario": "14:00",
               "idioma": "SUBT",
@@ -1643,7 +1733,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:50",
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1838,7 +1928,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "21:30",
               "idioma": "ESP",
               "formato": "2D"
             }
@@ -1960,5 +2050,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "31/5/2026"
+  "fecha": "2/6/2026"
 }
