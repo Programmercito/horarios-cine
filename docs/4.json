@@ -84,31 +84,6 @@
           "horarios": [
             {
               "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "10:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "13:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "16:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "18:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "21:20"
-            },
-            {
-              "idioma": "Doblada",
               "formato": "2D + PREMIER",
               "horario": "11:10"
             },
@@ -141,6 +116,26 @@
               "idioma": "Doblada",
               "formato": "2D + XD + DBOX",
               "horario": "22:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DBOX",
+              "horario": "13:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DBOX",
+              "horario": "16:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DBOX",
+              "horario": "18:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DBOX",
+              "horario": "21:20"
             },
             {
               "idioma": "Subtitulada",
@@ -226,8 +221,18 @@
           "horarios": [
             {
               "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "10:50"
+              "formato": "2D + PREMIER",
+              "horario": "11:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "14:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "16:50"
             },
             {
               "idioma": "Doblada",
@@ -260,21 +265,6 @@
               "horario": "22:10"
             },
             {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "11:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "14:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "16:50"
-            },
-            {
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
               "horario": "19:40"
@@ -285,11 +275,6 @@
         {
           "titulo": "PEQUEÑOS MONSTRUOS",
           "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "11:30"
-            },
             {
               "idioma": "Doblada",
               "formato": "2D",
@@ -355,5 +340,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "2/6/2026"
+  "fecha": "3/6/2026"
 }
