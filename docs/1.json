@@ -3,10 +3,177 @@
     {
       "peliculas": [
         {
+          "titulo": "AMOS DEL UNIVERSO",
+          "horarios": [
+            {
+              "horario": "11:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "13:25",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "16:25",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "22:05",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            },
+            {
+              "horario": "19:15",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            }
+          ],
+          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
+        },
+        {
+          "titulo": "SCARY MOVIE 6",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:40",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "19:35",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "16:55",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            }
+          ],
+          "id": "adb20d0e-f0c9-405b-9082-655e4cf087bd"
+        },
+        {
           "titulo": "BACKROOMS: SIN SALIDA",
           "horarios": [
             {
-              "horario": "21:00",
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -18,25 +185,34 @@
             {
               "horario": "22:30",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D"
             }
           ],
           "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
         },
         {
-          "titulo": "ELLA Y SU HIJO",
-          "horarios": [
-            {
-              "horario": "22:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "ca705098-42ca-46b7-b1f6-3baf01f50081"
-        },
-        {
           "titulo": "EL DIABLO VISTE A LA MODA 2",
           "horarios": [
+            {
+              "horario": "11:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "22:20",
               "idioma": "DOB",
@@ -48,6 +224,16 @@
         {
           "titulo": "EL PASAJERO DEL DIABLO",
           "horarios": [
+            {
+              "horario": "17:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "22:15",
               "idioma": "DOB",
@@ -60,14 +246,39 @@
           "titulo": "MICHAEL",
           "horarios": [
             {
-              "horario": "22:20",
+              "horario": "10:50",
               "idioma": "DOB",
-              "formato": "2D Atmos"
+              "formato": "2D"
             },
             {
-              "horario": "21:50",
+              "horario": "12:00",
               "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
@@ -76,7 +287,12 @@
           "titulo": "MORTAL KOMBAT II",
           "horarios": [
             {
-              "horario": "21:10",
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -87,7 +303,12 @@
           "titulo": "OBSESION",
           "horarios": [
             {
-              "horario": "22:00",
+              "horario": "19:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -95,32 +316,119 @@
           "id": "0cdaa1ee-d9f7-4e13-b12b-e14e82b61a2c"
         },
         {
+          "titulo": "PANDA PLAN 2",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "99250907-de2c-4c21-be2e-332aafeea43c"
+        },
+        {
+          "titulo": "PEQUEÑOS MONSTRUOS",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "358a1e30-92e3-47e3-b486-ff83fe4150ff"
+        },
+        {
           "titulo": "STAR WARS: THE MANDALORIAN AND GROGU",
           "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "10:50",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
             }
           ],
           "id": "b02c0e3d-72e1-495b-8c3d-ed8ad05a2797"
         },
         {
-          "titulo": "SUEGROS SINIESTROS",
+          "titulo": "SUPER MARIO GALAXY: LA PELICULA",
           "horarios": [
             {
-              "horario": "22:30",
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "eb539b2b-ba1f-4be7-bd45-de2b4e760b1a"
+          "id": "5d18d329-d4e6-48f5-baf5-07fb91bb2fdd"
         },
         {
           "titulo": "VOLCAN: FUEGO BAJO TIERRA",
           "horarios": [
             {
-              "horario": "22:20",
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -133,15 +441,132 @@
     {
       "peliculas": [
         {
-          "titulo": "BACKROOMS: SIN SALIDA",
+          "titulo": "AMOS DEL UNIVERSO",
           "horarios": [
             {
-              "horario": "21:10",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "15:35",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "18:35",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            }
+          ],
+          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
+        },
+        {
+          "titulo": "SCARY MOVIE 6",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "adb20d0e-f0c9-405b-9082-655e4cf087bd"
+        },
+        {
+          "titulo": "BACKROOMS: SIN SALIDA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -152,7 +577,7 @@
           "titulo": "EL DIABLO VISTE A LA MODA 2",
           "horarios": [
             {
-              "horario": "21:40",
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -160,21 +585,25 @@
           "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
         },
         {
-          "titulo": "EL PASAJERO DEL DIABLO",
-          "horarios": [
-            {
-              "horario": "21:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "129b5f81-0163-4958-8ef4-bfdd5e085ca2"
-        },
-        {
           "titulo": "MICHAEL",
           "horarios": [
             {
-              "horario": "21:40",
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -185,23 +614,43 @@
           "titulo": "STAR WARS: THE MANDALORIAN AND GROGU",
           "horarios": [
             {
-              "horario": "21:30",
+              "horario": "12:00",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "b02c0e3d-72e1-495b-8c3d-ed8ad05a2797"
         },
         {
-          "titulo": "ZONA DE RIESGO",
+          "titulo": "SUPER MARIO GALAXY: LA PELICULA",
           "horarios": [
             {
-              "horario": "22:00",
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "4374165a-c13d-48df-9ef0-940a7eb8aad8"
+          "id": "5d18d329-d4e6-48f5-baf5-07fb91bb2fdd"
         }
       ],
       "ciudad": "Santa Cruz Av. Brasil"
@@ -209,15 +658,182 @@
     {
       "peliculas": [
         {
-          "titulo": "BACKROOMS: SIN SALIDA",
+          "titulo": "AMOS DEL UNIVERSO",
           "horarios": [
+            {
+              "horario": "11:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "13:25",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "19:15",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "14:05",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            }
+          ],
+          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
+        },
+        {
+          "titulo": "SCARY MOVIE 6",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:25",
+              "horario": "10:40",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            }
+          ],
+          "id": "adb20d0e-f0c9-405b-9082-655e4cf087bd"
+        },
+        {
+          "titulo": "BACKROOMS: SIN SALIDA",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -230,19 +846,18 @@
           "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
         },
         {
-          "titulo": "EL DIABLO VISTE A LA MODA 2",
-          "horarios": [
-            {
-              "horario": "22:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
-        },
-        {
           "titulo": "LA HIJA CONDOR",
           "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
             {
               "horario": "22:20",
               "idioma": "ESP",
@@ -255,14 +870,24 @@
           "titulo": "MICHAEL",
           "horarios": [
             {
-              "horario": "21:50",
+              "horario": "12:00",
               "idioma": "DOB",
-              "formato": "2D Atmos"
+              "formato": "2D"
             },
             {
-              "horario": "21:50",
+              "horario": "14:50",
               "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
@@ -271,12 +896,53 @@
           "titulo": "STAR WARS: THE MANDALORIAN AND GROGU",
           "horarios": [
             {
-              "horario": "22:00",
+              "horario": "12:00",
               "idioma": "DOB",
-              "formato": "2D CXC"
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:05",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
             }
           ],
           "id": "b02c0e3d-72e1-495b-8c3d-ed8ad05a2797"
+        },
+        {
+          "titulo": "SUPER MARIO GALAXY: LA PELICULA",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "5d18d329-d4e6-48f5-baf5-07fb91bb2fdd"
         }
       ],
       "ciudad": "Cochabamba"
@@ -284,8 +950,170 @@
     {
       "peliculas": [
         {
+          "titulo": "AMOS DEL UNIVERSO",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "14:25",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            }
+          ],
+          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
+        },
+        {
+          "titulo": "SCARY MOVIE 6",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "adb20d0e-f0c9-405b-9082-655e4cf087bd"
+        },
+        {
           "titulo": "BACKROOMS: SIN SALIDA",
           "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "21:30",
               "idioma": "DOB",
@@ -294,27 +1122,26 @@
             {
               "horario": "22:30",
               "idioma": "DOB",
-              "formato": "2D Atmos"
+              "formato": "2D"
             }
           ],
           "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
         },
         {
-          "titulo": "ELLA Y SU HIJO",
-          "horarios": [
-            {
-              "horario": "22:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "ca705098-42ca-46b7-b1f6-3baf01f50081"
-        },
-        {
           "titulo": "EL DIABLO VISTE A LA MODA 2",
           "horarios": [
             {
-              "horario": "22:10",
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -322,21 +1149,45 @@
           "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
         },
         {
-          "titulo": "EL PASAJERO DEL DIABLO",
-          "horarios": [
-            {
-              "horario": "22:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "129b5f81-0163-4958-8ef4-bfdd5e085ca2"
-        },
-        {
           "titulo": "MICHAEL",
           "horarios": [
             {
-              "horario": "21:30",
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -352,7 +1203,17 @@
           "titulo": "MORTAL KOMBAT II",
           "horarios": [
             {
-              "horario": "21:50",
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -360,21 +1221,61 @@
           "id": "6b5a7f92-dc6c-489a-8999-ecc8e6d89ae2"
         },
         {
-          "titulo": "OBSESION",
+          "titulo": "PANDA PLAN 2",
           "horarios": [
             {
-              "horario": "22:00",
+              "horario": "11:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "0cdaa1ee-d9f7-4e13-b12b-e14e82b61a2c"
+          "id": "99250907-de2c-4c21-be2e-332aafeea43c"
         },
         {
           "titulo": "STAR WARS: THE MANDALORIAN AND GROGU",
           "horarios": [
             {
-              "horario": "22:00",
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -382,15 +1283,20 @@
           "id": "b02c0e3d-72e1-495b-8c3d-ed8ad05a2797"
         },
         {
-          "titulo": "ZONA DE RIESGO",
+          "titulo": "SUPER MARIO GALAXY: LA PELICULA",
           "horarios": [
             {
-              "horario": "22:30",
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "4374165a-c13d-48df-9ef0-940a7eb8aad8"
+          "id": "5d18d329-d4e6-48f5-baf5-07fb91bb2fdd"
         }
       ],
       "ciudad": "La Paz"
@@ -398,10 +1304,82 @@
     {
       "peliculas": [
         {
+          "titulo": "AMOS DEL UNIVERSO",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:25",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
+        },
+        {
+          "titulo": "SCARY MOVIE 6",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "adb20d0e-f0c9-405b-9082-655e4cf087bd"
+        },
+        {
           "titulo": "BACKROOMS: SIN SALIDA",
           "horarios": [
             {
-              "horario": "22:00",
+              "horario": "11:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -412,28 +1390,22 @@
           "titulo": "MICHAEL",
           "horarios": [
             {
-              "horario": "22:30",
+              "horario": "10:50",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
               "idioma": "SUBT",
               "formato": "2D"
             }
           ],
           "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
-        },
-        {
-          "titulo": "STAR WARS: THE MANDALORIAN AND GROGU",
-          "horarios": [
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "3D"
-            }
-          ],
-          "id": "b02c0e3d-72e1-495b-8c3d-ed8ad05a2797"
         }
       ],
       "ciudad": "La Paz VIP"
@@ -441,8 +1413,125 @@
     {
       "peliculas": [
         {
+          "titulo": "AMOS DEL UNIVERSO",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
+        },
+        {
+          "titulo": "SCARY MOVIE 6",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "adb20d0e-f0c9-405b-9082-655e4cf087bd"
+        },
+        {
           "titulo": "BACKROOMS: SIN SALIDA",
           "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "22:00",
               "idioma": "DOB",
@@ -455,7 +1544,12 @@
           "titulo": "EL DIABLO VISTE A LA MODA 2",
           "horarios": [
             {
-              "horario": "21:25",
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -466,7 +1560,7 @@
           "titulo": "EL PASAJERO DEL DIABLO",
           "horarios": [
             {
-              "horario": "22:00",
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -477,7 +1571,12 @@
           "titulo": "LAS OVEJAS DETECTIVES",
           "horarios": [
             {
-              "horario": "21:40",
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -488,6 +1587,21 @@
           "titulo": "MICHAEL",
           "horarios": [
             {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
@@ -496,8 +1610,39 @@
           "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
         },
         {
+          "titulo": "PANDA PLAN 2",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "99250907-de2c-4c21-be2e-332aafeea43c"
+        },
+        {
           "titulo": "STAR WARS: THE MANDALORIAN AND GROGU",
           "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "21:30",
               "idioma": "DOB",
@@ -507,15 +1652,25 @@
           "id": "b02c0e3d-72e1-495b-8c3d-ed8ad05a2797"
         },
         {
-          "titulo": "ZONA DE RIESGO",
+          "titulo": "SUPER MARIO GALAXY: LA PELICULA",
           "horarios": [
             {
-              "horario": "21:35",
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "4374165a-c13d-48df-9ef0-940a7eb8aad8"
+          "id": "5d18d329-d4e6-48f5-baf5-07fb91bb2fdd"
         }
       ],
       "ciudad": "Tarija"
@@ -523,8 +1678,85 @@
     {
       "peliculas": [
         {
+          "titulo": "AMOS DEL UNIVERSO",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
+        },
+        {
+          "titulo": "SCARY MOVIE 6",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "adb20d0e-f0c9-405b-9082-655e4cf087bd"
+        },
+        {
           "titulo": "BACKROOMS: SIN SALIDA",
           "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "22:00",
               "idioma": "DOB",
@@ -537,17 +1769,95 @@
           "titulo": "LA HIJA CONDOR",
           "horarios": [
             {
+              "horario": "19:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
               "horario": "21:30",
               "idioma": "ESP",
               "formato": "2D"
             }
           ],
           "id": "b3d6d9fd-1449-4ad4-942a-c104c1fe02cf"
+        },
+        {
+          "titulo": "MICHAEL",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
+        },
+        {
+          "titulo": "PEQUEÑOS MONSTRUOS",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "358a1e30-92e3-47e3-b486-ff83fe4150ff"
+        },
+        {
+          "titulo": "STAR WARS: THE MANDALORIAN AND GROGU",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "b02c0e3d-72e1-495b-8c3d-ed8ad05a2797"
         }
       ],
       "ciudad": "Quillacollo"
     }
   ],
   "cine": "MEGA",
-  "fecha": "3/6/2026"
+  "fecha": "4/6/2026"
 }
