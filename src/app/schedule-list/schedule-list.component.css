@@ -676,9 +676,18 @@
 }
 
 @media (max-width: 860px) {
+  .movie-card-inner {
+    gap: .75rem;
+  }
+
   .movie-media-schedules {
     flex-direction: column;
     align-items: center;
+    order: 1;
+  }
+
+  .movie-trailer-row {
+    order: 2;
   }
 
   .movie-thumb-poster {
