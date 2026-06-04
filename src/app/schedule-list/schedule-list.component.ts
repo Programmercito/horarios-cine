@@ -255,6 +255,15 @@ export class ScheduleListComponent extends EncodingCine implements OnInit, OnDes
     return movie;
   }
 
+  getMovieVideoId(movie: Pelicula | PeliculaHorario | null | undefined): string {
+    const movieData = this.resolveMovie(movie);
+    return movieData?.video || '';
+  }
+
+  getMovieExtras(movie: Pelicula | null): Pelicula['extras'] | null {
+    return movie?.extras || null;
+  }
+
   getMovieRuntime(movie: Pelicula | PeliculaHorario | null | undefined): string | null {
     const movieData = this.resolveMovie(movie);
     const runtime = movieData?.details?.runtime;
@@ -450,8 +459,9 @@ export class ScheduleListComponent extends EncodingCine implements OnInit, OnDes
   }
 
   // Sanitize YouTube URL
-  getYouTubeUrl(videoId: string): SafeResourceUrl {
-    const url = `https://www.youtube.com/embed/${videoId}`;
+  getYouTubeUrl(videoId: string | null | undefined): SafeResourceUrl {
+    const id = (videoId || '').trim();
+    const url = id ? `https://www.youtube.com/embed/${id}` : 'about:blank';
     return this.sanitizer.bypassSecurityTrustResourceUrl(url);
   }
 
