@@ -18,7 +18,7 @@ export class CinemaListComponent extends EncodingCine implements OnInit {
   cinemas: Cinema[] = [];
 
   selectedCity: string | null = null;
-  cinemaConfig: { [key: string]: boolean } = {};
+  cinemaConfig: { [key: string]: { enabled: boolean; web: string } } = {};
   currentYear = new Date().getFullYear();
 
   constructor(
@@ -47,7 +47,7 @@ export class CinemaListComponent extends EncodingCine implements OnInit {
 
   private fetchCinemas(city: string) {
     // Load cinema config first
-    this.http.get<{ [key: string]: boolean }>('/cinema-config.json').pipe(
+    this.http.get<{ [key: string]: { enabled: boolean; web: string } }>('/cinema-config.json').pipe(
       catchError(error => {
         console.error('Error loading cinema config:', error);
         return of({});
@@ -68,7 +68,8 @@ export class CinemaListComponent extends EncodingCine implements OnInit {
       storedData = localStorage.getItem('peliculas');
       if (storedData) {
         // recorro el this.cinemaConfig para cargar solo los cines habilitados
-        Object.entries(this.cinemaConfig).forEach(([key, enabled]) => {
+        Object.entries(this.cinemaConfig).forEach(([key, config]) => {
+          const enabled = config.enabled;
           try {
             const storedSche = localStorage.getItem('cine_' + key);
             if (storedSche) {
@@ -114,7 +115,7 @@ export class CinemaListComponent extends EncodingCine implements OnInit {
   }
   private fetchRemoteCinemas(city: string) {
     const enabledIds = Object.keys(this.cinemaConfig)
-      .filter(id => this.cinemaConfig[id])
+      .filter(id => this.cinemaConfig[id]?.enabled)
       .map(id => Number(id))
       .filter(id => !isNaN(id))
       .sort((a, b) => a - b);
@@ -176,7 +177,7 @@ export class CinemaListComponent extends EncodingCine implements OnInit {
       let cinemaname = data.cine || 'Unknown Cinema';
       console.log("cinemaname ", cinemaname);
       // Check if cinema is enabled in config
-      if (this.cinemaConfig[fileIndex.toString()] === false) {
+      if (this.cinemaConfig[fileIndex.toString()]?.enabled === false) {
         console.log('Skipping disabled cinema:', fileIndex, cinemaname);
         return; // Skip disabled cinemas
       }
