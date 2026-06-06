@@ -60,26 +60,27 @@ export class CinemaListComponent extends EncodingCine implements OnInit {
   }
 
   private loadCinemas(city: string) {
-    let fileIndex = 1;
+
 
     const fetchFile = () => {
       // Check localStorage first
       let storedData: string | null = null;
-      storedData = localStorage.getItem('cine_' + fileIndex);
+      storedData = localStorage.getItem('peliculas');
       if (storedData) {
-        do {
+        // recorro el this.cinemaConfig para cargar solo los cines habilitados
+        Object.entries(this.cinemaConfig).forEach(([key, enabled]) => {
           try {
-            const data = JSON.parse(this.decodificarBase64(storedData));
-            // Verificar si la fecha almacenada es actual
-            if (this.isDataCurrent(data)) {
-              this.processCinemaData(data, fileIndex, city);
-              fileIndex++;
-              storedData = localStorage.getItem('cine_' + fileIndex);
+            const storedSche = localStorage.getItem('cine_' + key);
+            if (storedSche) {
+              const data = JSON.parse(this.decodificarBase64(storedSche));
+              // Verificar si la fecha almacenada es actual
+              if (this.isDataCurrent(data)) {
+                this.processCinemaData(data, Number(key), city);
+              } else {
+                this.fetchRemoteCinemas(city);
+              }
             } else {
-              // Si la fecha no es actual, recargar desde remoto
-              console.log(`Data for cine_${fileIndex} is outdated, fetching from remote...`);
               this.fetchRemoteCinemas(city);
-              return; // Salir del bucle para evitar procesar datos antiguos
             }
           } catch (error) {
             console.error('Error parsing stored data:', error);
@@ -87,7 +88,9 @@ export class CinemaListComponent extends EncodingCine implements OnInit {
             this.fetchRemoteCinemas(city);
             return;
           }
-        } while (storedData);
+
+        });
+
       } else {
         this.fetchRemoteCinemas(city);
       }
