@@ -74,57 +74,6 @@
           "id": "bbbb110f-79a5-4287-94f0-856f70e11f89"
         },
         {
-          "titulo": "AMOS DEL UNIVERSO",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "14:45",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            }
-          ],
-          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
-        },
-        {
           "titulo": "BACKROOMS: SIN SALIDA",
           "horarios": [
             {
@@ -179,6 +128,57 @@
             }
           ],
           "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
+        },
+        {
+          "titulo": "AMOS DEL UNIVERSO",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "14:45",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            }
+          ],
+          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
         },
         {
           "titulo": "MICHAEL",
@@ -339,7 +339,7 @@
               "formato": "2D PLUS SUB"
             },
             {
-              "horario": "12:20",
+              "horario": "12:10",
               "idioma": "Español",
               "formato": "4D E-MOTION"
             },
@@ -420,7 +420,7 @@
               "formato": "2D XL"
             },
             {
-              "horario": "14:20",
+              "horario": "14:10",
               "idioma": "Español",
               "formato": "4D E-MOTION"
             },
@@ -668,17 +668,6 @@
           "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
         },
         {
-          "titulo": "OBSESIÓN",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "30cb9a47-3cdc-400a-b0ed-1cbc2c8592ae"
-        },
-        {
           "titulo": "PEQUEÑOS MONSTRUOS",
           "horarios": [
             {
@@ -715,6 +704,17 @@
             }
           ],
           "id": "0593bca5-db12-4e9a-a2c3-63bf4b947238"
+        },
+        {
+          "titulo": "OBSESIÓN",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "30cb9a47-3cdc-400a-b0ed-1cbc2c8592ae"
         }
       ],
       "ciudad": "La Paz"
@@ -980,5 +980,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "5/6/2026"
+  "fecha": "6/6/2026"
 }
