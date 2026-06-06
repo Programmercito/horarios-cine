@@ -31,6 +31,9 @@
       }
       @if (cinemaDate) {<span class="cinema-date"> - {{ cinemaDate }}</span>}
     </h2>
+    @if (cinemaWeb) {
+    <a class="cinema-web-btn" [href]="cinemaWeb" target="_blank" rel="noopener">🌐 Sitio web</a>
+    }
 
     @if (ciudadesFiltradas.length > 0) {
     <div class="schedules-container">

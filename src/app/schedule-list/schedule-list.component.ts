@@ -32,7 +32,8 @@ export class ScheduleListComponent extends EncodingCine implements OnInit, OnDes
   currentSchedule: any = null;
   currentMovieTitle: string = '';
   currentYear = new Date().getFullYear();
-  cinemaConfig: { [key: string]: boolean } = {};
+  cinemaConfig: { [key: string]: { enabled: boolean; web?: string } } = {};
+  cinemaWeb: string | null = null;
 
   @ViewChild('movieDialog') movieDialogRef!: ElementRef<HTMLDialogElement>;
   @ViewChild('scheduleDialog') scheduleDialogRef!: ElementRef<HTMLDialogElement>;
@@ -58,7 +59,7 @@ export class ScheduleListComponent extends EncodingCine implements OnInit, OnDes
   }
 
   private loadCinemaConfig() {
-    return this.http.get<{ [key: string]: boolean }>('/cinema-config.json').pipe(
+    return this.http.get<{ [key: string]: { enabled: boolean; web?: string } }>('/cinema-config.json').pipe(
       catchError(error => {
         console.error('Error loading cinema config:', error);
         return of({});
@@ -107,7 +108,7 @@ export class ScheduleListComponent extends EncodingCine implements OnInit, OnDes
 
   private fetchAllRemoteCinemas(targetCinemId: string) {
     const enabledIds = Object.keys(this.cinemaConfig)
-      .filter(id => this.cinemaConfig[id])
+      .filter(id => this.cinemaConfig[id]?.enabled)
       .map(id => Number(id))
       .filter(id => !isNaN(id))
       .sort((a, b) => a - b);
@@ -174,6 +175,7 @@ export class ScheduleListComponent extends EncodingCine implements OnInit, OnDes
     this.cinemaData = data;
     this.cinemaName = data?.cine || 'Cinema';
     this.cinemaDate = data?.fecha || '';
+    this.cinemaWeb = this.cinemaConfig[this.cinemid]?.web ?? null;
 
     // Actualizar tags SEO dinámicamente
     this.title.setTitle(`Horarios en ${this.cinemaName} (${this.city}) - Cinema Bo`);

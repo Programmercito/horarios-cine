@@ -1,7 +1,7 @@
 {
-  "1": true,
-  "2": true,
-  "3": false,
-  "4": true,
-  "5": true
+  "1": { "enabled": true, "web": "https://www.cinecenter.com.bo" },
+  "2": { "enabled": true, "web": "https://www.multicine.com.bo" },
+  "3": { "enabled": false, "web": "https://www.monjecampero.com.bo" },
+  "4": { "enabled": true, "web": "https://www.cinemark.com.bo" },
+  "5": { "enabled": true, "web": "https://skyboxcinemas.com.bo" }
 }
