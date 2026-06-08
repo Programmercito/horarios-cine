@@ -574,6 +574,11 @@
               "formato": "2D PLUS"
             },
             {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
               "horario": "20:00",
               "idioma": "Español",
               "formato": "2D PLUS"
@@ -608,17 +613,6 @@
           "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
         },
         {
-          "titulo": "PEQUEÑOS MONSTRUOS",
-          "horarios": [
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "358a1e30-92e3-47e3-b486-ff83fe4150ff"
-        },
-        {
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
           "horarios": [
             {
@@ -650,12 +644,79 @@
             }
           ],
           "id": "30cb9a47-3cdc-400a-b0ed-1cbc2c8592ae"
+        },
+        {
+          "titulo": "PEQUEÑOS MONSTRUOS",
+          "horarios": [
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "358a1e30-92e3-47e3-b486-ff83fe4150ff"
         }
       ],
       "ciudad": "La Paz"
     },
     {
       "peliculas": [
+        {
+          "titulo": "AMOS DEL UNIVERSO",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "14:45",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
+        },
         {
           "titulo": "SCARY MOVIE",
           "horarios": [
@@ -710,68 +771,12 @@
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "18:00",
               "idioma": "Ingles",
               "formato": "2D SUB"
             }
           ],
           "id": "bbbb110f-79a5-4287-94f0-856f70e11f89"
-        },
-        {
-          "titulo": "AMOS DEL UNIVERSO",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "14:45",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
         },
         {
           "titulo": "BACKROOMS: SIN SALIDA",
@@ -875,7 +880,7 @@
           "titulo": "EL DIABLO VISTE A LA MODA 2",
           "horarios": [
             {
-              "horario": "16:40",
+              "horario": "15:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -886,6 +891,17 @@
             }
           ],
           "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
+        },
+        {
+          "titulo": "ZONA DE RIESGO",
+          "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "4374165a-c13d-48df-9ef0-940a7eb8aad8"
         },
         {
           "titulo": "LA HIJA CÓNDOR",
@@ -913,7 +929,7 @@
           "titulo": "PEQUEÑOS MONSTRUOS",
           "horarios": [
             {
-              "horario": "14:50",
+              "horario": "13:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -925,5 +941,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "7/6/2026"
+  "fecha": "8/6/2026"
 }
