@@ -19,7 +19,7 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "14:30"
+              "horario": "14:40"
             },
             {
               "idioma": "Doblada",
@@ -37,7 +37,7 @@
               "horario": "18:30"
             },
             {
-              "idioma": "Doblada",
+              "idioma": "Subtitulada",
               "formato": "2D",
               "horario": "21:00"
             }
@@ -47,36 +47,6 @@
         {
           "titulo": "SCARY MOVIE",
           "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "10:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "19:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "10:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "13:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "15:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "17:40"
-            },
             {
               "idioma": "Doblada",
               "formato": "2D + DBOX",
@@ -95,11 +65,6 @@
             {
               "idioma": "Doblada",
               "formato": "2D + DBOX",
-              "horario": "17:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
               "horario": "18:20"
             },
             {
@@ -111,6 +76,31 @@
               "idioma": "Doblada",
               "formato": "2D + DBOX",
               "horario": "22:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "13:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "15:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "17:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "17:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "21:10"
             },
             {
               "idioma": "Subtitulada",
@@ -133,21 +123,6 @@
         {
           "titulo": "AMOS DEL UNIVERSO",
           "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "10:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "13:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "16:10"
-            },
             {
               "idioma": "Doblada",
               "formato": "2D + XD + DBOX",
@@ -184,6 +159,21 @@
               "horario": "18:10"
             },
             {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "13:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "16:10"
+            },
+            {
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
               "horario": "19:00"
@@ -199,31 +189,6 @@
         {
           "titulo": "BACKROOMS",
           "horarios": [
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "10:10"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "12:30"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "17:30"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "20:00"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "22:30"
-            },
             {
               "idioma": "Doblada",
               "formato": "2D",
@@ -247,12 +212,27 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "19:30"
+              "horario": "20:00"
             },
             {
-              "idioma": "Doblada",
-              "formato": "2D",
+              "idioma": "Subtitulada",
+              "formato": "2D + PREMIER",
+              "horario": "12:30"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D + PREMIER",
+              "horario": "17:30"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D + PREMIER",
               "horario": "20:00"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D + PREMIER",
+              "horario": "22:30"
             },
             {
               "idioma": "Doblada",
@@ -335,5 +315,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "7/6/2026"
+  "fecha": "8/6/2026"
 }
