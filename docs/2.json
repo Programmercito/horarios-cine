@@ -79,27 +79,6 @@
           "id": "bbbb110f-79a5-4287-94f0-856f70e11f89"
         },
         {
-          "titulo": "BACKROOMS: SIN SALIDA",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
-        },
-        {
           "titulo": "THE AMAZING DIGITAL CIRCUS: EL ÚLTIMO ACTO",
           "horarios": [
             {
@@ -161,55 +140,13 @@
               "horario": "22:00",
               "idioma": "Español",
               "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
             }
           ],
           "id": "2ae11860-d5f2-4f82-95ad-fe2ef01b6858"
         },
         {
-          "titulo": "AMOS DEL UNIVERSO",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
-        },
-        {
-          "titulo": "MICHAEL",
-          "horarios": [
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
-        },
-        {
           "titulo": "EL DÍA DE LA REVELACIÓN",
           "horarios": [
-            {
-              "horario": "10:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "13:30",
               "idioma": "Español",
@@ -234,15 +171,46 @@
           "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf"
         },
         {
-          "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
+          "titulo": "BACKROOMS: SIN SALIDA",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
+        },
+        {
+          "titulo": "AMOS DEL UNIVERSO",
           "horarios": [
             {
               "horario": "12:00",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
-          "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
+          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
         },
         {
           "titulo": "ZONA ZOMBIE",
@@ -285,103 +253,39 @@
             }
           ],
           "id": "be91947a-f662-471a-9ea4-7b0d0e3e8b3d"
+        },
+        {
+          "titulo": "MICHAEL",
+          "horarios": [
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:35",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
+        },
+        {
+          "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "3D"
+            }
+          ],
+          "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
         }
       ],
       "ciudad": "El Alto"
     },
     {
       "peliculas": [
-        {
-          "titulo": "SCARY MOVIE",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:45",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "21:35",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            }
-          ],
-          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89"
-        },
         {
           "titulo": "THE AMAZING DIGITAL CIRCUS: EL ÚLTIMO ACTO",
           "horarios": [
@@ -391,17 +295,7 @@
               "formato": "2D"
             },
             {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:20",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -411,27 +305,12 @@
               "formato": "2D"
             },
             {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "17:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -456,22 +335,7 @@
               "formato": "2D PLUS SUB"
             },
             {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
               "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:00",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
@@ -511,22 +375,108 @@
               "formato": "2D XL"
             },
             {
-              "horario": "22:20",
+              "horario": "20:00",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "20:00",
+              "horario": "22:00",
               "idioma": "Español",
-              "formato": "2D XL FUNCION FAN"
+              "formato": "2D XL"
+            }
+          ],
+          "id": "2ae11860-d5f2-4f82-95ad-fe2ef01b6858"
+        },
+        {
+          "titulo": "SCARY MOVIE",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:45",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:35",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D XL"
             },
             {
               "horario": "20:30",
               "idioma": "Español",
-              "formato": "2D XL FUNCION FAN"
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
             }
           ],
-          "id": "2ae11860-d5f2-4f82-95ad-fe2ef01b6858"
+          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89"
         },
         {
           "titulo": "AMOS DEL UNIVERSO",
@@ -629,7 +579,7 @@
               "formato": "3D PLUS"
             },
             {
-              "horario": "22:00",
+              "horario": "18:50",
               "idioma": "Español",
               "formato": "3D PLUS"
             }
@@ -637,15 +587,76 @@
           "id": "a6653299-679c-4f8d-b72d-2ceec7affb54"
         },
         {
-          "titulo": "MICHAEL",
+          "titulo": "EL DÍA DE LA REVELACIÓN",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "11:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ],
+          "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf"
+        },
+        {
+          "titulo": "MICHAEL",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -664,61 +675,66 @@
               "horario": "15:10",
               "idioma": "Español",
               "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
           "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
         },
         {
-          "titulo": "EL DÍA DE LA REVELACIÓN",
+          "titulo": "ZONA ZOMBIE",
           "horarios": [
             {
-              "horario": "13:30",
+              "horario": "14:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "16:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:25",
+              "horario": "20:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "eeb4b0ba-dc46-47eb-9eca-c5d666f0d4be"
+        },
+        {
+          "titulo": "DOLLY: JUEGA CONMIGO",
+          "horarios": [
+            {
+              "horario": "13:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:30",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "19:30",
               "idioma": "Español",
-              "formato": "2D FUNCION FAN"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Ingles",
-              "formato": "2D FUNCION FAN SUB"
-            }
-          ],
-          "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf"
-        },
-        {
-          "titulo": "LA HIJA CÓNDOR",
-          "horarios": [
-            {
-              "horario": "14:50",
-              "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
+          "id": "be91947a-f662-471a-9ea4-7b0d0e3e8b3d"
         },
         {
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
@@ -737,46 +753,15 @@
           "id": "81ab9388-83df-4190-9870-b6c6e6e664c2"
         },
         {
-          "titulo": "ZONA ZOMBIE",
+          "titulo": "LA HIJA CÓNDOR",
           "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "14:50",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ],
-          "id": "eeb4b0ba-dc46-47eb-9eca-c5d666f0d4be"
-        },
-        {
-          "titulo": "DOLLY: JUEGA CONMIGO",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "be91947a-f662-471a-9ea4-7b0d0e3e8b3d"
+          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
         }
       ],
       "ciudad": "La Paz"
@@ -860,58 +845,6 @@
           "id": "bbbb110f-79a5-4287-94f0-856f70e11f89"
         },
         {
-          "titulo": "AMOS DEL UNIVERSO",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
-        },
-        {
-          "titulo": "BACKROOMS: SIN SALIDA",
-          "horarios": [
-            {
-              "horario": "15:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
-        },
-        {
           "titulo": "EL DÍA DE LA REVELACIÓN",
           "horarios": [
             {
@@ -947,10 +880,88 @@
             {
               "horario": "20:30",
               "idioma": "Ingles",
-              "formato": "2D FUNCION FAN SUB"
+              "formato": "2D SUB"
             }
           ],
           "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf"
+        },
+        {
+          "titulo": "BACKROOMS: SIN SALIDA",
+          "horarios": [
+            {
+              "horario": "15:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
+        },
+        {
+          "titulo": "AMOS DEL UNIVERSO",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
+        },
+        {
+          "titulo": "THE AMAZING DIGITAL CIRCUS: EL ÚLTIMO ACTO",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ],
+          "id": "2ae11860-d5f2-4f82-95ad-fe2ef01b6858"
         },
         {
           "titulo": "MICHAEL",
@@ -980,32 +991,6 @@
           "id": "a6653299-679c-4f8d-b72d-2ceec7affb54"
         },
         {
-          "titulo": "THE AMAZING DIGITAL CIRCUS: EL ÚLTIMO ACTO",
-          "horarios": [
-            {
-              "horario": "17:00",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "2ae11860-d5f2-4f82-95ad-fe2ef01b6858"
-        },
-        {
           "titulo": "EL DIABLO VISTE A LA MODA 2",
           "horarios": [
             {
@@ -1015,28 +1000,6 @@
             }
           ],
           "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
-        },
-        {
-          "titulo": "LA HIJA CÓNDOR",
-          "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
-        },
-        {
-          "titulo": "OBSESIÓN",
-          "horarios": [
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "30cb9a47-3cdc-400a-b0ed-1cbc2c8592ae"
         },
         {
           "titulo": "ZONA ZOMBIE",
@@ -1069,11 +1032,33 @@
             }
           ],
           "id": "be91947a-f662-471a-9ea4-7b0d0e3e8b3d"
+        },
+        {
+          "titulo": "LA HIJA CÓNDOR",
+          "horarios": [
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
+        },
+        {
+          "titulo": "OBSESIÓN",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "30cb9a47-3cdc-400a-b0ed-1cbc2c8592ae"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "10/6/2026"
+  "fecha": "11/6/2026"
 }
