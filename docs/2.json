@@ -176,6 +176,27 @@
           "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf"
         },
         {
+          "titulo": "ZONA ZOMBIE",
+          "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:55",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "eeb4b0ba-dc46-47eb-9eca-c5d666f0d4be"
+        },
+        {
           "titulo": "AMOS DEL UNIVERSO",
           "horarios": [
             {
@@ -195,6 +216,22 @@
             }
           ],
           "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
+        },
+        {
+          "titulo": "MICHAEL",
+          "horarios": [
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:35",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
         },
         {
           "titulo": "BACKROOMS: SIN SALIDA",
@@ -218,27 +255,6 @@
           "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
         },
         {
-          "titulo": "ZONA ZOMBIE",
-          "horarios": [
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:55",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "eeb4b0ba-dc46-47eb-9eca-c5d666f0d4be"
-        },
-        {
           "titulo": "DOLLY: JUEGA CONMIGO",
           "horarios": [
             {
@@ -258,22 +274,6 @@
             }
           ],
           "id": "be91947a-f662-471a-9ea4-7b0d0e3e8b3d"
-        },
-        {
-          "titulo": "MICHAEL",
-          "horarios": [
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:35",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
         },
         {
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
@@ -401,11 +401,6 @@
               "formato": "2D"
             },
             {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "13:00",
               "idioma": "Español",
               "formato": "2D"
@@ -441,19 +436,9 @@
               "formato": "2D PLUS SUB"
             },
             {
-              "horario": "12:10",
+              "horario": "12:00",
               "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "formato": "2D XL"
             },
             {
               "horario": "14:00",
@@ -479,6 +464,21 @@
               "horario": "22:30",
               "idioma": "Español",
               "formato": "2D XL"
+            },
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
             }
           ],
           "id": "bbbb110f-79a5-4287-94f0-856f70e11f89"
@@ -612,6 +612,32 @@
           "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
         },
         {
+          "titulo": "ZONA ZOMBIE",
+          "horarios": [
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "eeb4b0ba-dc46-47eb-9eca-c5d666f0d4be"
+        },
+        {
           "titulo": "THE MANDALORIAN AND GROGU",
           "horarios": [
             {
@@ -643,32 +669,6 @@
           "id": "a6653299-679c-4f8d-b72d-2ceec7affb54"
         },
         {
-          "titulo": "ZONA ZOMBIE",
-          "horarios": [
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "eeb4b0ba-dc46-47eb-9eca-c5d666f0d4be"
-        },
-        {
           "titulo": "MICHAEL",
           "horarios": [
             {
@@ -695,6 +695,27 @@
           "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
         },
         {
+          "titulo": "EL DIABLO VISTE A LA MODA 2",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
+        },
+        {
           "titulo": "DOLLY: JUEGA CONMIGO",
           "horarios": [
             {
@@ -719,27 +740,6 @@
             }
           ],
           "id": "be91947a-f662-471a-9ea4-7b0d0e3e8b3d"
-        },
-        {
-          "titulo": "EL DIABLO VISTE A LA MODA 2",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
         },
         {
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
@@ -854,6 +854,11 @@
           "horarios": [
             {
               "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -975,28 +980,6 @@
           "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
         },
         {
-          "titulo": "ZONA ZOMBIE",
-          "horarios": [
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "eeb4b0ba-dc46-47eb-9eca-c5d666f0d4be"
-        },
-        {
-          "titulo": "DOLLY: JUEGA CONMIGO",
-          "horarios": [
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "be91947a-f662-471a-9ea4-7b0d0e3e8b3d"
-        },
-        {
           "titulo": "THE MANDALORIAN AND GROGU",
           "horarios": [
             {
@@ -1019,20 +1002,31 @@
           "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
         },
         {
-          "titulo": "OBSESIÓN",
+          "titulo": "ZONA ZOMBIE",
           "horarios": [
             {
-              "horario": "15:10",
+              "horario": "17:20",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
-          "id": "30cb9a47-3cdc-400a-b0ed-1cbc2c8592ae"
+          "id": "eeb4b0ba-dc46-47eb-9eca-c5d666f0d4be"
+        },
+        {
+          "titulo": "DOLLY: JUEGA CONMIGO",
+          "horarios": [
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "be91947a-f662-471a-9ea4-7b0d0e3e8b3d"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "12/6/2026"
+  "fecha": "13/6/2026"
 }
