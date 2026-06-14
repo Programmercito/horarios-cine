@@ -6,9 +6,34 @@
           "titulo": "SCARY MOVIE",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
             },
             {
               "horario": "13:00",
@@ -44,36 +69,6 @@
               "horario": "21:30",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
             }
           ],
           "id": "bbbb110f-79a5-4287-94f0-856f70e11f89"
@@ -81,36 +76,6 @@
         {
           "titulo": "THE AMAZING DIGITAL CIRCUS: EL ÚLTIMO ACTO",
           "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -140,6 +105,31 @@
               "horario": "22:00",
               "idioma": "Español",
               "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
             }
           ],
           "id": "2ae11860-d5f2-4f82-95ad-fe2ef01b6858"
@@ -147,11 +137,6 @@
         {
           "titulo": "EL DÍA DE LA REVELACIÓN",
           "horarios": [
-            {
-              "horario": "10:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "13:30",
               "idioma": "Español",
@@ -218,6 +203,22 @@
           "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
         },
         {
+          "titulo": "BACKROOMS: SIN SALIDA",
+          "horarios": [
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
+        },
+        {
           "titulo": "MICHAEL",
           "horarios": [
             {
@@ -232,27 +233,6 @@
             }
           ],
           "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
-        },
-        {
-          "titulo": "BACKROOMS: SIN SALIDA",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
         },
         {
           "titulo": "DOLLY: JUEGA CONMIGO",
@@ -612,32 +592,6 @@
           "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
         },
         {
-          "titulo": "ZONA ZOMBIE",
-          "horarios": [
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "eeb4b0ba-dc46-47eb-9eca-c5d666f0d4be"
-        },
-        {
           "titulo": "THE MANDALORIAN AND GROGU",
           "horarios": [
             {
@@ -669,6 +623,32 @@
           "id": "a6653299-679c-4f8d-b72d-2ceec7affb54"
         },
         {
+          "titulo": "ZONA ZOMBIE",
+          "horarios": [
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "eeb4b0ba-dc46-47eb-9eca-c5d666f0d4be"
+        },
+        {
           "titulo": "MICHAEL",
           "horarios": [
             {
@@ -693,27 +673,6 @@
             }
           ],
           "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
-        },
-        {
-          "titulo": "EL DIABLO VISTE A LA MODA 2",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
         },
         {
           "titulo": "DOLLY: JUEGA CONMIGO",
@@ -742,6 +701,27 @@
           "id": "be91947a-f662-471a-9ea4-7b0d0e3e8b3d"
         },
         {
+          "titulo": "EL DIABLO VISTE A LA MODA 2",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
+        },
+        {
           "titulo": "SUPER MARIO GALAXY: LA PELÍCULA",
           "horarios": [
             {
@@ -767,6 +747,17 @@
             }
           ],
           "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
+        },
+        {
+          "titulo": "OBSESIÓN",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "30cb9a47-3cdc-400a-b0ed-1cbc2c8592ae"
         }
       ],
       "ciudad": "La Paz"
@@ -776,41 +767,6 @@
         {
           "titulo": "SCARY MOVIE",
           "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:35",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -840,6 +796,41 @@
               "horario": "22:30",
               "idioma": "Español",
               "formato": "2D XL"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "21:00",
@@ -891,32 +882,6 @@
           "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf"
         },
         {
-          "titulo": "BACKROOMS: SIN SALIDA",
-          "horarios": [
-            {
-              "horario": "15:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
-        },
-        {
           "titulo": "AMOS DEL UNIVERSO",
           "horarios": [
             {
@@ -941,6 +906,32 @@
             }
           ],
           "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
+        },
+        {
+          "titulo": "BACKROOMS: SIN SALIDA",
+          "horarios": [
+            {
+              "horario": "15:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
         },
         {
           "titulo": "THE AMAZING DIGITAL CIRCUS: EL ÚLTIMO ACTO",
@@ -972,6 +963,11 @@
           "titulo": "MICHAEL",
           "horarios": [
             {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "21:50",
               "idioma": "Español",
               "formato": "2D"
@@ -991,19 +987,13 @@
           "id": "a6653299-679c-4f8d-b72d-2ceec7affb54"
         },
         {
-          "titulo": "EL DIABLO VISTE A LA MODA 2",
-          "horarios": [
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
-        },
-        {
           "titulo": "ZONA ZOMBIE",
           "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "17:20",
               "idioma": "Español",
@@ -1016,17 +1006,55 @@
           "titulo": "DOLLY: JUEGA CONMIGO",
           "horarios": [
             {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "19:10",
               "idioma": "Español",
               "formato": "2D"
             }
           ],
           "id": "be91947a-f662-471a-9ea4-7b0d0e3e8b3d"
+        },
+        {
+          "titulo": "EL DIABLO VISTE A LA MODA 2",
+          "horarios": [
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
+        },
+        {
+          "titulo": "OBSESIÓN",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "30cb9a47-3cdc-400a-b0ed-1cbc2c8592ae"
+        },
+        {
+          "titulo": "LA HIJA CÓNDOR",
+          "horarios": [
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "8015acc9-d51f-499e-8ca4-bf9dabb28cd2"
         }
       ],
       "ciudad": "Santa Cruz"
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "13/6/2026"
+  "fecha": "14/6/2026"
 }
