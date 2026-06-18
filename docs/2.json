@@ -104,46 +104,10 @@
           "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
         },
         {
-          "titulo": "THE AMAZING DIGITAL CIRCUS: EL ÚLTIMO ACTO",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "2ae11860-d5f2-4f82-95ad-fe2ef01b6858"
-        },
-        {
           "titulo": "SCARY MOVIE",
           "horarios": [
             {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -153,7 +117,17 @@
               "formato": "2D"
             },
             {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -163,12 +137,12 @@
               "formato": "2D"
             },
             {
-              "horario": "21:30",
+              "horario": "20:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "21:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -192,6 +166,11 @@
               "horario": "19:35",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
           "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf"
@@ -200,7 +179,12 @@
           "titulo": "AMOS DEL UNIVERSO",
           "horarios": [
             {
-              "horario": "18:35",
+              "horario": "14:25",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:35",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -211,7 +195,7 @@
           "titulo": "BACKROOMS: SIN SALIDA",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "14:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -225,6 +209,11 @@
               "horario": "15:00",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "22:25",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ],
           "id": "be91947a-f662-471a-9ea4-7b0d0e3e8b3d"
@@ -233,7 +222,12 @@
           "titulo": "EL JUEGO DE LA MUERTE",
           "horarios": [
             {
-              "horario": "16:10",
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -244,7 +238,12 @@
           "titulo": "EN LA ZONA GRIS",
           "horarios": [
             {
-              "horario": "21:20",
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -443,78 +442,6 @@
           "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
         },
         {
-          "titulo": "THE AMAZING DIGITAL CIRCUS: EL ÚLTIMO ACTO",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "2ae11860-d5f2-4f82-95ad-fe2ef01b6858"
-        },
-        {
-          "titulo": "SCARY MOVIE",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89"
-        },
-        {
           "titulo": "EL DÍA DE LA REVELACIÓN",
           "horarios": [
             {
@@ -528,7 +455,17 @@
               "formato": "2D"
             },
             {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -554,6 +491,78 @@
             }
           ],
           "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf"
+        },
+        {
+          "titulo": "SCARY MOVIE",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89"
+        },
+        {
+          "titulo": "BACKROOMS: SIN SALIDA",
+          "horarios": [
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
         },
         {
           "titulo": "AMOS DEL UNIVERSO",
@@ -582,53 +591,6 @@
           "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
         },
         {
-          "titulo": "BACKROOMS: SIN SALIDA",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:25",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
-        },
-        {
-          "titulo": "THE MANDALORIAN AND GROGU",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "22:35",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "a6653299-679c-4f8d-b72d-2ceec7affb54"
-        },
-        {
           "titulo": "MICHAEL",
           "horarios": [
             {
@@ -648,6 +610,27 @@
             }
           ],
           "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
+        },
+        {
+          "titulo": "THE MANDALORIAN AND GROGU",
+          "horarios": [
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "a6653299-679c-4f8d-b72d-2ceec7affb54"
         },
         {
           "titulo": "EL JUEGO DE LA MUERTE",
@@ -837,17 +820,17 @@
           "titulo": "EL DÍA DE LA REVELACIÓN",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "13:40",
               "idioma": "Ingles",
               "formato": "2D SUB"
             },
             {
-              "horario": "21:30",
+              "horario": "21:20",
               "idioma": "Ingles",
               "formato": "2D SUB"
             },
             {
-              "horario": "16:40",
+              "horario": "16:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -881,10 +864,21 @@
           "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
         },
         {
+          "titulo": "MICHAEL",
+          "horarios": [
+            {
+              "horario": "13:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ],
+          "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
+        },
+        {
           "titulo": "AMOS DEL UNIVERSO",
           "horarios": [
             {
-              "horario": "14:30",
+              "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -897,42 +891,15 @@
           "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
         },
         {
-          "titulo": "THE AMAZING DIGITAL CIRCUS: EL ÚLTIMO ACTO",
-          "horarios": [
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "2ae11860-d5f2-4f82-95ad-fe2ef01b6858"
-        },
-        {
-          "titulo": "MICHAEL",
-          "horarios": [
-            {
-              "horario": "13:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
-        },
-        {
           "titulo": "EL JUEGO DE LA MUERTE",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "13:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:15",
+              "horario": "18:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -971,5 +938,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "17/6/2026"
+  "fecha": "18/6/2026"
 }
