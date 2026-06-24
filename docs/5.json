@@ -2,9 +2,242 @@
   "ciudades": [
     {
       "ciudad": "Cochabamba",
-      "peliculas": []
+      "peliculas": [
+        {
+          "id": "b3d6d9fd-1449-4ad4-942a-c104c1fe02cf",
+          "titulo": "LA HIJA CONDOR",
+          "horarios": [
+            {
+              "horario": "15:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "adb20d0e-f0c9-405b-9082-655e4cf087bd",
+          "titulo": "SCARY MOVIE 6",
+          "horarios": [
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:55",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f",
+          "titulo": "AMOS DEL UNIVERSO",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "2D ULTRALASER"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D ULTRALASER"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D ULTRALASER"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D ULTRALASER"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "2D ULTRALASER"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D ULTRALASER"
+            }
+          ]
+        },
+        {
+          "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf",
+          "titulo": "EL DÍA DE LA REVELACIÓN",
+          "horarios": [
+            {
+              "horario": "21:55",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "18c2a019-6919-48ac-8217-fafaba9aeb96",
+          "titulo": "SUPERGIRL",
+          "horarios": [
+            {
+              "horario": "13:35",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "60bc71cd-7ec4-4586-a0ab-a6f32bfeb8af",
+          "titulo": "EN LA ZONA GRIS",
+          "horarios": [
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        }
+      ]
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "23/6/2026"
+  "fecha": "24/6/2026"
 }
