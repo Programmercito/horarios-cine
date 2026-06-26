@@ -4,15 +4,70 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
-          "titulo": "BLEACH: THOUSAND-YEAR BLOOD WAR - THE CALAMITY",
+          "titulo": "SUPERGIRL",
           "horarios": [
             {
-              "idioma": "Subtitulada",
+              "idioma": "Doblada",
               "formato": "2D",
-              "horario": "18:00"
+              "horario": "11:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "14:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "16:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "21:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "12:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "14:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "16:50"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "3D + PREMIER",
+              "horario": "19:30"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "3D + PREMIER",
+              "horario": "22:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
+              "horario": "20:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
+              "horario": "22:20"
             }
           ],
-          "id": "ef58ad9f-4bc4-47c1-9651-5670ea65fbf2"
+          "id": "18c2a019-6919-48ac-8217-fafaba9aeb96"
         },
         {
           "titulo": "TOY STORY 5",
@@ -30,12 +85,12 @@
             {
               "idioma": "Doblada",
               "formato": "2D + XD + DBOX",
-              "horario": "15:10"
+              "horario": "15:20"
             },
             {
               "idioma": "Doblada",
               "formato": "2D + XD + DBOX",
-              "horario": "17:30"
+              "horario": "17:40"
             },
             {
               "idioma": "Doblada",
@@ -70,7 +125,7 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "11:10"
+              "horario": "11:00"
             },
             {
               "idioma": "Doblada",
@@ -126,6 +181,11 @@
               "idioma": "Doblada",
               "formato": "2D",
               "horario": "17:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "18:00"
             },
             {
               "idioma": "Doblada",
@@ -226,6 +286,17 @@
           "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
         },
         {
+          "titulo": "BLEACH: THOUSAND-YEAR BLOOD WAR - THE CALAMITY",
+          "horarios": [
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "18:00"
+            }
+          ],
+          "id": "ef58ad9f-4bc4-47c1-9651-5670ea65fbf2"
+        },
+        {
           "titulo": "LEVITICUS: RITUAL DE SANGRE",
           "horarios": [
             {
@@ -242,81 +313,15 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "20:00"
+              "horario": "20:20"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "22:20"
+              "horario": "22:40"
             }
           ],
           "id": "db616a38-8deb-453c-a5ba-7756907080a8"
-        },
-        {
-          "titulo": "SUPERGIRL",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "11:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "14:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "16:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "19:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "21:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D + PREMIER",
-              "horario": "12:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D + PREMIER",
-              "horario": "14:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D + PREMIER",
-              "horario": "16:50"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "3D + PREMIER",
-              "horario": "19:30"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "3D + PREMIER",
-              "horario": "22:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "20:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "22:20"
-            }
-          ],
-          "id": "18c2a019-6919-48ac-8217-fafaba9aeb96"
         },
         {
           "titulo": "EL DÍA DE LA REVELACIÓN",
@@ -389,5 +394,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "25/6/2026"
+  "fecha": "26/6/2026"
 }
