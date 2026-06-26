@@ -3,24 +3,76 @@
     {
       "peliculas": [
         {
-          "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf",
-          "titulo": "EL DÍA DE LA REVELACIÓN",
+          "id": "18c2a019-6919-48ac-8217-fafaba9aeb96",
+          "titulo": "SUPERGIRL",
           "horarios": [
             {
-              "horario": "19:10",
+              "horario": "17:15",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:35",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "18c2a019-6919-48ac-8217-fafaba9aeb96",
+          "titulo": "SUPERGIRL",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "772da12f-6fae-4546-a0cd-e2fbba363e22",
-          "titulo": "Backrooms",
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "10:25",
+              "horario": "10:50",
               "idioma": "Doblado",
               "formato": "2D"
+            },
+            {
+              "horario": "12:55",
+              "idioma": "Doblado",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Doblado",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "15:05",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:35",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
             }
           ]
         },
@@ -32,27 +84,6 @@
               "horario": "15:10",
               "idioma": "Doblado",
               "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Doblado",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:55",
-              "idioma": "Doblado",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "0a4f42ba-0a96-44fd-bd47-d23d108748b9",
-          "titulo": "MICHAEL JACKSON",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
             }
           ]
         }
@@ -61,5 +92,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "25/6/2026"
+  "fecha": "26/6/2026"
 }
