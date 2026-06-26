@@ -4,11 +4,11 @@
       "ciudad": "Cochabamba",
       "peliculas": [
         {
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
-          "titulo": "TOY STORY 5",
+          "id": "adb20d0e-f0c9-405b-9082-655e4cf087bd",
+          "titulo": "SCARY MOVIE 6",
           "horarios": [
             {
-              "horario": "10:30",
+              "horario": "10:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -18,27 +18,43 @@
               "formato": "2D"
             },
             {
-              "horario": "14:30",
+              "horario": "14:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "16:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:30",
+              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "22:30",
               "idioma": "Español",
               "formato": "2D"
-            },
+            }
+          ]
+        },
+        {
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
+          "horarios": [
             {
               "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:05",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -48,7 +64,22 @@
               "formato": "2D"
             },
             {
+              "horario": "13:05",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -58,12 +89,58 @@
               "formato": "2D"
             },
             {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "19:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:05",
+              "idioma": "Español",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf",
+          "titulo": "EL DÍA DE LA REVELACIÓN",
+          "horarios": [
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -99,7 +176,65 @@
               "formato": "2D"
             },
             {
-              "horario": "20:55",
+              "horario": "21:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:05",
+              "idioma": "Español",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "e1161513-7fe8-4bff-bed7-d608fdb1bba0",
+          "titulo": "BLEACH: THE CALAMITY",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "471c6ca2-4ef0-4751-b19d-508431134c41",
+          "titulo": "EL MONO: LA MALDICIÓN REGRESA",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "5d1b4c2f-fb11-4994-9882-bca95d1043ee",
+          "titulo": "JACKASS LA ÚLTIMA Y NOS VAMOS",
+          "horarios": [
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -109,5 +244,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "25/6/2026"
+  "fecha": "26/6/2026"
 }
