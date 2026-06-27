@@ -1,30 +1,53 @@
 {
   "ciudades": [
     {
+      "ciudad": "El Alto",
       "peliculas": [
         {
-          "titulo": "SUPERGIRL",
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "20:20",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "13:10",
+              "horario": "20:40",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "3D"
             },
             {
-              "horario": "15:20",
+              "horario": "21:20",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "2D"
             },
             {
-              "horario": "17:40",
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "22:35",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
-            },
+            }
+          ]
+        },
+        {
+          "id": "18c2a019-6919-48ac-8217-fafaba9aeb96",
+          "titulo": "SUPERGIRL",
+          "horarios": [
             {
               "horario": "20:00",
               "idioma": "Español",
@@ -35,36 +58,32 @@
               "idioma": "Español",
               "formato": "3D - 3D KRONOS"
             }
-          ],
-          "id": "18c2a019-6919-48ac-8217-fafaba9aeb96"
+          ]
         },
         {
+          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89",
           "titulo": "SCARY MOVIE",
           "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "19:45",
               "idioma": "Español",
               "formato": "2D"
             }
-          ],
-          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89"
+          ]
         },
         {
+          "id": "b9ca5dcb-d499-433b-b259-d8671213ec8e",
+          "titulo": "JACKASS: LA ULTIMA Y NOS VAMOS",
+          "horarios": [
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf",
           "titulo": "EL DÍA DE LA REVELACIÓN",
           "horarios": [
             {
@@ -77,104 +96,111 @@
               "idioma": "Español",
               "formato": "2D"
             }
-          ],
-          "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf"
+          ]
         },
         {
-          "titulo": "EL DÍA DE LA REVELACIÓN",
-          "horarios": [
-            {
-              "horario": "18:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf"
-        },
-        {
-          "titulo": "BLEACH: THOUSAND YEARS WAR: THE CALAMITY",
-          "horarios": [
-            {
-              "horario": "17:00",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "52e59b13-e080-479b-b6f7-0dacfaab2251"
-        },
-        {
-          "titulo": "BLEACH: THOUSAND YEARS WAR: THE CALAMITY",
+          "id": "471c6ca2-4ef0-4751-b19d-508431134c41",
+          "titulo": "EL MONO: LA MALDICIÓN REGRESA",
           "horarios": [
             {
               "horario": "21:45",
               "idioma": "Español",
               "formato": "2D"
             }
-          ],
-          "id": "52e59b13-e080-479b-b6f7-0dacfaab2251"
-        },
-        {
-          "titulo": "BACKROOMS: SIN SALIDA",
-          "horarios": [
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
-        },
-        {
-          "titulo": "EL JUEGO DE LA MUERTE",
-          "horarios": [
-            {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "d0d7a8dc-97d7-413e-a0c1-4d3b89266eb0"
+          ]
         }
-      ],
-      "ciudad": "El Alto"
+      ]
     },
     {
+      "ciudad": "La Paz",
       "peliculas": [
         {
-          "titulo": "SUPERGIRL",
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "19:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:10",
+              "horario": "19:10",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D PLUS"
             },
             {
-              "horario": "15:20",
+              "horario": "19:20",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL"
             },
             {
-              "horario": "17:40",
+              "horario": "19:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "3D XL"
             },
             {
               "horario": "20:00",
               "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:40",
+              "horario": "21:00",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "22:35",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "18c2a019-6919-48ac-8217-fafaba9aeb96",
+          "titulo": "SUPERGIRL",
+          "horarios": [
+            {
+              "horario": "20:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -182,64 +208,39 @@
               "horario": "22:15",
               "idioma": "Español",
               "formato": "3D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
             }
-          ],
-          "id": "18c2a019-6919-48ac-8217-fafaba9aeb96"
+          ]
         },
         {
+          "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf",
           "titulo": "EL DÍA DE LA REVELACIÓN",
           "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "19:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:15",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
               "horario": "20:15",
               "idioma": "Español",
               "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
             }
-          ],
-          "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf"
+          ]
         },
         {
+          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89",
           "titulo": "SCARY MOVIE",
           "horarios": [
-            {
-              "horario": "11:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "19:30",
               "idioma": "Español",
@@ -250,79 +251,55 @@
               "idioma": "Español",
               "formato": "2D"
             }
-          ],
-          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89"
+          ]
         },
         {
-          "titulo": "SCARY MOVIE",
+          "id": "b9ca5dcb-d499-433b-b259-d8671213ec8e",
+          "titulo": "JACKASS: LA ULTIMA Y NOS VAMOS",
           "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "20:30",
               "idioma": "Español",
               "formato": "2D"
             }
-          ],
-          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89"
+          ]
         },
         {
-          "titulo": "BLEACH: THOUSAND YEARS WAR: THE CALAMITY",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "Japones",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            }
-          ],
-          "id": "52e59b13-e080-479b-b6f7-0dacfaab2251"
-        },
-        {
+          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f",
           "titulo": "AMOS DEL UNIVERSO",
           "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "19:45",
               "idioma": "Español",
               "formato": "2D"
             }
-          ],
-          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
+          ]
         },
         {
-          "titulo": "AMOS DEL UNIVERSO",
+          "id": "52e59b13-e080-479b-b6f7-0dacfaab2251",
+          "titulo": "BLEACH: THOUSAND YEARS WAR: THE CALAMITY",
+          "horarios": [
+            {
+              "horario": "19:00",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            }
+          ]
+        },
+        {
+          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df",
+          "titulo": "BACKROOMS: SIN SALIDA",
+          "horarios": [
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "471c6ca2-4ef0-4751-b19d-508431134c41",
+          "titulo": "EL MONO: LA MALDICIÓN REGRESA",
           "horarios": [
             {
               "horario": "20:45",
@@ -334,80 +311,63 @@
               "idioma": "Español",
               "formato": "2D"
             }
-          ],
-          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
-        },
-        {
-          "titulo": "MICHAEL",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "6768e174-8bf4-448e-9a95-25c1af93378d"
-        },
-        {
-          "titulo": "BACKROOMS: SIN SALIDA",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
-        },
-        {
-          "titulo": "THE MANDALORIAN AND GROGU",
-          "horarios": [
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            }
-          ],
-          "id": "a6653299-679c-4f8d-b72d-2ceec7affb54"
+          ]
         }
-      ],
-      "ciudad": "La Paz"
+      ]
     },
     {
+      "ciudad": "Santa Cruz",
       "peliculas": [
         {
-          "titulo": "SUPERGIRL",
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "19:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:10",
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "20:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:20",
+              "horario": "21:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:40",
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "22:40",
               "idioma": "Español",
               "formato": "2D"
-            },
+            }
+          ]
+        },
+        {
+          "id": "18c2a019-6919-48ac-8217-fafaba9aeb96",
+          "titulo": "SUPERGIRL",
+          "horarios": [
             {
               "horario": "20:00",
               "idioma": "Español",
@@ -418,38 +378,12 @@
               "idioma": "Español",
               "formato": "3D"
             }
-          ],
-          "id": "18c2a019-6919-48ac-8217-fafaba9aeb96"
+          ]
         },
         {
-          "titulo": "SUPERGIRL",
-          "horarios": [
-            {
-              "horario": "17:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:35",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "18c2a019-6919-48ac-8217-fafaba9aeb96"
-        },
-        {
+          "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf",
           "titulo": "EL DÍA DE LA REVELACIÓN",
           "horarios": [
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "19:30",
               "idioma": "Español",
@@ -460,26 +394,26 @@
               "idioma": "Ingles",
               "formato": "2D SUB"
             }
-          ],
-          "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf"
+          ]
         },
         {
-          "titulo": "BLEACH: THOUSAND YEARS WAR: THE CALAMITY",
+          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89",
+          "titulo": "SCARY MOVIE",
           "horarios": [
             {
-              "horario": "16:10",
-              "idioma": "Japones",
-              "formato": "2D SUB"
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
-              "horario": "18:00",
-              "idioma": "Japones",
-              "formato": "2D SUB"
+              "horario": "21:35",
+              "idioma": "Español",
+              "formato": "2D"
             }
-          ],
-          "id": "52e59b13-e080-479b-b6f7-0dacfaab2251"
+          ]
         },
         {
+          "id": "b9ca5dcb-d499-433b-b259-d8671213ec8e",
           "titulo": "JACKASS: LA ULTIMA Y NOS VAMOS",
           "horarios": [
             {
@@ -492,21 +426,10 @@
               "idioma": "Español",
               "formato": "2D"
             }
-          ],
-          "id": "b9ca5dcb-d499-433b-b259-d8671213ec8e"
+          ]
         },
         {
-          "titulo": "JACKASS: LA ULTIMA Y NOS VAMOS",
-          "horarios": [
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ],
-          "id": "b9ca5dcb-d499-433b-b259-d8671213ec8e"
-        },
-        {
+          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df",
           "titulo": "BACKROOMS: SIN SALIDA",
           "horarios": [
             {
@@ -514,10 +437,10 @@
               "idioma": "Español",
               "formato": "2D"
             }
-          ],
-          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df"
+          ]
         },
         {
+          "id": "471c6ca2-4ef0-4751-b19d-508431134c41",
           "titulo": "EL MONO: LA MALDICIÓN REGRESA",
           "horarios": [
             {
@@ -525,11 +448,9 @@
               "idioma": "Español",
               "formato": "2D"
             }
-          ],
-          "id": "471c6ca2-4ef0-4751-b19d-508431134c41"
+          ]
         }
-      ],
-      "ciudad": "Santa Cruz"
+      ]
     }
   ],
   "cine": "MULTICINE",
