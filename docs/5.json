@@ -65,12 +65,22 @@
               "formato": "2D"
             },
             {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "13:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "13:05",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -182,11 +192,6 @@
               "formato": "2D"
             },
             {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "17:05",
               "idioma": "Español",
               "formato": "3D"
@@ -233,6 +238,11 @@
               "horario": "20:10",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         }
@@ -240,5 +250,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "27/6/2026"
+  "fecha": "28/6/2026"
 }
