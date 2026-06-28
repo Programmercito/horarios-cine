@@ -5,7 +5,68 @@
       "peliculas": [
         {
           "titulo": "SUPERGIRL",
-          "horarios": [],
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "11:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "14:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "16:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "21:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "12:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "14:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "16:50"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "3D + PREMIER",
+              "horario": "19:30"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "3D + PREMIER",
+              "horario": "22:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
+              "horario": "20:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
+              "horario": "22:20"
+            }
+          ],
           "id": "18c2a019-6919-48ac-8217-fafaba9aeb96"
         },
         {
@@ -30,6 +91,31 @@
               "idioma": "Doblada",
               "formato": "2D + XD + DBOX",
               "horario": "17:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "10:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "13:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "15:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "17:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D + PREMIER",
+              "horario": "20:00"
             },
             {
               "idioma": "Doblada",
@@ -60,31 +146,6 @@
               "idioma": "Doblada",
               "formato": "2D + DBOX",
               "horario": "22:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D + PREMIER",
-              "horario": "10:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D + PREMIER",
-              "horario": "13:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D + PREMIER",
-              "horario": "15:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D + PREMIER",
-              "horario": "17:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "3D + PREMIER",
-              "horario": "20:10"
             },
             {
               "idioma": "Doblada",
@@ -293,7 +354,7 @@
             {
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
-              "horario": "22:30"
+              "horario": "22:20"
             }
           ],
           "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf"
@@ -338,5 +399,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "27/6/2026"
+  "fecha": "28/6/2026"
 }
