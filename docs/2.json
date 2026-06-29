@@ -8,16 +8,6 @@
           "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "11:20",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
@@ -134,11 +124,6 @@
           "titulo": "SUPERGIRL",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
               "horario": "13:10",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
@@ -169,11 +154,6 @@
           "id": "bbbb110f-79a5-4287-94f0-856f70e11f89",
           "titulo": "SCARY MOVIE",
           "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "13:10",
               "idioma": "Español",
@@ -288,19 +268,9 @@
           "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "11:20",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "3D"
             },
             {
               "horario": "12:00",
@@ -308,12 +278,7 @@
               "formato": "2D PLUS"
             },
             {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:10",
+              "horario": "12:15",
               "idioma": "Español",
               "formato": "3D PLUS"
             },
@@ -365,12 +330,12 @@
             {
               "horario": "15:00",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "3D XL"
             },
             {
               "horario": "15:00",
               "idioma": "Español",
-              "formato": "3D XL"
+              "formato": "2D PLUS"
             },
             {
               "horario": "15:10",
@@ -380,12 +345,12 @@
             {
               "horario": "15:40",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "4D E-MOTION"
             },
             {
               "horario": "15:40",
               "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "formato": "2D"
             },
             {
               "horario": "16:10",
@@ -519,11 +484,6 @@
           "titulo": "SUPERGIRL",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "13:10",
               "idioma": "Español",
               "formato": "2D"
@@ -560,11 +520,6 @@
           "titulo": "EL DÍA DE LA REVELACIÓN",
           "horarios": [
             {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
@@ -592,37 +547,6 @@
           ]
         },
         {
-          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89",
-          "titulo": "SCARY MOVIE",
-          "horarios": [
-            {
-              "horario": "11:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "b9ca5dcb-d499-433b-b259-d8671213ec8e",
           "titulo": "JACKASS: LA ULTIMA Y NOS VAMOS",
           "horarios": [
@@ -643,6 +567,32 @@
             },
             {
               "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89",
+          "titulo": "SCARY MOVIE",
+          "horarios": [
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -759,12 +709,12 @@
           "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "12:00",
+              "horario": "12:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -785,6 +735,11 @@
             },
             {
               "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:45",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -870,11 +825,6 @@
           "titulo": "SUPERGIRL",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "13:10",
               "idioma": "Español",
               "formato": "2D"
@@ -902,9 +852,40 @@
           ]
         },
         {
+          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89",
+          "titulo": "SCARY MOVIE",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf",
           "titulo": "EL DÍA DE LA REVELACIÓN",
           "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "16:30",
               "idioma": "Español",
@@ -923,21 +904,37 @@
           ]
         },
         {
-          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89",
-          "titulo": "SCARY MOVIE",
+          "id": "b9ca5dcb-d499-433b-b259-d8671213ec8e",
+          "titulo": "JACKASS: LA ULTIMA Y NOS VAMOS",
           "horarios": [
             {
-              "horario": "17:45",
+              "horario": "13:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "19:45",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:35",
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "471c6ca2-4ef0-4751-b19d-508431134c41",
+          "titulo": "EL MONO: LA MALDICIÓN REGRESA",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -956,22 +953,6 @@
               "horario": "18:00",
               "idioma": "Japones",
               "formato": "2D SUB"
-            }
-          ]
-        },
-        {
-          "id": "b9ca5dcb-d499-433b-b259-d8671213ec8e",
-          "titulo": "JACKASS: LA ULTIMA Y NOS VAMOS",
-          "horarios": [
-            {
-              "horario": "19:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ]
         },
@@ -996,21 +977,10 @@
               "formato": "2D"
             }
           ]
-        },
-        {
-          "id": "471c6ca2-4ef0-4751-b19d-508431134c41",
-          "titulo": "EL MONO: LA MALDICIÓN REGRESA",
-          "horarios": [
-            {
-              "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
         }
       ]
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "28/6/2026"
+  "fecha": "29/6/2026"
 }
