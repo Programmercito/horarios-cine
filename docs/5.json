@@ -4,17 +4,6 @@
       "ciudad": "Cochabamba",
       "peliculas": [
         {
-          "id": "b3d6d9fd-1449-4ad4-942a-c104c1fe02cf",
-          "titulo": "LA HIJA CONDOR",
-          "horarios": [
-            {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "adb20d0e-f0c9-405b-9082-655e4cf087bd",
           "titulo": "SCARY MOVIE 6",
           "horarios": [
@@ -192,6 +181,11 @@
               "formato": "2D"
             },
             {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "17:05",
               "idioma": "Español",
               "formato": "3D"
@@ -235,12 +229,12 @@
           "titulo": "JACKASS LA ÚLTIMA Y NOS VAMOS",
           "horarios": [
             {
-              "horario": "20:10",
+              "horario": "18:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:10",
+              "horario": "20:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -250,5 +244,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "28/6/2026"
+  "fecha": "29/6/2026"
 }
