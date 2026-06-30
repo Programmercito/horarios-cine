@@ -821,6 +821,37 @@
           ]
         },
         {
+          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89",
+          "titulo": "SCARY MOVIE",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "18c2a019-6919-48ac-8217-fafaba9aeb96",
           "titulo": "SUPERGIRL",
           "horarios": [
@@ -848,32 +879,6 @@
               "horario": "22:20",
               "idioma": "Español",
               "formato": "3D"
-            }
-          ]
-        },
-        {
-          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89",
-          "titulo": "SCARY MOVIE",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ]
         },
@@ -982,5 +987,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "29/6/2026"
+  "fecha": "30/6/2026"
 }
