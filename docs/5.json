@@ -4,9 +4,30 @@
       "ciudad": "Cochabamba",
       "peliculas": [
         {
+          "id": "b3d6d9fd-1449-4ad4-942a-c104c1fe02cf",
+          "titulo": "LA HIJA CONDOR",
+          "horarios": [
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "adb20d0e-f0c9-405b-9082-655e4cf087bd",
           "titulo": "SCARY MOVIE 6",
           "horarios": [
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "10:40",
               "idioma": "Español",
@@ -31,11 +52,6 @@
               "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ]
         },
@@ -49,27 +65,7 @@
               "formato": "2D"
             },
             {
-              "horario": "11:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -79,17 +75,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -99,7 +85,27 @@
               "formato": "2D"
             },
             {
-              "horario": "19:10",
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -109,24 +115,9 @@
               "formato": "2D"
             },
             {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "20:30",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "15:05",
-              "idioma": "Español",
-              "formato": "3D"
             }
           ]
         },
@@ -176,19 +167,50 @@
               "formato": "2D"
             },
             {
+              "horario": "20:55",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "81d20184-4e11-4fdd-b625-316b23c8b945",
+          "titulo": "MINIONS & MONSTRUOS",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "21:00",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:05",
-              "idioma": "Español",
-              "formato": "3D"
             }
           ]
         },
@@ -197,12 +219,7 @@
           "titulo": "BLEACH: THE CALAMITY",
           "horarios": [
             {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
+              "horario": "14:25",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -213,12 +230,12 @@
           "titulo": "EL MONO: LA MALDICIÓN REGRESA",
           "horarios": [
             {
-              "horario": "11:10",
+              "horario": "10:45",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:40",
+              "horario": "12:35",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -234,7 +251,7 @@
               "formato": "2D"
             },
             {
-              "horario": "20:10",
+              "horario": "22:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -244,5 +261,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "30/6/2026"
+  "fecha": "1/7/2026"
 }
