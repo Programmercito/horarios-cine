@@ -3,16 +3,32 @@
     {
       "peliculas": [
         {
-          "id": "18c2a019-6919-48ac-8217-fafaba9aeb96",
-          "titulo": "SUPERGIRL",
+          "id": "81d20184-4e11-4fdd-b625-316b23c8b945",
+          "titulo": "minions & monstruos",
           "horarios": [
             {
-              "horario": "17:15",
+              "horario": "11:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:55",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "81d20184-4e11-4fdd-b625-316b23c8b945",
+          "titulo": "Minions & monstruos",
+          "horarios": [
+            {
+              "horario": "17:40",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             },
             {
-              "horario": "19:35",
+              "horario": "19:40",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             }
@@ -23,12 +39,7 @@
           "titulo": "SUPERGIRL",
           "horarios": [
             {
-              "horario": "12:50",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
+              "horario": "21:45",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -40,11 +51,6 @@
           "horarios": [
             {
               "horario": "10:50",
-              "idioma": "Doblado",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:55",
               "idioma": "Doblado",
               "formato": "2D"
             },
@@ -81,7 +87,7 @@
           "titulo": "Scary Movie 6",
           "horarios": [
             {
-              "horario": "15:10",
+              "horario": "12:55",
               "idioma": "Doblado",
               "formato": "2D"
             }
@@ -92,5 +98,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "1/7/2026"
+  "fecha": "2/7/2026"
 }
