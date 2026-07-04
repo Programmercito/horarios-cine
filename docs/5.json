@@ -4,6 +4,17 @@
       "ciudad": "Cochabamba",
       "peliculas": [
         {
+          "id": "b3d6d9fd-1449-4ad4-942a-c104c1fe02cf",
+          "titulo": "LA HIJA CONDOR",
+          "horarios": [
+            {
+              "horario": "20:25",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "adb20d0e-f0c9-405b-9082-655e4cf087bd",
           "titulo": "SCARY MOVIE 6",
           "horarios": [
@@ -212,12 +223,7 @@
           "titulo": "LAS 100 NOCHES DE DESEO",
           "horarios": [
             {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:15",
+              "horario": "22:25",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -243,5 +249,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "3/7/2026"
+  "fecha": "4/7/2026"
 }
