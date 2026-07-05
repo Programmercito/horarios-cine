@@ -773,12 +773,12 @@
             {
               "horario": "20:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             },
             {
               "horario": "20:30",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D"
             },
             {
               "horario": "21:00",
@@ -801,11 +801,6 @@
           "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
           "titulo": "TOY STORY 5",
           "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "13:00",
               "idioma": "Español",
@@ -859,6 +854,27 @@
           ]
         },
         {
+          "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf",
+          "titulo": "EL DÍA DE LA REVELACIÓN",
+          "horarios": [
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "bbbb110f-79a5-4287-94f0-856f70e11f89",
           "titulo": "SCARY MOVIE",
           "horarios": [
@@ -891,22 +907,6 @@
           ]
         },
         {
-          "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf",
-          "titulo": "EL DÍA DE LA REVELACIÓN",
-          "horarios": [
-            {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "da4ea79e-ca04-4d08-8df2-0fffc7c9402d",
           "titulo": "LETRAS ROBADAS",
           "horarios": [
@@ -932,5 +932,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "4/7/2026"
+  "fecha": "5/7/2026"
 }
