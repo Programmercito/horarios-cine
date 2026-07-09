@@ -4,43 +4,16 @@
       "ciudad": "Cochabamba",
       "peliculas": [
         {
-          "id": "b3d6d9fd-1449-4ad4-942a-c104c1fe02cf",
-          "titulo": "LA HIJA CONDOR",
-          "horarios": [
-            {
-              "horario": "21:05",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "adb20d0e-f0c9-405b-9082-655e4cf087bd",
-          "titulo": "SCARY MOVIE 6",
-          "horarios": [
-            {
-              "horario": "13:25",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
           "titulo": "TOY STORY 5",
           "horarios": [
             {
               "horario": "10:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -55,12 +28,22 @@
               "formato": "2D"
             },
             {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "16:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -73,41 +56,6 @@
               "horario": "22:20",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "10:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ]
         },
@@ -116,17 +64,17 @@
           "titulo": "SUPERGIRL",
           "horarios": [
             {
-              "horario": "11:15",
+              "horario": "12:35",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "16:35",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "20:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -142,12 +90,32 @@
               "formato": "2D"
             },
             {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -160,51 +128,6 @@
               "horario": "21:00",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "3D"
             }
           ]
         },
@@ -213,7 +136,17 @@
           "titulo": "MOANA",
           "horarios": [
             {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -233,7 +166,17 @@
               "formato": "2D"
             },
             {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -241,6 +184,16 @@
               "horario": "21:50",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "3D"
             }
           ]
         }
@@ -248,5 +201,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "8/7/2026"
+  "fecha": "9/7/2026"
 }
