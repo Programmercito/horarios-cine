@@ -18,6 +18,11 @@
               "formato": "3D XL - 3D XL KRONOS"
             },
             {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
               "horario": "12:50",
               "idioma": "Español",
               "formato": "2D"
@@ -272,7 +277,7 @@
       ]
     },
     {
-      "ciudad": "La Paz",
+      "ciudad": "La Paz - Av Arce",
       "peliculas": [
         {
           "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
@@ -756,6 +761,10 @@
       ]
     },
     {
+      "ciudad": "La Paz - Plaza 21 Mall",
+      "peliculas": []
+    },
+    {
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
@@ -1060,5 +1069,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "14/7/2026"
+  "fecha": "15/7/2026"
 }
