@@ -4,87 +4,6 @@
       "ciudad": "El Alto",
       "peliculas": [
         {
-          "id": "dc89da97-9131-4c36-a219-9412776c010b",
-          "titulo": "MOANA",
-          "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "12:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "15:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:45",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "16:15",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            }
-          ]
-        },
-        {
           "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
           "titulo": "TOY STORY 5",
           "horarios": [
@@ -99,6 +18,11 @@
               "formato": "2D"
             },
             {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
               "horario": "13:40",
               "idioma": "Español",
               "formato": "3D - 3D KRONOS"
@@ -107,6 +31,11 @@
               "horario": "14:20",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "3D"
             },
             {
               "horario": "16:00",
@@ -119,6 +48,11 @@
               "formato": "2D"
             },
             {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
               "horario": "18:20",
               "idioma": "Español",
               "formato": "3D - 3D KRONOS"
@@ -129,22 +63,12 @@
               "formato": "2D"
             },
             {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "20:35",
               "idioma": "Español",
               "formato": "3D - 3D KRONOS"
             },
             {
               "horario": "21:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -162,32 +86,32 @@
             {
               "horario": "10:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "11:00",
+              "horario": "10:50",
               "idioma": "Español",
               "formato": "3D"
             },
             {
               "horario": "12:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D - 2D KRONOS"
             },
             {
               "horario": "14:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D - 2D KRONOS"
             },
             {
               "horario": "16:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D - 2D KRONOS"
             },
             {
               "horario": "18:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D - 2D KRONOS"
             },
             {
               "horario": "19:30",
@@ -197,10 +121,97 @@
             {
               "horario": "20:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D - 2D KRONOS"
             },
             {
               "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            }
+          ]
+        },
+        {
+          "id": "dc89da97-9131-4c36-a219-9412776c010b",
+          "titulo": "MOANA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:45",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "16:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
+          "titulo": "LA ODISEA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "22:25",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -211,42 +222,22 @@
           "titulo": "EVIL DEAD: EN LLAMAS",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "12:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:45",
+              "horario": "14:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "20:15",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
+              "horario": "22:25",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -257,7 +248,7 @@
           "titulo": "SUPERGIRL",
           "horarios": [
             {
-              "horario": "12:50",
+              "horario": "10:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -299,19 +290,9 @@
               "formato": "2D"
             },
             {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
               "horario": "12:50",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "3D PLUS"
             },
             {
               "horario": "13:20",
@@ -319,14 +300,19 @@
               "formato": "2D XL"
             },
             {
+              "horario": "13:45",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
               "horario": "14:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:35",
+              "horario": "15:00",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "3D PLUS"
             },
             {
               "horario": "15:10",
@@ -344,11 +330,6 @@
               "formato": "2D"
             },
             {
-              "horario": "17:15",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
               "horario": "17:30",
               "idioma": "Español",
               "formato": "2D"
@@ -359,17 +340,12 @@
               "formato": "2D XL"
             },
             {
-              "horario": "18:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
               "horario": "19:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "19:40",
               "idioma": "Español",
               "formato": "3D PLUS"
             },
@@ -384,14 +360,14 @@
               "formato": "2D XL"
             },
             {
-              "horario": "20:45",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
               "horario": "21:20",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "3D PLUS"
             },
             {
               "horario": "22:00",
@@ -402,137 +378,102 @@
               "horario": "22:35",
               "idioma": "Español",
               "formato": "2D XL"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
             }
           ]
         },
         {
-          "id": "dc89da97-9131-4c36-a219-9412776c010b",
-          "titulo": "MOANA",
+          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
+          "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "10:30",
+              "horario": "11:00",
               "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "formato": "2D PLUS"
             },
             {
               "horario": "11:00",
               "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL"
             },
             {
               "horario": "12:00",
               "idioma": "Español",
-              "formato": "3D PLUS"
+              "formato": "2D"
             },
             {
-              "horario": "12:50",
+              "horario": "14:25",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "3D"
+              "horario": "14:30",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             },
             {
-              "horario": "13:50",
+              "horario": "15:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:30",
+              "horario": "16:00",
               "idioma": "Español",
               "formato": "4D E-MOTION"
             },
             {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "15:15",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "15:45",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "16:15",
+              "horario": "16:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "17:00",
-              "idioma": "Español",
-              "formato": "3D PLUS"
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             },
             {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "20:00",
+              "horario": "17:50",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
+              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "22:20",
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "21:20",
               "idioma": "Español",
               "formato": "2D XL"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "22:25",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -556,14 +497,19 @@
               "formato": "2D"
             },
             {
+              "horario": "11:50",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
               "horario": "12:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "12:45",
+              "horario": "13:00",
               "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "formato": "3D PLUS"
             },
             {
               "horario": "13:20",
@@ -576,11 +522,6 @@
               "formato": "2D"
             },
             {
-              "horario": "15:15",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
               "horario": "15:20",
               "idioma": "Español",
               "formato": "2D"
@@ -589,16 +530,6 @@
               "horario": "16:20",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "16:45",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
             },
             {
               "horario": "17:20",
@@ -633,46 +564,97 @@
           ]
         },
         {
+          "id": "dc89da97-9131-4c36-a219-9412776c010b",
+          "titulo": "MOANA",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "15:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:15",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:25",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "4f083963-ec14-4cec-bd9f-0e92648397e7",
           "titulo": "EVIL DEAD: EN LLAMAS",
           "horarios": [
             {
-              "horario": "12:40",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "14:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:00",
+              "horario": "20:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "22:00",
+              "horario": "22:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -683,7 +665,7 @@
           "titulo": "SCARY MOVIE",
           "horarios": [
             {
-              "horario": "15:05",
+              "horario": "15:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -691,33 +673,12 @@
               "horario": "19:10",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "22:45",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ]
         },
         {
-          "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf",
-          "titulo": "EL DÍA DE LA REVELACIÓN",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "341c5244-9861-4a4e-9930-cbf74b5ba1dd",
-          "titulo": "EL AFINADOR",
+          "id": "050c92ba-3d53-4740-a823-99167b61db9a",
+          "titulo": "LA INVITACIÓN",
           "horarios": [
             {
               "horario": "17:00",
@@ -732,27 +693,11 @@
           ]
         },
         {
-          "id": "18c2a019-6919-48ac-8217-fafaba9aeb96",
-          "titulo": "SUPERGIRL",
+          "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf",
+          "titulo": "EL DÍA DE LA REVELACIÓN",
           "horarios": [
             {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "6768e174-8bf4-448e-9a95-25c1af93378d",
-          "titulo": "MICHAEL",
-          "horarios": [
-            {
-              "horario": "12:30",
+              "horario": "12:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -771,6 +716,11 @@
           "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
           "titulo": "TOY STORY 5",
           "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "11:00",
               "idioma": "Español",
@@ -812,7 +762,7 @@
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "17:15",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -835,82 +785,6 @@
               "horario": "21:20",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "dc89da97-9131-4c36-a219-9412776c010b",
-          "titulo": "MOANA",
-          "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:50",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:15",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "15:45",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "16:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "Español",
-              "formato": "2D XL"
             }
           ]
         },
@@ -981,63 +855,108 @@
           ]
         },
         {
+          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
+          "titulo": "LA ODISEA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:25",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:25",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "dc89da97-9131-4c36-a219-9412776c010b",
+          "titulo": "MOANA",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "4f083963-ec14-4cec-bd9f-0e92648397e7",
           "titulo": "EVIL DEAD: EN LLAMAS",
           "horarios": [
             {
-              "horario": "11:20",
+              "horario": "19:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89",
-          "titulo": "SCARY MOVIE",
-          "horarios": [
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf",
-          "titulo": "EL DÍA DE LA REVELACIÓN",
-          "horarios": [
-            {
-              "horario": "20:30",
+              "horario": "21:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1048,6 +967,28 @@
           "titulo": "SUPERGIRL",
           "horarios": [
             {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89",
+          "titulo": "SCARY MOVIE",
+          "horarios": [
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "050c92ba-3d53-4740-a823-99167b61db9a",
+          "titulo": "LA INVITACIÓN",
+          "horarios": [
+            {
               "horario": "21:20",
               "idioma": "Español",
               "formato": "2D"
@@ -1055,11 +996,11 @@
           ]
         },
         {
-          "id": "341c5244-9861-4a4e-9930-cbf74b5ba1dd",
-          "titulo": "EL AFINADOR",
+          "id": "a5db060d-5fe7-4376-9226-bff43ac9cebf",
+          "titulo": "EL DÍA DE LA REVELACIÓN",
           "horarios": [
             {
-              "horario": "21:30",
+              "horario": "22:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1069,5 +1010,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "15/7/2026"
+  "fecha": "16/7/2026"
 }
