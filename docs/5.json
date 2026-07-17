@@ -4,6 +4,17 @@
       "ciudad": "Cochabamba",
       "peliculas": [
         {
+          "id": "b3d6d9fd-1449-4ad4-942a-c104c1fe02cf",
+          "titulo": "LA HIJA CONDOR",
+          "horarios": [
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
           "titulo": "TOY STORY 5",
           "horarios": [
@@ -69,6 +80,11 @@
               "formato": "2D"
             },
             {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "18:10",
               "idioma": "Español",
               "formato": "2D"
@@ -81,7 +97,7 @@
             {
               "horario": "15:40",
               "idioma": "Español",
-              "formato": "2D ULTRALASER"
+              "formato": "2D"
             },
             {
               "horario": "18:50",
@@ -146,21 +162,6 @@
           "titulo": "MOANA",
           "horarios": [
             {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "10:35",
               "idioma": "Español",
               "formato": "2D"
@@ -176,7 +177,17 @@
               "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -192,11 +203,6 @@
               "formato": "2D"
             },
             {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "21:15",
               "idioma": "Español",
               "formato": "2D"
@@ -207,5 +213,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "16/7/2026"
+  "fecha": "17/7/2026"
 }
