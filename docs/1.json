@@ -117,11 +117,6 @@
               "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "22:35",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
             }
           ],
           "id": "d0eb553f-5719-400c-be7e-f8e194e3ba46"
@@ -938,7 +933,7 @@
               "formato": "4D E-Motion 3D"
             },
             {
-              "horario": "10:55",
+              "horario": "10:50",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             }
@@ -1043,22 +1038,22 @@
           "horarios": [
             {
               "horario": "15:00",
-              "idioma": "DOB",
+              "idioma": "SUBT",
               "formato": "2D"
             },
             {
               "horario": "17:30",
-              "idioma": "DOB",
+              "idioma": "SUBT",
               "formato": "2D"
             },
             {
               "horario": "20:00",
-              "idioma": "DOB",
+              "idioma": "SUBT",
               "formato": "2D"
             },
             {
               "horario": "22:30",
-              "idioma": "DOB",
+              "idioma": "SUBT",
               "formato": "2D"
             }
           ],
@@ -1328,11 +1323,6 @@
               "formato": "2D"
             },
             {
-              "horario": "19:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
               "horario": "20:40",
               "idioma": "SUBT",
               "formato": "2D"
@@ -1344,7 +1334,7 @@
           "titulo": "EVIL DEAD EN LLAMAS",
           "horarios": [
             {
-              "horario": "22:40",
+              "horario": "21:40",
               "idioma": "SUBT",
               "formato": "2D"
             }
@@ -1417,6 +1407,11 @@
             },
             {
               "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "3D"
             }
@@ -1856,5 +1851,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "16/7/2026"
+  "fecha": "17/7/2026"
 }
