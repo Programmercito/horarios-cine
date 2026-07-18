@@ -18,6 +18,16 @@
             },
             {
               "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "19:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "21:20"
+            },
+            {
+              "idioma": "Doblada",
               "formato": "2D",
               "horario": "11:00"
             },
@@ -179,14 +189,9 @@
           "titulo": "LA INVITACIÓN",
           "horarios": [
             {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "19:30"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "22:00"
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:40"
             }
           ],
           "id": "050c92ba-3d53-4740-a823-99167b61db9a"
@@ -248,7 +253,7 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "15:25"
+              "horario": "15:20"
             },
             {
               "idioma": "Doblada",
@@ -258,7 +263,7 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "17:55"
+              "horario": "17:50"
             },
             {
               "idioma": "Doblada",
@@ -333,11 +338,6 @@
             },
             {
               "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "21:20"
-            },
-            {
-              "idioma": "Doblada",
               "formato": "2D + DBOX",
               "horario": "11:10"
             },
@@ -384,5 +384,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "17/7/2026"
+  "fecha": "18/7/2026"
 }
