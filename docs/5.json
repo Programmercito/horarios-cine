@@ -2,46 +2,9 @@
   "ciudades": [
     {
       "ciudad": "Cochabamba",
-      "peliculas": [
-        {
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
-          "titulo": "LA ODISEA",
-          "horarios": [
-            {
-              "horario": "18:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D ULTRALASER"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D ULTRALASER"
-            },
-            {
-              "horario": "18:50",
-              "idioma": "Español",
-              "formato": "2D ULTRALASER"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D ULTRALASER"
-            }
-          ]
-        }
-      ]
+      "peliculas": []
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "18/7/2026"
+  "fecha": "19/7/2026"
 }
