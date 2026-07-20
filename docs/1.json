@@ -117,6 +117,11 @@
               "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "22:35",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
             }
           ],
           "id": "d0eb553f-5719-400c-be7e-f8e194e3ba46"
@@ -933,7 +938,7 @@
               "formato": "4D E-Motion 3D"
             },
             {
-              "horario": "10:50",
+              "horario": "10:55",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             }
@@ -1038,22 +1043,22 @@
           "horarios": [
             {
               "horario": "15:00",
-              "idioma": "SUBT",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "17:30",
-              "idioma": "SUBT",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "20:00",
-              "idioma": "SUBT",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "22:30",
-              "idioma": "SUBT",
+              "idioma": "DOB",
               "formato": "2D"
             }
           ],
@@ -1851,5 +1856,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "17/7/2026"
+  "fecha": "20/7/2026"
 }
