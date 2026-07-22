@@ -736,6 +736,11 @@
               "horario": "20:30",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
             }
           ]
         },
@@ -744,17 +749,12 @@
           "titulo": "MOANA",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "12:30",
               "idioma": "Español",
               "formato": "3D PLUS"
             },
             {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "17:20",
+              "horario": "15:20",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
@@ -762,6 +762,27 @@
               "horario": "19:45",
               "idioma": "Español",
               "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
+          "id": "81d20184-4e11-4fdd-b625-316b23c8b945",
+          "titulo": "MINIONS & MONSTRUOS",
+          "horarios": [
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "17:45",
+              "idioma": "Español",
+              "formato": "3D XL"
             }
           ]
         },
@@ -787,22 +808,6 @@
           ]
         },
         {
-          "id": "81d20184-4e11-4fdd-b625-316b23c8b945",
-          "titulo": "MINIONS & MONSTRUOS",
-          "horarios": [
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
           "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df",
           "titulo": "BACKROOMS: SIN SALIDA",
           "horarios": [
@@ -818,20 +823,9 @@
           "titulo": "EVIL DEAD: EN LLAMAS",
           "horarios": [
             {
-              "horario": "22:10",
+              "horario": "22:30",
               "idioma": "Español",
               "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "050c92ba-3d53-4740-a823-99167b61db9a",
-          "titulo": "LA INVITACIÓN",
-          "horarios": [
-            {
-              "horario": "22:30",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
             }
           ]
         }
@@ -1138,5 +1132,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "21/7/2026"
+  "fecha": "22/7/2026"
 }
