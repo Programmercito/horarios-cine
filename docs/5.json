@@ -4,31 +4,47 @@
       "ciudad": "Cochabamba",
       "peliculas": [
         {
+          "id": "bfcc7690-132a-43e6-8713-78afb8ae6eff",
+          "titulo": "BACKROOMS:SIN SALIDA EXTENDIDA",
+          "horarios": [
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
           "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "10:10",
+              "horario": "10:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "11:05",
+              "horario": "10:55",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "12:10",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:05",
+              "horario": "12:55",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "14:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -43,27 +59,12 @@
               "formato": "2D"
             },
             {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "18:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "20:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -74,17 +75,22 @@
           "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "10:00",
+              "horario": "12:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:10",
+              "horario": "15:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:20",
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -94,12 +100,12 @@
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:40",
+              "horario": "21:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -110,42 +116,42 @@
           "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
             {
-              "horario": "10:30",
+              "horario": "11:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "12:10",
+              "horario": "13:45",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:50",
+              "horario": "12:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:30",
+              "horario": "14:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:10",
+              "horario": "16:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:50",
+              "horario": "17:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "19:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:10",
+              "horario": "21:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -161,7 +167,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:00",
+              "horario": "11:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -171,17 +177,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -203,16 +199,16 @@
           ]
         },
         {
-          "id": "4f083963-ec14-4cec-bd9f-0e92648397e7",
-          "titulo": "EVIL DEAD: EN LLAMAS",
+          "id": "aed80613-7d97-4870-bdf3-efae8f9cb1e2",
+          "titulo": "CUENTO DIABÓLICO",
           "horarios": [
             {
-              "horario": "15:05",
+              "horario": "14:55",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:10",
+              "horario": "21:35",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -222,5 +218,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "22/7/2026"
+  "fecha": "23/7/2026"
 }
