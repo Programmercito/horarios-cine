@@ -7,12 +7,12 @@
           "titulo": "minions & monstruos",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "10:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "12:55",
+              "horario": "13:00",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -23,7 +23,29 @@
           "titulo": "Minions & monstruos",
           "horarios": [
             {
-              "horario": "17:25",
+              "horario": "18:20",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
+          "titulo": "LA ODISEA",
+          "horarios": [
+            {
+              "horario": "21:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "dc89da97-9131-4c36-a219-9412776c010b",
+          "titulo": "MOANA",
+          "horarios": [
+            {
+              "horario": "19:20",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             }
@@ -34,7 +56,7 @@
           "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "10:45",
+              "horario": "10:50",
               "idioma": "Doblado",
               "formato": "2D"
             }
@@ -45,23 +67,28 @@
           "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "15:05",
+              "horario": "15:00",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             },
             {
-              "horario": "17:15",
+              "horario": "17:10",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "20:10",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             }
           ]
         },
         {
-          "id": "59199398-6ac5-497d-a32e-8f5c5212a18a",
-          "titulo": "POSESION INFERNAL: EN LLAMAS",
+          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
+          "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "12:50",
+              "horario": "15:00",
               "idioma": "Doblado",
               "formato": "2D"
             }
@@ -72,7 +99,7 @@
           "titulo": "MOANA",
           "horarios": [
             {
-              "horario": "22:05",
+              "horario": "22:10",
               "idioma": "Doblado",
               "formato": "2D"
             }
@@ -83,5 +110,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "23/7/2026"
+  "fecha": "24/7/2026"
 }
