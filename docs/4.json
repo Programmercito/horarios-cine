@@ -67,6 +67,11 @@
               "horario": "17:00"
             },
             {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
+              "horario": "20:30"
+            },
+            {
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
               "horario": "18:00"
@@ -85,110 +90,9 @@
               "idioma": "Doblada",
               "formato": "2D",
               "horario": "19:30"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + XD + DBOX",
-              "horario": "20:30"
             }
           ],
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
-        },
-        {
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "10:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "11:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "12:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "12:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "13:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "14:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "14:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "15:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "16:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "17:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "19:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "21:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "10:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "12:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "12:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "15:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "11:00"
-            }
-          ],
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
         },
         {
           "titulo": "BACKROOMS: EVERYTHING MUST GO EDITION",
@@ -350,6 +254,102 @@
           "id": "81d20184-4e11-4fdd-b625-316b23c8b945"
         },
         {
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "10:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "11:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "12:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "12:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "13:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "14:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "14:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "15:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "16:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "17:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "18:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "21:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "10:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "12:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "12:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "15:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
+              "horario": "11:00"
+            }
+          ],
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
+        },
+        {
           "titulo": "SCARY MOVIE",
           "horarios": [
             {
@@ -364,5 +364,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "23/7/2026"
+  "fecha": "24/7/2026"
 }
