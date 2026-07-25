@@ -3,44 +3,148 @@
     {
       "peliculas": [
         {
-          "titulo": "LA INVITACION",
+          "titulo": "BACKROOMS: SIN SALIDA (VERSION EXTENDIDA)",
           "horarios": [
             {
-              "horario": "22:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
+              "horario": "13:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "301d7d9b-6f56-40be-a2b4-be23cc20873c"
+          "id": "74217ae7-ea70-498a-b072-e4753a95e1f1"
+        },
+        {
+          "titulo": "CUENTO DIABOLICO",
+          "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "194d28b9-c134-49b6-bb06-ffca9736b146"
+        },
+        {
+          "titulo": "EL GRAN VIAJE",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            }
+          ],
+          "id": "eb8f0eca-1690-4ca9-a3c3-f46b40242ee4"
+        },
+        {
+          "titulo": "HABITACION Nº 13",
+          "horarios": [
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "46a61f67-c978-451d-bd2e-92078270ee03"
+        },
+        {
+          "titulo": "EVIL DEAD EN LLAMAS",
+          "horarios": [
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:35",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            }
+          ],
+          "id": "d0eb553f-5719-400c-be7e-f8e194e3ba46"
         },
         {
           "titulo": "LA ODISEA",
           "horarios": [
-            {
-              "horario": "17:20",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
             {
               "horario": "10:40",
               "idioma": "DOB",
@@ -85,59 +189,6 @@
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
         },
         {
-          "titulo": "EL AFINADOR",
-          "horarios": [
-            {
-              "horario": "21:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "341c5244-9861-4a4e-9930-cbf74b5ba1dd"
-        },
-        {
-          "titulo": "EVIL DEAD EN LLAMAS",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:35",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            }
-          ],
-          "id": "d0eb553f-5719-400c-be7e-f8e194e3ba46"
-        },
-        {
-          "titulo": "LEVITICUS: RITUAL DE SANGRE",
-          "horarios": [
-            {
-              "horario": "21:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "86f54c35-87ed-4bfe-b217-c8232c2e6d12"
-        },
-        {
           "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
             {
@@ -166,22 +217,12 @@
               "formato": "2D"
             },
             {
-              "horario": "13:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "14:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -237,17 +278,12 @@
               "formato": "2D"
             },
             {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -258,11 +294,6 @@
             },
             {
               "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -292,11 +323,6 @@
               "formato": "2D"
             },
             {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "10:40",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
@@ -305,31 +331,10 @@
           "id": "dc89da97-9131-4c36-a219-9412776c010b"
         },
         {
-          "titulo": "SCARY MOVIE 6",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "adb20d0e-f0c9-405b-9082-655e4cf087bd"
-        },
-        {
           "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "10:30",
+              "horario": "10:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -344,7 +349,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:45",
+              "horario": "13:05",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -427,13 +432,93 @@
     {
       "peliculas": [
         {
-          "titulo": "LA ODISEA",
+          "titulo": "BACKROOMS: SIN SALIDA (VERSION EXTENDIDA)",
           "horarios": [
             {
-              "horario": "20:50",
+              "horario": "21:30",
               "idioma": "SUBT",
               "formato": "2D"
             },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "74217ae7-ea70-498a-b072-e4753a95e1f1"
+        },
+        {
+          "titulo": "CUENTO DIABOLICO",
+          "horarios": [
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "194d28b9-c134-49b6-bb06-ffca9736b146"
+        },
+        {
+          "titulo": "EL GRAN VIAJE",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            }
+          ],
+          "id": "eb8f0eca-1690-4ca9-a3c3-f46b40242ee4"
+        },
+        {
+          "titulo": "HABITACION Nº 13",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "46a61f67-c978-451d-bd2e-92078270ee03"
+        },
+        {
+          "titulo": "EVIL DEAD EN LLAMAS",
+          "horarios": [
+            {
+              "horario": "21:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d0eb553f-5719-400c-be7e-f8e194e3ba46"
+        },
+        {
+          "titulo": "LA ODISEA",
+          "horarios": [
             {
               "horario": "13:20",
               "idioma": "DOB",
@@ -461,17 +546,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -499,6 +574,11 @@
               "horario": "20:40",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
           "id": "81d20184-4e11-4fdd-b625-316b23c8b945"
@@ -512,27 +592,32 @@
               "formato": "2D"
             },
             {
-              "horario": "13:10",
+              "horario": "12:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:40",
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:50",
+              "horario": "14:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "15:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -548,12 +633,12 @@
               "formato": "2D"
             },
             {
-              "horario": "12:20",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:15",
+              "horario": "14:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -563,22 +648,17 @@
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "16:35",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:10",
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:35",
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -591,36 +671,114 @@
     {
       "peliculas": [
         {
-          "titulo": "LA INVITACION",
+          "titulo": "BACKROOMS: SIN SALIDA (VERSION EXTENDIDA)",
           "horarios": [
             {
-              "horario": "14:30",
+              "horario": "22:10",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
               "idioma": "DOB",
               "formato": "2D"
             },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "74217ae7-ea70-498a-b072-e4753a95e1f1"
+        },
+        {
+          "titulo": "CUENTO DIABOLICO",
+          "horarios": [
             {
               "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "19:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "301d7d9b-6f56-40be-a2b4-be23cc20873c"
+          "id": "194d28b9-c134-49b6-bb06-ffca9736b146"
+        },
+        {
+          "titulo": "EL GRAN VIAJE",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            }
+          ],
+          "id": "eb8f0eca-1690-4ca9-a3c3-f46b40242ee4"
+        },
+        {
+          "titulo": "HABITACION Nº 13",
+          "horarios": [
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "46a61f67-c978-451d-bd2e-92078270ee03"
         },
         {
           "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "12:40",
+              "horario": "21:25",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -630,22 +788,356 @@
               "formato": "2D"
             },
             {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            }
+          ],
+          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
+        },
+        {
+          "titulo": "MINIONS & MONSTRUOS",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            }
+          ],
+          "id": "81d20184-4e11-4fdd-b625-316b23c8b945"
+        },
+        {
+          "titulo": "MOANA",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            }
+          ],
+          "id": "dc89da97-9131-4c36-a219-9412776c010b"
+        },
+        {
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "19:15",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "10:55",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            }
+          ],
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
+        }
+      ],
+      "ciudad": "Cochabamba"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "BACKROOMS: SIN SALIDA (VERSION EXTENDIDA)",
+          "horarios": [
+            {
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "16:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "19:10",
               "idioma": "DOB",
               "formato": "2D"
             },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "74217ae7-ea70-498a-b072-e4753a95e1f1"
+        },
+        {
+          "titulo": "CUENTO DIABOLICO",
+          "horarios": [
+            {
+              "horario": "14:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "194d28b9-c134-49b6-bb06-ffca9736b146"
+        },
+        {
+          "titulo": "EL GRAN VIAJE",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            }
+          ],
+          "id": "eb8f0eca-1690-4ca9-a3c3-f46b40242ee4"
+        },
+        {
+          "titulo": "HABITACION Nº 13",
+          "horarios": [
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "46a61f67-c978-451d-bd2e-92078270ee03"
+        },
+        {
+          "titulo": "EVIL DEAD EN LLAMAS",
+          "horarios": [
             {
               "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d0eb553f-5719-400c-be7e-f8e194e3ba46"
+        },
+        {
+          "titulo": "LA ODISEA",
+          "horarios": [
+            {
+              "horario": "12:40",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -668,43 +1160,6 @@
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
         },
         {
-          "titulo": "EL AFINADOR",
-          "horarios": [
-            {
-              "horario": "22:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "341c5244-9861-4a4e-9930-cbf74b5ba1dd"
-        },
-        {
-          "titulo": "EVIL DEAD EN LLAMAS",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d0eb553f-5719-400c-be7e-f8e194e3ba46"
-        },
-        {
           "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
             {
@@ -713,12 +1168,12 @@
               "formato": "2D"
             },
             {
-              "horario": "12:00",
+              "horario": "11:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:20",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -779,22 +1234,17 @@
               "formato": "2D"
             },
             {
-              "horario": "11:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "12:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:40",
+              "horario": "12:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:20",
+              "horario": "13:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -809,22 +1259,12 @@
               "formato": "2D"
             },
             {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -842,17 +1282,6 @@
           "id": "dc89da97-9131-4c36-a219-9412776c010b"
         },
         {
-          "titulo": "SUPERGIRL",
-          "horarios": [
-            {
-              "horario": "22:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "18c2a019-6919-48ac-8217-fafaba9aeb96"
-        },
-        {
           "titulo": "TOY STORY 5",
           "horarios": [
             {
@@ -861,17 +1290,12 @@
               "formato": "2D"
             },
             {
+              "horario": "11:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:45",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -886,11 +1310,6 @@
               "formato": "2D"
             },
             {
-              "horario": "15:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "15:50",
               "idioma": "DOB",
               "formato": "2D"
@@ -901,22 +1320,12 @@
               "formato": "2D"
             },
             {
-              "horario": "17:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "18:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "19:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -939,56 +1348,20 @@
     {
       "peliculas": [
         {
-          "titulo": "LA INVITACION",
+          "titulo": "BACKROOMS: SIN SALIDA (VERSION EXTENDIDA)",
           "horarios": [
             {
-              "horario": "23:00",
+              "horario": "16:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
               "idioma": "SUBT",
               "formato": "2D"
             }
           ],
-          "id": "301d7d9b-6f56-40be-a2b4-be23cc20873c"
-        },
-        {
-          "titulo": "LA ODISEA",
-          "horarios": [
-            {
-              "horario": "13:20",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
+          "id": "74217ae7-ea70-498a-b072-e4753a95e1f1"
         },
         {
           "titulo": "EVIL DEAD EN LLAMAS",
@@ -1002,15 +1375,66 @@
           "id": "d0eb553f-5719-400c-be7e-f8e194e3ba46"
         },
         {
+          "titulo": "LA ODISEA",
+          "horarios": [
+            {
+              "horario": "13:25",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:05",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:45",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
+        },
+        {
           "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
             {
-              "horario": "11:20",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:30",
+              "horario": "11:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1021,37 +1445,38 @@
           "titulo": "MOANA",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "11:00",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "3D"
             },
             {
-              "horario": "16:50",
+              "horario": "13:40",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "3D"
             },
             {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:40",
+              "horario": "16:20",
               "idioma": "DOB",
               "formato": "3D"
             }
           ],
           "id": "dc89da97-9131-4c36-a219-9412776c010b"
+        },
+        {
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
         }
       ],
       "ciudad": "La Paz VIP"
@@ -1059,36 +1484,110 @@
     {
       "peliculas": [
         {
-          "titulo": "LA INVITACION",
+          "titulo": "BACKROOMS: SIN SALIDA (VERSION EXTENDIDA)",
           "horarios": [
             {
-              "horario": "21:00",
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "301d7d9b-6f56-40be-a2b4-be23cc20873c"
+          "id": "74217ae7-ea70-498a-b072-e4753a95e1f1"
+        },
+        {
+          "titulo": "CUENTO DIABOLICO",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "194d28b9-c134-49b6-bb06-ffca9736b146"
+        },
+        {
+          "titulo": "EL GRAN VIAJE",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            }
+          ],
+          "id": "eb8f0eca-1690-4ca9-a3c3-f46b40242ee4"
+        },
+        {
+          "titulo": "HABITACION Nº 13",
+          "horarios": [
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "46a61f67-c978-451d-bd2e-92078270ee03"
+        },
+        {
+          "titulo": "EVIL DEAD EN LLAMAS",
+          "horarios": [
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d0eb553f-5719-400c-be7e-f8e194e3ba46"
         },
         {
           "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "20:50",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "13:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1098,12 +1597,7 @@
               "formato": "2D"
             },
             {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1116,42 +1610,10 @@
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
         },
         {
-          "titulo": "EL AFINADOR",
-          "horarios": [
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "341c5244-9861-4a4e-9930-cbf74b5ba1dd"
-        },
-        {
-          "titulo": "EVIL DEAD EN LLAMAS",
-          "horarios": [
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d0eb553f-5719-400c-be7e-f8e194e3ba46"
-        },
-        {
           "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
             {
               "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1166,22 +1628,12 @@
               "formato": "2D"
             },
             {
-              "horario": "14:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "15:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1208,6 +1660,11 @@
             },
             {
               "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1258,7 +1715,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:35",
+              "horario": "13:55",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1273,22 +1730,12 @@
               "formato": "2D"
             },
             {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "16:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:25",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1311,7 +1758,60 @@
     {
       "peliculas": [
         {
-          "titulo": "LA INVITACION",
+          "titulo": "BACKROOMS: SIN SALIDA (VERSION EXTENDIDA)",
+          "horarios": [
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "74217ae7-ea70-498a-b072-e4753a95e1f1"
+        },
+        {
+          "titulo": "CUENTO DIABOLICO",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "194d28b9-c134-49b6-bb06-ffca9736b146"
+        },
+        {
+          "titulo": "EL GRAN VIAJE",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DIALOGO",
+              "formato": "2D SIN"
+            }
+          ],
+          "id": "eb8f0eca-1690-4ca9-a3c3-f46b40242ee4"
+        },
+        {
+          "titulo": "HABITACION Nº 13",
           "horarios": [
             {
               "horario": "21:45",
@@ -1319,7 +1819,7 @@
               "formato": "2D"
             }
           ],
-          "id": "301d7d9b-6f56-40be-a2b4-be23cc20873c"
+          "id": "46a61f67-c978-451d-bd2e-92078270ee03"
         },
         {
           "titulo": "LA ODISEA",
@@ -1343,41 +1843,15 @@
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
         },
         {
-          "titulo": "EVIL DEAD EN LLAMAS",
-          "horarios": [
-            {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d0eb553f-5719-400c-be7e-f8e194e3ba46"
-        },
-        {
           "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1408,7 +1882,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "13:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1418,17 +1892,12 @@
               "formato": "2D"
             },
             {
-              "horario": "15:30",
+              "horario": "15:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1459,17 +1928,7 @@
               "formato": "2D"
             },
             {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:15",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1481,5 +1940,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "22/7/2026"
+  "fecha": "25/7/2026"
 }
