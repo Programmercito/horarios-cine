@@ -4,6 +4,11 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
+          "titulo": "TOY STORY 5 (DISTENDIDA)",
+          "horarios": [],
+          "id": "74b8bce0-ef19-4bd5-ab18-29474c082c8b"
+        },
+        {
           "titulo": "LA ODISEA",
           "horarios": [
             {
@@ -62,12 +67,12 @@
               "horario": "13:30"
             },
             {
-              "idioma": "Doblada",
+              "idioma": "Subtitulada",
               "formato": "2D + XD + DBOX",
               "horario": "17:00"
             },
             {
-              "idioma": "Doblada",
+              "idioma": "Subtitulada",
               "formato": "2D + XD + DBOX",
               "horario": "20:30"
             },
@@ -364,5 +369,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "24/7/2026"
+  "fecha": "25/7/2026"
 }
