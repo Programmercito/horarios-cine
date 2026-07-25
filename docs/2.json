@@ -362,8 +362,8 @@
             },
             {
               "horario": "21:20",
-              "idioma": "Español",
-              "formato": "2D XL"
+              "idioma": "Ingles",
+              "formato": "2D XL SUB"
             },
             {
               "horario": "21:30",
@@ -717,6 +717,11 @@
           "titulo": "LA ODISEA",
           "horarios": [
             {
+              "horario": "11:55",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D PLUS"
@@ -740,6 +745,11 @@
               "horario": "20:30",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "20:45",
+              "idioma": "Español",
+              "formato": "2D PLUS"
             },
             {
               "horario": "22:10",
@@ -770,27 +780,6 @@
           ]
         },
         {
-          "id": "81d20184-4e11-4fdd-b625-316b23c8b945",
-          "titulo": "MINIONS & MONSTRUOS",
-          "horarios": [
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "17:45",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
           "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
           "titulo": "TOY STORY 5",
           "horarios": [
@@ -812,19 +801,24 @@
           ]
         },
         {
-          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df",
-          "titulo": "BACKROOMS: SIN SALIDA",
+          "id": "81d20184-4e11-4fdd-b625-316b23c8b945",
+          "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
             {
-              "horario": "20:45",
+              "horario": "15:00",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "17:45",
+              "idioma": "Español",
+              "formato": "3D XL"
             }
           ]
         },
         {
-          "id": "4f083963-ec14-4cec-bd9f-0e92648397e7",
-          "titulo": "EVIL DEAD: EN LLAMAS",
+          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df",
+          "titulo": "BACKROOMS: SIN SALIDA",
           "horarios": [
             {
               "horario": "22:30",
@@ -889,8 +883,8 @@
             },
             {
               "horario": "21:20",
-              "idioma": "Español",
-              "formato": "2D XL"
+              "idioma": "Ingles",
+              "formato": "2D XL SUB"
             },
             {
               "horario": "22:25",
@@ -1143,5 +1137,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "24/7/2026"
+  "fecha": "25/7/2026"
 }
