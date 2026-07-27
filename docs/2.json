@@ -503,11 +503,6 @@
               "formato": "2D"
             },
             {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "16:20",
               "idioma": "Español",
               "formato": "2D"
@@ -822,8 +817,8 @@
           "horarios": [
             {
               "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             }
           ]
         }
@@ -1137,5 +1132,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "26/7/2026"
+  "fecha": "27/7/2026"
 }
