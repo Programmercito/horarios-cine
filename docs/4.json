@@ -72,11 +72,6 @@
               "horario": "17:00"
             },
             {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "20:30"
-            },
-            {
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
               "horario": "18:00"
@@ -95,6 +90,11 @@
               "idioma": "Doblada",
               "formato": "2D",
               "horario": "19:30"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D + XD + DBOX",
+              "horario": "20:30"
             }
           ],
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
@@ -369,5 +369,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "26/7/2026"
+  "fecha": "27/7/2026"
 }
