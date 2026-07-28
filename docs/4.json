@@ -5,7 +5,13 @@
       "peliculas": [
         {
           "titulo": "TOY STORY 5 (DISTENDIDA)",
-          "horarios": [],
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DS",
+              "horario": "11:30"
+            }
+          ],
           "id": "74b8bce0-ef19-4bd5-ab18-29474c082c8b"
         },
         {
@@ -72,6 +78,11 @@
               "horario": "17:00"
             },
             {
+              "idioma": "Doblada",
+              "formato": "2D + XD + DBOX",
+              "horario": "20:30"
+            },
+            {
               "idioma": "Subtitulada",
               "formato": "2D + PREMIER",
               "horario": "18:00"
@@ -90,11 +101,6 @@
               "idioma": "Doblada",
               "formato": "2D",
               "horario": "19:30"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + XD + DBOX",
-              "horario": "20:30"
             }
           ],
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
@@ -129,46 +135,6 @@
         {
           "titulo": "MOANA",
           "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "10:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "12:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "13:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "14:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "15:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "17:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "20:30"
-            },
             {
               "idioma": "Doblada",
               "formato": "2D + PREMIER",
@@ -369,5 +335,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "27/7/2026"
+  "fecha": "28/7/2026"
 }
