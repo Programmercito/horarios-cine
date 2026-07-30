@@ -8,21 +8,6 @@
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "11:15",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
@@ -85,7 +70,7 @@
             {
               "horario": "19:20",
               "idioma": "Español",
-              "formato": "3D XL FUNCION FAN"
+              "formato": "3D XL - 3D XL KRONOS"
             },
             {
               "horario": "19:45",
@@ -129,11 +114,6 @@
           "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "11:20",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
               "horario": "13:40",
               "idioma": "Español",
               "formato": "3D"
@@ -152,6 +132,11 @@
               "horario": "20:35",
               "idioma": "Español",
               "formato": "3D"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -160,17 +145,17 @@
           "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "12:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:10",
+              "horario": "16:15",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:15",
+              "horario": "20:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -181,17 +166,17 @@
           "titulo": "MOANA",
           "horarios": [
             {
-              "horario": "13:50",
+              "horario": "12:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "14:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:10",
+              "horario": "18:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -202,39 +187,28 @@
           "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "15:20",
+              "horario": "14:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:40",
+              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "21:20",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "75a77a7b-7c8a-4a46-8b56-e2289d750b05",
-          "titulo": "CUENTOS DIABÓLICOS",
+          "id": "4f083963-ec14-4cec-bd9f-0e92648397e7",
+          "titulo": "EVIL DEAD: EN LLAMAS",
           "horarios": [
             {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "5865028f-6c0b-4478-8244-895e50902acc",
-          "titulo": "HABITACIÓN N13",
-          "horarios": [
-            {
-              "horario": "22:40",
+              "horario": "22:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -250,29 +224,14 @@
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "11:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "3D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "12:40",
@@ -317,10 +276,15 @@
             {
               "horario": "16:20",
               "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "16:40",
+              "horario": "16:45",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
             },
@@ -340,19 +304,24 @@
               "formato": "3D"
             },
             {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "18:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "18:40",
               "idioma": "Español",
               "formato": "2D PLUS"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D XL"
             },
             {
               "horario": "19:40",
@@ -362,7 +331,7 @@
             {
               "horario": "19:45",
               "idioma": "Español",
-              "formato": "3D XL FUNCION FAN"
+              "formato": "3D XL"
             },
             {
               "horario": "20:00",
@@ -373,11 +342,6 @@
               "horario": "20:30",
               "idioma": "Español",
               "formato": "3D"
-            },
-            {
-              "horario": "20:55",
-              "idioma": "Español",
-              "formato": "2D"
             },
             {
               "horario": "21:20",
@@ -393,6 +357,11 @@
               "horario": "21:40",
               "idioma": "Español",
               "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
             },
             {
               "horario": "22:15",
@@ -417,46 +386,51 @@
           ]
         },
         {
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
-          "titulo": "TOY STORY 5",
+          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
+          "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:15",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "14:30",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:50",
+              "horario": "13:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:50",
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "16:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "19:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -464,30 +438,45 @@
               "horario": "21:10",
               "idioma": "Español",
               "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
-          "titulo": "LA ODISEA",
-          "horarios": [
+            },
             {
-              "horario": "12:00",
+              "horario": "22:25",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "12:00",
+              "horario": "22:30",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ]
+        },
+        {
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "15:30",
+              "horario": "15:40",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             },
             {
-              "horario": "15:30",
+              "horario": "16:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -497,48 +486,17 @@
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "18:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:20",
+              "horario": "20:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "22:25",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "81d20184-4e11-4fdd-b625-316b23c8b945",
-          "titulo": "MINIONS & MONSTRUOS",
-          "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
+              "horario": "22:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -549,38 +507,53 @@
           "titulo": "MOANA",
           "horarios": [
             {
-              "horario": "11:50",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "14:30",
+              "horario": "12:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:50",
+              "horario": "14:45",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:10",
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:15",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df",
-          "titulo": "BACKROOMS: SIN SALIDA",
+          "id": "81d20184-4e11-4fdd-b625-316b23c8b945",
+          "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
             {
-              "horario": "12:40",
+              "horario": "13:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:20",
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -591,40 +564,7 @@
           "titulo": "EVIL DEAD: EN LLAMAS",
           "horarios": [
             {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "eb8f0eca-1690-4ca9-a3c3-f46b40242ee4",
-          "titulo": "EL GRAN VIAJE",
-          "horarios": [
-            {
-              "horario": "12:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "5865028f-6c0b-4478-8244-895e50902acc",
-          "titulo": "HABITACIÓN N13",
-          "horarios": [
-            {
-              "horario": "15:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "75a77a7b-7c8a-4a46-8b56-e2289d750b05",
-          "titulo": "CUENTOS DIABÓLICOS",
-          "horarios": [
-            {
-              "horario": "20:00",
+              "horario": "21:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -640,11 +580,6 @@
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
               "horario": "13:25",
               "idioma": "Español",
               "formato": "3D PLUS"
@@ -657,7 +592,7 @@
             {
               "horario": "15:00",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "3D PLUS"
             },
             {
               "horario": "16:20",
@@ -670,11 +605,6 @@
               "formato": "2D PLUS SUB"
             },
             {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
               "horario": "19:20",
               "idioma": "Español",
               "formato": "3D PLUS"
@@ -685,19 +615,14 @@
               "formato": "2D PLUS SUB"
             },
             {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "3D PLUS"
+              "horario": "21:30",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             },
             {
               "horario": "22:15",
               "idioma": "Español",
               "formato": "2D PLUS"
-            },
-            {
-              "horario": "23:10",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
             }
           ]
         },
@@ -706,9 +631,24 @@
           "titulo": "LA ODISEA",
           "horarios": [
             {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
               "horario": "15:30",
               "idioma": "Español",
               "formato": "2D PLUS"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             },
             {
               "horario": "22:30",
@@ -722,7 +662,7 @@
           "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "12:10",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -735,7 +675,7 @@
             {
               "horario": "12:40",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "3D PLUS"
             }
           ]
         }
@@ -748,21 +688,6 @@
           "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "11:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -804,11 +729,6 @@
               "formato": "2D"
             },
             {
-              "horario": "17:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "17:40",
               "idioma": "Ingles",
               "formato": "2D SUB"
@@ -821,7 +741,7 @@
             {
               "horario": "19:20",
               "idioma": "Español",
-              "formato": "2D XL FUNCION FAN"
+              "formato": "2D XL"
             },
             {
               "horario": "19:45",
@@ -830,11 +750,6 @@
             },
             {
               "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:05",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -866,37 +781,6 @@
           ]
         },
         {
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
           "titulo": "LA ODISEA",
           "horarios": [
@@ -906,17 +790,32 @@
               "formato": "2D"
             },
             {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
               "horario": "15:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "17:00",
               "idioma": "Ingles",
               "formato": "2D SUB"
             },
             {
-              "horario": "21:30",
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
               "idioma": "Ingles",
               "formato": "2D SUB"
             },
@@ -928,26 +827,26 @@
           ]
         },
         {
-          "id": "dc89da97-9131-4c36-a219-9412776c010b",
-          "titulo": "MOANA",
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "10:45",
+              "horario": "13:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:20",
+              "horario": "18:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:25",
+              "horario": "20:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -958,60 +857,66 @@
           "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
             {
-              "horario": "11:40",
+              "horario": "12:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:40",
+              "horario": "16:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:35",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
+              "horario": "20:45",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "a2cf5510-a86b-4245-bbe0-c540ee10a5df",
-          "titulo": "BACKROOMS: SIN SALIDA",
+          "id": "dc89da97-9131-4c36-a219-9412776c010b",
+          "titulo": "MOANA",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "14:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:50",
+              "horario": "18:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "eb8f0eca-1690-4ca9-a3c3-f46b40242ee4",
-          "titulo": "EL GRAN VIAJE",
+          "id": "75a77a7b-7c8a-4a46-8b56-e2289d750b05",
+          "titulo": "CUENTOS DIABÓLICOS",
           "horarios": [
             {
-              "horario": "13:40",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "5865028f-6c0b-4478-8244-895e50902acc",
-          "titulo": "HABITACIÓN N13",
+          "id": "4f083963-ec14-4cec-bd9f-0e92648397e7",
+          "titulo": "EVIL DEAD: EN LLAMAS",
           "horarios": [
             {
-              "horario": "15:20",
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89",
+          "titulo": "SCARY MOVIE",
+          "horarios": [
+            {
+              "horario": "22:35",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1021,5 +926,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "29/7/2026"
+  "fecha": "30/7/2026"
 }
