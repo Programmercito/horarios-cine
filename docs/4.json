@@ -104,6 +104,11 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
+              "horario": "14:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
               "horario": "15:00"
             },
             {
@@ -210,17 +215,6 @@
           "id": "98dab719-690b-4761-a3b1-93c7ddd416dc"
         },
         {
-          "titulo": "TOY STORY 5 (DISTENDIDA)",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DS",
-              "horario": "11:30"
-            }
-          ],
-          "id": "74b8bce0-ef19-4bd5-ab18-29474c082c8b"
-        },
-        {
           "titulo": "LA ODISEA",
           "horarios": [
             {
@@ -282,12 +276,7 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "12:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "14:40"
+              "horario": "11:30"
             },
             {
               "idioma": "Doblada",
@@ -323,11 +312,6 @@
           "horarios": [
             {
               "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "10:40"
-            },
-            {
-              "idioma": "Doblada",
               "formato": "2D",
               "horario": "10:40"
             },
@@ -340,13 +324,29 @@
               "idioma": "Doblada",
               "formato": "2D",
               "horario": "15:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D + PREMIER",
+              "horario": "10:40"
             }
           ],
           "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
+        },
+        {
+          "titulo": "TOY STORY 5 (DISTENDIDA)",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D + DS",
+              "horario": "11:30"
+            }
+          ],
+          "id": "74b8bce0-ef19-4bd5-ab18-29474c082c8b"
         }
       ]
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "31/7/2026"
+  "fecha": "1/8/2026"
 }
