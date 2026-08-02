@@ -354,14 +354,14 @@
               "formato": "2D PLUS"
             },
             {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "19:10",
               "idioma": "Español",
               "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D XL"
             },
             {
               "horario": "19:40",
@@ -404,7 +404,7 @@
               "formato": "4D E-MOTION"
             },
             {
-              "horario": "22:15",
+              "horario": "22:30",
               "idioma": "Español",
               "formato": "2D XL"
             },
@@ -437,12 +437,12 @@
             {
               "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             },
             {
               "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D PLUS"
             },
             {
               "horario": "13:20",
@@ -470,9 +470,9 @@
               "formato": "2D PLUS SUB"
             },
             {
-              "horario": "19:00",
+              "horario": "19:10",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL"
             },
             {
               "horario": "20:10",
@@ -1017,5 +1017,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "1/8/2026"
+  "fecha": "2/8/2026"
 }
