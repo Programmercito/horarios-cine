@@ -150,6 +150,11 @@
               "formato": "2D"
             },
             {
+              "horario": "16:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "20:30",
               "idioma": "Español",
               "formato": "2D"
@@ -166,6 +171,11 @@
               "formato": "2D"
             },
             {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "18:10",
               "idioma": "Español",
               "formato": "2D"
@@ -176,6 +186,11 @@
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
           "titulo": "LA ODISEA",
           "horarios": [
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "18:00",
               "idioma": "Español",
@@ -911,5 +926,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "3/8/2026"
+  "fecha": "4/8/2026"
 }
