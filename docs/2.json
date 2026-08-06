@@ -58,11 +58,6 @@
               "formato": "2D"
             },
             {
-              "horario": "16:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "16:20",
               "idioma": "Español",
               "formato": "3D XL - 3D XL KRONOS"
@@ -88,11 +83,6 @@
               "formato": "2D"
             },
             {
-              "horario": "19:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "19:20",
               "idioma": "Español",
               "formato": "3D XL - 3D XL KRONOS"
@@ -113,17 +103,7 @@
               "formato": "2D"
             },
             {
-              "horario": "20:35",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
               "horario": "21:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:55",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -145,28 +125,96 @@
           ]
         },
         {
+          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
+          "titulo": "PAW PATROL: LA DINO PELICULA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
           "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "11:20",
+              "horario": "10:50",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D"
             },
             {
-              "horario": "13:40",
+              "horario": "15:00",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D"
             },
             {
-              "horario": "16:00",
+              "horario": "19:30",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "8010f239-684a-4fa5-b33b-51b4cb4249ab",
+          "titulo": "EL CONJURO DE LA NOVIA",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
-              "horario": "18:20",
+              "horario": "20:30",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "a0015734-86ad-4f6c-bda1-95f933ab79b4",
+          "titulo": "CUESTIÓN DE FE",
+          "horarios": [
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:35",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -175,17 +223,12 @@
           "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "14:40",
+              "horario": "16:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:20",
+              "horario": "20:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -196,12 +239,7 @@
           "titulo": "MOANA",
           "horarios": [
             {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -212,7 +250,7 @@
           "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
             {
-              "horario": "12:10",
+              "horario": "14:15",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -250,10 +288,15 @@
             {
               "horario": "12:00",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D"
             },
             {
               "horario": "12:00",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "12:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -263,7 +306,7 @@
               "formato": "3D PLUS"
             },
             {
-              "horario": "13:25",
+              "horario": "13:20",
               "idioma": "Español",
               "formato": "2D XL"
             },
@@ -293,17 +336,17 @@
               "formato": "2D"
             },
             {
-              "horario": "15:25",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "15:40",
               "idioma": "Español",
               "formato": "3D PLUS"
             },
             {
-              "horario": "16:20",
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
               "idioma": "Español",
               "formato": "2D XL"
             },
@@ -314,13 +357,13 @@
             },
             {
               "horario": "16:45",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
+              "idioma": "Español",
+              "formato": "3D XL"
             },
             {
               "horario": "16:45",
-              "idioma": "Español",
-              "formato": "3D XL"
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             },
             {
               "horario": "17:00",
@@ -333,17 +376,7 @@
               "formato": "3D"
             },
             {
-              "horario": "18:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:25",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -351,6 +384,16 @@
               "horario": "18:40",
               "idioma": "Español",
               "formato": "2D PLUS"
+            },
+            {
+              "horario": "18:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
             },
             {
               "horario": "19:20",
@@ -378,17 +421,12 @@
               "formato": "3D"
             },
             {
-              "horario": "21:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "21:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:30",
+              "horario": "21:40",
               "idioma": "Ingles",
               "formato": "2D SUB"
             },
@@ -429,37 +467,32 @@
           "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
+              "horario": "12:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             },
             {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "12:00",
+              "horario": "12:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D"
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             },
             {
-              "horario": "15:30",
+              "horario": "15:25",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "15:30",
+              "horario": "15:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:40",
+              "horario": "17:15",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -469,22 +502,17 @@
               "formato": "2D PLUS SUB"
             },
             {
-              "horario": "19:00",
+              "horario": "19:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:10",
+              "horario": "20:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:25",
+              "horario": "22:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -496,72 +524,21 @@
           ]
         },
         {
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
-          "titulo": "TOY STORY 5",
+          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
+          "titulo": "PAW PATROL: LA DINO PELICULA",
           "horarios": [
             {
-              "horario": "11:20",
+              "horario": "11:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:30",
+              "horario": "13:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "dc89da97-9131-4c36-a219-9412776c010b",
-          "titulo": "MOANA",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:45",
+              "horario": "15:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -571,7 +548,85 @@
               "formato": "2D"
             },
             {
-              "horario": "19:15",
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "10:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:35",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "8010f239-684a-4fa5-b33b-51b4cb4249ab",
+          "titulo": "EL CONJURO DE LA NOVIA",
+          "horarios": [
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "a0015734-86ad-4f6c-bda1-95f933ab79b4",
+          "titulo": "CUESTIÓN DE FE",
+          "horarios": [
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -582,12 +637,38 @@
           "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "10:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:30",
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "dc89da97-9131-4c36-a219-9412776c010b",
+          "titulo": "MOANA",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -603,7 +684,12 @@
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
-              "horario": "13:25",
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "3D PLUS"
             },
@@ -638,7 +724,7 @@
               "formato": "2D PLUS SUB"
             },
             {
-              "horario": "21:30",
+              "horario": "22:00",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
             },
@@ -655,8 +741,8 @@
           "horarios": [
             {
               "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             },
             {
               "horario": "15:30",
@@ -664,47 +750,46 @@
               "formato": "2D PLUS"
             },
             {
+              "horario": "19:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
+          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
+          "titulo": "PAW PATROL: LA DINO PELICULA",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
+          "id": "a0015734-86ad-4f6c-bda1-95f933ab79b4",
+          "titulo": "CUESTIÓN DE FE",
+          "horarios": [
+            {
               "horario": "18:00",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "22:30",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ]
-        },
-        {
-          "id": "dc89da97-9131-4c36-a219-9412776c010b",
-          "titulo": "MOANA",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "81d20184-4e11-4fdd-b625-316b23c8b945",
-          "titulo": "MINIONS & MONSTRUOS",
-          "horarios": [
-            {
-              "horario": "12:10",
+              "horario": "20:00",
               "idioma": "Español",
               "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "3D PLUS"
             }
           ]
         }
@@ -725,10 +810,10 @@
             {
               "horario": "11:00",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D"
             },
             {
-              "horario": "11:15",
+              "horario": "11:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -745,10 +830,10 @@
             {
               "horario": "13:50",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "14:20",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -763,17 +848,12 @@
               "formato": "2D XL"
             },
             {
-              "horario": "16:30",
+              "horario": "16:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:45",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "17:00",
+              "horario": "17:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -783,12 +863,7 @@
               "formato": "2D SUB"
             },
             {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:15",
+              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -813,12 +888,7 @@
               "formato": "2D SUB"
             },
             {
-              "horario": "21:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
+              "horario": "21:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -828,7 +898,7 @@
               "formato": "2D XL"
             },
             {
-              "horario": "22:40",
+              "horario": "22:30",
               "idioma": "Español",
               "formato": "3D"
             },
@@ -850,11 +920,6 @@
             },
             {
               "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
               "idioma": "Ingles",
               "formato": "2D SUB"
             },
@@ -886,58 +951,94 @@
           ]
         },
         {
+          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
+          "titulo": "PAW PATROL: LA DINO PELICULA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
           "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "11:40",
+              "horario": "11:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:50",
+              "horario": "15:40",
               "idioma": "Español",
               "formato": "2D"
             },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "8010f239-684a-4fa5-b33b-51b4cb4249ab",
+          "titulo": "EL CONJURO DE LA NOVIA",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "a0015734-86ad-4f6c-bda1-95f933ab79b4",
+          "titulo": "CUESTIÓN DE FE",
+          "horarios": [
             {
               "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:10",
+              "horario": "20:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "dc89da97-9131-4c36-a219-9412776c010b",
-          "titulo": "MOANA",
-          "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "75a77a7b-7c8a-4a46-8b56-e2289d750b05",
-          "titulo": "CUENTOS DIABÓLICOS",
-          "horarios": [
-            {
-              "horario": "12:00",
+              "horario": "21:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -948,18 +1049,23 @@
           "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "4f083963-ec14-4cec-bd9f-0e92648397e7",
-          "titulo": "EVIL DEAD: EN LLAMAS",
+          "id": "dc89da97-9131-4c36-a219-9412776c010b",
+          "titulo": "MOANA",
           "horarios": [
             {
-              "horario": "22:30",
+              "horario": "11:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -969,5 +1075,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "5/8/2026"
+  "fecha": "6/8/2026"
 }
