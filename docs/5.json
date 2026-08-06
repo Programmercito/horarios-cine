@@ -8,17 +8,22 @@
           "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "13:10",
+              "horario": "11:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "12:55",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:20",
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:45",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -29,12 +34,12 @@
           "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "17:10",
+              "horario": "18:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:20",
+              "horario": "21:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -45,67 +50,17 @@
           "titulo": "SPIDER-MAN: UN NUEVO DÍA",
           "horarios": [
             {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "11:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:40",
+              "horario": "11:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -115,29 +70,54 @@
               "formato": "2D"
             },
             {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "22:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "12:00",
+              "horario": "22:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:20",
+              "horario": "21:40",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "11:20",
               "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D ULTRALASER ATMOS"
             },
             {
               "horario": "14:00",
@@ -160,24 +140,61 @@
               "formato": "2D ULTRALASER ATMOS"
             },
             {
-              "horario": "11:20",
+              "horario": "14:20",
               "idioma": "Español",
-              "formato": "2D ULTRALASER ATMOS"
+              "formato": "3D"
             },
             {
-              "horario": "15:40",
+              "horario": "19:40",
               "idioma": "Español",
-              "formato": "2D ULTRALASER"
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "5af2525b-ec9a-48f7-ab4c-fbb4cd35d069",
+          "titulo": "PAW PATROL: LA DINO PELÍCULA",
+          "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:05",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:35",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "18:20",
               "idioma": "Español",
-              "formato": "2D ULTRALASER"
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "a0015734-86ad-4f6c-bda1-95f933ab79b4",
+          "titulo": "CUESTIÓN DE FE",
+          "horarios": [
+            {
+              "horario": "20:05",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
-              "horario": "21:00",
+              "horario": "21:50",
               "idioma": "Español",
-              "formato": "2D ULTRALASER"
+              "formato": "2D"
             }
           ]
         }
@@ -185,5 +202,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "5/8/2026"
+  "fecha": "6/8/2026"
 }
