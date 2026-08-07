@@ -172,7 +172,7 @@
             {
               "horario": "19:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             }
           ]
         },
@@ -288,15 +288,10 @@
             {
               "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
               "formato": "3D"
             },
             {
-              "horario": "12:40",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -304,6 +299,11 @@
               "horario": "12:40",
               "idioma": "Español",
               "formato": "3D PLUS"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "13:20",
@@ -357,13 +357,13 @@
             },
             {
               "horario": "16:45",
-              "idioma": "Español",
-              "formato": "3D XL"
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             },
             {
               "horario": "16:45",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
+              "idioma": "Español",
+              "formato": "3D XL"
             },
             {
               "horario": "17:00",
@@ -513,13 +513,13 @@
             },
             {
               "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             },
             {
               "horario": "22:30",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -692,11 +692,6 @@
               "horario": "12:00",
               "idioma": "Español",
               "formato": "3D PLUS"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
             },
             {
               "horario": "15:00",
@@ -873,7 +868,7 @@
               "formato": "2D XL"
             },
             {
-              "horario": "19:45",
+              "horario": "19:40",
               "idioma": "Español",
               "formato": "3D"
             },
@@ -1075,5 +1070,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "6/8/2026"
+  "fecha": "7/8/2026"
 }
