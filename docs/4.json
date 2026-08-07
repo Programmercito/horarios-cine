@@ -4,43 +4,6 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
-          "titulo": "PAW PATROL: LA DINO PELÍCULA",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "12:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "14:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "16:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:00"
-            }
-          ],
-          "id": "5af2525b-ec9a-48f7-ab4c-fbb4cd35d069"
-        },
-        {
-          "titulo": "ATEEZ : LIGHT THE WAY IN CINEMAS",
-          "horarios": [
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D",
-              "horario": "19:20"
-            }
-          ],
-          "id": "a1dc461b-90d2-4c44-acdb-5ef1bbd0964c"
-        },
-        {
           "titulo": "SPIDER-MAN: UN NUEVO DÍA",
           "horarios": [
             {
@@ -116,6 +79,11 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
+              "horario": "19:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
               "horario": "20:00"
             },
             {
@@ -126,12 +94,12 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "21:10"
+              "horario": "22:00"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "22:00"
+              "horario": "22:20"
             },
             {
               "idioma": "Doblada",
@@ -283,6 +251,43 @@
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
         },
         {
+          "titulo": "PAW PATROL: LA DINO PELÍCULA",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "12:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "14:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "16:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "18:00"
+            }
+          ],
+          "id": "5af2525b-ec9a-48f7-ab4c-fbb4cd35d069"
+        },
+        {
+          "titulo": "ATEEZ : LIGHT THE WAY IN CINEMAS",
+          "horarios": [
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "15:30"
+            }
+          ],
+          "id": "a1dc461b-90d2-4c44-acdb-5ef1bbd0964c"
+        },
+        {
           "titulo": "MOANA",
           "horarios": [
             {
@@ -333,5 +338,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "6/8/2026"
+  "fecha": "7/8/2026"
 }
