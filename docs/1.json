@@ -3,30 +3,57 @@
     {
       "peliculas": [
         {
-          "titulo": "SPIDER-MAN: UN NUEVO DIA",
+          "titulo": "CUESTION DE FE",
           "horarios": [
             {
-              "horario": "15:50",
-              "idioma": "SUBT",
+              "horario": "20:00",
+              "idioma": "DOB",
               "formato": "2D"
-            },
+            }
+          ],
+          "id": "2f2b3b45-dea8-4e27-ad6b-85b5952f29cf"
+        },
+        {
+          "titulo": "EL CONJURO DE LA NOVIA",
+          "horarios": [
             {
-              "horario": "19:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:40",
+              "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:10",
+              "horario": "17:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8010f239-684a-4fa5-b33b-51b4cb4249ab"
+        },
+        {
+          "titulo": "PAW PATROL: LA DINOPELICULA",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -36,7 +63,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:10",
+              "horario": "13:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -46,22 +73,12 @@
               "formato": "2D"
             },
             {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "15:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -71,156 +88,23 @@
               "formato": "2D"
             },
             {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "3D Atmos"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "DOB",
-              "formato": "3D Atmos"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "DOB",
-              "formato": "3D Atmos"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "3D Atmos"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            }
-          ],
-          "id": "55908319-2beb-434d-9b88-17ecdb950521"
-        },
-        {
-          "titulo": "BACKROOMS: SIN SALIDA (VERSION EXTENDIDA)",
-          "horarios": [
-            {
               "horario": "19:10",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
             }
           ],
-          "id": "74217ae7-ea70-498a-b072-e4753a95e1f1"
-        },
-        {
-          "titulo": "CUENTO DIABOLICO",
-          "horarios": [
-            {
-              "horario": "22:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "194d28b9-c134-49b6-bb06-ffca9736b146"
-        },
-        {
-          "titulo": "EL GRAN VIAJE",
-          "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "DIALOGO",
-              "formato": "2D SIN"
-            },
-            {
-              "horario": "11:50",
-              "idioma": "DIALOGO",
-              "formato": "2D SIN"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "DIALOGO",
-              "formato": "2D SIN"
-            }
-          ],
-          "id": "eb8f0eca-1690-4ca9-a3c3-f46b40242ee4"
+          "id": "de39202d-7107-47e4-97ad-6f7885dadcb5"
         },
         {
           "titulo": "EVIL DEAD EN LLAMAS",
           "horarios": [
             {
-              "horario": "20:50",
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:35",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -231,17 +115,12 @@
           "titulo": "HABITACION Nº 13",
           "horarios": [
             {
-              "horario": "18:05",
+              "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:45",
+              "horario": "22:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -278,17 +157,7 @@
           "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
             {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -298,17 +167,17 @@
               "formato": "2D"
             },
             {
-              "horario": "14:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "15:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -352,195 +221,25 @@
           "id": "dc89da97-9131-4c36-a219-9412776c010b"
         },
         {
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
-        }
-      ],
-      "ciudad": "Santa Cruz Av. Trompillo"
-    },
-    {
-      "peliculas": [
-        {
           "titulo": "SPIDER-MAN: UN NUEVO DIA",
           "horarios": [
             {
-              "horario": "20:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:05",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "DOB",
-              "formato": "3D"
-            }
-          ],
-          "id": "55908319-2beb-434d-9b88-17ecdb950521"
-        },
-        {
-          "titulo": "LA ODISEA",
-          "horarios": [
-            {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
-        },
-        {
-          "titulo": "MINIONS & MONSTRUOS",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "81d20184-4e11-4fdd-b625-316b23c8b945"
-        },
-        {
-          "titulo": "MOANA",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "dc89da97-9131-4c36-a219-9412776c010b"
-        }
-      ],
-      "ciudad": "Santa Cruz Av. Brasil"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "SPIDER-MAN: UN NUEVO DIA",
-          "horarios": [
-            {
-              "horario": "19:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
+              "horario": "21:50",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
               "horario": "11:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -555,12 +254,32 @@
               "formato": "2D"
             },
             {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "16:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -575,42 +294,32 @@
               "formato": "2D"
             },
             {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "10:30",
               "idioma": "DOB",
-              "formato": "3D"
+              "formato": "2D Atmos"
             },
             {
               "horario": "13:40",
               "idioma": "DOB",
-              "formato": "3D"
+              "formato": "2D Atmos"
             },
             {
               "horario": "16:50",
               "idioma": "DOB",
-              "formato": "3D"
+              "formato": "2D Atmos"
             },
             {
               "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "12:10",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
@@ -658,10 +367,316 @@
           "id": "55908319-2beb-434d-9b88-17ecdb950521"
         },
         {
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
+        }
+      ],
+      "ciudad": "Santa Cruz Av. Trompillo"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "CUESTION DE FE",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2f2b3b45-dea8-4e27-ad6b-85b5952f29cf"
+        },
+        {
+          "titulo": "EL CONJURO DE LA NOVIA",
+          "horarios": [
+            {
+              "horario": "18:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8010f239-684a-4fa5-b33b-51b4cb4249ab"
+        },
+        {
+          "titulo": "PAW PATROL: LA DINOPELICULA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "de39202d-7107-47e4-97ad-6f7885dadcb5"
+        },
+        {
+          "titulo": "LA ODISEA",
+          "horarios": [
+            {
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
+        },
+        {
+          "titulo": "MINIONS & MONSTRUOS",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "81d20184-4e11-4fdd-b625-316b23c8b945"
+        },
+        {
+          "titulo": "SPIDER-MAN: UN NUEVO DIA",
+          "horarios": [
+            {
+              "horario": "19:10",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            }
+          ],
+          "id": "55908319-2beb-434d-9b88-17ecdb950521"
+        },
+        {
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
+        }
+      ],
+      "ciudad": "Santa Cruz Av. Brasil"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "CUESTION DE FE",
+          "horarios": [
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2f2b3b45-dea8-4e27-ad6b-85b5952f29cf"
+        },
+        {
+          "titulo": "EL CONJURO DE LA NOVIA",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8010f239-684a-4fa5-b33b-51b4cb4249ab"
+        },
+        {
+          "titulo": "PAW PATROL: LA DINOPELICULA",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "de39202d-7107-47e4-97ad-6f7885dadcb5"
+        },
+        {
           "titulo": "BACKROOMS: SIN SALIDA (VERSION EXTENDIDA)",
           "horarios": [
             {
-              "horario": "21:10",
+              "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -696,11 +711,6 @@
               "horario": "20:40",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "21:25",
-              "idioma": "DOB",
-              "formato": "2D"
             }
           ],
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
@@ -709,27 +719,17 @@
           "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
             {
-              "horario": "10:30",
+              "horario": "11:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "11:00",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
+              "horario": "14:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -750,17 +750,12 @@
               "formato": "2D"
             },
             {
-              "horario": "13:10",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
+              "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -768,56 +763,15 @@
           "id": "dc89da97-9131-4c36-a219-9412776c010b"
         },
         {
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "horario": "10:55",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
-        }
-      ],
-      "ciudad": "Cochabamba"
-    },
-    {
-      "peliculas": [
-        {
           "titulo": "SPIDER-MAN: UN NUEVO DIA",
           "horarios": [
             {
-              "horario": "12:10",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:10",
+              "horario": "11:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -827,17 +781,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:50",
+              "horario": "14:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -852,17 +796,7 @@
               "formato": "2D"
             },
             {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -877,61 +811,204 @@
               "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "21:10",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:10",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
             },
             {
               "horario": "21:40",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
             },
             {
               "horario": "22:10",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "4D E-Motion 3D"
             },
             {
-              "horario": "11:40",
+              "horario": "11:00",
               "idioma": "DOB",
-              "formato": "3D Atmos"
+              "formato": "2D CXC Atmos"
             },
             {
-              "horario": "14:50",
+              "horario": "14:10",
               "idioma": "DOB",
-              "formato": "3D Atmos"
+              "formato": "2D CXC Atmos"
             },
             {
-              "horario": "18:00",
+              "horario": "17:20",
               "idioma": "DOB",
-              "formato": "3D Atmos"
+              "formato": "2D CXC Atmos"
             },
             {
-              "horario": "21:10",
+              "horario": "20:30",
               "idioma": "DOB",
-              "formato": "3D Atmos"
+              "formato": "2D CXC Atmos"
             }
           ],
           "id": "55908319-2beb-434d-9b88-17ecdb950521"
         },
         {
-          "titulo": "BACKROOMS: SIN SALIDA (VERSION EXTENDIDA)",
+          "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "19:10",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "12:55",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:45",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "74217ae7-ea70-498a-b072-e4753a95e1f1"
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
+        }
+      ],
+      "ciudad": "Cochabamba"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "PAW PATROL: LA DINOPELICULA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "de39202d-7107-47e4-97ad-6f7885dadcb5"
         },
         {
-          "titulo": "CUENTO DIABOLICO",
+          "titulo": "CUESTION DE FE",
+          "horarios": [
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2f2b3b45-dea8-4e27-ad6b-85b5952f29cf"
+        },
+        {
+          "titulo": "EL CONJURO DE LA NOVIA",
+          "horarios": [
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8010f239-684a-4fa5-b33b-51b4cb4249ab"
+        },
+        {
+          "titulo": "BACKROOMS: SIN SALIDA (VERSION EXTENDIDA)",
           "horarios": [
             {
               "horario": "21:50",
@@ -939,18 +1016,7 @@
               "formato": "2D"
             }
           ],
-          "id": "194d28b9-c134-49b6-bb06-ffca9736b146"
-        },
-        {
-          "titulo": "HABITACION Nº 13",
-          "horarios": [
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "46a61f67-c978-451d-bd2e-92078270ee03"
+          "id": "74217ae7-ea70-498a-b072-e4753a95e1f1"
         },
         {
           "titulo": "LA ODISEA",
@@ -997,7 +1063,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:40",
+              "horario": "11:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1007,17 +1073,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1038,27 +1094,12 @@
           "titulo": "MOANA",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "11:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
+              "horario": "12:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1066,154 +1107,10 @@
           "id": "dc89da97-9131-4c36-a219-9412776c010b"
         },
         {
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:25",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
-        }
-      ],
-      "ciudad": "La Paz"
-    },
-    {
-      "peliculas": [
-        {
           "titulo": "SPIDER-MAN: UN NUEVO DIA",
           "horarios": [
             {
-              "horario": "12:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "DOB",
-              "formato": "3D"
-            }
-          ],
-          "id": "55908319-2beb-434d-9b88-17ecdb950521"
-        },
-        {
-          "titulo": "LA ODISEA",
-          "horarios": [
-            {
-              "horario": "13:25",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:05",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
-        },
-        {
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
-        }
-      ],
-      "ciudad": "La Paz VIP"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "SPIDER-MAN: UN NUEVO DIA",
-          "horarios": [
-            {
-              "horario": "20:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:20",
+              "horario": "12:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1238,7 +1135,7 @@
               "formato": "2D"
             },
             {
-              "horario": "15:30",
+              "horario": "15:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1263,7 +1160,7 @@
               "formato": "2D"
             },
             {
-              "horario": "18:40",
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1283,32 +1180,255 @@
               "formato": "2D"
             },
             {
-              "horario": "21:50",
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:00",
+              "horario": "21:40",
               "idioma": "DOB",
-              "formato": "3D"
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:40",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            }
+          ],
+          "id": "55908319-2beb-434d-9b88-17ecdb950521"
+        },
+        {
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:25",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
+        }
+      ],
+      "ciudad": "La Paz"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "PAW PATROL: LA DINOPELICULA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "de39202d-7107-47e4-97ad-6f7885dadcb5"
+        },
+        {
+          "titulo": "LA ODISEA",
+          "horarios": [
+            {
+              "horario": "13:25",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:05",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:45",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
+        },
+        {
+          "titulo": "SPIDER-MAN: UN NUEVO DIA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "SUBT",
+              "formato": "2D"
             },
             {
               "horario": "15:10",
-              "idioma": "DOB",
-              "formato": "3D"
+              "idioma": "SUBT",
+              "formato": "2D"
             },
             {
               "horario": "18:20",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "3D"
             },
             {
-              "horario": "21:30",
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "DOB",
+              "formato": "3D"
+            },
+            {
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "3D"
             }
           ],
           "id": "55908319-2beb-434d-9b88-17ecdb950521"
+        },
+        {
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
+        }
+      ],
+      "ciudad": "La Paz VIP"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "CUESTION DE FE",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2f2b3b45-dea8-4e27-ad6b-85b5952f29cf"
+        },
+        {
+          "titulo": "EL CONJURO DE LA NOVIA",
+          "horarios": [
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8010f239-684a-4fa5-b33b-51b4cb4249ab"
+        },
+        {
+          "titulo": "PAW PATROL: LA DINOPELICULA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "de39202d-7107-47e4-97ad-6f7885dadcb5"
         },
         {
           "titulo": "BACKROOMS: SIN SALIDA (VERSION EXTENDIDA)",
@@ -1320,17 +1440,6 @@
             }
           ],
           "id": "74217ae7-ea70-498a-b072-e4753a95e1f1"
-        },
-        {
-          "titulo": "EL GRAN VIAJE",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "DIALOGO",
-              "formato": "2D SIN"
-            }
-          ],
-          "id": "eb8f0eca-1690-4ca9-a3c3-f46b40242ee4"
         },
         {
           "titulo": "HABITACION Nº 13",
@@ -1357,11 +1466,6 @@
               "formato": "2D"
             },
             {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "20:40",
               "idioma": "DOB",
               "formato": "2D"
@@ -1373,22 +1477,17 @@
           "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1407,9 +1506,80 @@
               "horario": "14:40",
               "idioma": "DOB",
               "formato": "2D"
+            }
+          ],
+          "id": "dc89da97-9131-4c36-a219-9412776c010b"
+        },
+        {
+          "titulo": "SPIDER-MAN: UN NUEVO DIA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "12:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1417,9 +1587,19 @@
               "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
-          "id": "dc89da97-9131-4c36-a219-9412776c010b"
+          "id": "55908319-2beb-434d-9b88-17ecdb950521"
         },
         {
           "titulo": "TOY STORY 5",
@@ -1453,20 +1633,15 @@
     {
       "peliculas": [
         {
-          "titulo": "SPIDER-MAN: UN NUEVO DIA",
+          "titulo": "PAW PATROL: LA DINOPELICULA",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1476,53 +1651,39 @@
               "formato": "2D"
             },
             {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
               "horario": "18:00",
               "idioma": "DOB",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "DOB",
-              "formato": "3D"
+              "formato": "2D"
             }
           ],
-          "id": "55908319-2beb-434d-9b88-17ecdb950521"
+          "id": "de39202d-7107-47e4-97ad-6f7885dadcb5"
         },
         {
-          "titulo": "BACKROOMS: SIN SALIDA (VERSION EXTENDIDA)",
+          "titulo": "CUESTION DE FE",
           "horarios": [
             {
-              "horario": "21:25",
+              "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "74217ae7-ea70-498a-b072-e4753a95e1f1"
+          "id": "2f2b3b45-dea8-4e27-ad6b-85b5952f29cf"
+        },
+        {
+          "titulo": "EL CONJURO DE LA NOVIA",
+          "horarios": [
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8010f239-684a-4fa5-b33b-51b4cb4249ab"
         },
         {
           "titulo": "HABITACION Nº 13",
@@ -1539,12 +1700,12 @@
           "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "18:50",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1552,41 +1713,15 @@
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
         },
         {
-          "titulo": "MINIONS & MONSTRUOS",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "81d20184-4e11-4fdd-b625-316b23c8b945"
-        },
-        {
           "titulo": "MOANA",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1594,25 +1729,81 @@
           "id": "dc89da97-9131-4c36-a219-9412776c010b"
         },
         {
-          "titulo": "TOY STORY 5",
+          "titulo": "SPIDER-MAN: UN NUEVO DIA",
           "horarios": [
             {
-              "horario": "12:15",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:30",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:45",
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "55908319-2beb-434d-9b88-17ecdb950521"
+        },
+        {
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:35",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1624,5 +1815,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "2/8/2026"
+  "fecha": "9/8/2026"
 }
