@@ -8,21 +8,6 @@
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "11:15",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
@@ -129,11 +114,6 @@
           "titulo": "PAW PATROL: LA DINO PELICULA",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "12:50",
               "idioma": "Español",
               "formato": "2D"
@@ -152,27 +132,6 @@
               "horario": "18:40",
               "idioma": "Español",
               "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "3D"
             }
           ]
         },
@@ -215,6 +174,22 @@
               "horario": "21:35",
               "idioma": "Español",
               "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "3D"
             }
           ]
         },
@@ -266,39 +241,24 @@
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "10:45",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "11:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "3D"
             },
             {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:40",
               "idioma": "Español",
               "formato": "3D PLUS"
+            },
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "13:20",
@@ -333,12 +293,12 @@
             {
               "horario": "15:40",
               "idioma": "Español",
-              "formato": "3D PLUS"
+              "formato": "2D"
             },
             {
               "horario": "15:40",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D PLUS"
             },
             {
               "horario": "16:10",
@@ -352,13 +312,13 @@
             },
             {
               "horario": "16:45",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
+              "idioma": "Español",
+              "formato": "3D XL"
             },
             {
               "horario": "16:45",
-              "idioma": "Español",
-              "formato": "3D XL"
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             },
             {
               "horario": "17:00",
@@ -508,13 +468,13 @@
             },
             {
               "horario": "22:30",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             }
           ]
         },
@@ -522,11 +482,6 @@
           "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
           "titulo": "PAW PATROL: LA DINO PELICULA",
           "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "13:00",
               "idioma": "Español",
@@ -544,32 +499,6 @@
             },
             {
               "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "horario": "10:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:35",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -628,14 +557,30 @@
           ]
         },
         {
-          "id": "81d20184-4e11-4fdd-b625-316b23c8b945",
-          "titulo": "MINIONS & MONSTRUOS",
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "10:50",
+              "horario": "17:30",
               "idioma": "Español",
               "formato": "2D"
             },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:35",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "81d20184-4e11-4fdd-b625-316b23c8b945",
+          "titulo": "MINIONS & MONSTRUOS",
+          "horarios": [
             {
               "horario": "12:40",
               "idioma": "Español",
@@ -652,11 +597,6 @@
           "id": "dc89da97-9131-4c36-a219-9412776c010b",
           "titulo": "MOANA",
           "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "12:45",
               "idioma": "Español",
@@ -678,11 +618,6 @@
           "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -787,6 +722,17 @@
               "formato": "2D PLUS"
             }
           ]
+        },
+        {
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
         }
       ]
     },
@@ -797,21 +743,6 @@
           "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -950,11 +881,6 @@
           "titulo": "PAW PATROL: LA DINO PELICULA",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "12:50",
               "idioma": "Español",
               "formato": "2D"
@@ -971,27 +897,6 @@
             },
             {
               "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1040,16 +945,27 @@
           ]
         },
         {
-          "id": "81d20184-4e11-4fdd-b625-316b23c8b945",
-          "titulo": "MINIONS & MONSTRUOS",
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "11:40",
+              "horario": "15:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:40",
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "81d20184-4e11-4fdd-b625-316b23c8b945",
+          "titulo": "MINIONS & MONSTRUOS",
+          "horarios": [
+            {
+              "horario": "12:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1060,7 +976,7 @@
           "titulo": "MOANA",
           "horarios": [
             {
-              "horario": "11:40",
+              "horario": "13:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1070,5 +986,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "9/8/2026"
+  "fecha": "10/8/2026"
 }
