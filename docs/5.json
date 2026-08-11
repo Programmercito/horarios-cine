@@ -2,9 +2,205 @@
   "ciudades": [
     {
       "ciudad": "Cochabamba",
-      "peliculas": []
+      "peliculas": [
+        {
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:55",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
+          "titulo": "LA ODISEA",
+          "horarios": [
+            {
+              "horario": "18:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "98dab719-690b-4761-a3b1-93c7ddd416dc",
+          "titulo": "SPIDER-MAN: UN NUEVO DÍA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D ULTRALASER ATMOS"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D ULTRALASER ATMOS"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D ULTRALASER ATMOS"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D ULTRALASER ATMOS"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D ULTRALASER ATMOS"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "5af2525b-ec9a-48f7-ab4c-fbb4cd35d069",
+          "titulo": "PAW PATROL: LA DINO PELÍCULA",
+          "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:05",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:35",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "a0015734-86ad-4f6c-bda1-95f933ab79b4",
+          "titulo": "CUESTIÓN DE FE",
+          "horarios": [
+            {
+              "horario": "20:05",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        }
+      ]
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "10/8/2026"
+  "fecha": "11/8/2026"
 }
