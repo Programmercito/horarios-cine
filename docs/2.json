@@ -243,12 +243,12 @@
             {
               "horario": "12:00",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D"
             },
             {
               "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             },
             {
               "horario": "12:40",
@@ -293,12 +293,12 @@
             {
               "horario": "15:40",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D PLUS"
             },
             {
               "horario": "15:40",
               "idioma": "Español",
-              "formato": "3D PLUS"
+              "formato": "2D"
             },
             {
               "horario": "16:10",
@@ -353,7 +353,7 @@
             {
               "horario": "19:20",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             },
             {
               "horario": "19:40",
@@ -382,13 +382,13 @@
             },
             {
               "horario": "21:40",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
+              "idioma": "Español",
+              "formato": "2D PLUS"
             },
             {
               "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             },
             {
               "horario": "22:00",
@@ -396,7 +396,7 @@
               "formato": "4D E-MOTION"
             },
             {
-              "horario": "22:15",
+              "horario": "22:30",
               "idioma": "Español",
               "formato": "2D XL"
             },
@@ -459,7 +459,7 @@
             {
               "horario": "19:10",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL"
             },
             {
               "horario": "20:50",
@@ -467,7 +467,7 @@
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "22:15",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -881,43 +881,22 @@
           "titulo": "PAW PATROL: LA DINO PELICULA",
           "horarios": [
             {
-              "horario": "12:50",
+              "horario": "12:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:40",
+              "horario": "14:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:45",
+              "horario": "16:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "8010f239-684a-4fa5-b33b-51b4cb4249ab",
-          "titulo": "EL CONJURO DE LA NOVIA",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
+              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -939,6 +918,22 @@
             },
             {
               "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "8010f239-684a-4fa5-b33b-51b4cb4249ab",
+          "titulo": "EL CONJURO DE LA NOVIA",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -986,5 +981,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "10/8/2026"
+  "fecha": "11/8/2026"
 }
