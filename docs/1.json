@@ -193,27 +193,22 @@
           "titulo": "MOANA",
           "horarios": [
             {
-              "horario": "10:30",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:10",
+              "horario": "15:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:50",
+              "horario": "17:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -915,37 +910,6 @@
     {
       "peliculas": [
         {
-          "titulo": "PAW PATROL: LA DINOPELICULA",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "de39202d-7107-47e4-97ad-6f7885dadcb5"
-        },
-        {
           "titulo": "CUESTION DE FE",
           "horarios": [
             {
@@ -965,11 +929,6 @@
             },
             {
               "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1006,6 +965,37 @@
             }
           ],
           "id": "8010f239-684a-4fa5-b33b-51b4cb4249ab"
+        },
+        {
+          "titulo": "PAW PATROL: LA DINOPELICULA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "de39202d-7107-47e4-97ad-6f7885dadcb5"
         },
         {
           "titulo": "BACKROOMS: SIN SALIDA (VERSION EXTENDIDA)",
@@ -1309,12 +1299,12 @@
               "formato": "2D"
             },
             {
-              "horario": "13:10",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:20",
+              "horario": "16:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1633,32 +1623,6 @@
     {
       "peliculas": [
         {
-          "titulo": "PAW PATROL: LA DINOPELICULA",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "de39202d-7107-47e4-97ad-6f7885dadcb5"
-        },
-        {
           "titulo": "CUESTION DE FE",
           "horarios": [
             {
@@ -1684,6 +1648,32 @@
             }
           ],
           "id": "8010f239-684a-4fa5-b33b-51b4cb4249ab"
+        },
+        {
+          "titulo": "PAW PATROL: LA DINOPELICULA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "de39202d-7107-47e4-97ad-6f7885dadcb5"
         },
         {
           "titulo": "HABITACION Nº 13",
@@ -1815,5 +1805,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "9/8/2026"
+  "fecha": "11/8/2026"
 }
