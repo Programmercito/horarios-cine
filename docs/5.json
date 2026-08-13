@@ -8,17 +8,12 @@
           "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "12:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "12:55",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
+              "horario": "16:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -45,11 +40,6 @@
           "titulo": "SPIDER-MAN: UN NUEVO DÍA",
           "horarios": [
             {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "11:40",
               "idioma": "Español",
               "formato": "2D"
@@ -60,7 +50,12 @@
               "formato": "2D"
             },
             {
-              "horario": "14:40",
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -70,7 +65,7 @@
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "14:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -85,7 +80,12 @@
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -95,7 +95,7 @@
               "formato": "2D"
             },
             {
-              "horario": "22:40",
+              "horario": "19:20",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -110,49 +110,9 @@
               "formato": "2D"
             },
             {
-              "horario": "20:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:20",
-              "idioma": "Español",
-              "formato": "2D ULTRALASER ATMOS"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D ULTRALASER ATMOS"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D ULTRALASER ATMOS"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D ULTRALASER ATMOS"
-            },
-            {
               "horario": "22:00",
               "idioma": "Español",
-              "formato": "2D ULTRALASER ATMOS"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D"
             }
           ]
         },
@@ -161,38 +121,12 @@
           "titulo": "PAW PATROL: LA DINO PELÍCULA",
           "horarios": [
             {
-              "horario": "11:20",
+              "horario": "11:05",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:35",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:25",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "a0015734-86ad-4f6c-bda1-95f933ab79b4",
-          "titulo": "CUESTIÓN DE FE",
-          "horarios": [
-            {
-              "horario": "14:50",
+              "horario": "14:45",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -202,5 +136,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "12/8/2026"
+  "fecha": "13/8/2026"
 }
