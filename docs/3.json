@@ -3,71 +3,37 @@
     {
       "peliculas": [
         {
-          "id": "81d20184-4e11-4fdd-b625-316b23c8b945",
-          "titulo": "minions & monstruos",
+          "id": "b7a87561-229b-41ce-8f94-928cb7cabade",
+          "titulo": "SPIDERMAN: UN NUEVO DIA",
           "horarios": [
             {
-              "horario": "10:50",
+              "horario": "18:45",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "10:15",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:05",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "81d20184-4e11-4fdd-b625-316b23c8b945",
-          "titulo": "Minions & monstruos",
+          "id": "b7a87561-229b-41ce-8f94-928cb7cabade",
+          "titulo": "SPIDERMAN: UN NUEVO DIA",
           "horarios": [
             {
-              "horario": "18:20",
+              "horario": "12:55",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
-            }
-          ]
-        },
-        {
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
-          "titulo": "LA ODISEA",
-          "horarios": [
+            },
             {
-              "horario": "21:45",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "dc89da97-9131-4c36-a219-9412776c010b",
-          "titulo": "MOANA",
-          "horarios": [
-            {
-              "horario": "19:20",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            }
-          ]
-        },
-        {
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "Doblado",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "horario": "15:00",
+              "horario": "15:45",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             },
@@ -75,11 +41,6 @@
               "horario": "17:10",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
-            },
-            {
-              "horario": "20:10",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
             }
           ]
         },
@@ -88,18 +49,34 @@
           "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "15:00",
-              "idioma": "Doblado",
+              "horario": "21:40",
+              "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "dc89da97-9131-4c36-a219-9412776c010b",
-          "titulo": "MOANA",
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "22:10",
+              "horario": "13:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "723182b0-3625-4fe3-b25b-95b6df8c6633",
+          "titulo": "EL FINAL DE LA CALLE OAK",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Doblado",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
               "idioma": "Doblado",
               "formato": "2D"
             }
@@ -110,5 +87,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "26/7/2026"
+  "fecha": "13/8/2026"
 }
