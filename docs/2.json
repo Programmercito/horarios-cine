@@ -172,6 +172,22 @@
           ]
         },
         {
+          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
+          "titulo": "PAW PATROL: LA DINO PELICULA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "4d229b73-6ae2-43f5-b041-3900343a02ed",
           "titulo": "LOS INMORTALES",
           "horarios": [
@@ -236,17 +252,6 @@
           "horarios": [
             {
               "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
-          "titulo": "PAW PATROL: LA DINO PELICULA",
-          "horarios": [
-            {
-              "horario": "15:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -938,6 +943,11 @@
               "formato": "2D XL"
             },
             {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
               "horario": "20:00",
               "idioma": "Español",
               "formato": "2D"
@@ -1152,5 +1162,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "15/8/2026"
+  "fecha": "16/8/2026"
 }
