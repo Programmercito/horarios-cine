@@ -8,21 +8,6 @@
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "11:15",
-              "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
-            },
-            {
               "horario": "12:30",
               "idioma": "Español",
               "formato": "2D"
@@ -151,43 +136,6 @@
           ]
         },
         {
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "3D"
-            }
-          ]
-        },
-        {
-          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
-          "titulo": "PAW PATROL: LA DINO PELICULA",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "4d229b73-6ae2-43f5-b041-3900343a02ed",
           "titulo": "LOS INMORTALES",
           "horarios": [
@@ -200,6 +148,22 @@
               "horario": "14:10",
               "idioma": "Español",
               "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "3D"
             }
           ]
         },
@@ -258,6 +222,17 @@
           ]
         },
         {
+          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
+          "titulo": "PAW PATROL: LA DINO PELICULA",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
           "titulo": "LA ODISEA",
           "horarios": [
@@ -289,34 +264,14 @@
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "10:45",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "3D XL"
-            },
-            {
-              "horario": "11:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "3D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "12:30",
@@ -411,12 +366,12 @@
             {
               "horario": "19:10",
               "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "formato": "2D XL"
             },
             {
               "horario": "19:10",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "4D E-MOTION"
             },
             {
               "horario": "19:45",
@@ -578,43 +533,6 @@
           ]
         },
         {
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "dc89da97-9131-4c36-a219-9412776c010b",
-          "titulo": "MOANA",
-          "horarios": [
-            {
-              "horario": "10:35",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
           "titulo": "PAW PATROL: LA DINO PELICULA",
           "horarios": [
@@ -641,6 +559,22 @@
             },
             {
               "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -706,6 +640,17 @@
           ]
         },
         {
+          "id": "dc89da97-9131-4c36-a219-9412776c010b",
+          "titulo": "MOANA",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "a0015734-86ad-4f6c-bda1-95f933ab79b4",
           "titulo": "CUESTIÓN DE FE",
           "horarios": [
@@ -736,11 +681,6 @@
           "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
             {
               "horario": "13:20",
               "idioma": "Español",
@@ -779,32 +719,6 @@
           ]
         },
         {
-          "id": "723182b0-3625-4fe3-b25b-95b6df8c6633",
-          "titulo": "EL FINAL DE LA CALLE OAK",
-          "horarios": [
-            {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:10",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ]
-        },
-        {
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
           "titulo": "LA ODISEA",
           "horarios": [
@@ -826,34 +740,23 @@
           ]
         },
         {
-          "id": "f3651be2-d301-4c33-81fd-f1f24144703a",
-          "titulo": "EL DÍA D: BAJO PRESIÓN",
+          "id": "723182b0-3625-4fe3-b25b-95b6df8c6633",
+          "titulo": "EL FINAL DE LA CALLE OAK",
           "horarios": [
             {
-              "horario": "11:10",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ]
-        },
-        {
-          "id": "5f29e660-c76d-41c1-b68f-10d4268b7292",
-          "titulo": "LA HISTORIA SIN FIN",
-          "horarios": [
-            {
-              "horario": "11:30",
+              "horario": "15:50",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "17:00",
+              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D PLUS"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             }
           ]
         },
@@ -867,6 +770,28 @@
               "formato": "2D PLUS"
             }
           ]
+        },
+        {
+          "id": "5f29e660-c76d-41c1-b68f-10d4268b7292",
+          "titulo": "LA HISTORIA SIN FIN",
+          "horarios": [
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
+          "id": "f3651be2-d301-4c33-81fd-f1f24144703a",
+          "titulo": "EL DÍA D: BAJO PRESIÓN",
+          "horarios": [
+            {
+              "horario": "22:20",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ]
         }
       ]
     },
@@ -877,21 +802,6 @@
           "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -940,12 +850,12 @@
             {
               "horario": "19:20",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "3D"
             },
             {
               "horario": "19:20",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D XL"
             },
             {
               "horario": "20:00",
@@ -1047,27 +957,6 @@
           ]
         },
         {
-          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
-          "titulo": "PAW PATROL: LA DINO PELICULA",
-          "horarios": [
-            {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
           "titulo": "TOY STORY 5",
           "horarios": [
@@ -1094,6 +983,22 @@
             },
             {
               "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
+          "titulo": "PAW PATROL: LA DINO PELICULA",
+          "horarios": [
+            {
+              "horario": "14:05",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1162,5 +1067,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "16/8/2026"
+  "fecha": "17/8/2026"
 }
