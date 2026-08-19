@@ -113,6 +113,11 @@
               "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -137,21 +142,6 @@
           "titulo": "EL FINAL DE LA CALLE OAK",
           "horarios": [
             {
-              "horario": "18:25",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "11:00",
               "idioma": "Español",
               "formato": "2D"
@@ -170,6 +160,21 @@
               "horario": "16:45",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "18:25",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -178,7 +183,12 @@
           "titulo": "ENGENDRO",
           "horarios": [
             {
-              "horario": "12:10",
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:15",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -189,12 +199,12 @@
           "titulo": "INSACIABLE",
           "horarios": [
             {
-              "horario": "19:45",
+              "horario": "22:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "17:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -205,7 +215,7 @@
           "titulo": "EL DÍA D: BAJO PRESIÓN",
           "horarios": [
             {
-              "horario": "21:55",
+              "horario": "14:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -215,5 +225,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "18/8/2026"
+  "fecha": "19/8/2026"
 }
