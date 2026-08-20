@@ -7,17 +7,17 @@
           "titulo": "SPIDERMAN: UN NUEVO DIA",
           "horarios": [
             {
-              "horario": "18:45",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:15",
+              "horario": "17:10",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
               "horario": "22:05",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "10:15",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -28,17 +28,12 @@
           "titulo": "SPIDERMAN: UN NUEVO DIA",
           "horarios": [
             {
-              "horario": "12:55",
+              "horario": "15:15",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             },
             {
-              "horario": "15:45",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
-              "horario": "17:10",
+              "horario": "18:10",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "3D"
             }
@@ -49,20 +44,35 @@
           "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "21:40",
+              "horario": "21:00",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
-          "titulo": "TOY STORY 5",
+          "id": "cc3829d4-0eec-4eba-8102-0e3a29492f5a",
+          "titulo": "INSIDIOUS: ESTAN ENTRE NOSOTROS",
           "horarios": [
+            {
+              "horario": "10:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
             {
               "horario": "13:00",
               "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
+              "formato": "2D"
             }
           ]
         },
@@ -71,12 +81,7 @@
           "titulo": "EL FINAL DE LA CALLE OAK",
           "horarios": [
             {
-              "horario": "15:00",
-              "idioma": "Doblado",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
+              "horario": "12:55",
               "idioma": "Doblado",
               "formato": "2D"
             }
@@ -87,5 +92,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "19/8/2026"
+  "fecha": "20/8/2026"
 }
