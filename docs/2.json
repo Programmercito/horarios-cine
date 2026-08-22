@@ -8,6 +8,21 @@
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "11:15",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
               "horario": "12:35",
               "idioma": "Español",
               "formato": "2D"
@@ -104,6 +119,11 @@
           "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
           "horarios": [
             {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
               "horario": "13:00",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
@@ -140,6 +160,38 @@
             },
             {
               "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "3e661233-4c7a-4a32-8a60-164591b5ccb7",
+          "titulo": "MI VECINO TOTORO",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -231,6 +283,26 @@
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "10:45",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "11:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
@@ -298,12 +370,12 @@
             {
               "horario": "19:10",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "4D E-MOTION"
             },
             {
               "horario": "19:10",
               "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "formato": "2D XL"
             },
             {
               "horario": "19:45",
@@ -314,11 +386,6 @@
               "horario": "20:00",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "Español",
-              "formato": "3D PLUS"
             },
             {
               "horario": "21:20",
@@ -351,6 +418,11 @@
           "id": "808094db-5958-444d-b254-eb0163157a36",
           "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
           "horarios": [
+            {
+              "horario": "10:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:10",
               "idioma": "Español",
@@ -402,9 +474,19 @@
               "formato": "2D"
             },
             {
+              "horario": "20:40",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
               "horario": "21:50",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
             },
             {
               "horario": "22:50",
@@ -492,11 +574,27 @@
               "horario": "20:40",
               "idioma": "Español",
               "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "13:00",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -564,16 +662,16 @@
           ]
         },
         {
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
-          "titulo": "TOY STORY 5",
+          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
+          "titulo": "PAW PATROL: LA DINO PELICULA",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "10:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:40",
+              "horario": "16:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -607,17 +705,6 @@
           "horarios": [
             {
               "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
-          "titulo": "PAW PATROL: LA DINO PELICULA",
-          "horarios": [
-            {
-              "horario": "16:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -662,9 +749,50 @@
       "ciudad": "La Paz - Plaza 21 Mall",
       "peliculas": [
         {
+          "id": "808094db-5958-444d-b254-eb0163157a36",
+          "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
           "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
+            {
+              "horario": "10:25",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
             {
               "horario": "13:20",
               "idioma": "Español",
@@ -676,24 +804,14 @@
               "formato": "2D PLUS"
             },
             {
-              "horario": "17:20",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
               "horario": "19:20",
               "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
+              "formato": "2D PLUS"
             },
             {
               "horario": "22:15",
-              "idioma": "Español",
-              "formato": "2D PLUS"
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             }
           ]
         },
@@ -724,34 +842,34 @@
           ]
         },
         {
-          "id": "808094db-5958-444d-b254-eb0163157a36",
-          "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
+          "id": "3e661233-4c7a-4a32-8a60-164591b5ccb7",
+          "titulo": "MI VECINO TOTORO",
           "horarios": [
             {
-              "horario": "13:20",
+              "horario": "11:10",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:00",
+              "horario": "13:10",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
           ]
         },
         {
-          "id": "3e661233-4c7a-4a32-8a60-164591b5ccb7",
-          "titulo": "MI VECINO TOTORO",
+          "id": "32b9ad41-0ccb-4598-ad16-11e40a55f25f",
+          "titulo": "LA MUERTE DE ROBIN HOOD",
           "horarios": [
             {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
+              "horario": "19:40",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             }
           ]
         },
@@ -776,17 +894,6 @@
               "formato": "2D PLUS SUB"
             }
           ]
-        },
-        {
-          "id": "1ac201a3-6140-427f-a6d1-43622c817f74",
-          "titulo": "LA NEGOCIACIÓN",
-          "horarios": [
-            {
-              "horario": "22:20",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ]
         }
       ]
     },
@@ -797,6 +904,16 @@
           "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:20",
               "idioma": "Español",
@@ -821,11 +938,6 @@
               "horario": "16:20",
               "idioma": "Español",
               "formato": "2D XL"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
             },
             {
               "horario": "18:20",
@@ -853,9 +965,9 @@
               "formato": "2D XL"
             },
             {
-              "horario": "22:45",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
+              "horario": "22:50",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -863,6 +975,11 @@
           "id": "808094db-5958-444d-b254-eb0163157a36",
           "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
           "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -947,6 +1064,27 @@
           ]
         },
         {
+          "id": "723182b0-3625-4fe3-b25b-95b6df8c6633",
+          "titulo": "EL FINAL DE LA CALLE OAK",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "3e661233-4c7a-4a32-8a60-164591b5ccb7",
           "titulo": "MI VECINO TOTORO",
           "horarios": [
@@ -968,6 +1106,22 @@
           ]
         },
         {
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "10:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
           "titulo": "PAW PATROL: LA DINO PELICULA",
           "horarios": [
@@ -978,22 +1132,6 @@
             },
             {
               "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "723182b0-3625-4fe3-b25b-95b6df8c6633",
-          "titulo": "EL FINAL DE LA CALLE OAK",
-          "horarios": [
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1036,18 +1174,7 @@
           "titulo": "ENGENDRO",
           "horarios": [
             {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "horario": "14:40",
+              "horario": "12:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1079,5 +1206,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "21/8/2026"
+  "fecha": "22/8/2026"
 }
