@@ -48,11 +48,6 @@
               "formato": "2D"
             },
             {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "16:20",
               "idioma": "Español",
               "formato": "3D XL - 3D XL KRONOS"
@@ -419,7 +414,7 @@
           "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
           "horarios": [
             {
-              "horario": "10:40",
+              "horario": "11:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -429,12 +424,7 @@
               "formato": "2D PLUS"
             },
             {
-              "horario": "12:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
+              "horario": "13:50",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -500,19 +490,14 @@
           "titulo": "LA ODISEA",
           "horarios": [
             {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:00",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
             },
             {
               "horario": "15:25",
@@ -525,7 +510,7 @@
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "17:25",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -546,32 +531,6 @@
             },
             {
               "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "723182b0-3625-4fe3-b25b-95b6df8c6633",
-          "titulo": "EL FINAL DE LA CALLE OAK",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -599,42 +558,21 @@
           ]
         },
         {
-          "id": "83deb9c3-f277-441c-9eca-402d3eb5ff45",
-          "titulo": "TU CORAZÓN SERÁ DESTROZADO",
+          "id": "723182b0-3625-4fe3-b25b-95b6df8c6633",
+          "titulo": "EL FINAL DE LA CALLE OAK",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "18:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:35",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "3e661233-4c7a-4a32-8a60-164591b5ccb7",
-          "titulo": "MI VECINO TOTORO",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "Japones",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
+              "horario": "20:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -662,49 +600,43 @@
           ]
         },
         {
-          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
-          "titulo": "PAW PATROL: LA DINO PELICULA",
+          "id": "3e661233-4c7a-4a32-8a60-164591b5ccb7",
+          "titulo": "MI VECINO TOTORO",
           "horarios": [
             {
-              "horario": "10:50",
+              "horario": "12:40",
+              "idioma": "Japones",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "83deb9c3-f277-441c-9eca-402d3eb5ff45",
+          "titulo": "TU CORAZÓN SERÁ DESTROZADO",
+          "horarios": [
+            {
+              "horario": "14:35",
               "idioma": "Español",
               "formato": "2D"
             },
             {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
+          "titulo": "PAW PATROL: LA DINO PELICULA",
+          "horarios": [
+            {
               "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "ec34a9aa-3664-4ac6-bba6-e674e1614471",
-          "titulo": "ENGENDRO",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "dc89da97-9131-4c36-a219-9412776c010b",
-          "titulo": "MOANA",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "a0015734-86ad-4f6c-bda1-95f933ab79b4",
-          "titulo": "CUESTIÓN DE FE",
-          "horarios": [
-            {
-              "horario": "14:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -733,8 +665,8 @@
           ]
         },
         {
-          "id": "e5b2a673-c2c2-43d6-812d-2f9bbd52c4f8",
-          "titulo": "INSACIABLE",
+          "id": "ec34a9aa-3664-4ac6-bba6-e674e1614471",
+          "titulo": "ENGENDRO",
           "horarios": [
             {
               "horario": "22:40",
@@ -858,22 +790,6 @@
           ]
         },
         {
-          "id": "32b9ad41-0ccb-4598-ad16-11e40a55f25f",
-          "titulo": "LA MUERTE DE ROBIN HOOD",
-          "horarios": [
-            {
-              "horario": "19:40",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ]
-        },
-        {
           "id": "723182b0-3625-4fe3-b25b-95b6df8c6633",
           "titulo": "EL FINAL DE LA CALLE OAK",
           "horarios": [
@@ -890,6 +806,28 @@
           "horarios": [
             {
               "horario": "18:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ]
+        },
+        {
+          "id": "32b9ad41-0ccb-4598-ad16-11e40a55f25f",
+          "titulo": "LA MUERTE DE ROBIN HOOD",
+          "horarios": [
+            {
+              "horario": "19:40",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ]
+        },
+        {
+          "id": "1ac201a3-6140-427f-a6d1-43622c817f74",
+          "titulo": "LA NEGOCIACIÓN",
+          "horarios": [
+            {
+              "horario": "22:20",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
             }
@@ -938,6 +876,11 @@
               "horario": "16:20",
               "idioma": "Español",
               "formato": "2D XL"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "18:20",
@@ -1206,5 +1149,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "22/8/2026"
+  "fecha": "23/8/2026"
 }
