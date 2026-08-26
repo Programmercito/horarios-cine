@@ -4,6 +4,11 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
+          "titulo": "GHOST: 2 BIG TO RIG",
+          "horarios": [],
+          "id": "21f261de-92a9-4c22-9118-e36132820074"
+        },
+        {
           "titulo": "SPIDER-MAN: UN NUEVO DÍA",
           "horarios": [],
           "id": "98dab719-690b-4761-a3b1-93c7ddd416dc"
@@ -37,15 +42,10 @@
           "titulo": "EL FINAL DE LA CALLE OAK",
           "horarios": [],
           "id": "723182b0-3625-4fe3-b25b-95b6df8c6633"
-        },
-        {
-          "titulo": "PAW PATROL: LA DINO PELÍCULA",
-          "horarios": [],
-          "id": "5af2525b-ec9a-48f7-ab4c-fbb4cd35d069"
         }
       ]
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "25/8/2026"
+  "fecha": "26/8/2026"
 }
