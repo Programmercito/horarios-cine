@@ -6,11 +6,6 @@
           "titulo": "LA MUERTE DE ROBIN HOOD",
           "horarios": [
             {
-              "horario": "19:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -21,16 +16,6 @@
         {
           "titulo": "LA NEGOCIACION",
           "horarios": [
-            {
-              "horario": "17:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
             {
               "horario": "22:30",
               "idioma": "SUBT",
@@ -43,22 +28,12 @@
           "titulo": "LA NOCHE DEL DEMONIO: ESTAN ENTRE NOSOTROS",
           "horarios": [
             {
-              "horario": "19:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
               "horario": "22:00",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
+              "horario": "22:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -71,24 +46,8 @@
           "id": "e7e10780-5551-40ef-93de-a60a9d5db4fc"
         },
         {
-          "titulo": "MI VECINO TOTORO",
-          "horarios": [
-            {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "3e661233-4c7a-4a32-8a60-164591b5ccb7"
-        },
-        {
           "titulo": "TU CORAZON SERA DESTROZADO",
           "horarios": [
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "22:20",
               "idioma": "DOB",
@@ -96,27 +55,6 @@
             }
           ],
           "id": "24bb32a8-e977-4dcb-88e4-37a6013852fb"
-        },
-        {
-          "titulo": "EL FINAL DE LA CALLE OAK",
-          "horarios": [
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "723182b0-3625-4fe3-b25b-95b6df8c6633"
         },
         {
           "titulo": "INSACIABLE",
@@ -130,102 +68,15 @@
           "id": "e5b2a673-c2c2-43d6-812d-2f9bbd52c4f8"
         },
         {
-          "titulo": "LA ODISEA",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
-        },
-        {
           "titulo": "SPIDER-MAN: UN NUEVO DIA",
           "horarios": [
             {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
               "horario": "22:10",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
             }
           ],
           "id": "55908319-2beb-434d-9b88-17ecdb950521"
-        },
-        {
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "horario": "17:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
         }
       ],
       "ciudad": "Santa Cruz Av. Trompillo"
@@ -233,40 +84,133 @@
     {
       "peliculas": [
         {
-          "titulo": "LA MUERTE DE ROBIN HOOD",
+          "titulo": "COYOTE VS. ACME",
           "horarios": [
             {
-              "horario": "17:40",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "32b9ad41-0ccb-4598-ad16-11e40a55f25f"
+          "id": "b2ece7ba-1984-4828-928c-58103b0c0fb7"
         },
         {
-          "titulo": "LA NEGOCIACION",
+          "titulo": "HARRY POTTER Y LA PIEDRA FILOSOFAL",
           "horarios": [
-            {
-              "horario": "18:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
             {
               "horario": "21:00",
               "idioma": "SUBT",
               "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
             }
           ],
-          "id": "47f142da-d14b-4b83-b7f5-0bdb37d702fe"
+          "id": "747eb544-9c59-470e-86c4-f9e33cd94730"
+        },
+        {
+          "titulo": "IMPACTO MORTAL",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ad6405d6-8b1c-4dbf-bb66-c7df0a431e11"
+        },
+        {
+          "titulo": "LA GUERRA DE LOS ULTIMOS",
+          "horarios": [
+            {
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8634b274-4625-499f-80b7-1ba73ba98261"
+        },
+        {
+          "titulo": "SOLO POR UNA NOCHE",
+          "horarios": [
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ca02eb03-3c48-4629-a12e-093526175e4c"
         },
         {
           "titulo": "LA NOCHE DEL DEMONIO: ESTAN ENTRE NOSOTROS",
           "horarios": [
+            {
+              "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "18:30",
               "idioma": "DOB",
@@ -284,12 +228,12 @@
           "titulo": "EL FINAL DE LA CALLE OAK",
           "horarios": [
             {
-              "horario": "16:50",
+              "horario": "12:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "15:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -297,26 +241,10 @@
           "id": "723182b0-3625-4fe3-b25b-95b6df8c6633"
         },
         {
-          "titulo": "INSACIABLE",
-          "horarios": [
-            {
-              "horario": "21:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "e5b2a673-c2c2-43d6-812d-2f9bbd52c4f8"
-        },
-        {
           "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "20:50",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -327,7 +255,12 @@
           "titulo": "SPIDER-MAN: UN NUEVO DIA",
           "horarios": [
             {
-              "horario": "16:50",
+              "horario": "13:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -337,12 +270,17 @@
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "12:40",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D CXC Atmos"
             },
             {
-              "horario": "19:20",
+              "horario": "15:50",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
             }
@@ -358,11 +296,6 @@
           "titulo": "LA MUERTE DE ROBIN HOOD",
           "horarios": [
             {
-              "horario": "19:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -371,36 +304,15 @@
           "id": "32b9ad41-0ccb-4598-ad16-11e40a55f25f"
         },
         {
-          "titulo": "LA NEGOCIACION",
-          "horarios": [
-            {
-              "horario": "19:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "47f142da-d14b-4b83-b7f5-0bdb37d702fe"
-        },
-        {
           "titulo": "LA NOCHE DEL DEMONIO: ESTAN ENTRE NOSOTROS",
           "horarios": [
             {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -408,29 +320,8 @@
           "id": "e7e10780-5551-40ef-93de-a60a9d5db4fc"
         },
         {
-          "titulo": "MI VECINO TOTORO",
-          "horarios": [
-            {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "3e661233-4c7a-4a32-8a60-164591b5ccb7"
-        },
-        {
           "titulo": "EL FINAL DE LA CALLE OAK",
           "horarios": [
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "22:10",
               "idioma": "DOB",
@@ -440,93 +331,20 @@
           "id": "723182b0-3625-4fe3-b25b-95b6df8c6633"
         },
         {
-          "titulo": "INSACIABLE",
-          "horarios": [
-            {
-              "horario": "22:35",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "e5b2a673-c2c2-43d6-812d-2f9bbd52c4f8"
-        },
-        {
-          "titulo": "LA ODISEA",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
-        },
-        {
           "titulo": "SPIDER-MAN: UN NUEVO DIA",
           "horarios": [
             {
-              "horario": "16:50",
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
             },
             {
               "horario": "22:10",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "22:15",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
             }
           ],
           "id": "55908319-2beb-434d-9b88-17ecdb950521"
-        },
-        {
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "horario": "17:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
         }
       ],
       "ciudad": "Cochabamba"
@@ -536,11 +354,6 @@
         {
           "titulo": "LA MUERTE DE ROBIN HOOD",
           "horarios": [
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "22:20",
               "idioma": "DOB",
@@ -553,16 +366,6 @@
           "titulo": "LA NEGOCIACION",
           "horarios": [
             {
-              "horario": "17:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
               "horario": "22:30",
               "idioma": "SUBT",
               "formato": "2D"
@@ -573,26 +376,6 @@
         {
           "titulo": "LA NOCHE DEL DEMONIO: ESTAN ENTRE NOSOTROS",
           "horarios": [
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "22:30",
               "idioma": "DOB",
@@ -605,16 +388,6 @@
           "titulo": "MI VECINO TOTORO",
           "horarios": [
             {
-              "horario": "18:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
@@ -626,11 +399,6 @@
           "titulo": "TU CORAZON SERA DESTROZADO",
           "horarios": [
             {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -641,16 +409,6 @@
         {
           "titulo": "EL FINAL DE LA CALLE OAK",
           "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "22:40",
               "idioma": "DOB",
@@ -658,73 +416,6 @@
             }
           ],
           "id": "723182b0-3625-4fe3-b25b-95b6df8c6633"
-        },
-        {
-          "titulo": "LA ODISEA",
-          "horarios": [
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
-        },
-        {
-          "titulo": "SPIDER-MAN: UN NUEVO DIA",
-          "horarios": [
-            {
-              "horario": "16:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            }
-          ],
-          "id": "55908319-2beb-434d-9b88-17ecdb950521"
         }
       ],
       "ciudad": "La Paz"
@@ -732,45 +423,86 @@
     {
       "peliculas": [
         {
-          "titulo": "LA NOCHE DEL DEMONIO: ESTAN ENTRE NOSOTROS",
+          "titulo": "COYOTE VS. ACME",
           "horarios": [
             {
-              "horario": "18:00",
-              "idioma": "SUBT",
+              "horario": "11:30",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:30",
-              "idioma": "SUBT",
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "e7e10780-5551-40ef-93de-a60a9d5db4fc"
+          "id": "b2ece7ba-1984-4828-928c-58103b0c0fb7"
         },
         {
-          "titulo": "EL FINAL DE LA CALLE OAK",
+          "titulo": "HARRY POTTER Y LA PIEDRA FILOSOFAL",
           "horarios": [
             {
-              "horario": "17:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
+              "horario": "19:00",
               "idioma": "SUBT",
               "formato": "2D"
             }
           ],
-          "id": "723182b0-3625-4fe3-b25b-95b6df8c6633"
+          "id": "747eb544-9c59-470e-86c4-f9e33cd94730"
+        },
+        {
+          "titulo": "LA GUERRA DE LOS ULTIMOS",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "8634b274-4625-499f-80b7-1ba73ba98261"
         },
         {
           "titulo": "LA ODISEA",
           "horarios": [
+            {
+              "horario": "13:20",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
             {
               "horario": "20:40",
               "idioma": "SUBT",
@@ -783,17 +515,38 @@
           "titulo": "SPIDER-MAN: UN NUEVO DIA",
           "horarios": [
             {
+              "horario": "11:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
               "horario": "17:50",
-              "idioma": "DOB",
-              "formato": "3D"
+              "idioma": "SUBT",
+              "formato": "2D"
             },
             {
               "horario": "21:00",
-              "idioma": "DOB",
-              "formato": "3D"
+              "idioma": "SUBT",
+              "formato": "2D"
             }
           ],
           "id": "55908319-2beb-434d-9b88-17ecdb950521"
+        },
+        {
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
         }
       ],
       "ciudad": "La Paz VIP"
@@ -801,108 +554,8 @@
     {
       "peliculas": [
         {
-          "titulo": "LA MUERTE DE ROBIN HOOD",
-          "horarios": [
-            {
-              "horario": "18:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "32b9ad41-0ccb-4598-ad16-11e40a55f25f"
-        },
-        {
-          "titulo": "LA NEGOCIACION",
-          "horarios": [
-            {
-              "horario": "16:55",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:25",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:55",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "47f142da-d14b-4b83-b7f5-0bdb37d702fe"
-        },
-        {
-          "titulo": "LA NOCHE DEL DEMONIO: ESTAN ENTRE NOSOTROS",
-          "horarios": [
-            {
-              "horario": "19:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "e7e10780-5551-40ef-93de-a60a9d5db4fc"
-        },
-        {
-          "titulo": "TU CORAZON SERA DESTROZADO",
-          "horarios": [
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "24bb32a8-e977-4dcb-88e4-37a6013852fb"
-        },
-        {
-          "titulo": "EL FINAL DE LA CALLE OAK",
-          "horarios": [
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "723182b0-3625-4fe3-b25b-95b6df8c6633"
-        },
-        {
           "titulo": "INSACIABLE",
           "horarios": [
-            {
-              "horario": "21:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "22:10",
               "idioma": "DOB",
@@ -910,48 +563,6 @@
             }
           ],
           "id": "e5b2a673-c2c2-43d6-812d-2f9bbd52c4f8"
-        },
-        {
-          "titulo": "LA ODISEA",
-          "horarios": [
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
-        },
-        {
-          "titulo": "SPIDER-MAN: UN NUEVO DIA",
-          "horarios": [
-            {
-              "horario": "18:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "55908319-2beb-434d-9b88-17ecdb950521"
         }
       ],
       "ciudad": "Tarija"
@@ -959,35 +570,18 @@
     {
       "peliculas": [
         {
-          "titulo": "LA MUERTE DE ROBIN HOOD",
+          "titulo": "COYOTE VS. ACME",
           "horarios": [
             {
-              "horario": "18:40",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:25",
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
-            }
-          ],
-          "id": "32b9ad41-0ccb-4598-ad16-11e40a55f25f"
-        },
-        {
-          "titulo": "LA NEGOCIACION",
-          "horarios": [
-            {
-              "horario": "21:40",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "47f142da-d14b-4b83-b7f5-0bdb37d702fe"
-        },
-        {
-          "titulo": "LA NOCHE DEL DEMONIO: ESTAN ENTRE NOSOTROS",
-          "horarios": [
+            },
             {
               "horario": "17:30",
               "idioma": "DOB",
@@ -999,50 +593,149 @@
               "formato": "2D"
             }
           ],
-          "id": "e7e10780-5551-40ef-93de-a60a9d5db4fc"
+          "id": "b2ece7ba-1984-4828-928c-58103b0c0fb7"
         },
         {
-          "titulo": "EL FINAL DE LA CALLE OAK",
+          "titulo": "DONDE HABITA EL MAL",
           "horarios": [
-            {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
-            }
-          ],
-          "id": "723182b0-3625-4fe3-b25b-95b6df8c6633"
-        },
-        {
-          "titulo": "LA ODISEA",
-          "horarios": [
+            },
             {
-              "horario": "20:10",
+              "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
+          "id": "485b4a67-5d20-4c84-b4e6-f995b3dac61e"
+        },
+        {
+          "titulo": "HARRY POTTER Y LA PIEDRA FILOSOFAL",
+          "horarios": [
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "747eb544-9c59-470e-86c4-f9e33cd94730"
+        },
+        {
+          "titulo": "IMPACTO MORTAL",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ad6405d6-8b1c-4dbf-bb66-c7df0a431e11"
+        },
+        {
+          "titulo": "LA GUERRA DE LOS ULTIMOS",
+          "horarios": [
+            {
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8634b274-4625-499f-80b7-1ba73ba98261"
+        },
+        {
+          "titulo": "SOLO POR UNA NOCHE",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "ca02eb03-3c48-4629-a12e-093526175e4c"
+        },
+        {
+          "titulo": "LA NOCHE DEL DEMONIO: ESTAN ENTRE NOSOTROS",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e7e10780-5551-40ef-93de-a60a9d5db4fc"
         },
         {
           "titulo": "SPIDER-MAN: UN NUEVO DIA",
           "horarios": [
             {
-              "horario": "18:30",
+              "horario": "12:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "15:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:30",
+              "horario": "18:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1054,5 +747,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "22/8/2026"
+  "fecha": "26/8/2026"
 }
