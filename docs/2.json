@@ -780,8 +780,8 @@
             },
             {
               "horario": "19:15",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
+              "idioma": "Español",
+              "formato": "2D PLUS"
             },
             {
               "horario": "21:20",
@@ -947,37 +947,6 @@
           ]
         },
         {
-          "id": "747eb544-9c59-470e-86c4-f9e33cd94730",
-          "titulo": "HARRY POTTER Y LA PIEDRA FILOSOFAL",
-          "horarios": [
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ]
-        },
-        {
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
           "titulo": "LA ODISEA",
           "horarios": [
@@ -1030,6 +999,53 @@
           ]
         },
         {
+          "id": "747eb544-9c59-470e-86c4-f9e33cd94730",
+          "titulo": "HARRY POTTER Y LA PIEDRA FILOSOFAL",
+          "horarios": [
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ]
+        },
+        {
+          "id": "ad6405d6-8b1c-4dbf-bb66-c7df0a431e11",
+          "titulo": "IMPACTO MORTAL",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "ca02eb03-3c48-4629-a12e-093526175e4c",
           "titulo": "SOLO POR UNA NOCHE",
           "horarios": [
@@ -1044,7 +1060,7 @@
               "formato": "2D"
             },
             {
-              "horario": "22:40",
+              "horario": "21:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1066,22 +1082,6 @@
             },
             {
               "horario": "22:35",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "ad6405d6-8b1c-4dbf-bb66-c7df0a431e11",
-          "titulo": "IMPACTO MORTAL",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1135,5 +1135,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "27/8/2026"
+  "fecha": "28/8/2026"
 }
