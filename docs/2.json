@@ -365,12 +365,12 @@
             {
               "horario": "22:30",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             },
             {
               "horario": "22:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D PLUS"
             }
           ]
         },
@@ -741,6 +741,11 @@
               "formato": "2D PLUS"
             },
             {
+              "horario": "18:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
               "horario": "19:00",
               "idioma": "Español",
               "formato": "2D PLUS"
@@ -837,17 +842,6 @@
           "horarios": [
             {
               "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "ca02eb03-3c48-4629-a12e-093526175e4c",
-          "titulo": "SOLO POR UNA NOCHE",
-          "horarios": [
-            {
-              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -1191,5 +1185,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "29/8/2026"
+  "fecha": "30/8/2026"
 }
