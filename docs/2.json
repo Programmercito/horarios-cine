@@ -325,12 +325,12 @@
             {
               "horario": "22:30",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             },
             {
               "horario": "22:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D PLUS"
             }
           ]
         },
@@ -433,11 +433,6 @@
               "horario": "16:10",
               "idioma": "Español",
               "formato": "2D XL"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "3D PLUS"
             },
             {
               "horario": "18:00",
@@ -580,32 +575,6 @@
           ]
         },
         {
-          "id": "ca02eb03-3c48-4629-a12e-093526175e4c",
-          "titulo": "SOLO POR UNA NOCHE",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:35",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "ad6405d6-8b1c-4dbf-bb66-c7df0a431e11",
           "titulo": "IMPACTO MORTAL",
           "horarios": [
@@ -632,16 +601,32 @@
           ]
         },
         {
+          "id": "ca02eb03-3c48-4629-a12e-093526175e4c",
+          "titulo": "SOLO POR UNA NOCHE",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:35",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "485b4a67-5d20-4c84-b4e6-f995b3dac61e",
           "titulo": "DONDE HABITA EL MAL",
           "horarios": [
             {
               "horario": "14:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -977,7 +962,7 @@
             {
               "horario": "22:00",
               "idioma": "Ingles",
-              "formato": "2D SUB"
+              "formato": "2D"
             }
           ]
         },
@@ -1022,7 +1007,7 @@
               "formato": "2D"
             },
             {
-              "horario": "22:35",
+              "horario": "22:55",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1043,7 +1028,7 @@
               "formato": "2D"
             },
             {
-              "horario": "22:45",
+              "horario": "22:35",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1113,5 +1098,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "31/8/2026"
+  "fecha": "1/9/2026"
 }
