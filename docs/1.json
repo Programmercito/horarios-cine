@@ -73,7 +73,7 @@
           "titulo": "HARRY POTTER Y LA PIEDRA FILOSOFAL",
           "horarios": [
             {
-              "horario": "21:30",
+              "horario": "21:15",
               "idioma": "SUBT",
               "formato": "2D"
             },
@@ -145,7 +145,7 @@
               "formato": "2D Atmos"
             },
             {
-              "horario": "22:30",
+              "horario": "22:15",
               "idioma": "DOB",
               "formato": "4D E-Motion 2D"
             }
@@ -198,12 +198,17 @@
           "titulo": "EL FINAL DE LA CALLE OAK",
           "horarios": [
             {
-              "horario": "17:10",
+              "horario": "17:45",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "20:05",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:25",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -379,6 +384,11 @@
           "titulo": "TOY STORY 5",
           "horarios": [
             {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
@@ -389,7 +399,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:20",
+              "horario": "12:55",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -404,7 +414,7 @@
               "formato": "2D"
             },
             {
-              "horario": "14:45",
+              "horario": "15:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -448,20 +458,20 @@
           "id": "b2ece7ba-1984-4828-928c-58103b0c0fb7"
         },
         {
-          "titulo": "HARRY POTTER Y LA PIEDRA FILOSOFAL",
+          "titulo": "DONDE HABITA EL MAL",
           "horarios": [
             {
-              "horario": "21:00",
-              "idioma": "SUBT",
+              "horario": "19:20",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "747eb544-9c59-470e-86c4-f9e33cd94730"
+          "id": "485b4a67-5d20-4c84-b4e6-f995b3dac61e"
         },
         {
           "titulo": "IMPACTO MORTAL",
@@ -535,12 +545,17 @@
           "titulo": "EL FINAL DE LA CALLE OAK",
           "horarios": [
             {
-              "horario": "12:50",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "14:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -639,7 +654,17 @@
               "formato": "2D"
             },
             {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -652,6 +677,21 @@
               "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
             }
           ],
           "id": "b2ece7ba-1984-4828-928c-58103b0c0fb7"
@@ -673,11 +713,6 @@
               "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
             }
           ],
           "id": "485b4a67-5d20-4c84-b4e6-f995b3dac61e"
@@ -685,11 +720,6 @@
         {
           "titulo": "HARRY POTTER Y LA PIEDRA FILOSOFAL",
           "horarios": [
-            {
-              "horario": "21:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
             {
               "horario": "18:00",
               "idioma": "DOB",
@@ -707,22 +737,7 @@
           "titulo": "IMPACTO MORTAL",
           "horarios": [
             {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -743,24 +758,9 @@
               "formato": "2D Atmos"
             },
             {
-              "horario": "16:50",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
               "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D Atmos"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
             }
           ],
           "id": "8634b274-4625-499f-80b7-1ba73ba98261"
@@ -769,22 +769,12 @@
           "titulo": "SOLO POR UNA NOCHE",
           "horarios": [
             {
-              "horario": "10:30",
+              "horario": "11:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -815,9 +805,19 @@
               "formato": "2D"
             },
             {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "22:30",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
             }
           ],
           "id": "e7e10780-5551-40ef-93de-a60a9d5db4fc"
@@ -827,6 +827,11 @@
           "horarios": [
             {
               "horario": "11:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -901,6 +906,11 @@
             },
             {
               "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:05",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1256,7 +1266,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:10",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1558,11 +1568,6 @@
           "titulo": "HARRY POTTER Y LA PIEDRA FILOSOFAL",
           "horarios": [
             {
-              "horario": "21:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
               "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
@@ -1590,6 +1595,11 @@
             },
             {
               "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1854,32 +1864,6 @@
           "id": "ad6405d6-8b1c-4dbf-bb66-c7df0a431e11"
         },
         {
-          "titulo": "LA GUERRA DE LOS ULTIMOS",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "8634b274-4625-499f-80b7-1ba73ba98261"
-        },
-        {
           "titulo": "SOLO POR UNA NOCHE",
           "horarios": [
             {
@@ -1957,5 +1941,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "27/8/2026"
+  "fecha": "2/9/2026"
 }
