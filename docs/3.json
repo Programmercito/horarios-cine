@@ -12,17 +12,22 @@
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "15:00",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "17:25",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "20:10",
+              "horario": "19:40",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -40,13 +45,13 @@
           ]
         },
         {
-          "id": "b7a87561-229b-41ce-8f94-928cb7cabade",
-          "titulo": "SPIDERMAN: UN NUEVO DIA",
+          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f",
+          "titulo": "ZONA CERO",
           "horarios": [
             {
-              "horario": "17:20",
+              "horario": "17:10",
               "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
+              "formato": "2D"
             }
           ]
         },
@@ -66,12 +71,7 @@
           "titulo": "INSIDIOUS: ESTAN ENTRE NOSOTROS",
           "horarios": [
             {
-              "horario": "19:55",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:05",
+              "horario": "21:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -93,5 +93,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "2/9/2026"
+  "fecha": "3/9/2026"
 }
