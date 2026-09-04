@@ -60,7 +60,7 @@
             {
               "horario": "22:20",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D - 2D KRONOS"
             }
           ]
         },
@@ -96,6 +96,32 @@
           ]
         },
         {
+          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
+          "titulo": "SPIDERMAN: UN NUEVO DÍA",
+          "horarios": [
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "0d82c343-fd92-49f2-93c7-792ce39e5eed",
           "titulo": "COLONY: ZONA CERO",
           "horarios": [
@@ -116,32 +142,6 @@
             },
             {
               "horario": "22:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
-          "titulo": "SPIDERMAN: UN NUEVO DÍA",
-          "horarios": [
-            {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:45",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1095,22 +1095,6 @@
           ]
         },
         {
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
-          "titulo": "LA ODISEA",
-          "horarios": [
-            {
-              "horario": "16:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ]
-        },
-        {
           "id": "a786e580-32c2-40ca-95a5-a412495edd0c",
           "titulo": "RAPIDO Y FURIOSO",
           "horarios": [
@@ -1187,6 +1171,17 @@
           ]
         },
         {
+          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
+          "titulo": "LA ODISEA",
+          "horarios": [
+            {
+              "horario": "21:10",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ]
+        },
+        {
           "id": "8634b274-4625-499f-80b7-1ba73ba98261",
           "titulo": "LA GUERRA DE LOS ULTIMOS",
           "horarios": [
@@ -1201,5 +1196,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "3/9/2026"
+  "fecha": "4/9/2026"
 }
