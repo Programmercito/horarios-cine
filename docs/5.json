@@ -70,7 +70,7 @@
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "21:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -117,17 +117,12 @@
           "titulo": "LA GUERRA DE LOS ÚLTIMOS",
           "horarios": [
             {
-              "horario": "14:00",
+              "horario": "12:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
+              "horario": "16:55",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -138,12 +133,12 @@
           "titulo": "SÓLO POR UNA NOCHE",
           "horarios": [
             {
-              "horario": "14:15",
+              "horario": "13:45",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:05",
+              "horario": "17:35",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -164,12 +159,12 @@
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "21:45",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:45",
+              "horario": "19:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -180,17 +175,12 @@
           "titulo": "REBELIÓN EN LA GRANJA",
           "horarios": [
             {
-              "horario": "12:10",
+              "horario": "11:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
+              "horario": "15:05",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -201,12 +191,7 @@
           "titulo": "IDIOTAS",
           "horarios": [
             {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
+              "horario": "15:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -232,10 +217,31 @@
               "formato": "2D"
             }
           ]
+        },
+        {
+          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f",
+          "titulo": "ZONA CERO",
+          "horarios": [
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:25",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
         }
       ]
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "4/9/2026"
+  "fecha": "5/9/2026"
 }
