@@ -65,7 +65,7 @@
             {
               "horario": "22:20",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D - 2D KRONOS"
             }
           ]
         },
@@ -226,12 +226,12 @@
             {
               "horario": "13:20",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             },
             {
               "horario": "21:10",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             }
           ]
         },
@@ -417,6 +417,72 @@
           ]
         },
         {
+          "id": "808094db-5958-444d-b254-eb0163157a36",
+          "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "12:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
@@ -482,6 +548,11 @@
           "titulo": "ZONA CERO",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:20",
               "idioma": "Español",
               "formato": "2D"
@@ -507,9 +578,9 @@
               "formato": "2D PLUS"
             },
             {
-              "horario": "18:50",
+              "horario": "18:45",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             },
             {
               "horario": "19:50",
@@ -529,64 +600,18 @@
           ]
         },
         {
-          "id": "808094db-5958-444d-b254-eb0163157a36",
-          "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "16:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "948c1558-9e73-431c-8eb9-bfd25dd008e4",
           "titulo": "CIELO",
           "horarios": [
             {
               "horario": "14:30",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D PLUS"
             },
             {
-              "horario": "14:30",
+              "horario": "15:20",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             },
             {
               "horario": "17:30",
@@ -606,6 +631,32 @@
           ]
         },
         {
+          "id": "e184453f-5b0c-4a5f-bd00-122752f0140c",
+          "titulo": "REBELION EN LA GRANJA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
           "titulo": "LA ODISEA",
           "horarios": [
@@ -615,14 +666,14 @@
               "formato": "2D PLUS SUB"
             },
             {
-              "horario": "15:35",
+              "horario": "15:30",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "20:20",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             }
           ]
         },
@@ -648,34 +699,18 @@
           ]
         },
         {
-          "id": "e184453f-5b0c-4a5f-bd00-122752f0140c",
-          "titulo": "REBELION EN LA GRANJA",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
           "id": "8634b274-4625-499f-80b7-1ba73ba98261",
           "titulo": "LA GUERRA DE LOS ULTIMOS",
           "horarios": [
             {
-              "horario": "12:10",
+              "horario": "13:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:10",
+              "horario": "18:00",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             }
           ]
         },
@@ -696,13 +731,46 @@
           ]
         },
         {
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "ca02eb03-3c48-4629-a12e-093526175e4c",
+          "titulo": "SOLO POR UNA NOCHE",
+          "horarios": [
+            {
+              "horario": "13:25",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "ad6405d6-8b1c-4dbf-bb66-c7df0a431e11",
+          "titulo": "IMPACTO MORTAL",
+          "horarios": [
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "e7f06bed-5c0a-4085-9606-cc4f95cf419a",
           "titulo": "IDIOTAS",
           "horarios": [
             {
-              "horario": "21:15",
+              "horario": "21:10",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             }
           ]
         }
@@ -1044,6 +1112,27 @@
           ]
         },
         {
+          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
+          "titulo": "LA ODISEA",
+          "horarios": [
+            {
+              "horario": "16:05",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ]
+        },
+        {
           "id": "808094db-5958-444d-b254-eb0163157a36",
           "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
           "horarios": [
@@ -1129,22 +1218,6 @@
           ]
         },
         {
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
-          "titulo": "LA ODISEA",
-          "horarios": [
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ]
-        },
-        {
           "id": "134e290e-d810-4dd7-9f19-7898836c34b9",
           "titulo": "TERMINATOR 2: EL JUICIO FINAL",
           "horarios": [
@@ -1197,5 +1270,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "5/9/2026"
+  "fecha": "6/9/2026"
 }
