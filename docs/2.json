@@ -8,11 +8,6 @@
           "titulo": "COYOTE VS ACME",
           "horarios": [
             {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
               "horario": "12:40",
               "idioma": "Español",
               "formato": "2D XL - 2D XL KRONOS"
@@ -74,14 +69,9 @@
           "titulo": "ZONA CERO",
           "horarios": [
             {
-              "horario": "10:50",
+              "horario": "14:15",
               "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "3D"
             },
             {
               "horario": "15:15",
@@ -107,42 +97,6 @@
               "horario": "22:20",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
-            }
-          ]
-        },
-        {
-          "id": "808094db-5958-444d-b254-eb0163157a36",
-          "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
-          "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:55",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ]
         },
@@ -177,6 +131,37 @@
             },
             {
               "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "808094db-5958-444d-b254-eb0163157a36",
+          "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:55",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -251,9 +236,9 @@
           "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "12:40",
+              "horario": "12:10",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "3D"
             }
           ]
         },
@@ -299,21 +284,6 @@
           "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
           "titulo": "COYOTE VS ACME",
           "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "12:40",
               "idioma": "Español",
@@ -421,11 +391,6 @@
           "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "12:10",
               "idioma": "Español",
               "formato": "2D PLUS"
@@ -487,11 +452,6 @@
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
               "horario": "12:10",
               "idioma": "Español",
               "formato": "4D E-MOTION"
@@ -547,11 +507,6 @@
           "id": "2617e6ef-eecb-4820-97b0-e16cf644063f",
           "titulo": "ZONA CERO",
           "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "12:20",
               "idioma": "Español",
@@ -631,32 +586,6 @@
           ]
         },
         {
-          "id": "e184453f-5b0c-4a5f-bd00-122752f0140c",
-          "titulo": "REBELION EN LA GRANJA",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
           "titulo": "LA ODISEA",
           "horarios": [
@@ -672,6 +601,27 @@
             },
             {
               "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "e184453f-5b0c-4a5f-bd00-122752f0140c",
+          "titulo": "REBELION EN LA GRANJA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -731,17 +681,6 @@
           ]
         },
         {
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308",
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "ca02eb03-3c48-4629-a12e-093526175e4c",
           "titulo": "SOLO POR UNA NOCHE",
           "horarios": [
@@ -784,11 +723,6 @@
           "titulo": "COYOTE VS ACME",
           "horarios": [
             {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D PLUS"
@@ -830,22 +764,6 @@
             },
             {
               "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "e184453f-5b0c-4a5f-bd00-122752f0140c",
-          "titulo": "REBELION EN LA GRANJA",
-          "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -900,6 +818,17 @@
           ]
         },
         {
+          "id": "e184453f-5b0c-4a5f-bd00-122752f0140c",
+          "titulo": "REBELION EN LA GRANJA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
           "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
@@ -930,11 +859,6 @@
           "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
           "titulo": "COYOTE VS ACME",
           "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -1002,11 +926,6 @@
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
@@ -1042,11 +961,6 @@
           "id": "2617e6ef-eecb-4820-97b0-e16cf644063f",
           "titulo": "ZONA CERO",
           "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "14:50",
               "idioma": "Español",
@@ -1154,38 +1068,6 @@
           ]
         },
         {
-          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
-          "titulo": "PAW PATROL: LA DINO PELICULA",
-          "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "8634b274-4625-499f-80b7-1ba73ba98261",
-          "titulo": "LA GUERRA DE LOS ULTIMOS",
-          "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "e7f06bed-5c0a-4085-9606-cc4f95cf419a",
           "titulo": "IDIOTAS",
           "horarios": [
@@ -1265,10 +1147,32 @@
               "formato": "2D"
             }
           ]
+        },
+        {
+          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
+          "titulo": "PAW PATROL: LA DINO PELICULA",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "8634b274-4625-499f-80b7-1ba73ba98261",
+          "titulo": "LA GUERRA DE LOS ULTIMOS",
+          "horarios": [
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
         }
       ]
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "6/9/2026"
+  "fecha": "7/9/2026"
 }
