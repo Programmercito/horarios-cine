@@ -3,37 +3,6 @@
     {
       "peliculas": [
         {
-          "titulo": "RAPIDO Y FURIOSO (25 ANIVERSARIO)",
-          "horarios": [
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
-            }
-          ],
-          "id": "d307d11c-aa57-49c5-9ddb-b8e6acdf1b75"
-        },
-        {
           "titulo": "CIELO",
           "horarios": [
             {
@@ -89,6 +58,37 @@
             }
           ],
           "id": "e7f06bed-5c0a-4085-9606-cc4f95cf419a"
+        },
+        {
+          "titulo": "RAPIDO Y FURIOSO (25 ANIVERSARIO)",
+          "horarios": [
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            }
+          ],
+          "id": "d307d11c-aa57-49c5-9ddb-b8e6acdf1b75"
         },
         {
           "titulo": "REBELION EN LA GRANJA",
@@ -327,6 +327,11 @@
               "formato": "2D"
             },
             {
+              "horario": "10:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "11:35",
               "idioma": "DOB",
               "formato": "2D"
@@ -335,6 +340,11 @@
               "horario": "12:50",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "10:40",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
             }
           ],
           "id": "81d20184-4e11-4fdd-b625-316b23c8b945"
@@ -379,17 +389,17 @@
               "formato": "2D"
             },
             {
-              "horario": "12:00",
+              "horario": "12:50",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             },
             {
-              "horario": "15:10",
+              "horario": "16:00",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             },
             {
-              "horario": "20:50",
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             },
@@ -443,22 +453,6 @@
     {
       "peliculas": [
         {
-          "titulo": "RAPIDO Y FURIOSO (25 ANIVERSARIO)",
-          "horarios": [
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d307d11c-aa57-49c5-9ddb-b8e6acdf1b75"
-        },
-        {
           "titulo": "CIELO",
           "horarios": [
             {
@@ -494,6 +488,22 @@
             }
           ],
           "id": "e7f06bed-5c0a-4085-9606-cc4f95cf419a"
+        },
+        {
+          "titulo": "RAPIDO Y FURIOSO (25 ANIVERSARIO)",
+          "horarios": [
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d307d11c-aa57-49c5-9ddb-b8e6acdf1b75"
         },
         {
           "titulo": "REBELION EN LA GRANJA",
@@ -691,37 +701,6 @@
     {
       "peliculas": [
         {
-          "titulo": "RAPIDO Y FURIOSO (25 ANIVERSARIO)",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
-            }
-          ],
-          "id": "d307d11c-aa57-49c5-9ddb-b8e6acdf1b75"
-        },
-        {
           "titulo": "CIELO",
           "horarios": [
             {
@@ -762,6 +741,32 @@
             }
           ],
           "id": "e7f06bed-5c0a-4085-9606-cc4f95cf419a"
+        },
+        {
+          "titulo": "RAPIDO Y FURIOSO (25 ANIVERSARIO)",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d307d11c-aa57-49c5-9ddb-b8e6acdf1b75"
         },
         {
           "titulo": "REBELION EN LA GRANJA",
@@ -857,17 +862,17 @@
             {
               "horario": "10:30",
               "idioma": "DOB",
-              "formato": "2D Atmos"
+              "formato": "2D CXC Atmos"
             },
             {
               "horario": "13:00",
               "idioma": "DOB",
-              "formato": "2D Atmos"
+              "formato": "2D CXC Atmos"
             },
             {
               "horario": "15:30",
               "idioma": "DOB",
-              "formato": "2D Atmos"
+              "formato": "2D CXC Atmos"
             }
           ],
           "id": "b2ece7ba-1984-4828-928c-58103b0c0fb7"
@@ -876,12 +881,12 @@
           "titulo": "LA GUERRA DE LOS ULTIMOS",
           "horarios": [
             {
-              "horario": "10:40",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "13:20",
+              "horario": "13:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -930,26 +935,15 @@
             {
               "horario": "18:00",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D Atmos"
             },
             {
               "horario": "21:40",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D Atmos"
             }
           ],
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
-        },
-        {
-          "titulo": "MINIONS & MONSTRUOS",
-          "horarios": [
-            {
-              "horario": "10:40",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            }
-          ],
-          "id": "81d20184-4e11-4fdd-b625-316b23c8b945"
         },
         {
           "titulo": "PAW PATROL: LA DINOPELICULA",
@@ -997,21 +991,6 @@
           "titulo": "SPIDER-MAN: UN NUEVO DIA",
           "horarios": [
             {
-              "horario": "12:50",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
               "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
@@ -1039,37 +1018,6 @@
     },
     {
       "peliculas": [
-        {
-          "titulo": "RAPIDO Y FURIOSO (25 ANIVERSARIO)",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d307d11c-aa57-49c5-9ddb-b8e6acdf1b75"
-        },
         {
           "titulo": "CIELO",
           "horarios": [
@@ -1126,6 +1074,37 @@
             }
           ],
           "id": "e7f06bed-5c0a-4085-9606-cc4f95cf419a"
+        },
+        {
+          "titulo": "RAPIDO Y FURIOSO (25 ANIVERSARIO)",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d307d11c-aa57-49c5-9ddb-b8e6acdf1b75"
         },
         {
           "titulo": "REBELION EN LA GRANJA",
@@ -1586,27 +1565,6 @@
     {
       "peliculas": [
         {
-          "titulo": "RAPIDO Y FURIOSO (25 ANIVERSARIO)",
-          "horarios": [
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d307d11c-aa57-49c5-9ddb-b8e6acdf1b75"
-        },
-        {
           "titulo": "CIELO",
           "horarios": [
             {
@@ -1647,6 +1605,27 @@
             }
           ],
           "id": "e7f06bed-5c0a-4085-9606-cc4f95cf419a"
+        },
+        {
+          "titulo": "RAPIDO Y FURIOSO (25 ANIVERSARIO)",
+          "horarios": [
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d307d11c-aa57-49c5-9ddb-b8e6acdf1b75"
         },
         {
           "titulo": "REBELION EN LA GRANJA",
@@ -1917,27 +1896,6 @@
     {
       "peliculas": [
         {
-          "titulo": "RAPIDO Y FURIOSO (25 ANIVERSARIO)",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d307d11c-aa57-49c5-9ddb-b8e6acdf1b75"
-        },
-        {
           "titulo": "IDIOTAS",
           "horarios": [
             {
@@ -1957,6 +1915,27 @@
             }
           ],
           "id": "e7f06bed-5c0a-4085-9606-cc4f95cf419a"
+        },
+        {
+          "titulo": "RAPIDO Y FURIOSO (25 ANIVERSARIO)",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "d307d11c-aa57-49c5-9ddb-b8e6acdf1b75"
         },
         {
           "titulo": "REBELION EN LA GRANJA",
@@ -2004,7 +1983,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:50",
+              "horario": "21:35",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2068,7 +2047,17 @@
           "titulo": "SPIDER-MAN: UN NUEVO DIA",
           "horarios": [
             {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -2078,7 +2067,17 @@
               "formato": "2D"
             },
             {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2090,5 +2089,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "3/9/2026"
+  "fecha": "9/9/2026"
 }
