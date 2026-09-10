@@ -3,104 +3,135 @@
     {
       "peliculas": [
         {
-          "titulo": "CIELO",
+          "titulo": "BUENAS VIBRACIONES",
           "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "ESP",
-              "formato": "2D"
-            }
-          ],
-          "id": "948c1558-9e73-431c-8eb9-bfd25dd008e4"
-        },
-        {
-          "titulo": "IDIOTAS",
-          "horarios": [
-            {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:20",
+              "horario": "20:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:40",
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "e7f06bed-5c0a-4085-9606-cc4f95cf419a"
+          "id": "68224953-cf9a-4acb-925e-65fcda2409b7"
         },
         {
-          "titulo": "RAPIDO Y FURIOSO (25 ANIVERSARIO)",
+          "titulo": "CODIGO VENGANZA",
           "horarios": [
             {
-              "horario": "14:30",
+              "horario": "19:40",
               "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
+              "formato": "4D E-Motion 2D"
             },
             {
               "horario": "22:00",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "4D E-Motion 2D"
             },
             {
-              "horario": "19:10",
+              "horario": "10:40",
               "idioma": "DOB",
-              "formato": "4D E-Motion 2D"
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
             }
           ],
-          "id": "d307d11c-aa57-49c5-9ddb-b8e6acdf1b75"
+          "id": "c23c26c6-fe29-4a2c-81a7-b0d492eefdb9"
         },
         {
-          "titulo": "REBELION EN LA GRANJA",
+          "titulo": "HECHIZO DE AMOR: LA MAGIA CONTINUA",
           "horarios": [
             {
-              "horario": "10:30",
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            }
+          ],
+          "id": "68bc6c65-8784-4b85-82a9-ede59abfee38"
+        },
+        {
+          "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
+          "horarios": [
+            {
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:50",
+              "horario": "13:10",
               "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8be8c605-875c-46a8-93ac-1cb592897772"
+        },
+        {
+          "titulo": "LOS JUEGOS DEL HAMBRE (2012)",
+          "horarios": [
+            {
+              "horario": "21:30",
+              "idioma": "SUBT",
               "formato": "2D"
             },
             {
@@ -109,44 +140,34 @@
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "18:20",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "e184453f-5b0c-4a5f-bd00-122752f0140c"
+          "id": "48e39112-d50b-4c66-90c4-6ffc1786e84f"
         },
         {
-          "titulo": "TERMINATOR 2: EL JUICIO FINAL",
+          "titulo": "OASIS DON'T LOOK BACK IN ANGER",
           "horarios": [
             {
-              "horario": "21:50",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
+              "horario": "19:30",
+              "idioma": "SUBT",
+              "formato": "2D"
             },
             {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "3D Atmos"
+              "horario": "22:15",
+              "idioma": "SUBT",
+              "formato": "2D"
             }
           ],
-          "id": "134e290e-d810-4dd7-9f19-7898836c34b9"
+          "id": "e21182cd-492b-43fc-ae92-61f43ccd271e"
         },
         {
-          "titulo": "ZONA CERO",
+          "titulo": "POSEIDO",
           "horarios": [
             {
-              "horario": "13:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:15",
+              "horario": "19:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -156,13 +177,44 @@
               "formato": "2D"
             }
           ],
-          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f"
+          "id": "a57e9a2e-a25f-4da5-af3f-f4d52db918da"
+        },
+        {
+          "titulo": "CIELO",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "948c1558-9e73-431c-8eb9-bfd25dd008e4"
         },
         {
           "titulo": "COYOTE VS. ACME",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -172,7 +224,17 @@
               "formato": "2D"
             },
             {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -185,21 +247,6 @@
               "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
             }
           ],
           "id": "b2ece7ba-1984-4828-928c-58103b0c0fb7"
@@ -234,27 +281,7 @@
           "titulo": "LA GUERRA DE LOS ULTIMOS",
           "horarios": [
             {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
+              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -265,27 +292,27 @@
           "titulo": "LA NOCHE DEL DEMONIO: ESTAN ENTRE NOSOTROS",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "14:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -322,27 +349,22 @@
           "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
             {
-              "horario": "10:30",
+              "horario": "10:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "10:40",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "11:35",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:40",
+              "horario": "11:10",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             }
@@ -350,20 +372,30 @@
           "id": "81d20184-4e11-4fdd-b625-316b23c8b945"
         },
         {
-          "titulo": "SOLO POR UNA NOCHE",
+          "titulo": "REBELION EN LA GRANJA",
           "horarios": [
             {
-              "horario": "19:50",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:20",
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "ca02eb03-3c48-4629-a12e-093526175e4c"
+          "id": "e184453f-5b0c-4a5f-bd00-122752f0140c"
         },
         {
           "titulo": "SPIDER-MAN: UN NUEVO DIA",
@@ -389,39 +421,14 @@
               "formato": "2D"
             },
             {
-              "horario": "12:50",
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
             },
             {
-              "horario": "16:00",
+              "horario": "16:30",
               "idioma": "DOB",
               "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "DOB",
-              "formato": "4D E-Motion 3D"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
             }
           ],
           "id": "55908319-2beb-434d-9b88-17ecdb950521"
@@ -430,70 +437,33 @@
           "titulo": "TOY STORY 5",
           "horarios": [
             {
-              "horario": "10:50",
+              "horario": "10:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:05",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:15",
+              "horario": "12:45",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
-        }
-      ],
-      "ciudad": "Santa Cruz Av. Trompillo"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "CIELO",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "ESP",
-              "formato": "2D"
-            }
-          ],
-          "id": "948c1558-9e73-431c-8eb9-bfd25dd008e4"
         },
         {
-          "titulo": "IDIOTAS",
+          "titulo": "ZONA CERO",
           "horarios": [
             {
-              "horario": "19:30",
-              "idioma": "SUBT",
+              "horario": "13:45",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:40",
-              "idioma": "SUBT",
+              "horario": "16:30",
+              "idioma": "DOB",
               "formato": "2D"
-            }
-          ],
-          "id": "e7f06bed-5c0a-4085-9606-cc4f95cf419a"
-        },
-        {
-          "titulo": "RAPIDO Y FURIOSO (25 ANIVERSARIO)",
-          "horarios": [
+            },
             {
-              "horario": "19:30",
+              "horario": "19:15",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -503,55 +473,70 @@
               "formato": "2D"
             }
           ],
-          "id": "d307d11c-aa57-49c5-9ddb-b8e6acdf1b75"
+          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f"
+        }
+      ],
+      "ciudad": "Santa Cruz Av. Trompillo"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "BUENAS VIBRACIONES",
+          "horarios": [
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "68224953-cf9a-4acb-925e-65fcda2409b7"
         },
         {
-          "titulo": "REBELION EN LA GRANJA",
+          "titulo": "CODIGO VENGANZA",
           "horarios": [
             {
               "horario": "12:30",
               "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D CXC Atmos"
             },
             {
               "horario": "14:50",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D CXC Atmos"
             },
             {
               "horario": "17:10",
               "idioma": "DOB",
-              "formato": "2D"
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
             }
           ],
-          "id": "e184453f-5b0c-4a5f-bd00-122752f0140c"
+          "id": "c23c26c6-fe29-4a2c-81a7-b0d492eefdb9"
         },
         {
-          "titulo": "TERMINATOR 2: EL JUICIO FINAL",
+          "titulo": "HECHIZO DE AMOR: LA MAGIA CONTINUA",
           "horarios": [
             {
-              "horario": "21:20",
+              "horario": "13:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "3D"
-            }
-          ],
-          "id": "134e290e-d810-4dd7-9f19-7898836c34b9"
-        },
-        {
-          "titulo": "ZONA CERO",
-          "horarios": [
-            {
-              "horario": "16:20",
+              "horario": "16:10",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -561,18 +546,92 @@
               "formato": "2D"
             },
             {
-              "horario": "21:45",
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f"
+          "id": "68bc6c65-8784-4b85-82a9-ede59abfee38"
+        },
+        {
+          "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8be8c605-875c-46a8-93ac-1cb592897772"
+        },
+        {
+          "titulo": "LOS JUEGOS DEL HAMBRE (2012)",
+          "horarios": [
+            {
+              "horario": "21:20",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "48e39112-d50b-4c66-90c4-6ffc1786e84f"
+        },
+        {
+          "titulo": "OASIS DON'T LOOK BACK IN ANGER",
+          "horarios": [
+            {
+              "horario": "21:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "e21182cd-492b-43fc-ae92-61f43ccd271e"
+        },
+        {
+          "titulo": "POSEIDO",
+          "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "a57e9a2e-a25f-4da5-af3f-f4d52db918da"
         },
         {
           "titulo": "COYOTE VS. ACME",
           "horarios": [
             {
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "13:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -582,74 +641,21 @@
               "formato": "2D"
             },
             {
-              "horario": "12:30",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
               "horario": "17:30",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D"
             },
             {
               "horario": "20:00",
               "idioma": "DOB",
-              "formato": "2D CXC Atmos"
+              "formato": "2D"
             }
           ],
           "id": "b2ece7ba-1984-4828-928c-58103b0c0fb7"
         },
         {
-          "titulo": "EL FINAL DE LA CALLE OAK",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "723182b0-3625-4fe3-b25b-95b6df8c6633"
-        },
-        {
-          "titulo": "IMPACTO MORTAL",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "ad6405d6-8b1c-4dbf-bb66-c7df0a431e11"
-        },
-        {
-          "titulo": "LA GUERRA DE LOS ULTIMOS",
-          "horarios": [
-            {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "8634b274-4625-499f-80b7-1ba73ba98261"
-        },
-        {
           "titulo": "LA NOCHE DEL DEMONIO: ESTAN ENTRE NOSOTROS",
           "horarios": [
-            {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "18:00",
               "idioma": "DOB",
@@ -664,123 +670,8 @@
           "id": "e7e10780-5551-40ef-93de-a60a9d5db4fc"
         },
         {
-          "titulo": "SOLO POR UNA NOCHE",
-          "horarios": [
-            {
-              "horario": "20:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "ca02eb03-3c48-4629-a12e-093526175e4c"
-        },
-        {
-          "titulo": "SPIDER-MAN: UN NUEVO DIA",
-          "horarios": [
-            {
-              "horario": "13:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "55908319-2beb-434d-9b88-17ecdb950521"
-        }
-      ],
-      "ciudad": "Santa Cruz Av. Brasil"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "CIELO",
-          "horarios": [
-            {
-              "horario": "17:30",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "ESP",
-              "formato": "2D"
-            }
-          ],
-          "id": "948c1558-9e73-431c-8eb9-bfd25dd008e4"
-        },
-        {
-          "titulo": "IDIOTAS",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "e7f06bed-5c0a-4085-9606-cc4f95cf419a"
-        },
-        {
-          "titulo": "RAPIDO Y FURIOSO (25 ANIVERSARIO)",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d307d11c-aa57-49c5-9ddb-b8e6acdf1b75"
-        },
-        {
           "titulo": "REBELION EN LA GRANJA",
           "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "13:20",
               "idioma": "DOB",
@@ -795,20 +686,311 @@
           "id": "e184453f-5b0c-4a5f-bd00-122752f0140c"
         },
         {
-          "titulo": "TERMINATOR 2: EL JUICIO FINAL",
+          "titulo": "SPIDER-MAN: UN NUEVO DIA",
           "horarios": [
             {
-              "horario": "21:20",
+              "horario": "12:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "18:30",
               "idioma": "DOB",
-              "formato": "3D"
+              "formato": "2D"
             }
           ],
-          "id": "134e290e-d810-4dd7-9f19-7898836c34b9"
+          "id": "55908319-2beb-434d-9b88-17ecdb950521"
+        },
+        {
+          "titulo": "ZONA CERO",
+          "horarios": [
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f"
+        }
+      ],
+      "ciudad": "Santa Cruz Av. Brasil"
+    },
+    {
+      "peliculas": [
+        {
+          "titulo": "BUENAS VIBRACIONES",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "68224953-cf9a-4acb-925e-65fcda2409b7"
+        },
+        {
+          "titulo": "CODIGO VENGANZA",
+          "horarios": [
+            {
+              "horario": "10:40",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D CXC Atmos"
+            }
+          ],
+          "id": "c23c26c6-fe29-4a2c-81a7-b0d492eefdb9"
+        },
+        {
+          "titulo": "HECHIZO DE AMOR: LA MAGIA CONTINUA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            }
+          ],
+          "id": "68bc6c65-8784-4b85-82a9-ede59abfee38"
+        },
+        {
+          "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8be8c605-875c-46a8-93ac-1cb592897772"
+        },
+        {
+          "titulo": "OASIS DON'T LOOK BACK IN ANGER",
+          "horarios": [
+            {
+              "horario": "19:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "e21182cd-492b-43fc-ae92-61f43ccd271e"
+        },
+        {
+          "titulo": "POSEIDO",
+          "horarios": [
+            {
+              "horario": "20:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "a57e9a2e-a25f-4da5-af3f-f4d52db918da"
+        },
+        {
+          "titulo": "COYOTE VS. ACME",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "b2ece7ba-1984-4828-928c-58103b0c0fb7"
+        },
+        {
+          "titulo": "LA NOCHE DEL DEMONIO: ESTAN ENTRE NOSOTROS",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "e7e10780-5551-40ef-93de-a60a9d5db4fc"
+        },
+        {
+          "titulo": "MINIONS & MONSTRUOS",
+          "horarios": [
+            {
+              "horario": "10:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "81d20184-4e11-4fdd-b625-316b23c8b945"
+        },
+        {
+          "titulo": "SPIDER-MAN: UN NUEVO DIA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "55908319-2beb-434d-9b88-17ecdb950521"
         },
         {
           "titulo": "ZONA CERO",
@@ -835,74 +1017,48 @@
             }
           ],
           "id": "2617e6ef-eecb-4820-97b0-e16cf644063f"
-        },
+        }
+      ],
+      "ciudad": "Cochabamba"
+    },
+    {
+      "peliculas": [
         {
-          "titulo": "COYOTE VS. ACME",
+          "titulo": "BUENAS VIBRACIONES",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "13:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:30",
+              "horario": "15:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "20:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            }
-          ],
-          "id": "b2ece7ba-1984-4828-928c-58103b0c0fb7"
-        },
-        {
-          "titulo": "LA GUERRA DE LOS ULTIMOS",
-          "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "8634b274-4625-499f-80b7-1ba73ba98261"
+          "id": "68224953-cf9a-4acb-925e-65fcda2409b7"
         },
         {
-          "titulo": "LA NOCHE DEL DEMONIO: ESTAN ENTRE NOSOTROS",
+          "titulo": "CODIGO VENGANZA",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "12:40",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -912,47 +1068,87 @@
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "17:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "19:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "22:00",
               "idioma": "DOB",
               "formato": "2D"
-            }
-          ],
-          "id": "e7e10780-5551-40ef-93de-a60a9d5db4fc"
-        },
-        {
-          "titulo": "LA ODISEA",
-          "horarios": [
+            },
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "15:40",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
             {
               "horario": "18:00",
               "idioma": "DOB",
               "formato": "2D Atmos"
             },
             {
-              "horario": "21:40",
+              "horario": "20:20",
+              "idioma": "DOB",
+              "formato": "2D Atmos"
+            },
+            {
+              "horario": "22:40",
               "idioma": "DOB",
               "formato": "2D Atmos"
             }
           ],
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
+          "id": "c23c26c6-fe29-4a2c-81a7-b0d492eefdb9"
         },
         {
-          "titulo": "PAW PATROL: LA DINOPELICULA",
+          "titulo": "HECHIZO DE AMOR: LA MAGIA CONTINUA",
           "horarios": [
             {
-              "horario": "10:30",
+              "horario": "11:00",
               "idioma": "DOB",
               "formato": "2D"
             },
+            {
+              "horario": "13:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "68bc6c65-8784-4b85-82a9-ede59abfee38"
+        },
+        {
+          "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
+          "horarios": [
             {
               "horario": "11:00",
               "idioma": "DOB",
@@ -967,217 +1163,82 @@
               "horario": "15:20",
               "idioma": "DOB",
               "formato": "2D"
-            }
-          ],
-          "id": "de39202d-7107-47e4-97ad-6f7885dadcb5"
-        },
-        {
-          "titulo": "SOLO POR UNA NOCHE",
-          "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "ca02eb03-3c48-4629-a12e-093526175e4c"
-        },
-        {
-          "titulo": "SPIDER-MAN: UN NUEVO DIA",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D CXC Atmos"
-            }
-          ],
-          "id": "55908319-2beb-434d-9b88-17ecdb950521"
-        }
-      ],
-      "ciudad": "Cochabamba"
-    },
-    {
-      "peliculas": [
-        {
-          "titulo": "CIELO",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "ESP",
-              "formato": "2D"
             },
             {
               "horario": "17:30",
-              "idioma": "ESP",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8be8c605-875c-46a8-93ac-1cb592897772"
+        },
+        {
+          "titulo": "LOS JUEGOS DEL HAMBRE (2012)",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "48e39112-d50b-4c66-90c4-6ffc1786e84f"
+        },
+        {
+          "titulo": "OASIS DON'T LOOK BACK IN ANGER",
+          "horarios": [
+            {
+              "horario": "19:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "e21182cd-492b-43fc-ae92-61f43ccd271e"
+        },
+        {
+          "titulo": "POSEIDO",
+          "horarios": [
+            {
+              "horario": "15:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "20:00",
-              "idioma": "ESP",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "ESP",
-              "formato": "2D"
-            }
-          ],
-          "id": "948c1558-9e73-431c-8eb9-bfd25dd008e4"
-        },
-        {
-          "titulo": "IDIOTAS",
-          "horarios": [
-            {
-              "horario": "15:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
+              "horario": "22:20",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "e7f06bed-5c0a-4085-9606-cc4f95cf419a"
-        },
-        {
-          "titulo": "RAPIDO Y FURIOSO (25 ANIVERSARIO)",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "d307d11c-aa57-49c5-9ddb-b8e6acdf1b75"
-        },
-        {
-          "titulo": "REBELION EN LA GRANJA",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "e184453f-5b0c-4a5f-bd00-122752f0140c"
-        },
-        {
-          "titulo": "TERMINATOR 2: EL JUICIO FINAL",
-          "horarios": [
-            {
-              "horario": "21:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "DOB",
-              "formato": "3D"
-            }
-          ],
-          "id": "134e290e-d810-4dd7-9f19-7898836c34b9"
-        },
-        {
-          "titulo": "ZONA CERO",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:45",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:15",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f"
+          "id": "a57e9a2e-a25f-4da5-af3f-f4d52db918da"
         },
         {
           "titulo": "COYOTE VS. ACME",
@@ -1188,7 +1249,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:10",
+              "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1198,7 +1259,17 @@
               "formato": "2D"
             },
             {
+              "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1208,84 +1279,22 @@
               "formato": "2D"
             },
             {
+              "horario": "20:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "21:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "DOB",
-              "formato": "2D Atmos"
-            },
-            {
               "horario": "22:30",
               "idioma": "DOB",
-              "formato": "2D Atmos"
+              "formato": "2D"
             }
           ],
           "id": "b2ece7ba-1984-4828-928c-58103b0c0fb7"
-        },
-        {
-          "titulo": "IMPACTO MORTAL",
-          "horarios": [
-            {
-              "horario": "19:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "ad6405d6-8b1c-4dbf-bb66-c7df0a431e11"
-        },
-        {
-          "titulo": "LA GUERRA DE LOS ULTIMOS",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "8634b274-4625-499f-80b7-1ba73ba98261"
         },
         {
           "titulo": "LA NOCHE DEL DEMONIO: ESTAN ENTRE NOSOTROS",
@@ -1343,7 +1352,12 @@
           "titulo": "MINIONS & MONSTRUOS",
           "horarios": [
             {
-              "horario": "11:10",
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1359,38 +1373,17 @@
               "formato": "2D"
             },
             {
-              "horario": "13:10",
+              "horario": "11:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "15:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
+              "horario": "13:00",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
           "id": "de39202d-7107-47e4-97ad-6f7885dadcb5"
-        },
-        {
-          "titulo": "SOLO POR UNA NOCHE",
-          "horarios": [
-            {
-              "horario": "20:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "ca02eb03-3c48-4629-a12e-093526175e4c"
         },
         {
           "titulo": "SPIDER-MAN: UN NUEVO DIA",
@@ -1401,17 +1394,7 @@
               "formato": "2D"
             },
             {
-              "horario": "12:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "14:10",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:50",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -1427,6 +1410,43 @@
             }
           ],
           "id": "55908319-2beb-434d-9b88-17ecdb950521"
+        },
+        {
+          "titulo": "TOY STORY 5",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
+        },
+        {
+          "titulo": "ZONA CERO",
+          "horarios": [
+            {
+              "horario": "11:15",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:45",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f"
         }
       ],
       "ciudad": "La Paz"
@@ -1434,41 +1454,104 @@
     {
       "peliculas": [
         {
-          "titulo": "REBELION EN LA GRANJA",
+          "titulo": "CODIGO VENGANZA",
           "horarios": [
             {
-              "horario": "12:05",
-              "idioma": "DOB",
+              "horario": "15:20",
+              "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "14:25",
-              "idioma": "DOB",
+              "horario": "17:40",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "SUBT",
               "formato": "2D"
             }
           ],
-          "id": "e184453f-5b0c-4a5f-bd00-122752f0140c"
+          "id": "c23c26c6-fe29-4a2c-81a7-b0d492eefdb9"
         },
         {
-          "titulo": "ZONA CERO",
+          "titulo": "HECHIZO DE AMOR: LA MAGIA CONTINUA",
           "horarios": [
             {
-              "horario": "16:45",
+              "horario": "13:30",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "16:20",
               "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "22:15",
+              "horario": "19:10",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "SUBT",
               "formato": "2D"
             }
           ],
-          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f"
+          "id": "68bc6c65-8784-4b85-82a9-ede59abfee38"
+        },
+        {
+          "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8be8c605-875c-46a8-93ac-1cb592897772"
+        },
+        {
+          "titulo": "LOS JUEGOS DEL HAMBRE (2012)",
+          "horarios": [
+            {
+              "horario": "20:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            }
+          ],
+          "id": "48e39112-d50b-4c66-90c4-6ffc1786e84f"
+        },
+        {
+          "titulo": "CIELO",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "948c1558-9e73-431c-8eb9-bfd25dd008e4"
         },
         {
           "titulo": "COYOTE VS. ACME",
@@ -1502,62 +1585,15 @@
           "id": "b2ece7ba-1984-4828-928c-58103b0c0fb7"
         },
         {
-          "titulo": "LA ODISEA",
+          "titulo": "PAW PATROL: LA DINOPELICULA",
           "horarios": [
             {
-              "horario": "13:20",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
-        },
-        {
-          "titulo": "SPIDER-MAN: UN NUEVO DIA",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "SUBT",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "SUBT",
-              "formato": "2D"
-            }
-          ],
-          "id": "55908319-2beb-434d-9b88-17ecdb950521"
-        },
-        {
-          "titulo": "TOY STORY 5",
-          "horarios": [
-            {
-              "horario": "11:00",
+              "horario": "11:20",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
+          "id": "de39202d-7107-47e4-97ad-6f7885dadcb5"
         }
       ],
       "ciudad": "La Paz VIP"
@@ -1565,79 +1601,110 @@
     {
       "peliculas": [
         {
-          "titulo": "CIELO",
+          "titulo": "BUENAS VIBRACIONES",
           "horarios": [
             {
-              "horario": "17:00",
-              "idioma": "ESP",
+              "horario": "18:00",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
-              "idioma": "ESP",
+              "horario": "20:00",
+              "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "22:00",
-              "idioma": "ESP",
-              "formato": "2D"
-            }
-          ],
-          "id": "948c1558-9e73-431c-8eb9-bfd25dd008e4"
-        },
-        {
-          "titulo": "IDIOTAS",
-          "horarios": [
-            {
-              "horario": "17:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "e7f06bed-5c0a-4085-9606-cc4f95cf419a"
+          "id": "68224953-cf9a-4acb-925e-65fcda2409b7"
         },
         {
-          "titulo": "RAPIDO Y FURIOSO (25 ANIVERSARIO)",
+          "titulo": "CODIGO VENGANZA",
           "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "19:10",
+              "horario": "19:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "21:20",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "d307d11c-aa57-49c5-9ddb-b8e6acdf1b75"
+          "id": "c23c26c6-fe29-4a2c-81a7-b0d492eefdb9"
         },
         {
-          "titulo": "REBELION EN LA GRANJA",
+          "titulo": "HECHIZO DE AMOR: LA MAGIA CONTINUA",
           "horarios": [
             {
-              "horario": "13:40",
+              "horario": "12:00",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:00",
+              "horario": "14:50",
               "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "68bc6c65-8784-4b85-82a9-ede59abfee38"
+        },
+        {
+          "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "8be8c605-875c-46a8-93ac-1cb592897772"
+        },
+        {
+          "titulo": "LOS JUEGOS DEL HAMBRE (2012)",
+          "horarios": [
+            {
+              "horario": "21:20",
+              "idioma": "SUBT",
               "formato": "2D"
             },
             {
@@ -1646,49 +1713,55 @@
               "formato": "2D"
             }
           ],
-          "id": "e184453f-5b0c-4a5f-bd00-122752f0140c"
+          "id": "48e39112-d50b-4c66-90c4-6ffc1786e84f"
         },
         {
-          "titulo": "TERMINATOR 2: EL JUICIO FINAL",
+          "titulo": "OASIS DON'T LOOK BACK IN ANGER",
           "horarios": [
             {
-              "horario": "21:20",
-              "idioma": "DOB",
+              "horario": "19:00",
+              "idioma": "SUBT",
               "formato": "2D"
             },
             {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "3D"
+              "horario": "21:45",
+              "idioma": "SUBT",
+              "formato": "2D"
             }
           ],
-          "id": "134e290e-d810-4dd7-9f19-7898836c34b9"
+          "id": "e21182cd-492b-43fc-ae92-61f43ccd271e"
         },
         {
-          "titulo": "ZONA CERO",
+          "titulo": "POSEIDO",
           "horarios": [
             {
-              "horario": "14:00",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
+              "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f"
+          "id": "a57e9a2e-a25f-4da5-af3f-f4d52db918da"
+        },
+        {
+          "titulo": "CIELO",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "ESP",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "ESP",
+              "formato": "2D"
+            }
+          ],
+          "id": "948c1558-9e73-431c-8eb9-bfd25dd008e4"
         },
         {
           "titulo": "COYOTE VS. ACME",
@@ -1732,63 +1805,15 @@
           "id": "b2ece7ba-1984-4828-928c-58103b0c0fb7"
         },
         {
-          "titulo": "DONDE HABITA EL MAL",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "485b4a67-5d20-4c84-b4e6-f995b3dac61e"
-        },
-        {
-          "titulo": "EL FINAL DE LA CALLE OAK",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "723182b0-3625-4fe3-b25b-95b6df8c6633"
-        },
-        {
-          "titulo": "IMPACTO MORTAL",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "ad6405d6-8b1c-4dbf-bb66-c7df0a431e11"
-        },
-        {
           "titulo": "LA GUERRA DE LOS ULTIMOS",
           "horarios": [
             {
-              "horario": "21:30",
+              "horario": "12:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1798,16 +1823,6 @@
         {
           "titulo": "LA NOCHE DEL DEMONIO: ESTAN ENTRE NOSOTROS",
           "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
             {
               "horario": "17:00",
               "idioma": "DOB",
@@ -1830,7 +1845,7 @@
           "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "20:30",
+              "horario": "12:35",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -1838,15 +1853,25 @@
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3"
         },
         {
-          "titulo": "SOLO POR UNA NOCHE",
+          "titulo": "REBELION EN LA GRANJA",
           "horarios": [
             {
-              "horario": "19:00",
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "ca02eb03-3c48-4629-a12e-093526175e4c"
+          "id": "e184453f-5b0c-4a5f-bd00-122752f0140c"
         },
         {
           "titulo": "SPIDER-MAN: UN NUEVO DIA",
@@ -1875,20 +1900,25 @@
           "id": "55908319-2beb-434d-9b88-17ecdb950521"
         },
         {
-          "titulo": "TOY STORY 5",
+          "titulo": "ZONA CERO",
           "horarios": [
             {
-              "horario": "12:10",
+              "horario": "16:15",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "14:35",
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "8b0e8ceb-35d5-4664-acf6-94d370fa7308"
+          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f"
         }
       ],
       "ciudad": "Tarija"
@@ -1896,7 +1926,23 @@
     {
       "peliculas": [
         {
-          "titulo": "IDIOTAS",
+          "titulo": "BUENAS VIBRACIONES",
+          "horarios": [
+            {
+              "horario": "18:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "68224953-cf9a-4acb-925e-65fcda2409b7"
+        },
+        {
+          "titulo": "CODIGO VENGANZA",
           "horarios": [
             {
               "horario": "12:00",
@@ -1904,20 +1950,30 @@
               "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "14:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "16:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "e7f06bed-5c0a-4085-9606-cc4f95cf419a"
+          "id": "c23c26c6-fe29-4a2c-81a7-b0d492eefdb9"
         },
         {
-          "titulo": "RAPIDO Y FURIOSO (25 ANIVERSARIO)",
+          "titulo": "HECHIZO DE AMOR: LA MAGIA CONTINUA",
           "horarios": [
             {
               "horario": "12:00",
@@ -1925,20 +1981,25 @@
               "formato": "2D"
             },
             {
-              "horario": "14:30",
+              "horario": "14:50",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "17:40",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "d307d11c-aa57-49c5-9ddb-b8e6acdf1b75"
+          "id": "68bc6c65-8784-4b85-82a9-ede59abfee38"
         },
         {
-          "titulo": "REBELION EN LA GRANJA",
+          "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
           "horarios": [
             {
               "horario": "12:00",
@@ -1956,50 +2017,44 @@
               "formato": "2D"
             }
           ],
-          "id": "e184453f-5b0c-4a5f-bd00-122752f0140c"
+          "id": "8be8c605-875c-46a8-93ac-1cb592897772"
         },
         {
-          "titulo": "TERMINATOR 2: EL JUICIO FINAL",
+          "titulo": "POSEIDO",
           "horarios": [
             {
-              "horario": "21:20",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "3D"
-            }
-          ],
-          "id": "134e290e-d810-4dd7-9f19-7898836c34b9"
-        },
-        {
-          "titulo": "ZONA CERO",
-          "horarios": [
-            {
-              "horario": "18:50",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:35",
+              "horario": "21:40",
               "idioma": "DOB",
               "formato": "2D"
             }
           ],
-          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f"
+          "id": "a57e9a2e-a25f-4da5-af3f-f4d52db918da"
         },
         {
           "titulo": "COYOTE VS. ACME",
           "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
             {
               "horario": "12:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
+              "horario": "14:30",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
               "horario": "15:00",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -2020,12 +2075,12 @@
           "titulo": "LA NOCHE DEL DEMONIO: ESTAN ENTRE NOSOTROS",
           "horarios": [
             {
-              "horario": "19:20",
+              "horario": "19:30",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "21:50",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2033,51 +2088,20 @@
           "id": "e7e10780-5551-40ef-93de-a60a9d5db4fc"
         },
         {
-          "titulo": "SOLO POR UNA NOCHE",
-          "horarios": [
-            {
-              "horario": "21:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "ca02eb03-3c48-4629-a12e-093526175e4c"
-        },
-        {
           "titulo": "SPIDER-MAN: UN NUEVO DIA",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "12:10",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
-              "horario": "12:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
+              "horario": "15:20",
               "idioma": "DOB",
               "formato": "2D"
             },
             {
               "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2089,5 +2113,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "9/9/2026"
+  "fecha": "10/9/2026"
 }
