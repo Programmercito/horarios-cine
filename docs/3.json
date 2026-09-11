@@ -7,12 +7,12 @@
           "titulo": "COYOTE VS ACME",
           "horarios": [
             {
-              "horario": "10:40",
+              "horario": "10:45",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "15:10",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
@@ -22,23 +22,28 @@
               "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "19:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "21:50",
+              "horario": "21:55",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "b7a87561-229b-41ce-8f94-928cb7cabade",
-          "titulo": "SPIDERMAN: UN NUEVO DIA",
+          "id": "be27be78-1d97-4d38-94c0-bbf71657a28e",
+          "titulo": "HECHIZO DE AMOR 2",
           "horarios": [
             {
-              "horario": "10:15",
+              "horario": "10:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -49,7 +54,28 @@
           "titulo": "ZONA CERO",
           "horarios": [
             {
-              "horario": "17:10",
+              "horario": "15:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:35",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "324a1a8a-136a-46c5-9215-ad19f473402d",
+          "titulo": "DON´T LOOK BACK IN ANGER",
+          "horarios": [
+            {
+              "horario": "12:40",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -71,5 +97,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "10/9/2026"
+  "fecha": "11/9/2026"
 }
