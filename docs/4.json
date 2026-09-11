@@ -4,17 +4,6 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
-          "titulo": "ZONA CERO",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "21:30"
-            }
-          ],
-          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f"
-        },
-        {
           "titulo": "COYOTE VS ACME",
           "horarios": [
             {
@@ -91,89 +80,6 @@
           "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3"
         },
         {
-          "titulo": "RÁPIDO Y FURIOSO [2001]",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "22:10"
-            }
-          ],
-          "id": "eb483a6c-0bdf-4322-bdcc-13563aa7a3f6"
-        },
-        {
-          "titulo": "SPIDER-MAN: UN NUEVO DÍA",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "12:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "15:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "21:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "12:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "15:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "20:20"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D",
-              "horario": "21:40"
-            }
-          ],
-          "id": "98dab719-690b-4761-a3b1-93c7ddd416dc"
-        },
-        {
-          "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "12:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "14:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "16:30"
-            }
-          ],
-          "id": "8be8c605-875c-46a8-93ac-1cb592897772"
-        },
-        {
           "titulo": "HECHIZO DE AMOR: LA MAGIA CONTINÚA",
           "horarios": [
             {
@@ -198,17 +104,6 @@
             }
           ],
           "id": "815eabd2-758e-4de3-90f6-548baa35b657"
-        },
-        {
-          "titulo": "OASIS: DON'T LOOK BACK IN ANGER",
-          "horarios": [
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D",
-              "horario": "20:40"
-            }
-          ],
-          "id": "e19a9a13-a373-4bb4-a83d-99d38426c3b3"
         },
         {
           "titulo": "CÓDIGO: VENGANZA",
@@ -240,10 +135,80 @@
             }
           ],
           "id": "deb1bf05-b0ac-498f-938c-d6acb1b3346f"
+        },
+        {
+          "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "12:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "14:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "16:30"
+            }
+          ],
+          "id": "8be8c605-875c-46a8-93ac-1cb592897772"
+        },
+        {
+          "titulo": "OASIS: DON'T LOOK BACK IN ANGER",
+          "horarios": [
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "20:40"
+            }
+          ],
+          "id": "e19a9a13-a373-4bb4-a83d-99d38426c3b3"
+        },
+        {
+          "titulo": "LOS JUEGOS DEL HAMBRE [2012]",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "18:30"
+            }
+          ],
+          "id": "b2d741fc-7e58-4e53-9f59-e181e41a90d6"
+        },
+        {
+          "titulo": "RÁPIDO Y FURIOSO [2001]",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:10"
+            }
+          ],
+          "id": "eb483a6c-0bdf-4322-bdcc-13563aa7a3f6"
+        },
+        {
+          "titulo": "ZONA CERO",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "20:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:40"
+            }
+          ],
+          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f"
         }
       ]
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "10/9/2026"
+  "fecha": "11/9/2026"
 }
