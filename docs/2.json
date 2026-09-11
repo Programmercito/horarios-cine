@@ -91,6 +91,32 @@
           ]
         },
         {
+          "id": "c23c26c6-fe29-4a2c-81a7-b0d492eefdb9",
+          "titulo": "CODIGO VENGANZA",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
@@ -164,27 +190,6 @@
           ]
         },
         {
-          "id": "c23c26c6-fe29-4a2c-81a7-b0d492eefdb9",
-          "titulo": "CODIGO VENGANZA",
-          "horarios": [
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "8be8c605-875c-46a8-93ac-1cb592897772",
           "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
           "horarios": [
@@ -223,7 +228,7 @@
             {
               "horario": "13:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             }
           ]
         },
@@ -454,6 +459,11 @@
           "titulo": "ZONA CERO",
           "horarios": [
             {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "14:25",
               "idioma": "Español",
               "formato": "2D"
@@ -510,7 +520,7 @@
               "formato": "2D PLUS"
             },
             {
-              "horario": "22:00",
+              "horario": "22:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -589,6 +599,27 @@
           ]
         },
         {
+          "id": "06cb1e4e-d8bb-43e6-9c52-6aa3acd96da1",
+          "titulo": "POSEÍDO",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "8be8c605-875c-46a8-93ac-1cb592897772",
           "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
           "horarios": [
@@ -604,6 +635,27 @@
             },
             {
               "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "68224953-cf9a-4acb-925e-65fcda2409b7",
+          "titulo": "BUENAS VIBRACIONES",
+          "horarios": [
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -635,57 +687,14 @@
           "titulo": "LA ODISEA",
           "horarios": [
             {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "18:10",
               "idioma": "Español",
               "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "06cb1e4e-d8bb-43e6-9c52-6aa3acd96da1",
-          "titulo": "POSEÍDO",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "68224953-cf9a-4acb-925e-65fcda2409b7",
-          "titulo": "BUENAS VIBRACIONES",
-          "horarios": [
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "5d73b6a3-5198-4238-9178-cd3ead6c82a1",
-          "titulo": "DON´T LOOK BACK IN ANGER: OASIS",
-          "horarios": [
-            {
-              "horario": "20:30",
-              "idioma": "Ingles",
-              "formato": "2D FUNCION FAN SUB"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
             }
           ]
         },
@@ -710,6 +719,28 @@
               "formato": "2D"
             }
           ]
+        },
+        {
+          "id": "5d73b6a3-5198-4238-9178-cd3ead6c82a1",
+          "titulo": "DON´T LOOK BACK IN ANGER: OASIS",
+          "horarios": [
+            {
+              "horario": "20:00",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ]
+        },
+        {
+          "id": "134e290e-d810-4dd7-9f19-7898836c34b9",
+          "titulo": "TERMINATOR 2: EL JUICIO FINAL",
+          "horarios": [
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
         }
       ]
     },
@@ -720,6 +751,11 @@
           "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
           "titulo": "COYOTE VS ACME",
           "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
             {
               "horario": "13:15",
               "idioma": "Ingles",
@@ -753,22 +789,6 @@
           ]
         },
         {
-          "id": "5e71e106-c1cf-4408-8ebf-83aeaccce176",
-          "titulo": "LOS JUEGOS DEL HAMBRE",
-          "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ]
-        },
-        {
           "id": "c23c26c6-fe29-4a2c-81a7-b0d492eefdb9",
           "titulo": "CODIGO VENGANZA",
           "horarios": [
@@ -785,16 +805,16 @@
           ]
         },
         {
-          "id": "5d73b6a3-5198-4238-9178-cd3ead6c82a1",
-          "titulo": "DON´T LOOK BACK IN ANGER: OASIS",
+          "id": "440d866a-463f-40c5-904c-b08f3bc0ed5a",
+          "titulo": "HECHIZO DE AMOR: LA MAGA CONTINÚA",
           "horarios": [
             {
-              "horario": "19:00",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
+              "horario": "18:40",
+              "idioma": "Español",
+              "formato": "2D PLUS"
             },
             {
-              "horario": "19:00",
+              "horario": "21:20",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
             }
@@ -805,7 +825,7 @@
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "13:00",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -827,8 +847,30 @@
           "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "15:20",
+              "horario": "16:00",
               "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
+          "id": "5e71e106-c1cf-4408-8ebf-83aeaccce176",
+          "titulo": "LOS JUEGOS DEL HAMBRE",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
+          "id": "5d73b6a3-5198-4238-9178-cd3ead6c82a1",
+          "titulo": "DON´T LOOK BACK IN ANGER: OASIS",
+          "horarios": [
+            {
+              "horario": "19:00",
+              "idioma": "Ingles",
               "formato": "2D PLUS"
             }
           ]
@@ -838,20 +880,9 @@
           "titulo": "CIELO",
           "horarios": [
             {
-              "horario": "18:50",
+              "horario": "19:25",
               "idioma": "Español",
               "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "440d866a-463f-40c5-904c-b08f3bc0ed5a",
-          "titulo": "HECHIZO DE AMOR: LA MAGA CONTINÚA",
-          "horarios": [
-            {
-              "horario": "21:35",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
             }
           ]
         }
@@ -864,6 +895,11 @@
           "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
           "titulo": "COYOTE VS ACME",
           "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
             {
               "horario": "13:10",
               "idioma": "Español",
@@ -925,6 +961,11 @@
           "id": "c23c26c6-fe29-4a2c-81a7-b0d492eefdb9",
           "titulo": "CODIGO VENGANZA",
           "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "16:10",
               "idioma": "Español",
@@ -1063,8 +1104,8 @@
           "horarios": [
             {
               "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             },
             {
               "horario": "19:00",
@@ -1115,7 +1156,7 @@
               "formato": "2D"
             },
             {
-              "horario": "22:55",
+              "horario": "22:35",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1159,9 +1200,9 @@
           "titulo": "DON´T LOOK BACK IN ANGER: OASIS",
           "horarios": [
             {
-              "horario": "20:30",
+              "horario": "20:10",
               "idioma": "Ingles",
-              "formato": "2D FUNCION FAN SUB"
+              "formato": "2D SUB"
             }
           ]
         }
@@ -1169,5 +1210,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "10/9/2026"
+  "fecha": "11/9/2026"
 }
