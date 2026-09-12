@@ -8,6 +8,11 @@
           "titulo": "COYOTE VS ACME",
           "horarios": [
             {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:40",
               "idioma": "Español",
               "formato": "2D XL - 2D XL KRONOS"
@@ -64,6 +69,11 @@
           "titulo": "ZONA CERO",
           "horarios": [
             {
+              "horario": "10:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:20",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
@@ -87,6 +97,37 @@
               "horario": "22:20",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
+            }
+          ]
+        },
+        {
+          "id": "808094db-5958-444d-b254-eb0163157a36",
+          "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -143,26 +184,21 @@
           ]
         },
         {
-          "id": "808094db-5958-444d-b254-eb0163157a36",
-          "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
+          "id": "8be8c605-875c-46a8-93ac-1cb592897772",
+          "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
           "horarios": [
             {
-              "horario": "15:10",
+              "horario": "11:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "14:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
+              "horario": "17:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -178,28 +214,12 @@
               "formato": "2D"
             },
             {
-              "horario": "14:30",
+              "horario": "19:45",
               "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "21:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "8be8c605-875c-46a8-93ac-1cb592897772",
-          "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
-          "horarios": [
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -244,6 +264,17 @@
           ]
         },
         {
+          "id": "5d73b6a3-5198-4238-9178-cd3ead6c82a1",
+          "titulo": "DON´T LOOK BACK IN ANGER: OASIS",
+          "horarios": [
+            {
+              "horario": "14:30",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ]
+        },
+        {
           "id": "948c1558-9e73-431c-8eb9-bfd25dd008e4",
           "titulo": "CIELO",
           "horarios": [
@@ -259,20 +290,9 @@
           "titulo": "LOS JUEGOS DEL HAMBRE",
           "horarios": [
             {
-              "horario": "16:30",
+              "horario": "16:55",
               "idioma": "Español",
               "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "5d73b6a3-5198-4238-9178-cd3ead6c82a1",
-          "titulo": "DON´T LOOK BACK IN ANGER: OASIS",
-          "horarios": [
-            {
-              "horario": "19:20",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
             }
           ]
         },
@@ -297,12 +317,17 @@
           "titulo": "COYOTE VS ACME",
           "horarios": [
             {
-              "horario": "12:05",
+              "horario": "10:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "12:40",
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "11:30",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -318,11 +343,6 @@
             },
             {
               "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -413,6 +433,11 @@
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
               "horario": "12:10",
               "idioma": "Español",
               "formato": "4D E-MOTION"
@@ -431,11 +456,6 @@
               "horario": "16:30",
               "idioma": "Español",
               "formato": "2D XL"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
             },
             {
               "horario": "19:30",
@@ -459,12 +479,12 @@
           "titulo": "ZONA CERO",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "11:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:25",
+              "horario": "13:50",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -531,12 +551,7 @@
           "titulo": "CODIGO VENGANZA",
           "horarios": [
             {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
+              "horario": "12:50",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -544,6 +559,11 @@
               "horario": "17:10",
               "idioma": "Español",
               "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "19:10",
@@ -566,11 +586,6 @@
           "id": "440d866a-463f-40c5-904c-b08f3bc0ed5a",
           "titulo": "HECHIZO DE AMOR: LA MAGA CONTINÚA",
           "horarios": [
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "14:00",
               "idioma": "Ingles",
@@ -599,27 +614,6 @@
           ]
         },
         {
-          "id": "06cb1e4e-d8bb-43e6-9c52-6aa3acd96da1",
-          "titulo": "POSEÍDO",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "8be8c605-875c-46a8-93ac-1cb592897772",
           "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
           "horarios": [
@@ -635,27 +629,6 @@
             },
             {
               "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "68224953-cf9a-4acb-925e-65fcda2409b7",
-          "titulo": "BUENAS VIBRACIONES",
-          "horarios": [
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -693,6 +666,38 @@
             },
             {
               "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "06cb1e4e-d8bb-43e6-9c52-6aa3acd96da1",
+          "titulo": "POSEÍDO",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "68224953-cf9a-4acb-925e-65fcda2409b7",
+          "titulo": "BUENAS VIBRACIONES",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -752,6 +757,11 @@
           "titulo": "COYOTE VS ACME",
           "horarios": [
             {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D PLUS"
@@ -789,6 +799,22 @@
           ]
         },
         {
+          "id": "5e71e106-c1cf-4408-8ebf-83aeaccce176",
+          "titulo": "LOS JUEGOS DEL HAMBRE",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ]
+        },
+        {
           "id": "c23c26c6-fe29-4a2c-81a7-b0d492eefdb9",
           "titulo": "CODIGO VENGANZA",
           "horarios": [
@@ -810,8 +836,8 @@
           "horarios": [
             {
               "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             },
             {
               "horario": "21:20",
@@ -854,17 +880,6 @@
           ]
         },
         {
-          "id": "5e71e106-c1cf-4408-8ebf-83aeaccce176",
-          "titulo": "LOS JUEGOS DEL HAMBRE",
-          "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
           "id": "5d73b6a3-5198-4238-9178-cd3ead6c82a1",
           "titulo": "DON´T LOOK BACK IN ANGER: OASIS",
           "horarios": [
@@ -895,6 +910,11 @@
           "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
           "titulo": "COYOTE VS ACME",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -958,6 +978,63 @@
           ]
         },
         {
+          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
+          "titulo": "SPIDERMAN: UN NUEVO DÍA",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:35",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f",
+          "titulo": "ZONA CERO",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:05",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "c23c26c6-fe29-4a2c-81a7-b0d492eefdb9",
           "titulo": "CODIGO VENGANZA",
           "horarios": [
@@ -1010,53 +1087,6 @@
           ]
         },
         {
-          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
-          "titulo": "SPIDERMAN: UN NUEVO DÍA",
-          "horarios": [
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:35",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f",
-          "titulo": "ZONA CERO",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "808094db-5958-444d-b254-eb0163157a36",
           "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
           "horarios": [
@@ -1099,16 +1129,16 @@
           ]
         },
         {
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
-          "titulo": "LA ODISEA",
+          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
+          "titulo": "PAW PATROL: LA DINO PELICULA",
           "horarios": [
             {
-              "horario": "12:40",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "15:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1119,28 +1149,28 @@
           "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
           "horarios": [
             {
-              "horario": "13:20",
+              "horario": "11:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "13:20",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "68224953-cf9a-4acb-925e-65fcda2409b7",
-          "titulo": "BUENAS VIBRACIONES",
+          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
+          "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
+              "horario": "12:40",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             },
             {
-              "horario": "22:15",
+              "horario": "19:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1174,17 +1204,6 @@
           ]
         },
         {
-          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
-          "titulo": "PAW PATROL: LA DINO PELICULA",
-          "horarios": [
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "948c1558-9e73-431c-8eb9-bfd25dd008e4",
           "titulo": "CIELO",
           "horarios": [
@@ -1205,10 +1224,21 @@
               "formato": "2D SUB"
             }
           ]
+        },
+        {
+          "id": "68224953-cf9a-4acb-925e-65fcda2409b7",
+          "titulo": "BUENAS VIBRACIONES",
+          "horarios": [
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
         }
       ]
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "11/9/2026"
+  "fecha": "12/9/2026"
 }
