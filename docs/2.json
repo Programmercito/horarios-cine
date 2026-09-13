@@ -387,6 +387,11 @@
               "formato": "2D"
             },
             {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
               "horario": "19:10",
               "idioma": "Español",
               "formato": "2D"
@@ -438,14 +443,14 @@
               "formato": "2D XL"
             },
             {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
               "horario": "13:40",
               "idioma": "Español",
               "formato": "2D XL"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
             },
             {
               "horario": "15:20",
@@ -602,11 +607,6 @@
               "formato": "2D"
             },
             {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
               "horario": "21:30",
               "idioma": "Español",
               "formato": "2D"
@@ -700,17 +700,6 @@
               "horario": "21:50",
               "idioma": "Español",
               "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "a786e580-32c2-40ca-95a5-a412495edd0c",
-          "titulo": "RAPIDO Y FURIOSO",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
             }
           ]
         },
@@ -1087,6 +1076,27 @@
           ]
         },
         {
+          "id": "8be8c605-875c-46a8-93ac-1cb592897772",
+          "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "808094db-5958-444d-b254-eb0163157a36",
           "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
           "horarios": [
@@ -1145,22 +1155,6 @@
           ]
         },
         {
-          "id": "8be8c605-875c-46a8-93ac-1cb592897772",
-          "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
           "titulo": "LA ODISEA",
           "horarios": [
@@ -1171,6 +1165,22 @@
             },
             {
               "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "68224953-cf9a-4acb-925e-65fcda2409b7",
+          "titulo": "BUENAS VIBRACIONES",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:15",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1224,21 +1234,10 @@
               "formato": "2D SUB"
             }
           ]
-        },
-        {
-          "id": "68224953-cf9a-4acb-925e-65fcda2409b7",
-          "titulo": "BUENAS VIBRACIONES",
-          "horarios": [
-            {
-              "horario": "22:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
         }
       ]
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "12/9/2026"
+  "fecha": "13/9/2026"
 }
