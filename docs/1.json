@@ -481,22 +481,6 @@
     {
       "peliculas": [
         {
-          "titulo": "BUENAS VIBRACIONES",
-          "horarios": [
-            {
-              "horario": "18:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            }
-          ],
-          "id": "68224953-cf9a-4acb-925e-65fcda2409b7"
-        },
-        {
           "titulo": "CODIGO VENGANZA",
           "horarios": [
             {
@@ -626,17 +610,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:30",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
               "horario": "15:00",
-              "idioma": "DOB",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
               "idioma": "DOB",
               "formato": "2D"
             },
@@ -757,6 +731,16 @@
           "titulo": "CODIGO VENGANZA",
           "horarios": [
             {
+              "horario": "19:40",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 2D"
+            },
+            {
               "horario": "10:40",
               "idioma": "DOB",
               "formato": "2D CXC Atmos"
@@ -850,6 +834,27 @@
             }
           ],
           "id": "8be8c605-875c-46a8-93ac-1cb592897772"
+        },
+        {
+          "titulo": "LOS JUEGOS DEL HAMBRE (2012)",
+          "horarios": [
+            {
+              "horario": "21:30",
+              "idioma": "SUBT",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "DOB",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "DOB",
+              "formato": "2D"
+            }
+          ],
+          "id": "48e39112-d50b-4c66-90c4-6ffc1786e84f"
         },
         {
           "titulo": "OASIS DON'T LOOK BACK IN ANGER",
@@ -962,6 +967,11 @@
               "horario": "12:50",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "11:10",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
             }
           ],
           "id": "81d20184-4e11-4fdd-b625-316b23c8b945"
@@ -988,6 +998,16 @@
               "horario": "20:30",
               "idioma": "DOB",
               "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "DOB",
+              "formato": "4D E-Motion 3D"
             }
           ],
           "id": "55908319-2beb-434d-9b88-17ecdb950521"
@@ -1378,7 +1398,7 @@
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "13:10",
               "idioma": "DOB",
               "formato": "2D"
             }
@@ -2113,5 +2133,5 @@
     }
   ],
   "cine": "MEGA",
-  "fecha": "10/9/2026"
+  "fecha": "14/9/2026"
 }
