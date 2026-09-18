@@ -39,22 +39,47 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "13:00"
+              "horario": "12:40"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "15:00"
+              "horario": "14:40"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "17:00"
+              "horario": "16:40"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "19:00"
+              "horario": "18:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "20:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "13:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "15:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "17:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:10"
             },
             {
               "idioma": "Doblada",
@@ -82,19 +107,9 @@
               "horario": "21:30"
             },
             {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "20:40"
-            },
-            {
               "idioma": "Subtitulada",
               "formato": "2D",
-              "horario": "21:00"
+              "horario": "21:10"
             }
           ],
           "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef"
@@ -130,7 +145,7 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "17:50"
+              "horario": "17:40"
             },
             {
               "idioma": "Doblada",
@@ -161,45 +176,25 @@
               "idioma": "Doblada",
               "formato": "2D",
               "horario": "19:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "13:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "16:10"
             }
           ],
           "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3"
         },
         {
-          "titulo": "CÓDIGO: VENGANZA",
+          "titulo": "ONE PIECE: LA PELÍCULA [2000]",
           "horarios": [
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "12:10"
+              "horario": "14:20"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "15:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "19:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "21:40"
+              "horario": "18:00"
             }
           ],
-          "id": "deb1bf05-b0ac-498f-938c-d6acb1b3346f"
+          "id": "f1aca7ff-b348-4835-a54a-7423dd0c7aed"
         },
         {
           "titulo": "TADEO EL EXPLORADOR Y LA LAMPARÁ MAGICA",
@@ -213,11 +208,6 @@
               "idioma": "Doblada",
               "formato": "2D",
               "horario": "15:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "17:50"
             }
           ],
           "id": "aa647ef8-4404-49b4-bfd9-789e15af646d"
@@ -237,22 +227,6 @@
             }
           ],
           "id": "b31e3a35-6c2d-4784-82fd-0275d475b2d8"
-        },
-        {
-          "titulo": "ONE PIECE: LA PELÍCULA [2000]",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "14:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:00"
-            }
-          ],
-          "id": "f1aca7ff-b348-4835-a54a-7423dd0c7aed"
         },
         {
           "titulo": "HECHIZO DE AMOR: LA MAGIA CONTINÚA",
@@ -279,6 +253,32 @@
             }
           ],
           "id": "815eabd2-758e-4de3-90f6-548baa35b657"
+        },
+        {
+          "titulo": "CÓDIGO: VENGANZA",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "12:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "15:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "21:40"
+            }
+          ],
+          "id": "deb1bf05-b0ac-498f-938c-d6acb1b3346f"
         },
         {
           "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
@@ -315,5 +315,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "17/9/2026"
+  "fecha": "18/9/2026"
 }
