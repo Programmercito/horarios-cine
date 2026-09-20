@@ -393,7 +393,7 @@
               "formato": "4D E-MOTION"
             },
             {
-              "horario": "19:00",
+              "horario": "19:05",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
@@ -435,12 +435,12 @@
             {
               "horario": "22:20",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "4D E-MOTION"
             },
             {
               "horario": "22:20",
               "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "formato": "2D PLUS"
             }
           ]
         },
@@ -1054,6 +1054,37 @@
           ]
         },
         {
+          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
+          "titulo": "SPIDERMAN: UN NUEVO DÍA",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:35",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "2533992f-f967-4cfd-abb5-f905652a1f36",
           "titulo": "TADEO EL EXPLORADOR Y LA LAMPARA MARAVILLOSA",
           "horarios": [
@@ -1079,32 +1110,6 @@
             },
             {
               "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
-          "titulo": "SPIDERMAN: UN NUEVO DÍA",
-          "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:35",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1152,6 +1157,22 @@
             },
             {
               "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
+          "titulo": "PAW PATROL: LA DINO PELICULA",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1228,6 +1249,17 @@
           ]
         },
         {
+          "id": "808094db-5958-444d-b254-eb0163157a36",
+          "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
+          "horarios": [
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "5e71e106-c1cf-4408-8ebf-83aeaccce176",
           "titulo": "LOS JUEGOS DEL HAMBRE",
           "horarios": [
@@ -1264,5 +1296,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "19/9/2026"
+  "fecha": "20/9/2026"
 }
