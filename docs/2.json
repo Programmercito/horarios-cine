@@ -18,9 +18,29 @@
               "formato": "2D XL - 2D XL KRONOS"
             },
             {
+              "horario": "13:05",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
               "horario": "14:30",
               "idioma": "Español",
               "formato": "2D XL - 2D XL KRONOS"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "18:00",
@@ -74,6 +94,16 @@
               "formato": "2D - 2D KRONOS"
             },
             {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
               "horario": "19:40",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
@@ -91,6 +121,32 @@
           ]
         },
         {
+          "id": "2533992f-f967-4cfd-abb5-f905652a1f36",
+          "titulo": "TADEO EL EXPLORADOR Y LA LAMPARA MARAVILLOSA",
+          "horarios": [
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:05",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
@@ -100,6 +156,11 @@
               "formato": "2D"
             },
             {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
               "horario": "19:50",
               "idioma": "Español",
               "formato": "2D"
@@ -107,16 +168,53 @@
           ]
         },
         {
-          "id": "2533992f-f967-4cfd-abb5-f905652a1f36",
-          "titulo": "TADEO EL EXPLORADOR Y LA LAMPARA MARAVILLOSA",
+          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f",
+          "titulo": "ZONA CERO",
           "horarios": [
             {
-              "horario": "17:05",
+              "horario": "13:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "808094db-5958-444d-b254-eb0163157a36",
+          "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
+          "horarios": [
+            {
+              "horario": "14:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:35",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "5702800a-1057-4739-9230-78965c651737",
+          "titulo": "GREMLINS",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:35",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -139,38 +237,11 @@
           ]
         },
         {
-          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f",
-          "titulo": "ZONA CERO",
+          "id": "c23c26c6-fe29-4a2c-81a7-b0d492eefdb9",
+          "titulo": "CODIGO VENGANZA",
           "horarios": [
             {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "5702800a-1057-4739-9230-78965c651737",
-          "titulo": "GREMLINS",
-          "horarios": [
-            {
-              "horario": "19:35",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "808094db-5958-444d-b254-eb0163157a36",
-          "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
-          "horarios": [
-            {
-              "horario": "22:35",
+              "horario": "13:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -202,13 +273,13 @@
             },
             {
               "horario": "13:50",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
             },
             {
               "horario": "13:50",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             },
             {
               "horario": "14:00",
@@ -303,12 +374,12 @@
             {
               "horario": "22:20",
               "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "formato": "2D PLUS"
             },
             {
               "horario": "22:20",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "4D E-MOTION"
             }
           ]
         },
@@ -333,6 +404,11 @@
             },
             {
               "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -482,6 +558,32 @@
           ]
         },
         {
+          "id": "eb4a081f-aea4-427e-b548-4e4fb77c6ecb",
+          "titulo": "ONE PIECE: LA PELÍCULA",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "808094db-5958-444d-b254-eb0163157a36",
           "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
           "horarios": [
@@ -572,16 +674,11 @@
           ]
         },
         {
-          "id": "eb4a081f-aea4-427e-b548-4e4fb77c6ecb",
-          "titulo": "ONE PIECE: LA PELÍCULA",
+          "id": "8be8c605-875c-46a8-93ac-1cb592897772",
+          "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
           "horarios": [
             {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
+              "horario": "12:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -640,6 +737,11 @@
           "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
           "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
             {
               "horario": "14:05",
               "idioma": "Español",
@@ -708,6 +810,17 @@
             },
             {
               "horario": "22:15",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
+          "id": "5702800a-1057-4739-9230-78965c651737",
+          "titulo": "GREMLINS",
+          "horarios": [
+            {
+              "horario": "12:10",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -877,7 +990,7 @@
             {
               "horario": "20:40",
               "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
+              "formato": "2D XL"
             },
             {
               "horario": "21:20",
@@ -1124,5 +1237,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "21/9/2026"
+  "fecha": "22/9/2026"
 }
