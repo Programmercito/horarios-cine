@@ -4,43 +4,44 @@
       "ciudad": "El Alto",
       "peliculas": [
         {
+          "id": "aead9835-00af-46e0-b5e7-1b7fa22df94e",
+          "titulo": "LA ISLA OLVIDADA",
+          "horarios": [
+            {
+              "horario": "13:15",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "17:45",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "18:55",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "3D - 3D KRONOS"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            }
+          ]
+        },
+        {
           "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
           "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "13:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "14:00",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
             },
             {
               "horario": "16:00",
@@ -48,29 +49,9 @@
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "18:00",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
             },
             {
               "horario": "20:00",
@@ -78,24 +59,56 @@
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "20:30",
+              "horario": "22:00",
               "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
+              "formato": "2D - 2D KRONOS"
+            }
+          ]
+        },
+        {
+          "id": "a2b7761b-2ada-4fd5-8eeb-6825110bab71",
+          "titulo": "AVENGERS ENDGAME BONUS",
+          "horarios": [
             {
-              "horario": "21:05",
+              "horario": "13:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "17:00",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "20:00",
               "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
+              "formato": "3D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "3c561e60-5731-4dba-a34a-5d06a532e0cb",
+          "titulo": "AVENGERS ENDGAME BONUS (Infinity Vision)",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "Español",
+              "formato": "3D XL FUNCION FAN"
             }
           ]
         },
@@ -104,110 +117,17 @@
           "titulo": "COYOTE VS ACME",
           "horarios": [
             {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
               "horario": "17:30",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "2D"
             },
             {
               "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "20:55",
               "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            }
-          ]
-        },
-        {
-          "id": "2533992f-f967-4cfd-abb5-f905652a1f36",
-          "titulo": "TADEO EL EXPLORADOR Y LA LAMPARA MARAVILLOSA",
-          "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:05",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "eb4a081f-aea4-427e-b548-4e4fb77c6ecb",
-          "titulo": "ONE PIECE: LA PELÍCULA",
-          "horarios": [
-            {
-              "horario": "11:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
-          "titulo": "SPIDERMAN: UN NUEVO DÍA",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "19:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -218,76 +138,77 @@
           "titulo": "ZONA CERO",
           "horarios": [
             {
-              "horario": "13:10",
+              "horario": "12:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:45",
+              "horario": "16:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "808094db-5958-444d-b254-eb0163157a36",
-          "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
+          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
+          "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
             {
-              "horario": "14:45",
+              "horario": "13:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:35",
+              "horario": "21:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "5702800a-1057-4739-9230-78965c651737",
-          "titulo": "GREMLINS",
+          "id": "e292befc-9aaf-47ba-8d64-fb4857592d08",
+          "titulo": "LA SOMBRA DEL EXORCISTA",
           "horarios": [
             {
-              "horario": "15:00",
+              "horario": "14:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:35",
+              "horario": "19:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "f16219fc-928c-4083-a15a-eac9acb7111e",
-          "titulo": "DESTRUCCION INMINENTE",
+          "id": "2533992f-f967-4cfd-abb5-f905652a1f36",
+          "titulo": "TADEO EL EXPLORADOR Y LA LAMPARA MARAVILLOSA",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
+          "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
               "horario": "17:10",
               "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             }
           ]
         },
         {
-          "id": "c23c26c6-fe29-4a2c-81a7-b0d492eefdb9",
-          "titulo": "CODIGO VENGANZA",
+          "id": "4bc0ea16-6240-4e5b-bbe9-3d16cb10c73a",
+          "titulo": "EL ULTIMO GRAN GOLPE",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "21:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -299,48 +220,59 @@
       "ciudad": "La Paz - Av Arce",
       "peliculas": [
         {
+          "id": "3c561e60-5731-4dba-a34a-5d06a532e0cb",
+          "titulo": "AVENGERS ENDGAME BONUS (Infinity Vision)",
+          "horarios": [
+            {
+              "horario": "10:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "16:45",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "3D XL FUNCION FAN"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Ingles",
+              "formato": "2D XL SUB"
+            }
+          ]
+        },
+        {
           "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
           "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
             {
-              "horario": "10:55",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "11:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "11:50",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
             },
             {
               "horario": "14:00",
@@ -348,19 +280,116 @@
               "formato": "2D"
             },
             {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
               "horario": "16:00",
               "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:15",
+              "idioma": "Español",
               "formato": "2D PLUS"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:55",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "aead9835-00af-46e0-b5e7-1b7fa22df94e",
+          "titulo": "LA ISLA OLVIDADA",
+          "horarios": [
+            {
+              "horario": "12:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
+          "titulo": "COYOTE VS ACME",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "16:00",
@@ -373,175 +402,19 @@
               "formato": "2D PLUS"
             },
             {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:15",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:25",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
-          "horarios": [
-            {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:35",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "18:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:40",
+              "horario": "19:10",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
             },
             {
               "horario": "20:20",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:25",
-              "idioma": "Español",
-              "formato": "2D PLUS"
             },
             {
               "horario": "22:30",
@@ -551,57 +424,83 @@
           ]
         },
         {
-          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
-          "titulo": "SPIDERMAN: UN NUEVO DÍA",
+          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
+          "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
             {
-              "horario": "10:50",
+              "horario": "12:40",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             },
             {
-              "horario": "13:40",
+              "horario": "15:00",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             },
             {
-              "horario": "15:45",
+              "horario": "17:20",
               "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "18:40",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D PLUS"
             },
             {
-              "horario": "19:30",
+              "horario": "19:40",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             },
             {
-              "horario": "22:20",
+              "horario": "21:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "22:00",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             }
           ]
         },
         {
-          "id": "2533992f-f967-4cfd-abb5-f905652a1f36",
-          "titulo": "TADEO EL EXPLORADOR Y LA LAMPARA MARAVILLOSA",
+          "id": "a2b7761b-2ada-4fd5-8eeb-6825110bab71",
+          "titulo": "AVENGERS ENDGAME BONUS",
           "horarios": [
             {
-              "horario": "11:10",
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "e292befc-9aaf-47ba-8d64-fb4857592d08",
+          "titulo": "LA SOMBRA DEL EXORCISTA",
+          "horarios": [
+            {
+              "horario": "13:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
+              "horario": "15:20",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -618,52 +517,58 @@
           ]
         },
         {
-          "id": "808094db-5958-444d-b254-eb0163157a36",
-          "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
+          "id": "4bc0ea16-6240-4e5b-bbe9-3d16cb10c73a",
+          "titulo": "EL ULTIMO GRAN GOLPE",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "13:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:15",
+              "horario": "20:35",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             },
             {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "21:20",
+              "horario": "22:40",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f",
-          "titulo": "ZONA CERO",
+          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
+          "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "13:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:40",
+              "horario": "16:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:10",
+              "horario": "19:20",
               "idioma": "Español",
               "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "808094db-5958-444d-b254-eb0163157a36",
+          "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
+          "horarios": [
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D PLUS"
             },
             {
-              "horario": "22:35",
+              "horario": "22:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -674,91 +579,7 @@
           "titulo": "ONE PIECE: LA PELÍCULA",
           "horarios": [
             {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "b31e3a35-6c2d-4784-82fd-0275d475b2d8",
-          "titulo": "A CUALQUIER PRECIO",
-          "horarios": [
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "c23c26c6-fe29-4a2c-81a7-b0d492eefdb9",
-          "titulo": "CODIGO VENGANZA",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "f16219fc-928c-4083-a15a-eac9acb7111e",
-          "titulo": "DESTRUCCION INMINENTE",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "5702800a-1057-4739-9230-78965c651737",
-          "titulo": "GREMLINS",
-          "horarios": [
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
+              "horario": "13:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -769,45 +590,40 @@
           "titulo": "CIELO",
           "horarios": [
             {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
+              "horario": "14:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "8be8c605-875c-46a8-93ac-1cb592897772",
-          "titulo": "LAS AVENTURAS DEL HADA DE LOS DIENTES",
+          "id": "2533992f-f967-4cfd-abb5-f905652a1f36",
+          "titulo": "TADEO EL EXPLORADOR Y LA LAMPARA MARAVILLOSA",
           "horarios": [
             {
-              "horario": "12:10",
+              "horario": "14:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "06cb1e4e-d8bb-43e6-9c52-6aa3acd96da1",
-          "titulo": "POSEÍDO",
+          "id": "22a4488b-cd7e-48a1-a175-e98766dd89e6",
+          "titulo": "EL ME LLAMA SU HIJA",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "15:40",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "5e71e106-c1cf-4408-8ebf-83aeaccce176",
-          "titulo": "LOS JUEGOS DEL HAMBRE",
+          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f",
+          "titulo": "ZONA CERO",
           "horarios": [
             {
-              "horario": "14:00",
+              "horario": "16:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -818,7 +634,18 @@
           "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "20:45",
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "",
+          "titulo": "ADOLESCENCIA, SEXO Y MUERTE EN EL CAMPO MIASMA",
+          "horarios": [
+            {
+              "horario": "21:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -830,56 +657,47 @@
       "ciudad": "La Paz - Plaza 21 Mall",
       "peliculas": [
         {
-          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
-          "titulo": "RESIDENT EVIL: NOCHE CERO",
+          "id": "a2b7761b-2ada-4fd5-8eeb-6825110bab71",
+          "titulo": "AVENGERS ENDGAME BONUS",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "12:30",
               "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "14:05",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
+              "formato": "3D PLUS"
             },
             {
               "horario": "16:10",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "3D PLUS"
             },
             {
-              "horario": "17:10",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "18:15",
+              "horario": "19:50",
               "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "19:15",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
+              "formato": "3D PLUS"
             },
             {
               "horario": "20:20",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ]
+        },
+        {
+          "id": "aead9835-00af-46e0-b5e7-1b7fa22df94e",
+          "titulo": "LA ISLA OLVIDADA",
+          "horarios": [
+            {
+              "horario": "13:10",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "21:10",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
             },
             {
-              "horario": "22:25",
+              "horario": "17:50",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -890,57 +708,46 @@
           "titulo": "COYOTE VS ACME",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "12:15",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "17:45",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "22:15",
+              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
           ]
         },
         {
-          "id": "5702800a-1057-4739-9230-78965c651737",
-          "titulo": "GREMLINS",
+          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
+          "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
             {
-              "horario": "12:10",
+              "horario": "17:20",
               "idioma": "Español",
               "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "440d866a-463f-40c5-904c-b08f3bc0ed5a",
-          "titulo": "HECHIZO DE AMOR: LA MAGA CONTINÚA",
-          "horarios": [
+            },
             {
-              "horario": "12:20",
+              "horario": "20:10",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
             }
           ]
         },
         {
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
-          "titulo": "LA ODISEA",
+          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
+          "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
             {
-              "horario": "14:15",
+              "horario": "19:35",
               "idioma": "Español",
               "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             }
           ]
         },
@@ -949,18 +756,18 @@
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
-              "horario": "14:30",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
           ]
         },
         {
-          "id": "2533992f-f967-4cfd-abb5-f905652a1f36",
-          "titulo": "TADEO EL EXPLORADOR Y LA LAMPARA MARAVILLOSA",
+          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
+          "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "17:30",
+              "horario": "14:30",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -971,18 +778,18 @@
           "titulo": "CIELO",
           "horarios": [
             {
-              "horario": "19:40",
+              "horario": "15:00",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
           ]
         },
         {
-          "id": "5d73b6a3-5198-4238-9178-cd3ead6c82a1",
-          "titulo": "DON´T LOOK BACK IN ANGER: OASIS",
+          "id": "",
+          "titulo": "ADOLESCENCIA, SEXO Y MUERTE EN EL CAMPO MIASMA",
           "horarios": [
             {
-              "horario": "22:00",
+              "horario": "22:30",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
             }
@@ -998,52 +805,37 @@
           "titulo": "COYOTE VS ACME",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "11:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "12:00",
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "13:10",
+              "horario": "15:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "16:45",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "15:20",
+              "horario": "17:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
+              "horario": "19:45",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -1074,14 +866,19 @@
               "formato": "2D"
             },
             {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:25",
+              "horario": "19:00",
               "idioma": "Ingles",
-              "formato": "2D SUB"
+              "formato": "2D"
             },
             {
               "horario": "20:00",
@@ -1089,24 +886,9 @@
               "formato": "2D"
             },
             {
-              "horario": "20:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "21:20",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
-            {
               "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D XL"
             }
           ]
         },
@@ -1142,153 +924,100 @@
           ]
         },
         {
-          "id": "2533992f-f967-4cfd-abb5-f905652a1f36",
-          "titulo": "TADEO EL EXPLORADOR Y LA LAMPARA MARAVILLOSA",
+          "id": "aead9835-00af-46e0-b5e7-1b7fa22df94e",
+          "titulo": "LA ISLA OLVIDADA",
           "horarios": [
             {
-              "horario": "11:10",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:10",
+              "horario": "14:15",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "16:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
+              "horario": "18:50",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "eb4a081f-aea4-427e-b548-4e4fb77c6ecb",
-          "titulo": "ONE PIECE: LA PELÍCULA",
+          "id": "3c561e60-5731-4dba-a34a-5d06a532e0cb",
+          "titulo": "AVENGERS ENDGAME BONUS (Infinity Vision)",
           "horarios": [
             {
-              "horario": "12:10",
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:45",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Ingles",
+              "formato": "2D XL FUNCION FAN SUB"
+            }
+          ]
+        },
+        {
+          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
+          "titulo": "EN EL CORAZON DE LA BESTIA",
+          "horarios": [
+            {
+              "horario": "17:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:20",
+              "horario": "19:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Japones",
+              "horario": "21:40",
+              "idioma": "Ingles",
               "formato": "2D SUB"
             }
           ]
         },
         {
-          "id": "b31e3a35-6c2d-4784-82fd-0275d475b2d8",
-          "titulo": "A CUALQUIER PRECIO",
+          "id": "4bc0ea16-6240-4e5b-bbe9-3d16cb10c73a",
+          "titulo": "EL ULTIMO GRAN GOLPE",
           "horarios": [
             {
-              "horario": "13:30",
+              "horario": "14:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
+              "horario": "21:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "996ed8e8-a707-4f85-8174-84e1af6eee69",
-          "titulo": "PAW PATROL: LA DINO PELICULA",
+          "id": "a2b7761b-2ada-4fd5-8eeb-6825110bab71",
+          "titulo": "AVENGERS ENDGAME BONUS",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "19:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             },
             {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f",
-          "titulo": "ZONA CERO",
-          "horarios": [
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "5702800a-1057-4739-9230-78965c651737",
-          "titulo": "GREMLINS",
-          "horarios": [
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "f16219fc-928c-4083-a15a-eac9acb7111e",
-          "titulo": "DESTRUCCION INMINENTE",
-          "horarios": [
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "948c1558-9e73-431c-8eb9-bfd25dd008e4",
-          "titulo": "CIELO",
-          "horarios": [
-            {
-              "horario": "12:40",
+              "horario": "21:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1299,53 +1028,53 @@
           "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "808094db-5958-444d-b254-eb0163157a36",
-          "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
+          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f",
+          "titulo": "ZONA CERO",
           "horarios": [
             {
-              "horario": "14:50",
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            }
+          ]
+        },
+        {
+          "id": "b31e3a35-6c2d-4784-82fd-0275d475b2d8",
+          "titulo": "A CUALQUIER PRECIO",
+          "horarios": [
+            {
+              "horario": "12:20",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "5e71e106-c1cf-4408-8ebf-83aeaccce176",
-          "titulo": "LOS JUEGOS DEL HAMBRE",
+          "id": "2533992f-f967-4cfd-abb5-f905652a1f36",
+          "titulo": "TADEO EL EXPLORADOR Y LA LAMPARA MARAVILLOSA",
           "horarios": [
             {
-              "horario": "15:10",
+              "horario": "15:20",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "c23c26c6-fe29-4a2c-81a7-b0d492eefdb9",
-          "titulo": "CODIGO VENGANZA",
+          "id": "",
+          "titulo": "ADOLESCENCIA, SEXO Y MUERTE EN EL CAMPO MIASMA",
           "horarios": [
             {
-              "horario": "16:00",
+              "horario": "22:30",
               "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "440d866a-463f-40c5-904c-b08f3bc0ed5a",
-          "titulo": "HECHIZO DE AMOR: LA MAGA CONTINÚA",
-          "horarios": [
-            {
-              "horario": "22:35",
-              "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL"
             }
           ]
         }
@@ -1353,5 +1082,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "23/9/2026"
+  "fecha": "24/9/2026"
 }
