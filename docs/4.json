@@ -4,17 +4,73 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
+          "titulo": "AVENGERS: ENDGAME BONUS",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "13:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "16:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "20:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D",
+              "horario": "13:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D",
+              "horario": "17:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D",
+              "horario": "21:00"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "3D",
+              "horario": "16:50"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "3D",
+              "horario": "20:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:00"
+            }
+          ],
+          "id": "b0998efb-4a73-4cd0-98c9-431e77841514"
+        },
+        {
           "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "10:10"
+              "horario": "11:10"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "12:20"
+              "horario": "12:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "13:20"
             },
             {
               "idioma": "Doblada",
@@ -24,62 +80,12 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
+              "horario": "15:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
               "horario": "16:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "20:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "22:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "10:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "13:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "15:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "17:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "19:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "11:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "13:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "15:30"
             },
             {
               "idioma": "Doblada",
@@ -89,17 +95,7 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "19:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "21:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:40"
+              "horario": "19:40"
             },
             {
               "idioma": "Doblada",
@@ -107,9 +103,29 @@
               "horario": "20:40"
             },
             {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "21:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "17:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:20"
+            },
+            {
               "idioma": "Subtitulada",
               "formato": "2D",
-              "horario": "21:00"
+              "horario": "21:30"
             }
           ],
           "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef"
@@ -120,37 +136,17 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "10:00"
+              "horario": "10:30"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "10:50"
+              "horario": "12:50"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "12:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "13:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "14:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "15:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "16:40"
+              "horario": "15:10"
             },
             {
               "idioma": "Doblada",
@@ -160,168 +156,23 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "19:00"
+              "horario": "10:40"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "21:20"
+              "horario": "12:50"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "10:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "10:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "12:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "14:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "16:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "19:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "11:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "13:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "16:10"
+              "horario": "15:00"
             }
           ],
           "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3"
         },
         {
-          "titulo": "ONE PIECE: LA PELÍCULA [2000]",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "14:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:00"
-            }
-          ],
-          "id": "f1aca7ff-b348-4835-a54a-7423dd0c7aed"
-        },
-        {
-          "titulo": "TADEO EL EXPLORADOR Y LA LAMPARÁ MAGICA",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "13:25"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "15:40"
-            }
-          ],
-          "id": "aa647ef8-4404-49b4-bfd9-789e15af646d"
-        },
-        {
-          "titulo": "HECHIZO DE AMOR: LA MAGIA CONTINÚA",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "11:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "14:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "19:20"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D",
-              "horario": "16:40"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D",
-              "horario": "22:00"
-            }
-          ],
-          "id": "815eabd2-758e-4de3-90f6-548baa35b657"
-        },
-        {
-          "titulo": "CÓDIGO: VENGANZA",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "10:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "12:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "15:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "19:30"
-            }
-          ],
-          "id": "deb1bf05-b0ac-498f-938c-d6acb1b3346f"
-        },
-        {
-          "titulo": "ZONA CERO",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "21:40"
-            }
-          ],
-          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f"
-        },
-        {
-          "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
+          "titulo": "EL CORAZÓN DE LA BESTIA",
           "horarios": [
             {
               "idioma": "Doblada",
@@ -346,19 +197,143 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "19:40"
+              "horario": "19:50"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
               "horario": "22:10"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "12:20"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "14:50"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "17:00"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "19:20"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "21:40"
             }
           ],
-          "id": "808094db-5958-444d-b254-eb0163157a36"
+          "id": "ebbee9c9-edf1-496c-93bb-0eddc652707c"
+        },
+        {
+          "titulo": "LA ISLA OLVIDADA",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "10:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "13:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "15:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "17:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "11:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "12:25"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "14:10"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "16:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D",
+              "horario": "14:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "3D",
+              "horario": "17:10"
+            }
+          ],
+          "id": "aead9835-00af-46e0-b5e7-1b7fa22df94e"
+        },
+        {
+          "titulo": "EL ÚLTIMO GRAN GOLPE",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:20"
+            }
+          ],
+          "id": "ff167ff6-4ec0-44ff-85f1-c024b168a990"
+        },
+        {
+          "titulo": "ÉL ME LLAMA SU HIJA",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "18:30"
+            }
+          ],
+          "id": "ed00edac-c234-45f8-8f97-dda9c7cc28da"
+        },
+        {
+          "titulo": "TADEO EL EXPLORADOR Y LA LAMPARÁ MAGICA",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "10:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "13:10"
+            }
+          ],
+          "id": "aa647ef8-4404-49b4-bfd9-789e15af646d"
         }
       ]
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "23/9/2026"
+  "fecha": "24/9/2026"
 }
