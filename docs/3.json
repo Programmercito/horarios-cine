@@ -1,101 +1,10 @@
 {
   "ciudades": [
     {
-      "peliculas": [
-        {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
-          "horarios": [
-            {
-              "horario": "10:45",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:05",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:20",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
-          "titulo": "RESIDENT EVIL: NOCHE CERO",
-          "horarios": [
-            {
-              "horario": "15:10",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:15",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f",
-          "titulo": "ZONA CERO",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "843336ec-401a-4ff3-9752-9c05f4e50ec1",
-          "titulo": "TADEO JONES: EL EXPLORADOR Y LA LAMPARA MARAVILLOSA",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "cc3829d4-0eec-4eba-8102-0e3a29492f5a",
-          "titulo": "INSIDIOUS: ESTAN ENTRE NOSOTROS",
-          "horarios": [
-            {
-              "horario": "21:50",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        }
-      ],
+      "peliculas": [],
       "ciudad": "La Paz"
     }
   ],
   "cine": "MONJE",
-  "fecha": "24/9/2026"
+  "fecha": "25/9/2026"
 }
