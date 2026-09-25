@@ -2,9 +2,245 @@
   "ciudades": [
     {
       "ciudad": "Cochabamba",
-      "peliculas": []
+      "peliculas": [
+        {
+          "id": "b0998efb-4a73-4cd0-98c9-431e77841514",
+          "titulo": "AVENGERS: ENDGAME BONUS",
+          "horarios": [
+            {
+              "horario": "18:40",
+              "idioma": "Doblada",
+              "formato": "3D"
+            },
+            {
+              "horario": "11:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "b2ece7ba-1984-4828-928c-58103b0c0fb7",
+          "titulo": "COYOTE VS. ACME",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
+          "titulo": "RESIDENT EVIL: NOCHE CERO",
+          "horarios": [
+            {
+              "horario": "11:15",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:45",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:15",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "98dab719-690b-4761-a3b1-93c7ddd416dc",
+          "titulo": "SPIDER-MAN: UN NUEVO DÍA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:15",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "64c32aad-f3f0-474f-98b5-bf5c90304ef2",
+          "titulo": "TADEO EL EXPLORADOR Y LA LÁMPARA MARAVILLOSA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "3bea6614-d0c6-4cac-b70e-f17deeb8d72f",
+          "titulo": "EN EL CORAZÓN DE LA BESTIA",
+          "horarios": [
+            {
+              "horario": "16:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "ff167ff6-4ec0-44ff-85f1-c024b168a990",
+          "titulo": "EL ÚLTIMO GRAN GOLPE",
+          "horarios": [
+            {
+              "horario": "18:25",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "",
+          "titulo": "ADOLESCENCIA, SEXO Y MUERTE EN EL CAMPO MIASMA",
+          "horarios": [
+            {
+              "horario": "22:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "e292befc-9aaf-47ba-8d64-fb4857592d08",
+          "titulo": "LA SOMBRA DEL EXORCISTA",
+          "horarios": [
+            {
+              "horario": "13:35",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:55",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "aead9835-00af-46e0-b5e7-1b7fa22df94e",
+          "titulo": "LA ISLA OLVIDADA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:05",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:15",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:25",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        }
+      ]
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "22/9/2026"
+  "fecha": "25/9/2026"
 }
