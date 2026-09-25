@@ -4,11 +4,57 @@
       "ciudad": "El Alto",
       "peliculas": [
         {
+          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
+          "titulo": "RESIDENT EVIL: NOCHE CERO",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            }
+          ]
+        },
+        {
           "id": "aead9835-00af-46e0-b5e7-1b7fa22df94e",
           "titulo": "LA ISLA OLVIDADA",
           "horarios": [
             {
               "horario": "13:15",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "15:30",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
@@ -35,57 +81,26 @@
           ]
         },
         {
-          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
-          "titulo": "RESIDENT EVIL: NOCHE CERO",
+          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
+          "titulo": "COYOTE VS ACME",
           "horarios": [
             {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            }
-          ]
-        },
-        {
-          "id": "a2b7761b-2ada-4fd5-8eeb-6825110bab71",
-          "titulo": "AVENGERS ENDGAME BONUS",
-          "horarios": [
-            {
-              "horario": "13:30",
+              "horario": "15:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "17:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "19:40",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "21:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -108,26 +123,47 @@
             {
               "horario": "19:45",
               "idioma": "Español",
-              "formato": "3D XL FUNCION FAN"
+              "formato": "3D XL - 3D XL KRONOS"
             }
           ]
         },
         {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
+          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
+          "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
             {
-              "horario": "17:30",
+              "horario": "13:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "16:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:50",
+              "horario": "21:05",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "a2b7761b-2ada-4fd5-8eeb-6825110bab71",
+          "titulo": "AVENGERS ENDGAME BONUS",
+          "horarios": [
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -150,18 +186,18 @@
           ]
         },
         {
-          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
-          "titulo": "EN EL CORAZON DE LA BESTIA",
+          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
+          "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "14:15",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:00",
+              "horario": "19:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             }
           ]
         },
@@ -193,13 +229,13 @@
           ]
         },
         {
-          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
-          "titulo": "SPIDERMAN: UN NUEVO DÍA",
+          "id": "22a4488b-cd7e-48a1-a175-e98766dd89e6",
+          "titulo": "EL ME LLAMA SU HIJA",
           "horarios": [
             {
-              "horario": "17:10",
+              "horario": "15:10",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D"
             }
           ]
         },
@@ -209,6 +245,17 @@
           "horarios": [
             {
               "horario": "21:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "808094db-5958-444d-b254-eb0163157a36",
+          "titulo": "LA NOCHE DEL DEMONIO: ESTÁN ENTRE NOSOTROS",
+          "horarios": [
+            {
+              "horario": "21:45",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -254,14 +301,24 @@
               "formato": "2D XL"
             },
             {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
               "horario": "19:30",
               "idioma": "Español",
-              "formato": "3D XL FUNCION FAN"
+              "formato": "3D XL"
             },
             {
               "horario": "20:20",
-              "idioma": "Ingles",
-              "formato": "2D XL SUB"
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
             }
           ]
         },
@@ -338,7 +395,7 @@
             {
               "horario": "14:00",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "3D PLUS"
             },
             {
               "horario": "15:30",
@@ -348,7 +405,7 @@
             {
               "horario": "16:20",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "3D PLUS"
             },
             {
               "horario": "16:40",
@@ -385,11 +442,6 @@
               "horario": "12:20",
               "idioma": "Español",
               "formato": "2D PLUS"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
             },
             {
               "horario": "16:00",
@@ -817,7 +869,7 @@
             {
               "horario": "14:30",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             },
             {
               "horario": "15:30",
@@ -827,7 +879,7 @@
             {
               "horario": "16:45",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             },
             {
               "horario": "17:40",
@@ -866,19 +918,14 @@
               "formato": "2D"
             },
             {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "19:10",
               "idioma": "Ingles",
-              "formato": "2D"
+              "formato": "2D SUB"
             },
             {
               "horario": "20:00",
@@ -887,37 +934,6 @@
             },
             {
               "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
-          "titulo": "SPIDERMAN: UN NUEVO DÍA",
-          "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:35",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -950,6 +966,32 @@
           ]
         },
         {
+          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
+          "titulo": "SPIDERMAN: UN NUEVO DÍA",
+          "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:35",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "3c561e60-5731-4dba-a34a-5d06a532e0cb",
           "titulo": "AVENGERS ENDGAME BONUS (Infinity Vision)",
           "horarios": [
@@ -965,8 +1007,8 @@
             },
             {
               "horario": "20:20",
-              "idioma": "Ingles",
-              "formato": "2D XL FUNCION FAN SUB"
+              "idioma": "Español",
+              "formato": "2D XL"
             }
           ]
         },
@@ -1001,7 +1043,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:00",
+              "horario": "21:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1018,8 +1060,8 @@
             },
             {
               "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D"
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             }
           ]
         },
@@ -1041,7 +1083,7 @@
             {
               "horario": "12:00",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             }
           ]
         },
@@ -1068,13 +1110,24 @@
           ]
         },
         {
+          "id": "22a4488b-cd7e-48a1-a175-e98766dd89e6",
+          "titulo": "EL ME LLAMA SU HIJA",
+          "horarios": [
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "",
           "titulo": "ADOLESCENCIA, SEXO Y MUERTE EN EL CAMPO MIASMA",
           "horarios": [
             {
               "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D XL"
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             }
           ]
         }
@@ -1082,5 +1135,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "24/9/2026"
+  "fecha": "25/9/2026"
 }
