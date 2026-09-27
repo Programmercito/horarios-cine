@@ -32,11 +32,6 @@
               "horario": "17:10"
             },
             {
-              "idioma": "Doblada",
-              "formato": "3D",
-              "horario": "21:00"
-            },
-            {
               "idioma": "Subtitulada",
               "formato": "3D",
               "horario": "16:50"
@@ -49,7 +44,12 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "19:00"
+              "horario": "21:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "21:30"
             }
           ],
           "id": "b0998efb-4a73-4cd0-98c9-431e77841514"
@@ -116,6 +116,11 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
+              "horario": "11:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
               "horario": "12:30"
             },
             {
@@ -127,6 +132,11 @@
               "idioma": "Doblada",
               "formato": "2D",
               "horario": "16:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:00"
             },
             {
               "idioma": "Doblada",
@@ -271,12 +281,12 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "11:10"
+              "horario": "10:40"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "13:20"
+              "horario": "13:00"
             }
           ],
           "id": "aa647ef8-4404-49b4-bfd9-789e15af646d"
@@ -285,5 +295,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "26/9/2026"
+  "fecha": "27/9/2026"
 }
