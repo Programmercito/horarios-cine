@@ -13,6 +13,16 @@
               "formato": "2D - 2D KRONOS"
             },
             {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
               "horario": "17:00",
               "idioma": "Español",
               "formato": "2D"
@@ -213,6 +223,17 @@
           ]
         },
         {
+          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
+          "titulo": "SPIDERMAN: UN NUEVO DÍA",
+          "horarios": [
+            {
+              "horario": "14:15",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "22a4488b-cd7e-48a1-a175-e98766dd89e6",
           "titulo": "EL ME LLAMA SU HIJA",
           "horarios": [
@@ -220,17 +241,6 @@
               "horario": "15:10",
               "idioma": "Español",
               "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
-          "titulo": "SPIDERMAN: UN NUEVO DÍA",
-          "horarios": [
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "3D"
             }
           ]
         },
@@ -443,12 +453,12 @@
               "formato": "2D PLUS"
             },
             {
-              "horario": "18:10",
+              "horario": "17:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:10",
+              "horario": "18:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -525,7 +535,7 @@
               "formato": "3D PLUS"
             },
             {
-              "horario": "21:20",
+              "horario": "21:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -558,27 +568,6 @@
           ]
         },
         {
-          "id": "4bc0ea16-6240-4e5b-bbe9-3d16cb10c73a",
-          "titulo": "EL ULTIMO GRAN GOLPE",
-          "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:35",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
@@ -594,6 +583,27 @@
             },
             {
               "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "4bc0ea16-6240-4e5b-bbe9-3d16cb10c73a",
+          "titulo": "EL ULTIMO GRAN GOLPE",
+          "horarios": [
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:35",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -616,11 +626,11 @@
           ]
         },
         {
-          "id": "eb4a081f-aea4-427e-b548-4e4fb77c6ecb",
-          "titulo": "ONE PIECE: LA PELÍCULA",
+          "id": "2533992f-f967-4cfd-abb5-f905652a1f36",
+          "titulo": "TADEO EL EXPLORADOR Y LA LAMPARA MARAVILLOSA",
           "horarios": [
             {
-              "horario": "13:10",
+              "horario": "12:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -638,11 +648,11 @@
           ]
         },
         {
-          "id": "2533992f-f967-4cfd-abb5-f905652a1f36",
-          "titulo": "TADEO EL EXPLORADOR Y LA LAMPARA MARAVILLOSA",
+          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f",
+          "titulo": "ZONA CERO",
           "horarios": [
             {
-              "horario": "14:30",
+              "horario": "14:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -654,17 +664,6 @@
           "horarios": [
             {
               "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "2617e6ef-eecb-4820-97b0-e16cf644063f",
-          "titulo": "ZONA CERO",
-          "horarios": [
-            {
-              "horario": "16:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -954,32 +953,6 @@
           ]
         },
         {
-          "id": "a2b7761b-2ada-4fd5-8eeb-6825110bab71",
-          "titulo": "AVENGERS ENDGAME BONUS",
-          "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
@@ -1027,6 +1000,27 @@
           ]
         },
         {
+          "id": "a2b7761b-2ada-4fd5-8eeb-6825110bab71",
+          "titulo": "AVENGERS ENDGAME BONUS",
+          "horarios": [
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
           "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
@@ -1057,7 +1051,7 @@
               "formato": "2D"
             },
             {
-              "horario": "19:20",
+              "horario": "22:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1133,5 +1127,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "28/9/2026"
+  "fecha": "29/9/2026"
 }
