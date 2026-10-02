@@ -332,7 +332,7 @@
             {
               "horario": "17:00",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D PLUS"
             },
             {
               "horario": "18:00",
@@ -342,7 +342,7 @@
             {
               "horario": "19:05",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D PLUS"
             },
             {
               "horario": "20:00",
@@ -350,12 +350,12 @@
               "formato": "2D"
             },
             {
-              "horario": "21:10",
+              "horario": "21:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:10",
+              "horario": "22:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -419,7 +419,7 @@
             {
               "horario": "12:20",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D PLUS"
             },
             {
               "horario": "13:40",
@@ -429,7 +429,7 @@
             {
               "horario": "14:40",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D PLUS"
             },
             {
               "horario": "16:00",
@@ -465,7 +465,7 @@
             {
               "horario": "18:50",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D PLUS SUB"
             },
             {
               "horario": "19:40",
@@ -511,7 +511,7 @@
             {
               "horario": "22:10",
               "idioma": "Ingles",
-              "formato": "2D SUB"
+              "formato": "2D PLUS SUB"
             }
           ]
         },
@@ -594,32 +594,6 @@
           ]
         },
         {
-          "id": "2c30fb6a-d15e-4ec0-80ef-7693533833da",
-          "titulo": "VERTIGO 2",
-          "horarios": [
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "cc13a9a0-e88f-47ba-9c1a-ff55da794eef",
           "titulo": "DIGGER",
           "horarios": [
@@ -635,8 +609,8 @@
             },
             {
               "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             },
             {
               "horario": "20:20",
@@ -682,6 +656,27 @@
             },
             {
               "horario": "17:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "2c30fb6a-d15e-4ec0-80ef-7693533833da",
+          "titulo": "VERTIGO 2",
+          "horarios": [
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -752,6 +747,17 @@
           "horarios": [
             {
               "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "45111ff8-9743-4399-bcdd-c1b670f4d536",
+          "titulo": "MÚSICA DE ABAJO",
+          "horarios": [
+            {
+              "horario": "20:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1260,5 +1266,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "1/10/2026"
+  "fecha": "2/10/2026"
 }
