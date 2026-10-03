@@ -23,12 +23,27 @@
               "formato": "2D - 2D KRONOS"
             },
             {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
               "horario": "18:00",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
             {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
               "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "21:00",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
@@ -44,12 +59,12 @@
           "titulo": "COYOTE VS ACME",
           "horarios": [
             {
-              "horario": "13:10",
+              "horario": "11:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:20",
+              "horario": "13:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -65,6 +80,79 @@
             },
             {
               "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "ada1e8d6-9842-43ee-b331-6df8222410dc",
+          "titulo": "GUARDIANES DEL MUSEO 2",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "2c30fb6a-d15e-4ec0-80ef-7693533833da",
+          "titulo": "VERTIGO 2",
+          "horarios": [
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "595ae5b7-e181-4448-93e1-b49eeaf61c6f",
+          "titulo": "NINJA A CUADROS: EL ORIGEN",
+          "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:45",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -113,27 +201,6 @@
           ]
         },
         {
-          "id": "ada1e8d6-9842-43ee-b331-6df8222410dc",
-          "titulo": "GUARDIANES DEL MUSEO 2",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "e9cfeb02-c832-4761-88f1-23ef3cfccd9c",
           "titulo": "EL ÁRBOL MÁGICO",
           "horarios": [
@@ -155,43 +222,6 @@
           ]
         },
         {
-          "id": "2c30fb6a-d15e-4ec0-80ef-7693533833da",
-          "titulo": "VERTIGO 2",
-          "horarios": [
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "595ae5b7-e181-4448-93e1-b49eeaf61c6f",
-          "titulo": "NINJA A CUADROS: EL ORIGEN",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
@@ -204,22 +234,6 @@
               "horario": "19:00",
               "idioma": "Español",
               "formato": "3D"
-            }
-          ]
-        },
-        {
-          "id": "a2b7761b-2ada-4fd5-8eeb-6825110bab71",
-          "titulo": "AVENGERS ENDGAME BONUS",
-          "horarios": [
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
             }
           ]
         },
@@ -288,17 +302,6 @@
               "formato": "2D"
             }
           ]
-        },
-        {
-          "id": "e292befc-9aaf-47ba-8d64-fb4857592d08",
-          "titulo": "LA SOMBRA DEL EXORCISTA",
-          "horarios": [
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
         }
       ]
     },
@@ -306,65 +309,14 @@
       "ciudad": "La Paz - Av Arce",
       "peliculas": [
         {
-          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
-          "titulo": "RESIDENT EVIL: NOCHE CERO",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:05",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "3c561e60-5731-4dba-a34a-5d06a532e0cb",
           "titulo": "AVENGERS ENDGAME BONUS (Infinity Vision)",
           "horarios": [
+            {
+              "horario": "10:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
             {
               "horario": "12:10",
               "idioma": "Español",
@@ -413,9 +365,70 @@
           ]
         },
         {
+          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
+          "titulo": "RESIDENT EVIL: NOCHE CERO",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:05",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
           "titulo": "COYOTE VS ACME",
           "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:20",
               "idioma": "Español",
@@ -463,9 +476,14 @@
               "formato": "2D"
             },
             {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
               "horario": "18:50",
               "idioma": "Español",
-              "formato": "2D PLUS SUB"
+              "formato": "2D PLUS"
             },
             {
               "horario": "19:40",
@@ -489,12 +507,17 @@
           "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
             {
-              "horario": "14:20",
+              "horario": "12:10",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "16:35",
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "17:15",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
@@ -516,89 +539,11 @@
           ]
         },
         {
-          "id": "ada1e8d6-9842-43ee-b331-6df8222410dc",
-          "titulo": "GUARDIANES DEL MUSEO 2",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "42e00f10-77a4-4481-aea4-362f9cb89036",
-          "titulo": "COYOTES: TERROR EN LA CIUDAD",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "e9cfeb02-c832-4761-88f1-23ef3cfccd9c",
-          "titulo": "EL ÁRBOL MÁGICO",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "cc13a9a0-e88f-47ba-9c1a-ff55da794eef",
           "titulo": "DIGGER",
           "horarios": [
             {
-              "horario": "16:50",
+              "horario": "14:30",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
@@ -620,58 +565,21 @@
           ]
         },
         {
-          "id": "aead9835-00af-46e0-b5e7-1b7fa22df94e",
-          "titulo": "LA ISLA OLVIDADA",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "595ae5b7-e181-4448-93e1-b49eeaf61c6f",
-          "titulo": "NINJA A CUADROS: EL ORIGEN",
-          "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "2c30fb6a-d15e-4ec0-80ef-7693533833da",
           "titulo": "VERTIGO 2",
           "horarios": [
             {
-              "horario": "15:10",
+              "horario": "14:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -683,18 +591,76 @@
           ]
         },
         {
-          "id": "a2b7761b-2ada-4fd5-8eeb-6825110bab71",
-          "titulo": "AVENGERS ENDGAME BONUS",
+          "id": "595ae5b7-e181-4448-93e1-b49eeaf61c6f",
+          "titulo": "NINJA A CUADROS: EL ORIGEN",
           "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:10",
               "idioma": "Español",
-              "formato": "3D PLUS"
+              "formato": "2D"
             },
             {
-              "horario": "21:10",
+              "horario": "17:45",
               "idioma": "Español",
-              "formato": "3D PLUS"
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "42e00f10-77a4-4481-aea4-362f9cb89036",
+          "titulo": "COYOTES: TERROR EN LA CIUDAD",
+          "horarios": [
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "d6bfe5a6-f9f9-4643-901a-5e13b5d2b431",
+          "titulo": "CUENTOS DEL JARDÍN MÁGICO",
+          "horarios": [
+            {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "aead9835-00af-46e0-b5e7-1b7fa22df94e",
+          "titulo": "LA ISLA OLVIDADA",
+          "horarios": [
+            {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -709,6 +675,22 @@
             },
             {
               "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "ada1e8d6-9842-43ee-b331-6df8222410dc",
+          "titulo": "GUARDIANES DEL MUSEO 2",
+          "horarios": [
+            {
+              "horario": "15:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -731,11 +713,16 @@
           ]
         },
         {
-          "id": "d6bfe5a6-f9f9-4643-901a-5e13b5d2b431",
-          "titulo": "CUENTOS DEL JARDÍN MÁGICO",
+          "id": "e9cfeb02-c832-4761-88f1-23ef3cfccd9c",
+          "titulo": "EL ÁRBOL MÁGICO",
           "horarios": [
             {
-              "horario": "13:20",
+              "horario": "17:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -747,17 +734,6 @@
           "horarios": [
             {
               "horario": "14:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "45111ff8-9743-4399-bcdd-c1b670f4d536",
-          "titulo": "MÚSICA DE ABAJO",
-          "horarios": [
-            {
-              "horario": "20:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -780,6 +756,32 @@
       "ciudad": "La Paz - Plaza 21 Mall",
       "peliculas": [
         {
+          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
+          "titulo": "EN EL CORAZON DE LA BESTIA",
+          "horarios": [
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "16:45",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
           "id": "60d68d1b-5a43-4e20-a821-a29584fb60cd",
           "titulo": "VERITY: LA SOMBRA DE UN ENGAÑO",
           "horarios": [
@@ -789,12 +791,12 @@
               "formato": "2D PLUS"
             },
             {
-              "horario": "18:30",
+              "horario": "19:00",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "21:00",
+              "horario": "21:30",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
             }
@@ -822,22 +824,6 @@
           ]
         },
         {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
-          "horarios": [
-            {
-              "horario": "12:15",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
           "id": "cc13a9a0-e88f-47ba-9c1a-ff55da794eef",
           "titulo": "DIGGER",
           "horarios": [
@@ -854,38 +840,11 @@
           ]
         },
         {
-          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
-          "titulo": "EN EL CORAZON DE LA BESTIA",
-          "horarios": [
-            {
-              "horario": "20:15",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "1a9459b4-4687-4b3a-8299-3d9d6dc53198",
-          "titulo": "LOS JUEGOS DEL HAMBRE: EN LLAMAS",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ]
-        },
-        {
           "id": "aead9835-00af-46e0-b5e7-1b7fa22df94e",
           "titulo": "LA ISLA OLVIDADA",
           "horarios": [
             {
-              "horario": "14:30",
+              "horario": "12:15",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -896,18 +855,7 @@
           "titulo": "GUARDIANES DEL MUSEO 2",
           "horarios": [
             {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "e9cfeb02-c832-4761-88f1-23ef3cfccd9c",
-          "titulo": "EL ÁRBOL MÁGICO",
-          "horarios": [
-            {
-              "horario": "15:50",
+              "horario": "13:10",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -918,7 +866,29 @@
           "titulo": "VERTIGO 2",
           "horarios": [
             {
-              "horario": "16:20",
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
+          "id": "1a9459b4-4687-4b3a-8299-3d9d6dc53198",
+          "titulo": "LOS JUEGOS DEL HAMBRE: EN LLAMAS",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ]
+        },
+        {
+          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
+          "titulo": "COYOTE VS ACME",
+          "horarios": [
+            {
+              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -981,6 +951,11 @@
           "titulo": "COYOTE VS ACME",
           "horarios": [
             {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "13:20",
               "idioma": "Español",
               "formato": "2D"
@@ -1003,6 +978,53 @@
           ]
         },
         {
+          "id": "ada1e8d6-9842-43ee-b331-6df8222410dc",
+          "titulo": "GUARDIANES DEL MUSEO 2",
+          "horarios": [
+            {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "595ae5b7-e181-4448-93e1-b49eeaf61c6f",
+          "titulo": "NINJA A CUADROS: EL ORIGEN",
+          "horarios": [
+            {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "e9cfeb02-c832-4761-88f1-23ef3cfccd9c",
           "titulo": "EL ÁRBOL MÁGICO",
           "horarios": [
@@ -1018,27 +1040,6 @@
             },
             {
               "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "ada1e8d6-9842-43ee-b331-6df8222410dc",
-          "titulo": "GUARDIANES DEL MUSEO 2",
-          "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1129,6 +1130,22 @@
           ]
         },
         {
+          "id": "d6bfe5a6-f9f9-4643-901a-5e13b5d2b431",
+          "titulo": "CUENTOS DEL JARDÍN MÁGICO",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
@@ -1155,22 +1172,6 @@
             },
             {
               "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "595ae5b7-e181-4448-93e1-b49eeaf61c6f",
-          "titulo": "NINJA A CUADROS: EL ORIGEN",
-          "horarios": [
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1250,21 +1251,10 @@
               "formato": "2D"
             }
           ]
-        },
-        {
-          "id": "d6bfe5a6-f9f9-4643-901a-5e13b5d2b431",
-          "titulo": "CUENTOS DEL JARDÍN MÁGICO",
-          "horarios": [
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
         }
       ]
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "2/10/2026"
+  "fecha": "3/10/2026"
 }
