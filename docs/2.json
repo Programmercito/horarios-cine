@@ -69,6 +69,11 @@
               "formato": "2D"
             },
             {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "17:30",
               "idioma": "Español",
               "formato": "2D"
@@ -275,7 +280,7 @@
           "titulo": "LOS JUEGOS DEL HAMBRE: EN LLAMAS",
           "horarios": [
             {
-              "horario": "16:20",
+              "horario": "16:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -483,7 +488,7 @@
             {
               "horario": "18:50",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D PLUS SUB"
             },
             {
               "horario": "19:40",
@@ -534,7 +539,7 @@
             {
               "horario": "22:10",
               "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
+              "formato": "2D PLUS"
             }
           ]
         },
@@ -1256,5 +1261,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "3/10/2026"
+  "fecha": "4/10/2026"
 }
