@@ -10,15 +10,14 @@
               "horario": "10:45",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
-          "titulo": "RESIDENT EVIL: NOCHE CERO",
-          "horarios": [
+            },
             {
-              "horario": "21:10",
+              "horario": "13:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:35",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -29,7 +28,17 @@
           "titulo": "ISLA OLVIDADA",
           "horarios": [
             {
-              "horario": "15:20",
+              "horario": "10:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -40,19 +49,40 @@
           "titulo": "AVENGERS: ENDGAME",
           "horarios": [
             {
-              "horario": "17:40",
+              "horario": "21:30",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "ea6834f1-381f-40cb-a95a-01e43232a7e9",
-          "titulo": "VERITY",
+          "id": "74726960-2038-4461-a370-a059482bc95b",
+          "titulo": "AVENGERS: ENDGAME",
           "horarios": [
             {
-              "horario": "12:55",
-              "idioma": "Doblado",
+              "horario": "15:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "cc13a9a0-e88f-47ba-9c1a-ff55da794eef",
+          "titulo": "DIGGER",
+          "horarios": [
+            {
+              "horario": "12:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
           ]
@@ -62,5 +92,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "3/10/2026"
+  "fecha": "4/10/2026"
 }
