@@ -44,7 +44,12 @@
               "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "19:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -121,11 +126,6 @@
               "horario": "13:00",
               "idioma": "Doblada",
               "formato": "2D"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Doblada",
-              "formato": "2D"
             }
           ]
         },
@@ -135,11 +135,6 @@
           "horarios": [
             {
               "horario": "17:05",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:35",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -158,11 +153,6 @@
               "horario": "15:20",
               "idioma": "Doblada",
               "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Doblada",
-              "formato": "2D"
             }
           ]
         },
@@ -170,11 +160,6 @@
           "id": "cc13a9a0-e88f-47ba-9c1a-ff55da794eef",
           "titulo": "DIGGER",
           "horarios": [
-            {
-              "horario": "19:10",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
             {
               "horario": "15:30",
               "idioma": "Doblada",
@@ -244,10 +229,31 @@
               "formato": "2D"
             }
           ]
+        },
+        {
+          "id": "b3d6d9fd-1449-4ad4-942a-c104c1fe02cf",
+          "titulo": "LA HIJA CONDOR",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:15",
+              "idioma": "",
+              "formato": "2D"
+            }
+          ]
         }
       ]
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "4/10/2026"
+  "fecha": "5/10/2026"
 }
