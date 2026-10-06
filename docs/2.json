@@ -171,11 +171,6 @@
               "formato": "2D"
             },
             {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "3D"
-            },
-            {
               "horario": "21:45",
               "idioma": "Español",
               "formato": "3D"
@@ -262,6 +257,22 @@
           ]
         },
         {
+          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
+          "titulo": "EN EL CORAZON DE LA BESTIA",
+          "horarios": [
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "595ae5b7-e181-4448-93e1-b49eeaf61c6f",
           "titulo": "NINJA A CUADROS: EL ORIGEN",
           "horarios": [
@@ -289,17 +300,6 @@
           "horarios": [
             {
               "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
-          "titulo": "EN EL CORAZON DE LA BESTIA",
-          "horarios": [
-            {
-              "horario": "21:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -434,6 +434,11 @@
               "horario": "22:40",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D PLUS"
             }
           ]
         },
@@ -441,11 +446,6 @@
           "id": "3c561e60-5731-4dba-a34a-5d06a532e0cb",
           "titulo": "AVENGERS ENDGAME BONUS (Infinity Vision)",
           "horarios": [
-            {
-              "horario": "09:00",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
             {
               "horario": "09:20",
               "idioma": "Español",
@@ -482,9 +482,9 @@
               "formato": "2D XL"
             },
             {
-              "horario": "23:40",
+              "horario": "23:10",
               "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "formato": "3D XL"
             }
           ]
         },
@@ -554,6 +554,11 @@
           "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
             {
+              "horario": "10:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
               "horario": "10:40",
               "idioma": "Español",
               "formato": "2D"
@@ -574,11 +579,6 @@
               "formato": "2D"
             },
             {
-              "horario": "16:35",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
               "horario": "19:00",
               "idioma": "Español",
               "formato": "2D PLUS"
@@ -597,42 +597,11 @@
               "horario": "21:40",
               "idioma": "Español",
               "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
-          "titulo": "SPIDERMAN: UN NUEVO DÍA",
-          "horarios": [
-            {
-              "horario": "10:55",
-              "idioma": "Español",
-              "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "23:45",
               "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:55",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:55",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "23:10",
-              "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D PLUS"
             }
           ]
         },
@@ -673,28 +642,28 @@
           ]
         },
         {
-          "id": "60d68d1b-5a43-4e20-a821-a29584fb60cd",
-          "titulo": "VERITY: LA SOMBRA DE UN ENGAÑO",
+          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
+          "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
-              "horario": "10:10",
+              "horario": "09:15",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D XL"
             },
             {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "19:00",
+              "horario": "20:55",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:10",
+              "horario": "22:40",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
+            },
+            {
+              "horario": "22:55",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -720,8 +689,50 @@
           ]
         },
         {
-          "id": "595ae5b7-e181-4448-93e1-b49eeaf61c6f",
-          "titulo": "NINJA A CUADROS: EL ORIGEN",
+          "id": "ada1e8d6-9842-43ee-b331-6df8222410dc",
+          "titulo": "GUARDIANES DEL MUSEO 2",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "60d68d1b-5a43-4e20-a821-a29584fb60cd",
+          "titulo": "VERITY: LA SOMBRA DE UN ENGAÑO",
+          "horarios": [
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
+          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
+          "titulo": "LA ODISEA",
           "horarios": [
             {
               "horario": "10:20",
@@ -729,35 +740,9 @@
               "formato": "2D"
             },
             {
-              "horario": "12:10",
+              "horario": "13:50",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "17:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "cc13a9a0-e88f-47ba-9c1a-ff55da794eef",
-          "titulo": "DIGGER",
-          "horarios": [
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "18:25",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
             }
           ]
         },
@@ -794,6 +779,22 @@
           ]
         },
         {
+          "id": "cc13a9a0-e88f-47ba-9c1a-ff55da794eef",
+          "titulo": "DIGGER",
+          "horarios": [
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "18:25",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "42e00f10-77a4-4481-aea4-362f9cb89036",
           "titulo": "COYOTES: TERROR EN LA CIUDAD",
           "horarios": [
@@ -816,22 +817,11 @@
           ]
         },
         {
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
-          "titulo": "LA ODISEA",
+          "id": "595ae5b7-e181-4448-93e1-b49eeaf61c6f",
+          "titulo": "NINJA A CUADROS: EL ORIGEN",
           "horarios": [
             {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "ada1e8d6-9842-43ee-b331-6df8222410dc",
-          "titulo": "GUARDIANES DEL MUSEO 2",
-          "horarios": [
-            {
-              "horario": "15:45",
+              "horario": "17:15",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -890,6 +880,27 @@
           ]
         },
         {
+          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
+          "titulo": "RESIDENT EVIL: NOCHE CERO",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
           "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
           "titulo": "COYOTE VS ACME",
           "horarios": [
@@ -911,22 +922,6 @@
           ]
         },
         {
-          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
-          "titulo": "RESIDENT EVIL: NOCHE CERO",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
           "id": "a2b7761b-2ada-4fd5-8eeb-6825110bab71",
           "titulo": "AVENGERS ENDGAME BONUS",
           "horarios": [
@@ -937,22 +932,6 @@
             },
             {
               "horario": "20:30",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ]
-        },
-        {
-          "id": "60d68d1b-5a43-4e20-a821-a29584fb60cd",
-          "titulo": "VERITY: LA SOMBRA DE UN ENGAÑO",
-          "horarios": [
-            {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "19:40",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
             }
@@ -1004,6 +983,17 @@
               "horario": "16:00",
               "idioma": "Español",
               "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
+          "id": "60d68d1b-5a43-4e20-a821-a29584fb60cd",
+          "titulo": "VERITY: LA SOMBRA DE UN ENGAÑO",
+          "horarios": [
+            {
+              "horario": "19:40",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             }
           ]
         },
@@ -1127,6 +1117,73 @@
               "horario": "19:30",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
+          "titulo": "COYOTE VS ACME",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
+          "titulo": "SPIDERMAN: UN NUEVO DÍA",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -1183,58 +1240,6 @@
           ]
         },
         {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
-          "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
-          "titulo": "SPIDERMAN: UN NUEVO DÍA",
-          "horarios": [
-            {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "60d68d1b-5a43-4e20-a821-a29584fb60cd",
           "titulo": "VERITY: LA SOMBRA DE UN ENGAÑO",
           "horarios": [
@@ -1272,8 +1277,8 @@
           ]
         },
         {
-          "id": "cc13a9a0-e88f-47ba-9c1a-ff55da794eef",
-          "titulo": "DIGGER",
+          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
+          "titulo": "LA ODISEA",
           "horarios": [
             {
               "horario": "13:20",
@@ -1282,8 +1287,8 @@
             },
             {
               "horario": "22:15",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -1337,8 +1342,8 @@
           ]
         },
         {
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
-          "titulo": "LA ODISEA",
+          "id": "cc13a9a0-e88f-47ba-9c1a-ff55da794eef",
+          "titulo": "DIGGER",
           "horarios": [
             {
               "horario": "13:20",
@@ -1357,21 +1362,10 @@
               "formato": "2D"
             }
           ]
-        },
-        {
-          "id": "1a9459b4-4687-4b3a-8299-3d9d6dc53198",
-          "titulo": "LOS JUEGOS DEL HAMBRE: EN LLAMAS",
-          "horarios": [
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
         }
       ]
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "5/10/2026"
+  "fecha": "6/10/2026"
 }
