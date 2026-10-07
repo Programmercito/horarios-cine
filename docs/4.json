@@ -8,38 +8,28 @@
           "horarios": [
             {
               "idioma": "Doblada",
-              "formato": "3D",
-              "horario": "10:20"
+              "formato": "2D",
+              "horario": "13:00"
             },
             {
               "idioma": "Doblada",
-              "formato": "3D",
+              "formato": "2D",
+              "horario": "16:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
               "horario": "20:30"
             },
             {
               "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "11:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "15:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "22:30"
+              "formato": "3D",
+              "horario": "20:20"
             },
             {
               "idioma": "Subtitulada",
               "formato": "3D",
-              "horario": "Agotado\n\n21:10"
+              "horario": "21:10"
             }
           ],
           "id": "b0998efb-4a73-4cd0-98c9-431e77841514"
@@ -50,22 +40,27 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "14:00"
+              "horario": "11:10"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "17:00"
+              "horario": "13:40"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "19:30"
+              "horario": "16:20"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "22:10"
+              "horario": "19:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "21:50"
             },
             {
               "idioma": "Doblada",
@@ -96,36 +91,6 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "10:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "14:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "16:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "21:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "23:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
               "horario": "10:30"
             },
             {
@@ -136,28 +101,22 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "Agotado\n\n19:00"
-            }
-          ],
-          "id": "42f4c71d-73f8-4bc5-be13-08fa2ad78394"
-        },
-        {
-          "titulo": "EL CORAZÓN DE LA BESTIA",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "11:10"
+              "horario": "16:20"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "13:20"
+              "horario": "10:40"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "15:30"
+              "horario": "13:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "15:20"
             },
             {
               "idioma": "Doblada",
@@ -167,42 +126,73 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "19:50"
+              "horario": "20:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:20"
+            }
+          ],
+          "id": "42f4c71d-73f8-4bc5-be13-08fa2ad78394"
+        },
+        {
+          "titulo": "EL CORAZÓN DE LA BESTIA",
+          "horarios": [
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "10:20"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "12:30"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "14:40"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "17:00"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "19:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "10:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "12:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "15:05"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "17:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:40"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
               "horario": "22:00"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D",
-              "horario": "12:00"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D",
-              "horario": "14:10"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D",
-              "horario": "16:20"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D",
-              "horario": "18:30"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D",
-              "horario": "20:40"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D",
-              "horario": "22:50"
             }
           ],
           "id": "ebbee9c9-edf1-496c-93bb-0eddc652707c"
@@ -248,12 +238,17 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "11:10"
+              "horario": "11:00"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "13:10"
+              "horario": "11:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "13:00"
             },
             {
               "idioma": "Doblada",
@@ -266,53 +261,12 @@
               "horario": "17:10"
             },
             {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "13:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "20:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "22:20"
-            },
-            {
               "idioma": "Subtitulada",
               "formato": "2D",
               "horario": "19:10"
             }
           ],
           "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef"
-        },
-        {
-          "titulo": "DIGGER",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "10:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "13:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "16:10"
-            }
-          ],
-          "id": "cc13a9a0-e88f-47ba-9c1a-ff55da794eef"
         },
         {
           "titulo": "LOS JUEGOS DEL HAMBRE: EN LLAMAS [2013]",
@@ -331,14 +285,25 @@
             {
               "idioma": "Subtitulada",
               "formato": "2D",
-              "horario": "15:50"
+              "horario": "18:40"
             }
           ],
           "id": "ddd4846c-4d6d-49ee-b90c-826e4d7ced65"
+        },
+        {
+          "titulo": "QUEEN BUDAPEST",
+          "horarios": [
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "20:00"
+            }
+          ],
+          "id": "8ed0d9f3-3f34-4cfc-b817-547ad731da7a"
         }
       ]
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "6/10/2026"
+  "fecha": "7/10/2026"
 }
