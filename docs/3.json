@@ -7,17 +7,33 @@
           "titulo": "COYOTE VS ACME",
           "horarios": [
             {
-              "horario": "10:45",
+              "horario": "12:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f",
+          "titulo": "MADRE SINIESTRA",
+          "horarios": [
+            {
+              "horario": "17:20",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "13:00",
+              "horario": "19:20",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "19:35",
+              "horario": "10:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -28,28 +44,7 @@
           "titulo": "ISLA OLVIDADA",
           "horarios": [
             {
-              "horario": "10:45",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "74726960-2038-4461-a370-a059482bc95b",
-          "titulo": "AVENGERS: ENDGAME",
-          "horarios": [
-            {
-              "horario": "21:30",
+              "horario": "15:00",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -72,17 +67,12 @@
           ]
         },
         {
-          "id": "cc13a9a0-e88f-47ba-9c1a-ff55da794eef",
-          "titulo": "DIGGER",
+          "id": "580b67cd-0769-47af-86d5-db5317beb860",
+          "titulo": "CARS",
           "horarios": [
             {
-              "horario": "12:45",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "DOB. AL ESPAÑOL",
+              "horario": "10:30",
+              "idioma": "Doblado",
               "formato": "2D"
             }
           ]
@@ -92,5 +82,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "7/10/2026"
+  "fecha": "8/10/2026"
 }
