@@ -9,6 +9,11 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
+              "horario": "10:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
               "horario": "13:00"
             },
             {
@@ -22,31 +27,6 @@
               "horario": "19:40"
             },
             {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "14:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "16:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "20:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "22:40"
-            },
-            {
               "idioma": "Subtitulada",
               "formato": "2D",
               "horario": "17:30"
@@ -55,6 +35,21 @@
               "idioma": "Subtitulada",
               "formato": "2D",
               "horario": "21:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "17:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "20:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:10"
             }
           ],
           "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f"
@@ -65,22 +60,7 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "12:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "14:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "17:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "19:50"
+              "horario": "10:30"
             },
             {
               "idioma": "Doblada",
@@ -100,7 +80,22 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "14:10"
+              "horario": "12:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "14:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "17:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "12:30"
             },
             {
               "idioma": "Doblada",
@@ -121,7 +116,7 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "18:40"
+              "horario": "18:30"
             },
             {
               "idioma": "Subtitulada",
@@ -134,11 +129,6 @@
         {
           "titulo": "HOPE EL PRIMER IMPACTO",
           "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "13:40"
-            },
             {
               "idioma": "Doblada",
               "formato": "2D",
@@ -157,6 +147,11 @@
           "horarios": [
             {
               "idioma": "Doblada",
+              "formato": "3D",
+              "horario": "13:00"
+            },
+            {
+              "idioma": "Doblada",
               "formato": "2D",
               "horario": "20:40"
             }
@@ -166,6 +161,11 @@
         {
           "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "11:40"
+            },
             {
               "idioma": "Doblada",
               "formato": "2D",
@@ -190,11 +190,6 @@
               "idioma": "Doblada",
               "formato": "2D",
               "horario": "22:30"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D",
-              "horario": "22:20"
             }
           ],
           "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef"
@@ -202,6 +197,11 @@
         {
           "titulo": "EL CORAZÓN DE LA BESTIA",
           "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "10:20"
+            },
             {
               "idioma": "Doblada",
               "formato": "2D",
@@ -226,6 +226,11 @@
               "idioma": "Doblada",
               "formato": "2D",
               "horario": "22:10"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "12:00"
             },
             {
               "idioma": "Subtitulada",
@@ -256,17 +261,12 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "13:00"
+              "horario": "10:50"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "15:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "19:40"
+              "horario": "13:20"
             }
           ],
           "id": "55c54c9d-f51a-4481-9edf-260ab20d826b"
@@ -275,5 +275,5 @@
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "9/10/2026"
+  "fecha": "10/10/2026"
 }
