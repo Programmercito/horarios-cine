@@ -97,6 +97,27 @@
           ]
         },
         {
+          "id": "3c561e60-5731-4dba-a34a-5d06a532e0cb",
+          "titulo": "AVENGERS ENDGAME BONUS (Infinity Vision)",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "Español",
+              "formato": "3D XL - 3D XL KRONOS"
+            }
+          ]
+        },
+        {
           "id": "de0b7825-f22b-4454-ad05-4d299c008ae0",
           "titulo": "HOPE: EL PRIMER IMPACTO",
           "horarios": [
@@ -240,6 +261,11 @@
           "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
           "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -411,6 +437,37 @@
           ]
         },
         {
+          "id": "580b67cd-0769-47af-86d5-db5317beb860",
+          "titulo": "CARS",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
           "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
@@ -442,32 +499,6 @@
           ]
         },
         {
-          "id": "580b67cd-0769-47af-86d5-db5317beb860",
-          "titulo": "CARS",
-          "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            }
-          ]
-        },
-        {
           "id": "de0b7825-f22b-4454-ad05-4d299c008ae0",
           "titulo": "HOPE: EL PRIMER IMPACTO",
           "horarios": [
@@ -488,6 +519,27 @@
             },
             {
               "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "55c54c9d-f51a-4481-9edf-260ab20d826b",
+          "titulo": "RELAJADAS Y MUY PELIGROSAS",
+          "horarios": [
+            {
+              "horario": "13:50",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -602,17 +654,6 @@
               "horario": "13:10",
               "idioma": "Español",
               "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "55c54c9d-f51a-4481-9edf-260ab20d826b",
-          "titulo": "RELAJADAS Y MUY PELIGROSAS",
-          "horarios": [
-            {
-              "horario": "13:50",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
             }
           ]
         },
@@ -747,17 +788,6 @@
               "horario": "14:45",
               "idioma": "Español",
               "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "c12c48d5-0b44-4cf9-ab4a-83862be19475",
-          "titulo": "BEN HUR",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
             }
           ]
         },
@@ -1136,5 +1166,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "10/10/2026"
+  "fecha": "11/10/2026"
 }
