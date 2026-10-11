@@ -209,6 +209,11 @@
           "titulo": "RELAJADAS Y MUY PELIGROSAS",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
               "horario": "14:35",
               "idioma": "Doblada",
               "formato": "2D"
@@ -251,6 +256,11 @@
           "titulo": "TERROR EN EL VUELO",
           "horarios": [
             {
+              "horario": "12:50",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
               "horario": "16:25",
               "idioma": "Doblada",
               "formato": "2D"
@@ -261,5 +271,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "10/10/2026"
+  "fecha": "11/10/2026"
 }
