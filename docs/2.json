@@ -4,42 +4,6 @@
       "ciudad": "El Alto",
       "peliculas": [
         {
-          "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f",
-          "titulo": "MADRE SINIESTRA",
-          "horarios": [
-            {
-              "horario": "11:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:35",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "19:45",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            }
-          ]
-        },
-        {
           "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
           "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
@@ -76,21 +40,57 @@
           ]
         },
         {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
+          "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f",
+          "titulo": "MADRE SINIESTRA",
           "horarios": [
             {
-              "horario": "11:50",
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "15:35",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            }
+          ]
+        },
+        {
+          "id": "b3a6bb65-442b-4c9d-8bdd-20a6c24cef03",
+          "titulo": "TERROR EN EL VUELO",
+          "horarios": [
+            {
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "14:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -118,21 +118,42 @@
           ]
         },
         {
+          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
+          "titulo": "COYOTE VS ACME",
+          "horarios": [
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "de0b7825-f22b-4454-ad05-4d299c008ae0",
           "titulo": "HOPE: EL PRIMER IMPACTO",
           "horarios": [
             {
-              "horario": "16:15",
+              "horario": "15:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:15",
+              "horario": "19:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:15",
+              "horario": "22:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -160,16 +181,76 @@
           ]
         },
         {
-          "id": "b3a6bb65-442b-4c9d-8bdd-20a6c24cef03",
-          "titulo": "TERROR EN EL VUELO",
+          "id": "55c54c9d-f51a-4481-9edf-260ab20d826b",
+          "titulo": "RELAJADAS Y MUY PELIGROSAS",
           "horarios": [
             {
-              "horario": "20:00",
+              "horario": "13:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "580b67cd-0769-47af-86d5-db5317beb860",
+          "titulo": "CARS",
+          "horarios": [
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "ada1e8d6-9842-43ee-b331-6df8222410dc",
+          "titulo": "GUARDIANES DEL MUSEO 2",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "595ae5b7-e181-4448-93e1-b49eeaf61c6f",
+          "titulo": "NINJA A CUADROS: EL ORIGEN",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "aead9835-00af-46e0-b5e7-1b7fa22df94e",
+          "titulo": "LA ISLA OLVIDADA",
+          "horarios": [
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "e9cfeb02-c832-4761-88f1-23ef3cfccd9c",
+          "titulo": "EL ÁRBOL MÁGICO",
+          "horarios": [
+            {
+              "horario": "13:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -198,17 +279,6 @@
           ]
         },
         {
-          "id": "580b67cd-0769-47af-86d5-db5317beb860",
-          "titulo": "CARS",
-          "horarios": [
-            {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
@@ -216,17 +286,6 @@
               "horario": "19:30",
               "idioma": "Español",
               "formato": "3D"
-            }
-          ]
-        },
-        {
-          "id": "55c54c9d-f51a-4481-9edf-260ab20d826b",
-          "titulo": "RELAJADAS Y MUY PELIGROSAS",
-          "horarios": [
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ]
         },
@@ -262,19 +321,24 @@
           "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
             {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "14:00",
               "idioma": "Español",
               "formato": "2D XL"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "16:00",
@@ -323,9 +387,14 @@
           "titulo": "MADRE SINIESTRA",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "13:40",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
+            },
+            {
+              "horario": "15:35",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "16:00",
@@ -356,47 +425,6 @@
               "horario": "22:45",
               "idioma": "Español",
               "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ]
         },
@@ -437,31 +465,36 @@
           ]
         },
         {
-          "id": "580b67cd-0769-47af-86d5-db5317beb860",
-          "titulo": "CARS",
+          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
+          "titulo": "COYOTE VS ACME",
           "horarios": [
             {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "14:40",
+              "horario": "13:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:30",
+              "horario": "14:40",
               "idioma": "Español",
-              "formato": "4D E-MOTION"
+              "formato": "2D PLUS"
             },
             {
-              "horario": "17:10",
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -525,30 +558,14 @@
           ]
         },
         {
-          "id": "55c54c9d-f51a-4481-9edf-260ab20d826b",
-          "titulo": "RELAJADAS Y MUY PELIGROSAS",
-          "horarios": [
-            {
-              "horario": "13:50",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "b3a6bb65-442b-4c9d-8bdd-20a6c24cef03",
           "titulo": "TERROR EN EL VUELO",
           "horarios": [
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "17:50",
               "idioma": "Español",
@@ -567,16 +584,37 @@
           ]
         },
         {
-          "id": "ada1e8d6-9842-43ee-b331-6df8222410dc",
-          "titulo": "GUARDIANES DEL MUSEO 2",
+          "id": "2c30fb6a-d15e-4ec0-80ef-7693533833da",
+          "titulo": "VERTIGO 2",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "17:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "12:50",
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
+          "titulo": "SPIDERMAN: UN NUEVO DÍA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:45",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -595,6 +633,38 @@
               "horario": "18:10",
               "idioma": "Español",
               "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
+          "id": "ada1e8d6-9842-43ee-b331-6df8222410dc",
+          "titulo": "GUARDIANES DEL MUSEO 2",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "580b67cd-0769-47af-86d5-db5317beb860",
+          "titulo": "CARS",
+          "horarios": [
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
             }
           ]
         },
@@ -647,13 +717,24 @@
           ]
         },
         {
-          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
-          "titulo": "SPIDERMAN: UN NUEVO DÍA",
+          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
+          "titulo": "LA ODISEA",
           "horarios": [
             {
-              "horario": "13:10",
+              "horario": "13:20",
               "idioma": "Español",
               "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "55c54c9d-f51a-4481-9edf-260ab20d826b",
+          "titulo": "RELAJADAS Y MUY PELIGROSAS",
+          "horarios": [
+            {
+              "horario": "13:50",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             }
           ]
         },
@@ -712,22 +793,6 @@
               "horario": "21:30",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
-            }
-          ]
-        },
-        {
-          "id": "580b67cd-0769-47af-86d5-db5317beb860",
-          "titulo": "CARS",
-          "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
             }
           ]
         },
@@ -792,6 +857,17 @@
           ]
         },
         {
+          "id": "580b67cd-0769-47af-86d5-db5317beb860",
+          "titulo": "CARS",
+          "horarios": [
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
           "id": "de0b7825-f22b-4454-ad05-4d299c008ae0",
           "titulo": "HOPE: EL PRIMER IMPACTO",
           "horarios": [
@@ -830,37 +906,6 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
-          "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f",
-          "titulo": "MADRE SINIESTRA",
-          "horarios": [
-            {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ]
-        },
-        {
           "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
           "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
@@ -897,52 +942,31 @@
           ]
         },
         {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
+          "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f",
+          "titulo": "MADRE SINIESTRA",
           "horarios": [
             {
-              "horario": "10:50",
+              "horario": "13:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:00",
+              "horario": "15:35",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:10",
+              "horario": "17:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
-          "titulo": "EN EL CORAZON DE LA BESTIA",
-          "horarios": [
-            {
-              "horario": "11:10",
+              "horario": "19:45",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
+              "horario": "21:50",
               "idioma": "Ingles",
               "formato": "2D SUB"
             }
@@ -1012,6 +1036,48 @@
           ]
         },
         {
+          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
+          "titulo": "COYOTE VS ACME",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
+          "titulo": "EN EL CORAZON DE LA BESTIA",
+          "horarios": [
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ]
+        },
+        {
           "id": "de0b7825-f22b-4454-ad05-4d299c008ae0",
           "titulo": "HOPE: EL PRIMER IMPACTO",
           "horarios": [
@@ -1028,7 +1094,7 @@
             {
               "horario": "22:10",
               "idioma": "Ingles",
-              "formato": "2D SUB"
+              "formato": "2D"
             }
           ]
         },
@@ -1166,5 +1232,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "11/10/2026"
+  "fecha": "12/10/2026"
 }
