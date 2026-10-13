@@ -8,11 +8,6 @@
           "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
             {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
               "horario": "14:00",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
@@ -44,11 +39,6 @@
           "titulo": "MADRE SINIESTRA",
           "horarios": [
             {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
               "horario": "15:35",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
@@ -75,11 +65,6 @@
           "titulo": "TERROR EN EL VUELO",
           "horarios": [
             {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "14:00",
               "idioma": "Español",
               "formato": "2D"
@@ -100,11 +85,6 @@
           "id": "3c561e60-5731-4dba-a34a-5d06a532e0cb",
           "titulo": "AVENGERS ENDGAME BONUS (Infinity Vision)",
           "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "3D XL - 3D XL KRONOS"
-            },
             {
               "horario": "16:10",
               "idioma": "Español",
@@ -185,72 +165,7 @@
           "titulo": "RELAJADAS Y MUY PELIGROSAS",
           "horarios": [
             {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "580b67cd-0769-47af-86d5-db5317beb860",
-          "titulo": "CARS",
-          "horarios": [
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "ada1e8d6-9842-43ee-b331-6df8222410dc",
-          "titulo": "GUARDIANES DEL MUSEO 2",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "595ae5b7-e181-4448-93e1-b49eeaf61c6f",
-          "titulo": "NINJA A CUADROS: EL ORIGEN",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "aead9835-00af-46e0-b5e7-1b7fa22df94e",
-          "titulo": "LA ISLA OLVIDADA",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "e9cfeb02-c832-4761-88f1-23ef3cfccd9c",
-          "titulo": "EL ÁRBOL MÁGICO",
-          "horarios": [
-            {
-              "horario": "13:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -273,6 +188,17 @@
           "horarios": [
             {
               "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "580b67cd-0769-47af-86d5-db5317beb860",
+          "titulo": "CARS",
+          "horarios": [
+            {
+              "horario": "17:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -320,16 +246,6 @@
           "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
           "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "14:00",
               "idioma": "Español",
@@ -387,11 +303,6 @@
           "titulo": "MADRE SINIESTRA",
           "horarios": [
             {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "15:35",
               "idioma": "Español",
               "formato": "2D"
@@ -433,11 +344,6 @@
           "titulo": "AVENGERS ENDGAME BONUS (Infinity Vision)",
           "horarios": [
             {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
               "horario": "16:40",
               "idioma": "Español",
               "formato": "2D XL"
@@ -468,11 +374,6 @@
           "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
           "titulo": "COYOTE VS ACME",
           "horarios": [
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "14:40",
               "idioma": "Español",
@@ -505,11 +406,6 @@
           "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
             {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
               "horario": "16:40",
               "idioma": "Español",
               "formato": "2D"
@@ -536,11 +432,6 @@
           "titulo": "HOPE: EL PRIMER IMPACTO",
           "horarios": [
             {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "15:50",
               "idioma": "Español",
               "formato": "2D"
@@ -561,11 +452,6 @@
           "id": "b3a6bb65-442b-4c9d-8bdd-20a6c24cef03",
           "titulo": "TERROR EN EL VUELO",
           "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "17:50",
               "idioma": "Español",
@@ -609,11 +495,6 @@
           "titulo": "SPIDERMAN: UN NUEVO DÍA",
           "horarios": [
             {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "14:45",
               "idioma": "Español",
               "formato": "2D"
@@ -624,11 +505,6 @@
           "id": "60d68d1b-5a43-4e20-a821-a29584fb60cd",
           "titulo": "VERITY: LA SOMBRA DE UN ENGAÑO",
           "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
             {
               "horario": "18:10",
               "idioma": "Español",
@@ -641,11 +517,6 @@
           "titulo": "GUARDIANES DEL MUSEO 2",
           "horarios": [
             {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "14:10",
               "idioma": "Español",
               "formato": "2D"
@@ -656,11 +527,6 @@
           "id": "580b67cd-0769-47af-86d5-db5317beb860",
           "titulo": "CARS",
           "horarios": [
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
             {
               "horario": "15:30",
               "idioma": "Español",
@@ -717,17 +583,6 @@
           ]
         },
         {
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
-          "titulo": "LA ODISEA",
-          "horarios": [
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "55c54c9d-f51a-4481-9edf-260ab20d826b",
           "titulo": "RELAJADAS Y MUY PELIGROSAS",
           "horarios": [
@@ -758,11 +613,6 @@
           "id": "a2b7761b-2ada-4fd5-8eeb-6825110bab71",
           "titulo": "AVENGERS ENDGAME BONUS",
           "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
             {
               "horario": "16:10",
               "idioma": "Español",
@@ -813,39 +663,6 @@
           ]
         },
         {
-          "id": "7b45a54d-9100-4d74-9d2c-670242abe1cd",
-          "titulo": "LOS JUEGOS DEL HAMBRE: SINSAJO - PARTE 1",
-          "horarios": [
-            {
-              "horario": "12:20",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ]
-        },
-        {
-          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
-          "titulo": "RESIDENT EVIL: NOCHE CERO",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "55c54c9d-f51a-4481-9edf-260ab20d826b",
-          "titulo": "RELAJADAS Y MUY PELIGROSAS",
-          "horarios": [
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
           "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
           "titulo": "COYOTE VS ACME",
           "horarios": [
@@ -853,6 +670,17 @@
               "horario": "14:45",
               "idioma": "Español",
               "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
+          "id": "c12c48d5-0b44-4cf9-ab4a-83862be19475",
+          "titulo": "BEN HUR",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             }
           ]
         },
@@ -910,11 +738,6 @@
           "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
             {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "14:00",
               "idioma": "Español",
               "formato": "2D"
@@ -946,11 +769,6 @@
           "titulo": "MADRE SINIESTRA",
           "horarios": [
             {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "15:35",
               "idioma": "Español",
               "formato": "2D"
@@ -977,11 +795,6 @@
           "titulo": "RELAJADAS Y MUY PELIGROSAS",
           "horarios": [
             {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "14:00",
               "idioma": "Español",
               "formato": "2D"
@@ -997,11 +810,6 @@
           "id": "b3a6bb65-442b-4c9d-8bdd-20a6c24cef03",
           "titulo": "TERROR EN EL VUELO",
           "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "18:45",
               "idioma": "Español",
@@ -1057,27 +865,6 @@
           ]
         },
         {
-          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
-          "titulo": "EN EL CORAZON DE LA BESTIA",
-          "horarios": [
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ]
-        },
-        {
           "id": "de0b7825-f22b-4454-ad05-4d299c008ae0",
           "titulo": "HOPE: EL PRIMER IMPACTO",
           "horarios": [
@@ -1102,11 +889,6 @@
           "id": "7b45a54d-9100-4d74-9d2c-670242abe1cd",
           "titulo": "LOS JUEGOS DEL HAMBRE: SINSAJO - PARTE 1",
           "horarios": [
-            {
-              "horario": "12:20",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
             {
               "horario": "19:00",
               "idioma": "Español",
@@ -1163,33 +945,16 @@
           ]
         },
         {
-          "id": "a46be5f9-3399-4527-9dc3-5ee3b43671c3",
-          "titulo": "LA ODISEA",
+          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
+          "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "19:30",
               "idioma": "Español",
               "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "e9cfeb02-c832-4761-88f1-23ef3cfccd9c",
-          "titulo": "EL ÁRBOL MÁGICO",
-          "horarios": [
+            },
             {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "cc13a9a0-e88f-47ba-9c1a-ff55da794eef",
-          "titulo": "DIGGER",
-          "horarios": [
-            {
-              "horario": "13:20",
+              "horario": "21:40",
               "idioma": "Ingles",
               "formato": "2D SUB"
             }
@@ -1232,5 +997,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "12/10/2026"
+  "fecha": "13/10/2026"
 }
