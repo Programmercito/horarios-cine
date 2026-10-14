@@ -40,12 +40,12 @@
           "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "11:40",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "13:45",
+              "horario": "16:10",
               "idioma": "Doblada",
               "formato": "2D"
             },
@@ -55,7 +55,12 @@
               "formato": "2D"
             },
             {
-              "horario": "22:05",
+              "horario": "19:40",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:25",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -66,12 +71,22 @@
           "titulo": "SPIDER-MAN: UN NUEVO DÍA",
           "horarios": [
             {
+              "horario": "11:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
               "horario": "16:20",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "21:20",
+              "horario": "19:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -82,7 +97,17 @@
           "titulo": "EN EL CORAZÓN DE LA BESTIA",
           "horarios": [
             {
+              "horario": "16:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
               "horario": "20:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:55",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -93,12 +118,12 @@
           "titulo": "LA ISLA OLVIDADA",
           "horarios": [
             {
-              "horario": "12:50",
+              "horario": "11:00",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "16:40",
+              "horario": "13:00",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -125,12 +150,7 @@
           "titulo": "DIGGER",
           "horarios": [
             {
-              "horario": "15:30",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
+              "horario": "13:45",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -141,12 +161,12 @@
           "titulo": "MADRE SINIESTRA",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "15:00",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "14:50",
+              "horario": "16:50",
               "idioma": "Doblada",
               "formato": "2D"
             },
@@ -191,11 +211,6 @@
               "horario": "14:00",
               "idioma": "Doblada",
               "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Doblada",
-              "formato": "2D"
             }
           ]
         },
@@ -209,17 +224,12 @@
               "formato": "2D"
             },
             {
-              "horario": "14:35",
+              "horario": "14:30",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
               "horario": "18:10",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:55",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -254,11 +264,6 @@
               "horario": "12:50",
               "idioma": "Doblada",
               "formato": "2D"
-            },
-            {
-              "horario": "16:25",
-              "idioma": "Doblada",
-              "formato": "2D"
             }
           ]
         }
@@ -266,5 +271,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "13/10/2026"
+  "fecha": "14/10/2026"
 }
