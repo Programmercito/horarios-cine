@@ -7,7 +7,7 @@
           "titulo": "COYOTE VS ACME",
           "horarios": [
             {
-              "horario": "12:50",
+              "horario": "10:40",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -18,33 +18,7 @@
           "titulo": "MADRE SINIESTRA",
           "horarios": [
             {
-              "horario": "17:20",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "10:50",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
               "horario": "22:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "c4fc836f-9d16-44d7-a72a-86d2aac0aaea",
-          "titulo": "ISLA OLVIDADA",
-          "horarios": [
-            {
-              "horario": "15:00",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -55,24 +29,24 @@
           "titulo": "AVENGERS: ENDGAME",
           "horarios": [
             {
-              "horario": "15:00",
+              "horario": "21:40",
               "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
+              "formato": "2D"
             }
           ]
         },
         {
-          "id": "580b67cd-0769-47af-86d5-db5317beb860",
-          "titulo": "CARS",
+          "id": "3629c5b8-6480-4a3e-a288-91b266275a24",
+          "titulo": "LA CAIDA DE LA BALLENA",
           "horarios": [
             {
-              "horario": "10:30",
-              "idioma": "Doblado",
+              "horario": "15:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:25",
+              "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
           ]
@@ -82,5 +56,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "14/10/2026"
+  "fecha": "15/10/2026"
 }
