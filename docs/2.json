@@ -4,71 +4,14 @@
       "ciudad": "El Alto",
       "peliculas": [
         {
-          "id": "ca56fad3-d210-4bce-a6f9-c7de8c81db2c",
-          "titulo": "STREET FIGTHER",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "17:15",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            }
-          ]
-        },
-        {
-          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
-          "titulo": "RESIDENT EVIL: NOCHE CERO",
-          "horarios": [
-            {
-              "horario": "12:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:45",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            }
-          ]
-        },
-        {
           "id": "148a063f-ce94-4d28-9d36-b497d45a2ac3",
           "titulo": "EKEKO",
           "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
             {
               "horario": "15:00",
               "idioma": "Español",
@@ -97,11 +40,42 @@
           ]
         },
         {
+          "id": "ca56fad3-d210-4bce-a6f9-c7de8c81db2c",
+          "titulo": "STREET FIGTHER",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            }
+          ]
+        },
+        {
           "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
           "titulo": "COYOTE VS ACME",
           "horarios": [
             {
-              "horario": "12:40",
+              "horario": "10:50",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -118,32 +92,32 @@
           ]
         },
         {
-          "id": "02163cad-c805-4a33-b7f7-ba3a98eb82b4",
-          "titulo": "LA CAÍDA DE LA BALLENA",
+          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
+          "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
             {
-              "horario": "13:40",
+              "horario": "16:45",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:50",
+              "horario": "19:45",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL - 2D XL KRONOS"
             },
             {
-              "horario": "20:10",
+              "horario": "21:45",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL - 2D XL KRONOS"
             }
           ]
         },
         {
-          "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f",
-          "titulo": "MADRE SINIESTRA",
+          "id": "02163cad-c805-4a33-b7f7-ba3a98eb82b4",
+          "titulo": "LA CAÍDA DE LA BALLENA",
           "horarios": [
             {
-              "horario": "14:35",
+              "horario": "17:50",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -153,23 +127,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "3dfa8b9a-416d-49eb-a602-baffc0bd8d21",
-          "titulo": "GRIN: EL JUEGO DE LA BRUJA",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
+              "horario": "20:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -188,38 +146,6 @@
               "horario": "16:10",
               "idioma": "Español",
               "formato": "3D XL - 3D XL KRONOS"
-            }
-          ]
-        },
-        {
-          "id": "d3225c1b-53e2-4765-b36f-335c9be21a9e",
-          "titulo": "ENTREGA AL LÍMITE",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:35",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
-          "titulo": "MADAGASCAR",
-          "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ]
         },
@@ -256,17 +182,6 @@
           ]
         },
         {
-          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
-          "titulo": "SPIDERMAN: UN NUEVO DÍA",
-          "horarios": [
-            {
-              "horario": "11:50",
-              "idioma": "Español",
-              "formato": "3D"
-            }
-          ]
-        },
-        {
           "id": "580b67cd-0769-47af-86d5-db5317beb860",
           "titulo": "CARS",
           "horarios": [
@@ -282,7 +197,7 @@
           "titulo": "ESCUELA DE MONSTRUOS",
           "horarios": [
             {
-              "horario": "15:50",
+              "horario": "13:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -294,6 +209,50 @@
           "horarios": [
             {
               "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
+          "titulo": "MADAGASCAR",
+          "horarios": [
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "3dfa8b9a-416d-49eb-a602-baffc0bd8d21",
+          "titulo": "GRIN: EL JUEGO DE LA BRUJA",
+          "horarios": [
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f",
+          "titulo": "MADRE SINIESTRA",
+          "horarios": [
+            {
+              "horario": "21:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "d3225c1b-53e2-4765-b36f-335c9be21a9e",
+          "titulo": "ENTREGA AL LÍMITE",
+          "horarios": [
+            {
+              "horario": "21:35",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -315,6 +274,67 @@
     {
       "ciudad": "La Paz - Av Arce",
       "peliculas": [
+        {
+          "id": "ca56fad3-d210-4bce-a6f9-c7de8c81db2c",
+          "titulo": "STREET FIGTHER",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:15",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "17:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:45",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "17:55",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "19:35",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:35",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            }
+          ]
+        },
         {
           "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
           "titulo": "RESIDENT EVIL: NOCHE CERO",
@@ -377,52 +397,6 @@
           ]
         },
         {
-          "id": "ca56fad3-d210-4bce-a6f9-c7de8c81db2c",
-          "titulo": "STREET FIGTHER",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:35",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:15",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:35",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            }
-          ]
-        },
-        {
           "id": "148a063f-ce94-4d28-9d36-b497d45a2ac3",
           "titulo": "EKEKO",
           "horarios": [
@@ -452,11 +426,6 @@
               "formato": "2D"
             },
             {
-              "horario": "18:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
               "horario": "19:30",
               "idioma": "Español",
               "formato": "2D"
@@ -469,81 +438,14 @@
           ]
         },
         {
-          "id": "02163cad-c805-4a33-b7f7-ba3a98eb82b4",
-          "titulo": "LA CAÍDA DE LA BALLENA",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
-          "titulo": "EN EL CORAZON DE LA BESTIA",
-          "horarios": [
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ]
-        },
-        {
           "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
           "titulo": "COYOTE VS ACME",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:15",
               "idioma": "Español",
@@ -572,11 +474,47 @@
           ]
         },
         {
-          "id": "d3225c1b-53e2-4765-b36f-335c9be21a9e",
-          "titulo": "ENTREGA AL LÍMITE",
+          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
+          "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:15",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ]
+        },
+        {
+          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
+          "titulo": "MADAGASCAR",
+          "horarios": [
+            {
+              "horario": "10:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -586,12 +524,48 @@
               "formato": "2D"
             },
             {
-              "horario": "15:30",
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
+          "id": "02163cad-c805-4a33-b7f7-ba3a98eb82b4",
+          "titulo": "LA CAÍDA DE LA BALLENA",
+          "horarios": [
+            {
+              "horario": "16:30",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "19:55",
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "22:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -607,19 +581,40 @@
               "formato": "2D XL"
             },
             {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
               "horario": "16:40",
               "idioma": "Español",
               "formato": "2D XL"
             },
             {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
               "horario": "20:20",
               "idioma": "Español",
               "formato": "3D XL"
+            }
+          ]
+        },
+        {
+          "id": "744a7cd0-6e95-4792-ad5b-9f5c5a9b475e",
+          "titulo": "ESCUELA DE MONSTRUOS",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -645,27 +640,6 @@
           ]
         },
         {
-          "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f",
-          "titulo": "MADRE SINIESTRA",
-          "horarios": [
-            {
-              "horario": "17:45",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "47f9bb4b-1e19-406f-bf71-98b469a314a7",
           "titulo": "LOS JUEGOS DEL HAMBRE: SINSAJO - PARTE 2",
           "horarios": [
@@ -682,48 +656,32 @@
           ]
         },
         {
-          "id": "744a7cd0-6e95-4792-ad5b-9f5c5a9b475e",
-          "titulo": "ESCUELA DE MONSTRUOS",
+          "id": "d3225c1b-53e2-4765-b36f-335c9be21a9e",
+          "titulo": "ENTREGA AL LÍMITE",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:50",
+              "horario": "19:55",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "580b67cd-0769-47af-86d5-db5317beb860",
-          "titulo": "CARS",
+          "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f",
+          "titulo": "MADRE SINIESTRA",
           "horarios": [
             {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
-          "titulo": "MADAGASCAR",
-          "horarios": [
-            {
-              "horario": "16:00",
+              "horario": "19:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
+              "horario": "21:45",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -735,6 +693,17 @@
           "horarios": [
             {
               "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "580b67cd-0769-47af-86d5-db5317beb860",
+          "titulo": "CARS",
+          "horarios": [
+            {
+              "horario": "15:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -790,6 +759,37 @@
       "ciudad": "La Paz - Plaza 21 Mall",
       "peliculas": [
         {
+          "id": "ca56fad3-d210-4bce-a6f9-c7de8c81db2c",
+          "titulo": "STREET FIGTHER",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
           "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
           "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
@@ -821,53 +821,6 @@
           ]
         },
         {
-          "id": "ca56fad3-d210-4bce-a6f9-c7de8c81db2c",
-          "titulo": "STREET FIGTHER",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ]
-        },
-        {
-          "id": "02163cad-c805-4a33-b7f7-ba3a98eb82b4",
-          "titulo": "LA CAÍDA DE LA BALLENA",
-          "horarios": [
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ]
-        },
-        {
           "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
           "titulo": "MADAGASCAR",
           "horarios": [
@@ -878,6 +831,11 @@
             },
             {
               "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "17:30",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -933,6 +891,17 @@
           ]
         },
         {
+          "id": "02163cad-c805-4a33-b7f7-ba3a98eb82b4",
+          "titulo": "LA CAÍDA DE LA BALLENA",
+          "horarios": [
+            {
+              "horario": "19:40",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ]
+        },
+        {
           "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f",
           "titulo": "MADRE SINIESTRA",
           "horarios": [
@@ -949,16 +918,42 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
+          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
+          "titulo": "EN EL CORAZON DE LA BESTIA",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ]
+        },
+        {
           "id": "ca56fad3-d210-4bce-a6f9-c7de8c81db2c",
           "titulo": "STREET FIGTHER",
           "horarios": [
             {
               "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:50",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -1042,28 +1037,65 @@
           ]
         },
         {
-          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
-          "titulo": "EN EL CORAZON DE LA BESTIA",
+          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
+          "titulo": "MADAGASCAR",
           "horarios": [
             {
-              "horario": "15:10",
+              "horario": "10:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:20",
+              "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
+          "titulo": "COYOTE VS ACME",
+          "horarios": [
+            {
+              "horario": "10:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "21:40",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "744a7cd0-6e95-4792-ad5b-9f5c5a9b475e",
+          "titulo": "ESCUELA DE MONSTRUOS",
+          "horarios": [
+            {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -1131,32 +1163,16 @@
           ]
         },
         {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
+          "id": "aead9835-00af-46e0-b5e7-1b7fa22df94e",
+          "titulo": "LA ISLA OLVIDADA",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "11:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "744a7cd0-6e95-4792-ad5b-9f5c5a9b475e",
-          "titulo": "ESCUELA DE MONSTRUOS",
-          "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:20",
+              "horario": "16:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1175,22 +1191,6 @@
               "horario": "17:30",
               "idioma": "Español",
               "formato": "2D XL"
-            }
-          ]
-        },
-        {
-          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
-          "titulo": "MADAGASCAR",
-          "horarios": [
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ]
         },
@@ -1244,17 +1244,6 @@
           ]
         },
         {
-          "id": "aead9835-00af-46e0-b5e7-1b7fa22df94e",
-          "titulo": "LA ISLA OLVIDADA",
-          "horarios": [
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f",
           "titulo": "MADRE SINIESTRA",
           "horarios": [
@@ -1291,5 +1280,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "16/10/2026"
+  "fecha": "17/10/2026"
 }
