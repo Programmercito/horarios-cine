@@ -150,6 +150,22 @@
           ]
         },
         {
+          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
+          "titulo": "MADAGASCAR",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "de0b7825-f22b-4454-ad05-4d299c008ae0",
           "titulo": "HOPE: EL PRIMER IMPACTO",
           "horarios": [
@@ -209,17 +225,6 @@
           "horarios": [
             {
               "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
-          "titulo": "MADAGASCAR",
-          "horarios": [
-            {
-              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -474,6 +479,42 @@
           ]
         },
         {
+          "id": "02163cad-c805-4a33-b7f7-ba3a98eb82b4",
+          "titulo": "LA CAÍDA DE LA BALLENA",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
           "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
@@ -537,37 +578,6 @@
               "horario": "18:50",
               "idioma": "Español",
               "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "02163cad-c805-4a33-b7f7-ba3a98eb82b4",
-          "titulo": "LA CAÍDA DE LA BALLENA",
-          "horarios": [
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:50",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ]
         },
@@ -918,6 +928,42 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
+          "id": "ca56fad3-d210-4bce-a6f9-c7de8c81db2c",
+          "titulo": "STREET FIGTHER",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
           "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
@@ -945,37 +991,6 @@
               "horario": "21:40",
               "idioma": "Ingles",
               "formato": "2D SUB"
-            }
-          ]
-        },
-        {
-          "id": "ca56fad3-d210-4bce-a6f9-c7de8c81db2c",
-          "titulo": "STREET FIGTHER",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ]
         },
@@ -1280,5 +1295,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "17/10/2026"
+  "fecha": "18/10/2026"
 }
