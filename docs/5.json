@@ -73,6 +73,22 @@
           ]
         },
         {
+          "id": "b3d6d9fd-1449-4ad4-942a-c104c1fe02cf",
+          "titulo": "LA HIJA CONDOR",
+          "horarios": [
+            {
+              "horario": "15:40",
+              "idioma": "",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f",
           "titulo": "MADRE SINIESTRA",
           "horarios": [
@@ -139,17 +155,12 @@
           "titulo": "ENTREGA AL LIMITE",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "11:50",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "13:55",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:50",
+              "horario": "13:45",
               "idioma": "Doblada",
               "formato": "2D"
             },
@@ -159,12 +170,7 @@
               "formato": "2D"
             },
             {
-              "horario": "19:40",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:35",
+              "horario": "21:45",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -252,5 +258,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "17/10/2026"
+  "fecha": "18/10/2026"
 }
