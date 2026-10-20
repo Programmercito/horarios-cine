@@ -840,14 +840,9 @@
               "formato": "2D PLUS"
             },
             {
-              "horario": "19:15",
+              "horario": "20:20",
               "idioma": "Español",
               "formato": "2D PLUS"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
             }
           ]
         },
@@ -867,22 +862,6 @@
             },
             {
               "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "148a063f-ce94-4d28-9d36-b497d45a2ac3",
-          "titulo": "EKEKO",
-          "horarios": [
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:20",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -922,6 +901,17 @@
           ]
         },
         {
+          "id": "148a063f-ce94-4d28-9d36-b497d45a2ac3",
+          "titulo": "EKEKO",
+          "horarios": [
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
           "id": "02163cad-c805-4a33-b7f7-ba3a98eb82b4",
           "titulo": "LA CAÍDA DE LA BALLENA",
           "horarios": [
@@ -937,7 +927,7 @@
           "titulo": "MADRE SINIESTRA",
           "horarios": [
             {
-              "horario": "22:20",
+              "horario": "22:35",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -1020,12 +1010,12 @@
           "titulo": "LA CAÍDA DE LA BALLENA",
           "horarios": [
             {
-              "horario": "13:40",
+              "horario": "13:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:10",
+              "horario": "17:40",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -1035,9 +1025,9 @@
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "22:35",
               "idioma": "Ingles",
-              "formato": "2D SUB"
+              "formato": "2D"
             }
           ]
         },
@@ -1064,27 +1054,6 @@
               "horario": "21:40",
               "idioma": "Ingles",
               "formato": "2D SUB"
-            }
-          ]
-        },
-        {
-          "id": "3dfa8b9a-416d-49eb-a602-baffc0bd8d21",
-          "titulo": "GRIN: EL JUEGO DE LA BRUJA",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:15",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ]
         },
@@ -1125,6 +1094,22 @@
             },
             {
               "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "3dfa8b9a-416d-49eb-a602-baffc0bd8d21",
+          "titulo": "GRIN: EL JUEGO DE LA BRUJA",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:15",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1179,6 +1164,22 @@
           ]
         },
         {
+          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
+          "titulo": "MADAGASCAR",
+          "horarios": [
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "47f9bb4b-1e19-406f-bf71-98b469a314a7",
           "titulo": "LOS JUEGOS DEL HAMBRE: SINSAJO - PARTE 2",
           "horarios": [
@@ -1206,11 +1207,22 @@
           ]
         },
         {
+          "id": "0870cf07-ca5b-4dc3-9324-cbb1ad7e0dad",
+          "titulo": "SPIDERMAN: UN NUEVO DÍA",
+          "horarios": [
+            {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "580b67cd-0769-47af-86d5-db5317beb860",
           "titulo": "CARS",
           "horarios": [
             {
-              "horario": "15:50",
+              "horario": "15:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1222,17 +1234,6 @@
           "horarios": [
             {
               "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
-          "titulo": "MADAGASCAR",
-          "horarios": [
-            {
-              "horario": "18:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1265,7 +1266,7 @@
           "titulo": "VERTIGO 2",
           "horarios": [
             {
-              "horario": "21:45",
+              "horario": "22:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1275,5 +1276,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "19/10/2026"
+  "fecha": "20/10/2026"
 }
