@@ -4,22 +4,6 @@
       "ciudad": "Cochabamba",
       "peliculas": [
         {
-          "id": "b2ece7ba-1984-4828-928c-58103b0c0fb7",
-          "titulo": "COYOTE VS. ACME",
-          "horarios": [
-            {
-              "horario": "12:45",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
           "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
@@ -50,35 +34,13 @@
               "formato": "2D"
             },
             {
-              "horario": "16:15",
+              "horario": "16:05",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "21:30",
+              "horario": "21:10",
               "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "c3e3cea7-a8be-4ce1-91d8-bdb648f31a62",
-          "titulo": "SKY KARTING",
-          "horarios": [
-            {
-              "horario": "23:55",
-              "idioma": "",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "d4ee1f19-95cb-45bb-9391-e97d9df6a32c",
-          "titulo": "SKY CRASH",
-          "horarios": [
-            {
-              "horario": "23:50",
-              "idioma": "",
               "formato": "2D"
             }
           ]
@@ -95,42 +57,16 @@
           ]
         },
         {
-          "id": "b3d6d9fd-1449-4ad4-942a-c104c1fe02cf",
-          "titulo": "LA HIJA CONDOR",
-          "horarios": [
-            {
-              "horario": "15:40",
-              "idioma": "",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f",
           "titulo": "MADRE SINIESTRA",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "12:40",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "14:40",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:15",
+              "horario": "16:30",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -173,62 +109,26 @@
           ]
         },
         {
-          "id": "de9f370e-f44f-4107-834c-55dd0f49854d",
-          "titulo": "ENTREGA AL LIMITE",
-          "horarios": [
-            {
-              "horario": "11:50",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:45",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:45",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "3629c5b8-6480-4a3e-a288-91b266275a24",
           "titulo": "LA CAIDA DE LA BALLENA",
           "horarios": [
             {
-              "horario": "11:10",
+              "horario": "11:00",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "13:10",
+              "horario": "14:55",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "19:00",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "17:10",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
+              "horario": "21:00",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -247,22 +147,58 @@
               "horario": "16:00",
               "idioma": "",
               "formato": "2D"
-            },
+            }
+          ]
+        },
+        {
+          "id": "10971a95-b0cf-445d-b510-ebca382a5941",
+          "titulo": "CLAYFACE",
+          "horarios": [
             {
-              "horario": "19:20",
-              "idioma": "",
+              "horario": "12:55",
+              "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "21:00",
-              "idioma": "",
+              "horario": "16:55",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:25",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:35",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "Doblada",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "7c5527c3-44a2-4ac5-bc81-d1555288dff4",
-          "titulo": "LOS JUEGOS DEL HAMBRE: SINSAJO PARTE 2",
+          "id": "0a8304a7-4259-4c3f-8ebe-db8143dc71e9",
+          "titulo": "LA LEYENDA DEL TEMPLO DE ORO",
           "horarios": [
             {
               "horario": "13:40",
@@ -270,7 +206,44 @@
               "formato": "2D"
             },
             {
-              "horario": "18:55",
+              "horario": "18:45",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "da9ea41a-1e41-44cf-821d-88140e83403a",
+          "titulo": "EL PODER DE LA RED",
+          "horarios": [
+            {
+              "horario": "19:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:25",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "672dcaa4-b93f-4590-b1cc-f5e8e729d046",
+          "titulo": "SACRIFICIO: LOS ELEGIDOS",
+          "horarios": [
+            {
+              "horario": "14:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:15",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -280,5 +253,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "21/10/2026"
+  "fecha": "22/10/2026"
 }
