@@ -1,60 +1,10 @@
 {
   "ciudades": [
     {
-      "peliculas": [
-        {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
-          "horarios": [
-            {
-              "horario": "10:40",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f",
-          "titulo": "MADRE SINIESTRA",
-          "horarios": [
-            {
-              "horario": "22:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "74726960-2038-4461-a370-a059482bc95b",
-          "titulo": "AVENGERS: ENDGAME",
-          "horarios": [
-            {
-              "horario": "21:40",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "3629c5b8-6480-4a3e-a288-91b266275a24",
-          "titulo": "LA CAIDA DE LA BALLENA",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:25",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        }
-      ],
+      "peliculas": [],
       "ciudad": "La Paz"
     }
   ],
   "cine": "MONJE",
-  "fecha": "21/10/2026"
+  "fecha": "22/10/2026"
 }
