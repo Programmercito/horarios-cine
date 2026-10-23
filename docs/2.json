@@ -13,11 +13,6 @@
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
               "horario": "17:20",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
@@ -29,37 +24,6 @@
             },
             {
               "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            }
-          ]
-        },
-        {
-          "id": "148a063f-ce94-4d28-9d36-b497d45a2ac3",
-          "titulo": "EKEKO",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "22:20",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             }
@@ -114,6 +78,32 @@
               "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "148a063f-ce94-4d28-9d36-b497d45a2ac3",
+          "titulo": "EKEKO",
+          "horarios": [
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "18:40",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
             }
           ]
         },
@@ -224,22 +214,6 @@
           ]
         },
         {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "02163cad-c805-4a33-b7f7-ba3a98eb82b4",
           "titulo": "LA CAÍDA DE LA BALLENA",
           "horarios": [
@@ -294,6 +268,17 @@
           "horarios": [
             {
               "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
+          "titulo": "COYOTE VS ACME",
+          "horarios": [
+            {
+              "horario": "19:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -469,6 +454,42 @@
           ]
         },
         {
+          "id": "148a063f-ce94-4d28-9d36-b497d45a2ac3",
+          "titulo": "EKEKO",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "20:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
           "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
@@ -500,8 +521,8 @@
           ]
         },
         {
-          "id": "148a063f-ce94-4d28-9d36-b497d45a2ac3",
-          "titulo": "EKEKO",
+          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
+          "titulo": "COYOTE VS ACME",
           "horarios": [
             {
               "horario": "14:40",
@@ -509,22 +530,74 @@
               "formato": "2D"
             },
             {
-              "horario": "16:30",
+              "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
               "horario": "18:10",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             },
             {
-              "horario": "20:30",
+              "horario": "20:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:20",
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "0a8304a7-4259-4c3f-8ebe-db8143dc71e9",
+          "titulo": "LA LEYENDA DEL TEMPLO DE ORO",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
+          "titulo": "MADAGASCAR",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -557,26 +630,26 @@
           ]
         },
         {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
+          "id": "4d90b551-a545-4109-90d1-b62d5b32e68e",
+          "titulo": "TERROR EN EL AMAZONAS",
           "horarios": [
             {
-              "horario": "16:00",
+              "horario": "14:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:10",
+              "horario": "16:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:20",
+              "horario": "18:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "20:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -603,69 +676,6 @@
             },
             {
               "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "0a8304a7-4259-4c3f-8ebe-db8143dc71e9",
-          "titulo": "LA LEYENDA DEL TEMPLO DE ORO",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
-          "titulo": "MADAGASCAR",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "4d90b551-a545-4109-90d1-b62d5b32e68e",
-          "titulo": "TERROR EN EL AMAZONAS",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1311,5 +1321,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "22/10/2026"
+  "fecha": "23/10/2026"
 }
