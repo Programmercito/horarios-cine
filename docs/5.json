@@ -46,9 +46,36 @@
           ]
         },
         {
+          "id": "c3e3cea7-a8be-4ce1-91d8-bdb648f31a62",
+          "titulo": "SKY KARTING",
+          "horarios": [
+            {
+              "horario": "23:55",
+              "idioma": "",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "d4ee1f19-95cb-45bb-9391-e97d9df6a32c",
+          "titulo": "SKY CRASH",
+          "horarios": [
+            {
+              "horario": "23:35",
+              "idioma": "",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "3bea6614-d0c6-4cac-b70e-f17deeb8d72f",
           "titulo": "EN EL CORAZÓN DE LA BESTIA",
           "horarios": [
+            {
+              "horario": "18:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
             {
               "horario": "20:20",
               "idioma": "Doblada",
@@ -238,11 +265,6 @@
               "formato": "2D"
             },
             {
-              "horario": "18:20",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
               "horario": "22:15",
               "idioma": "Doblada",
               "formato": "2D"
@@ -253,5 +275,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "25/10/2026"
+  "fecha": "27/10/2026"
 }
