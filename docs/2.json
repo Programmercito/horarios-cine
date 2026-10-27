@@ -364,11 +364,6 @@
               "formato": "4D E-MOTION"
             },
             {
-              "horario": "20:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "21:15",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
@@ -571,26 +566,26 @@
           ]
         },
         {
-          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
-          "titulo": "MADAGASCAR",
+          "id": "0a8304a7-4259-4c3f-8ebe-db8143dc71e9",
+          "titulo": "LA LEYENDA DEL TEMPLO DE ORO",
           "horarios": [
             {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "14:10",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:00",
+              "horario": "16:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:00",
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "21:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -675,21 +670,21 @@
           ]
         },
         {
-          "id": "0a8304a7-4259-4c3f-8ebe-db8143dc71e9",
-          "titulo": "LA LEYENDA DEL TEMPLO DE ORO",
+          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
+          "titulo": "MADAGASCAR",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "14:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
+              "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -726,7 +721,7 @@
               "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1020,14 +1015,14 @@
               "formato": "2D"
             },
             {
-              "horario": "21:10",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
-            {
               "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             }
           ]
         },
@@ -1125,12 +1120,12 @@
           "titulo": "COYOTE VS ACME",
           "horarios": [
             {
-              "horario": "12:30",
+              "horario": "13:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:50",
+              "horario": "15:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1153,6 +1148,22 @@
           ]
         },
         {
+          "id": "02163cad-c805-4a33-b7f7-ba3a98eb82b4",
+          "titulo": "LA CAÍDA DE LA BALLENA",
+          "horarios": [
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "3c561e60-5731-4dba-a34a-5d06a532e0cb",
           "titulo": "AVENGERS ENDGAME BONUS (Infinity Vision)",
           "horarios": [
@@ -1165,22 +1176,6 @@
               "horario": "17:30",
               "idioma": "Español",
               "formato": "2D XL"
-            }
-          ]
-        },
-        {
-          "id": "02163cad-c805-4a33-b7f7-ba3a98eb82b4",
-          "titulo": "LA CAÍDA DE LA BALLENA",
-          "horarios": [
-            {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
             }
           ]
         },
@@ -1233,17 +1228,6 @@
           "horarios": [
             {
               "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f",
-          "titulo": "MADRE SINIESTRA",
-          "horarios": [
-            {
-              "horario": "13:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1330,5 +1314,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "26/10/2026"
+  "fecha": "27/10/2026"
 }
