@@ -4,40 +4,14 @@
       "ciudad": "El Alto",
       "peliculas": [
         {
-          "id": "10971a95-b0cf-445d-b510-ebca382a5941",
-          "titulo": "CLAYFACE",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            }
-          ]
-        },
-        {
           "id": "148a063f-ce94-4d28-9d36-b497d45a2ac3",
           "titulo": "EKEKO",
           "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "15:00",
               "idioma": "Español",
@@ -70,6 +44,11 @@
           "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
             {
+              "horario": "10:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "13:00",
               "idioma": "Español",
               "formato": "2D"
@@ -88,6 +67,37 @@
               "horario": "21:45",
               "idioma": "Español",
               "formato": "2D XL - 2D XL KRONOS"
+            }
+          ]
+        },
+        {
+          "id": "10971a95-b0cf-445d-b510-ebca382a5941",
+          "titulo": "CLAYFACE",
+          "horarios": [
+            {
+              "horario": "12:40",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
             }
           ]
         },
@@ -112,6 +122,48 @@
             },
             {
               "horario": "22:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
+          "titulo": "COYOTE VS ACME",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
+          "titulo": "MADAGASCAR",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -213,38 +265,6 @@
           ]
         },
         {
-          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
-          "titulo": "MADAGASCAR",
-          "horarios": [
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "02163cad-c805-4a33-b7f7-ba3a98eb82b4",
           "titulo": "LA CAÍDA DE LA BALLENA",
           "horarios": [
@@ -313,6 +333,11 @@
           "id": "10971a95-b0cf-445d-b510-ebca382a5941",
           "titulo": "CLAYFACE",
           "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:00",
               "idioma": "Español",
@@ -468,6 +493,78 @@
           ]
         },
         {
+          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
+          "titulo": "EN EL CORAZON DE LA BESTIA",
+          "horarios": [
+            {
+              "horario": "10:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
+          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
+          "titulo": "COYOTE VS ACME",
+          "horarios": [
+            {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "148a063f-ce94-4d28-9d36-b497d45a2ac3",
           "titulo": "EKEKO",
           "horarios": [
@@ -504,42 +601,21 @@
           ]
         },
         {
-          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
-          "titulo": "EN EL CORAZON DE LA BESTIA",
+          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
+          "titulo": "MADAGASCAR",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:10",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
-          "horarios": [
-            {
-              "horario": "14:40",
+              "horario": "14:10",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -549,17 +625,7 @@
               "formato": "2D"
             },
             {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
+              "horario": "19:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -582,10 +648,10 @@
             {
               "horario": "19:10",
               "idioma": "Español",
-              "formato": "3D XL"
+              "formato": "2D"
             },
             {
-              "horario": "21:40",
+              "horario": "20:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -644,53 +710,6 @@
           ]
         },
         {
-          "id": "da9ea41a-1e41-44cf-821d-88140e83403a",
-          "titulo": "EL PODER DE LA RED",
-          "horarios": [
-            {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:25",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
-          "titulo": "MADAGASCAR",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "a0f23c87-419a-463f-ac49-ff218e12438c",
           "titulo": "EL EXORCISTA - VERSIÓN EXTENDIDA DEL DIRECTOR (1973)",
           "horarios": [
@@ -712,6 +731,27 @@
           ]
         },
         {
+          "id": "da9ea41a-1e41-44cf-821d-88140e83403a",
+          "titulo": "EL PODER DE LA RED",
+          "horarios": [
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "dd4d2314-73bf-43b1-bb4f-17212770ec20",
           "titulo": "SACRIFIICO: LOS ELEGIDOS",
           "horarios": [
@@ -721,7 +761,7 @@
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "21:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1015,14 +1055,14 @@
               "formato": "2D"
             },
             {
+              "horario": "21:10",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
               "horario": "22:00",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "22:20",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
             }
           ]
         },
@@ -1030,6 +1070,11 @@
           "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
           "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:00",
               "idioma": "Ingles",
@@ -1047,6 +1092,48 @@
             },
             {
               "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "ca56fad3-d210-4bce-a6f9-c7de8c81db2c",
+          "titulo": "STREET FIGTHER",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
+          "titulo": "COYOTE VS ACME",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1116,16 +1203,16 @@
           ]
         },
         {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
+          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
+          "titulo": "MADAGASCAR",
           "horarios": [
             {
-              "horario": "13:20",
+              "horario": "10:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:50",
+              "horario": "12:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1148,22 +1235,6 @@
           ]
         },
         {
-          "id": "02163cad-c805-4a33-b7f7-ba3a98eb82b4",
-          "titulo": "LA CAÍDA DE LA BALLENA",
-          "horarios": [
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "3c561e60-5731-4dba-a34a-5d06a532e0cb",
           "titulo": "AVENGERS ENDGAME BONUS (Infinity Vision)",
           "horarios": [
@@ -1176,6 +1247,22 @@
               "horario": "17:30",
               "idioma": "Español",
               "formato": "2D XL"
+            }
+          ]
+        },
+        {
+          "id": "02163cad-c805-4a33-b7f7-ba3a98eb82b4",
+          "titulo": "LA CAÍDA DE LA BALLENA",
+          "horarios": [
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -1196,22 +1283,6 @@
           ]
         },
         {
-          "id": "ca56fad3-d210-4bce-a6f9-c7de8c81db2c",
-          "titulo": "STREET FIGTHER",
-          "horarios": [
-            {
-              "horario": "19:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "de0b7825-f22b-4454-ad05-4d299c008ae0",
           "titulo": "HOPE: EL PRIMER IMPACTO",
           "horarios": [
@@ -1223,11 +1294,11 @@
           ]
         },
         {
-          "id": "655bda38-caf5-4ecb-8267-fac821804ba6",
-          "titulo": "MADAGASCAR",
+          "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f",
+          "titulo": "MADRE SINIESTRA",
           "horarios": [
             {
-              "horario": "12:40",
+              "horario": "13:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1314,5 +1385,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "27/10/2026"
+  "fecha": "28/10/2026"
 }
