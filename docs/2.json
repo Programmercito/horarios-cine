@@ -401,9 +401,9 @@
               "formato": "2D XL"
             },
             {
-              "horario": "18:00",
+              "horario": "18:20",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             },
             {
               "horario": "19:20",
@@ -411,14 +411,14 @@
               "formato": "2D PLUS"
             },
             {
-              "horario": "20:00",
+              "horario": "21:25",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "22:30",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             }
           ]
         },
@@ -500,6 +500,63 @@
           ]
         },
         {
+          "id": "ead810e3-c563-4be8-b8de-d777745e1b1b",
+          "titulo": "EL HELADERO: DULCE SABOR A MUERTE",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "3c561e60-5731-4dba-a34a-5d06a532e0cb",
+          "titulo": "AVENGERS ENDGAME BONUS (Infinity Vision)",
+          "horarios": [
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "3D XL"
+            }
+          ]
+        },
+        {
           "id": "148a063f-ce94-4d28-9d36-b497d45a2ac3",
           "titulo": "EKEKO",
           "horarios": [
@@ -514,19 +571,14 @@
               "formato": "2D"
             },
             {
-              "horario": "18:20",
+              "horario": "20:15",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "20:10",
+              "horario": "22:10",
               "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL"
             }
           ]
         },
@@ -550,71 +602,9 @@
               "formato": "2D"
             },
             {
-              "horario": "18:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "20:00",
               "idioma": "Español",
               "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "ead810e3-c563-4be8-b8de-d777745e1b1b",
-          "titulo": "EL HELADERO: DULCE SABOR A MUERTE",
-          "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "3c561e60-5731-4dba-a34a-5d06a532e0cb",
-          "titulo": "AVENGERS ENDGAME BONUS (Infinity Vision)",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "3D XL"
             }
           ]
         },
@@ -708,6 +698,27 @@
           ]
         },
         {
+          "id": "11dd9324-7cf0-4014-87ce-042b0b0ab341",
+          "titulo": "BTS WORLD TOUR 'ARIRANG' IN SAO PAULO: LIVE VIEWING",
+          "horarios": [
+            {
+              "horario": "18:45",
+              "idioma": "Coreano",
+              "formato": "LIVE STREAM"
+            },
+            {
+              "horario": "18:45",
+              "idioma": "Coreano",
+              "formato": "LIVE STREAM"
+            },
+            {
+              "horario": "18:45",
+              "idioma": "Coreano",
+              "formato": "LIVE STREAM"
+            }
+          ]
+        },
+        {
           "id": "96f09dc0-f231-4f54-a74b-403e2fc22c97",
           "titulo": "CHUCKY: EL MUÑECO DIABÓLICO (1988)",
           "horarios": [
@@ -740,22 +751,6 @@
           ]
         },
         {
-          "id": "4d90b551-a545-4109-90d1-b62d5b32e68e",
-          "titulo": "TERROR EN EL AMAZONAS",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "50433e10-9c8c-4d9e-a0cf-e2912cafd2f0",
           "titulo": "ESTACIÓN ZOMBIE (2016)",
           "horarios": [
@@ -766,6 +761,17 @@
             },
             {
               "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "4d90b551-a545-4109-90d1-b62d5b32e68e",
+          "titulo": "TERROR EN EL AMAZONAS",
+          "horarios": [
+            {
+              "horario": "13:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1269,5 +1275,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "29/10/2026"
+  "fecha": "30/10/2026"
 }
