@@ -157,7 +157,7 @@
   border-radius: 20px;
   box-shadow: 0 20px 70px rgba(0, 0, 0, .4);
 }
-.schedule-popup { max-width: 440px; text-align: center; }
+.schedule-popup { max-width: 440px; text-align: center; color: var(--text-primary); }
 .movie-popup h2, .schedule-popup h2 { padding-right: 2rem; font-size: 1.5rem; }
 .close-btn { position: absolute; top: 1rem; right: 1rem; width: 36px; height: 36px; border: 1px solid var(--border-subtle); border-radius: 9px; color: var(--text-primary); background: #26465a; cursor: pointer; font-size: 1.1rem; }
 .release-date, .movie-highlight { display: flex; flex-wrap: wrap; gap: .5rem; margin: 1rem 0; }
@@ -173,7 +173,8 @@
 .movie-popup a { color: var(--neon-cyan); }
 .schedule-time-large { margin: 1.5rem 0; color: var(--neon-cyan); font-size: 3rem; font-weight: 800; }
 .schedule-details-large { display: flex; justify-content: center; flex-wrap: wrap; gap: .5rem; }
-.detail-item { padding: .5rem .8rem; background: rgba(255, 255, 255, .06); border-radius: 8px; }
+.detail-item { padding: .5rem .8rem; background: rgba(139, 228, 243, .1); border: 1px solid rgba(139, 228, 243, .25); border-radius: 8px; }
+.detail-value-only { color: var(--text-primary); font-size: .9rem; font-weight: 700; letter-spacing: .02em; }
 .share-section { margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border-subtle); }
 .share-title { margin-bottom: .75rem; font-size: .8rem; color: var(--text-secondary); }
 .share-buttons { display: flex; justify-content: center; gap: .75rem; }
@@ -209,4 +210,17 @@
 @media (max-width: 350px) {
   .movie-card { grid-template-columns: 1fr; }
   .movie-header { grid-column: 1; }
+}
+
+.share-btn.whatsapp:hover { box-shadow: 0 8px 22px rgba(22, 141, 89, .55); }
+.share-btn.telegram:hover { box-shadow: 0 8px 22px rgba(22, 138, 196, .55); }
+.schedule-popup { animation: popup-in .35s cubic-bezier(.34, 1.56, .64, 1); }
+@keyframes popup-in {
+  from { opacity: 0; transform: translateY(20px) scale(.96); }
+  to { opacity: 1; transform: none; }
+}
+.schedule-time-large { text-shadow: 0 0 18px rgba(139, 228, 243, .45); }
+
+@media (prefers-reduced-motion: reduce) {
+  .schedule-popup { animation: none; }
 }
