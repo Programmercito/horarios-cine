@@ -18,14 +18,16 @@
   </div>
 
   <div class="content">
+    <p class="section-label">ELIGE TU CINE</p>
     <h2 class="page-title">Cines en <span>{{ selectedCity }}</span></h2>
+    <p class="section-description">Selecciona un cine para ver su cartelera y horarios.</p>
 
     @if (cinemas.length > 0) {
     <div class="cinema-grid">
       @for (cinema of cinemas; track cinema.id) {
       <a class="cinema-card" [routerLink]="['/schedule', selectedCity, cinema.id]">
         <div class="cinema-info">
-          <div class="cinema-icon">🎬</div>
+          <div class="cinema-icon" aria-hidden="true">✦</div>
           <span class="cinema-name">{{ cinema.name }}</span>
           <span class="arrow">→</span>
         </div>

@@ -7,17 +7,32 @@
       </div>
       <h1 class="app-title">Cinema Bo</h1>
     </div>
-    <p class="subtitle">Encuentra los horarios de tu cine favorito</p>
+    <p class="hero-label">TU PRÓXIMA FUNCIÓN COMIENZA AQUÍ</p>
+    <p class="subtitle">El cine te espera<span>.</span></p>
+    <p class="hero-description">Encuentra las películas y horarios de tus cines favoritos, en un solo lugar.</p>
+    <div class="hero-art" aria-hidden="true">
+      <div class="ticket-art">
+        <div class="ticket-top"><span>CINEMA BO</span><span>✦</span></div>
+        <div class="ticket-icon">▶</div>
+        <div class="ticket-bottom"><span>LA CARTELERA</span><span>✳</span></div>
+      </div>
+    </div>
     <div class="header-divider"></div>
   </div>
 
   <div class="content">
-    <h2 class="page-title">✦ Selecciona tu ciudad ✦</h2>
+    <div class="section-heading">
+      <div>
+        <p class="section-label">EMPECEMOS</p>
+        <h2 class="page-title">Selecciona tu ciudad</h2>
+      </div>
+      <span class="section-hint">Elige dónde quieres ir al cine</span>
+    </div>
     <div class="city-buttons">
       @for (city of cities; track city) {
         <button class="city-button" (click)="goToCinemas(city)">
-          <span class="city-name">{{ city }}</span>
-          <span class="arrow">→</span>
+          <span class="city-copy"><span class="city-eyebrow">CARTELERA EN</span><span class="city-name">{{ city }}</span></span>
+          <span class="arrow" aria-hidden="true">↗</span>
         </button>
       }
     </div>

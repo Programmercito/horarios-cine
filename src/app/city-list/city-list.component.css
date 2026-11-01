@@ -307,3 +307,194 @@
     padding: 1.2rem 1.4rem;
   }
 }
+
+/* Cinematic city selection */
+.header {
+  max-width: 1120px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem 2rem 4rem;
+  text-align: left;
+  overflow: visible;
+}
+
+.header::before {
+  width: 420px;
+  height: 420px;
+  top: 0;
+  left: auto;
+  right: 0;
+  transform: none;
+  background: radial-gradient(circle, rgba(71, 186, 213, .16), transparent 70%);
+  animation: none;
+}
+
+.logo-section {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: .75rem;
+  margin-bottom: 5rem;
+}
+
+.logo {
+  width: 44px;
+  height: 44px;
+  border: 1px solid rgba(139, 228, 243, .35);
+  box-shadow: none;
+}
+
+.logo-ring, .header-divider { display: none; }
+
+.app-title {
+  color: var(--text-primary);
+  font-size: 1.15rem;
+  letter-spacing: -.03em;
+  background: none;
+  -webkit-text-fill-color: currentColor;
+  animation: none;
+}
+
+.hero-label, .section-label, .city-eyebrow {
+  color: var(--neon-cyan);
+  font-size: .7rem;
+  font-weight: 700;
+  letter-spacing: .16em;
+}
+
+.hero-label { margin-bottom: 1rem; }
+
+.subtitle {
+  color: var(--text-primary);
+  font-size: clamp(3rem, 8vw, 6rem);
+  font-weight: 800;
+  letter-spacing: -.065em;
+  line-height: 1.05;
+}
+
+.subtitle span { color: var(--neon-cyan); }
+
+.hero-description {
+  max-width: 480px;
+  margin-top: 1.25rem;
+  color: var(--text-secondary);
+  font-size: 1.05rem;
+}
+
+.hero-art {
+  position: absolute;
+  right: 7%;
+  top: 115px;
+  width: 280px;
+  height: 245px;
+  display: grid;
+  place-items: center;
+  pointer-events: none;
+}
+.hero-art::before {
+  content: '';
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  border: 1px solid rgba(139, 228, 243, .16);
+  border-radius: 50%;
+}
+.ticket-art {
+  position: relative;
+  width: 182px;
+  padding: 1rem;
+  border: 1px solid rgba(139, 228, 243, .3);
+  border-radius: 18px;
+  background: linear-gradient(145deg, #235064, #162e40 65%);
+  box-shadow: 0 24px 60px rgba(0, 0, 0, .3);
+  transform: rotate(9deg);
+}
+.ticket-top, .ticket-bottom {
+  display: flex;
+  justify-content: space-between;
+  color: #a7e4f0;
+  font-size: .6rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+}
+.ticket-icon {
+  display: grid;
+  place-items: center;
+  width: 64px;
+  height: 64px;
+  margin: 1.6rem auto;
+  border: 1px solid rgba(139, 228, 243, .45);
+  border-radius: 50%;
+  color: #8be4f3;
+  font-size: 1.1rem;
+}
+.ticket-bottom { padding-top: .8rem; border-top: 1px dashed rgba(139, 228, 243, .3); }
+
+.content {
+  max-width: 1120px;
+  padding: 0 2rem 2rem;
+}
+
+.section-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.section-label { margin-bottom: .5rem; }
+.section-hint { color: var(--text-secondary); font-size: .85rem; }
+
+.page-title {
+  margin: 0;
+  color: var(--text-primary);
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  text-align: left;
+  text-transform: none;
+  letter-spacing: -.04em;
+}
+
+.city-buttons { grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: .8rem; }
+.city-button {
+  min-height: 120px;
+  padding: 1.4rem;
+  border-radius: 16px;
+  text-align: left;
+  box-shadow: none;
+}
+.city-button::before, .city-button::after { display: none; }
+.city-button:hover {
+  transform: translateY(-3px);
+  border-color: rgba(139, 228, 243, .5);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, .18);
+}
+.city-copy { display: flex; flex-direction: column; gap: .45rem; }
+.city-eyebrow { color: var(--text-secondary); font-size: .6rem; }
+.city-name { font-size: 1.2rem; }
+.arrow {
+  display: grid;
+  place-items: center;
+  width: 38px;
+  height: 38px;
+  border: 1px solid rgba(139, 228, 243, .25);
+  border-radius: 50%;
+  font-size: 1.15rem;
+}
+.city-button:hover .arrow { transform: translate(2px, -2px); }
+
+@media (max-width: 800px) {
+  .hero-art { display: none; }
+}
+
+@media (max-width: 600px) {
+  .header { padding: 1.5rem 1.25rem 3rem; }
+  .logo-section { margin-bottom: 3.75rem; }
+  .logo { width: 40px; height: 40px; }
+  .app-title { font-size: 1.1rem; }
+  .subtitle { font-size: clamp(2.8rem, 12vw, 4rem); }
+  .hero-description { font-size: .95rem; }
+  .content { padding: 0 1.25rem 1rem; }
+  .section-heading { align-items: start; flex-direction: column; gap: .35rem; }
+  .city-buttons { grid-template-columns: 1fr; }
+  .city-button { min-height: 92px; }
+}

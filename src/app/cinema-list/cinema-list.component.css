@@ -389,3 +389,42 @@
     height: 48px;
   }
 }
+
+.header {
+  position: relative;
+  padding: 1.2rem max(1.25rem, calc((100% - 1056px) / 2));
+  text-align: left;
+}
+.header::before, .header-divider, .logo-ring { display: none; }
+.logo-section { flex-direction: row; justify-content: flex-start; gap: .75rem; }
+.logo { width: 44px; height: 44px; border: 1px solid rgba(139, 228, 243, .35); box-shadow: none; }
+.app-title {
+  color: var(--text-primary);
+  font-size: 1.15rem;
+  letter-spacing: -.03em;
+  background: none;
+  -webkit-text-fill-color: currentColor;
+  animation: none;
+}
+.navigation { max-width: 1120px; padding: 2rem 2rem .5rem; }
+.back-button { color: var(--text-primary); box-shadow: none; }
+.content { max-width: 1120px; padding: 2rem 2rem; }
+.section-label { color: var(--neon-cyan); font-size: .7rem; font-weight: 700; letter-spacing: .16em; margin-bottom: .65rem; }
+.page-title { text-align: left; font-size: clamp(2.2rem, 5vw, 3.8rem); letter-spacing: -.055em; margin-bottom: .65rem; }
+.page-title span { color: var(--neon-cyan); background: none; -webkit-text-fill-color: currentColor; }
+.section-description { color: var(--text-secondary); margin-bottom: 2rem; }
+.cinema-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: .8rem; }
+.cinema-card { max-width: none; min-height: 110px; box-shadow: none; border-radius: 16px; animation: none; }
+.cinema-card::before, .cinema-card::after { display: none; }
+.cinema-card:hover { transform: translateY(-3px); border-color: rgba(139, 228, 243, .5); box-shadow: 0 12px 30px rgba(0, 0, 0, .18); }
+.cinema-icon { width: 44px; height: 44px; color: var(--neon-cyan); background: rgba(139, 228, 243, .08); border-color: rgba(139, 228, 243, .18); }
+.cinema-info .arrow { color: var(--neon-cyan); }
+
+@media (max-width: 600px) {
+  .header { padding: 1rem 1.25rem; }
+  .logo { width: 40px; height: 40px; }
+  .app-title { font-size: 1.1rem; }
+  .navigation { padding: 1.5rem 1.25rem .5rem; }
+  .content { padding: 1.5rem 1.25rem; }
+  .cinema-grid { grid-template-columns: 1fr; }
+}

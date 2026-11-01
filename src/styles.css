@@ -16,24 +16,24 @@
 /* ─── Design Tokens ─────────────────────── */
 :root {
   /* Backgrounds */
-  --bg-base: #0d1e36;
-  --bg-surface: #14274f;
-  --bg-card: rgba(18, 36, 66, 0.92);
-  --bg-card-hover: rgba(28, 50, 85, 0.96);
+  --bg-base: #0b1825;
+  --bg-surface: #142a3b;
+  --bg-card: rgba(20, 42, 59, 0.96);
+  --bg-card-hover: rgba(27, 55, 74, 0.98);
 
   /* Cool palette */
-  --neon-blue: #7dd3fc;
-  --neon-cyan: #38bdf8;
-  --neon-violet: #94a3b8;
-  --neon-teal: #2dd4bf;
+  --neon-blue: #80d8f6;
+  --neon-cyan: #8be4f3;
+  --neon-violet: #a7bbeb;
+  --neon-teal: #8ee4d2;
 
   /* Gradients */
   --grad-main: linear-gradient(135deg, #0d1e36 0%, #14274f 50%, #0d1e36 100%);
   --grad-card: linear-gradient(145deg, rgba(125, 211, 252, .16), rgba(56, 189, 248, .1));
-  --grad-btn: linear-gradient(135deg, #3b82f6, #38bdf8);
-  --grad-btn-back: linear-gradient(135deg, #101d38, #1b2b4d);
-  --grad-accent: linear-gradient(135deg, #38bdf8, #7dd3fc);
-  --grad-header: linear-gradient(180deg, rgba(13, 32, 57, .94) 0%, rgba(19, 40, 68, .94) 100%);
+  --grad-btn: linear-gradient(135deg, #8be4f3, #65b9ec);
+  --grad-btn-back: linear-gradient(135deg, #1b3548, #142a3b);
+  --grad-accent: linear-gradient(135deg, #8be4f3, #65b9ec);
+  --grad-header: linear-gradient(180deg, rgba(11, 27, 40, .98), rgba(11, 27, 40, .94));
 
   /* Typography */
   --font-display: 'Inter', sans-serif;
@@ -41,15 +41,15 @@
   --font-mono: 'Fira Code', monospace;
 
   /* Text */
-  --text-primary: #e2e8f0;
-  --text-secondary: #94a3b8;
-  --text-muted: #cbd5e1;
-  --text-accent: #38bdf8;
+  --text-primary: #f1f8fb;
+  --text-secondary: #afc4ce;
+  --text-muted: #c5d6de;
+  --text-accent: #8be4f3;
 
   /* Borders */
-  --border-subtle: rgba(148, 163, 184, .15);
-  --border-card: rgba(96, 165, 250, .25);
-  --border-glow: rgba(34, 211, 238, .22);
+  --border-subtle: rgba(255, 255, 255, .09);
+  --border-card: rgba(255, 255, 255, .1);
+  --border-glow: rgba(139, 228, 243, .25);
 
   /* Shadows */
   --shadow-sm: 0 1px 4px rgba(0, 0, 0, .24);
@@ -78,7 +78,7 @@ html {
   scroll-behavior: smooth;
   height: 100%;
   font-size: 16px;
-  background: #0d1e36 !important;
+  background: #0b1825;
 }
 
 html,
@@ -93,8 +93,10 @@ optgroup {
 
 body {
   font-family: var(--font-body);
-  background-color: var(--bg-base) !important;
-  background: linear-gradient(180deg, #0d1e36 0%, #122a48 100%) !important;
+  background-color: var(--bg-base);
+  background: radial-gradient(ellipse at 85% 0%, rgba(37, 150, 182, .18), transparent 35%),
+    radial-gradient(ellipse at 0% 40%, rgba(42, 105, 156, .12), transparent 38%),
+    var(--bg-base);
   min-height: 100%;
   color: var(--text-primary);
   overflow-x: hidden;
@@ -104,13 +106,7 @@ body {
   font-variant-numeric: tabular-nums;
   font-feature-settings: 'tnum' 1;
   /* ambient glow background */
-  background-image:
-    radial-gradient(circle at 16% 14%, rgba(56, 189, 248, .16) 0%, transparent 30%),
-    radial-gradient(circle at 82% 18%, rgba(125, 211, 252, .1) 0%, transparent 26%),
-    radial-gradient(circle at 52% 90%, rgba(59, 130, 246, .08) 0%, transparent 26%);
-  background-blend-mode: screen;
   background-attachment: fixed;
-  animation: backgroundPulse 18s ease-in-out infinite;
 }
 
 /* ─── Typography ─────────────────────────── */
@@ -389,7 +385,7 @@ a:focus-visible {
   text-align: center;
   border-top: 1px solid var(--border-subtle);
   margin-top: 3rem;
-  background: rgba(10, 18, 33, .9);
+  background: rgba(9, 23, 35, .7);
 }
 
 .app-footer .footer-inner {
@@ -417,8 +413,16 @@ a:focus-visible {
 .app-footer .footer-love .heart {
   color: #f472b6;
   font-size: 1rem;
-  animation: floatY 2.4s ease-in-out infinite;
   display: inline-block;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: .01ms !important;
+  }
 }
 
 .app-footer .footer-link {

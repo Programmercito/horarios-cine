@@ -24,6 +24,7 @@
   </div>
 
   <div class="content">
+    <p class="section-label">CARTELERA Y HORARIOS</p>
     <h2 class="page-title">
       {{ cinemaName }}
       @if (city) {
@@ -47,9 +48,16 @@
         <div class="movies-grid">
           @for (pelicula of ciudad.peliculas; track pelicula.id) {
           <div class="movie-card">
-            <div class="movie-header">
-              <div class="movie-title-with-info">
+            @if (pelicula.datos?.extras?.poster_path) {
+            <img [src]="'https://image.tmdb.org/t/p/w200' + pelicula.datos!.extras!.poster_path"
+              [alt]="pelicula.titulo + ' poster'" class="movie-thumb-poster">
+            }
+            <div class="movie-content">
+              <div class="movie-header">
+                <div class="movie-heading">
+                  <span class="movie-label">PELÍCULA</span>
                 <h4 class="movie-title">{{ pelicula.titulo }}</h4>
+                </div>
                 <div class="movie-title-controls">
                   @if (getMovieRuntime(pelicula) || getMovieAverageRating(pelicula)) {
                   <div class="movie-card-chips">
@@ -68,41 +76,33 @@
                   </button>
                 </div>
               </div>
-            </div>
-
-            <div class="movie-card-inner">
-              @if (getMovieVideoId(pelicula)) {
-                <div class="movie-trailer-row">
-                  <div class="movie-trailer-frame">
-                    <iframe [src]="getYouTubeUrl(getMovieVideoId(pelicula))" title="Trailer de la película"
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                      allowfullscreen></iframe>
-                  </div>
-                </div>
-              }
-
-              <div class="movie-media-schedules">
-                @if (pelicula.datos?.extras?.poster_path) {
-                  <img [src]="'https://image.tmdb.org/t/p/w200' + pelicula.datos!.extras!.poster_path"
-                    [alt]="pelicula.titulo + ' poster'" class="movie-thumb-poster">
-                }
-
-                <div class="movie-schedules-side">
+              <div class="movie-schedules-side">
+                  <p class="schedules-label">HORARIOS <span>· Selecciona una función para ver sus detalles</span></p>
                   <div class="schedules-grid">
                     @for (horario of pelicula.horarios; track horario.horario) {
-                      <div class="schedule-badge" [class.expired]="isScheduleExpired(horario)"
-                        (click)="!isScheduleExpired(horario) && showScheduleDetails(horario, pelicula.titulo)"
+                      <button type="button" class="schedule-badge" [class.expired]="isScheduleExpired(horario)"
+                        [disabled]="isScheduleExpired(horario)"
+                        (click)="showScheduleDetails(horario, pelicula.titulo)"
                         title="{{ isScheduleExpired(horario) ? '' : 'Ver detalles del horario' }}">
-                        <div class="schedule-time">{{ horario.horario }}</div>
-                        <div class="schedule-details">
+                        <span class="schedule-time">{{ horario.horario }}</span>
+                        <span class="schedule-details">
                           <span class="schedule-format">{{ horario.formato }}</span>
                           <span class="schedule-language">{{ horario.idioma }}</span>
-                        </div>
-                      </div>
+                        </span>
+                      </button>
                     }
                   </div>
+              </div>
+              @if (getMovieVideoId(pelicula)) {
+              <div class="movie-trailer">
+                <div class="movie-trailer-frame">
+                  <iframe [src]="getYouTubeUrl(getMovieVideoId(pelicula))" title="Tráiler de {{ pelicula.titulo }}"
+                    loading="lazy"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen></iframe>
                 </div>
               </div>
+              }
             </div>
           </div>
           }
