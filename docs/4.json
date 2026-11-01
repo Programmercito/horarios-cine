@@ -4,17 +4,37 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
-          "titulo": "THE AMAZING DIGITAL CIRCUS: EL ÚLTIMO ACTO",
+          "titulo": "STREET FIGHTER",
           "horarios": [
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "11:10"
+              "horario": "12:50"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "13:30"
+              "horario": "15:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "18:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "21:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "14:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:00"
             },
             {
               "idioma": "Doblada",
@@ -24,225 +44,7 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "16:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "17:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "21:00"
-            }
-          ],
-          "id": "2ae11860-d5f2-4f82-95ad-fe2ef01b6858"
-        },
-        {
-          "titulo": "SCARY MOVIE",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "10:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "10:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "13:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "15:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "17:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "11:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "14:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "16:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "18:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "20:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "22:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + DBOX",
-              "horario": "23:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "19:30"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "19:50"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "22:00"
-            }
-          ],
-          "id": "bbbb110f-79a5-4287-94f0-856f70e11f89"
-        },
-        {
-          "titulo": "AMOS DEL UNIVERSO",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "10:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "13:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "16:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "10:50"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "13:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "16:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + XD + DBOX",
-              "horario": "22:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "12:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "15:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "18:10"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "19:10"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "19:00"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "21:50"
-            }
-          ],
-          "id": "43de5c88-c57e-4b99-9f81-7e9d3f0e833f"
-        },
-        {
-          "titulo": "BACKROOMS",
-          "horarios": [
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "10:10"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "12:30"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "17:30"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "20:00"
-            },
-            {
-              "idioma": "Subtitulada",
-              "formato": "2D + PREMIER",
-              "horario": "22:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "10:30"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "13:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "15:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "17:40"
+              "horario": "16:40"
             },
             {
               "idioma": "Doblada",
@@ -252,88 +54,231 @@
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "20:00"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D + PREMIER",
-              "horario": "15:00"
-            }
-          ],
-          "id": "772da12f-6fae-4546-a0cd-e2fbba363e22"
-        },
-        {
-          "titulo": "STAR WARS: THE MANDALORIAN AND GROGU",
-          "horarios": [
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "11:40"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
-              "horario": "14:20"
-            },
-            {
-              "idioma": "Doblada",
-              "formato": "2D",
               "horario": "17:00"
             },
             {
-              "idioma": "Doblada",
+              "idioma": "Subtitulada",
               "formato": "2D",
-              "horario": "19:40"
+              "horario": "19:30"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "22:00"
             }
           ],
-          "id": "b02c0e3d-72e1-495b-8c3d-ed8ad05a2797"
+          "id": "c69a664f-be09-43ef-bd8a-a22fa988800d"
         },
         {
-          "titulo": "OBSESIÓN",
+          "titulo": "LA CAÍDA DE LA BALLENA",
           "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "17:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "20:00"
+            },
             {
               "idioma": "Doblada",
               "formato": "2D",
               "horario": "22:20"
             }
           ],
-          "id": "30cb9a47-3cdc-400a-b0ed-1cbc2c8592ae"
+          "id": "02163cad-c805-4a33-b7f7-ba3a98eb82b4"
         },
         {
-          "titulo": "LAS OVEJAS DETECTIVES",
+          "titulo": "LOS JUEGOS DEL HAMBRE: SINSAJO PT2 [2015]",
           "horarios": [
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "12:10"
+              "horario": "18:20"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "21:30"
             }
           ],
-          "id": "d65a44e8-6f28-4992-a47e-c8107aafe206"
+          "id": "241beb78-41ec-4ebf-b86a-3fced12c6f18"
         },
         {
-          "titulo": "EL DIABLO VISTE A LA MODA 2",
+          "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "11:30"
+              "horario": "14:00"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "14:10"
+              "horario": "16:10"
             },
             {
               "idioma": "Doblada",
               "formato": "2D",
-              "horario": "16:50"
+              "horario": "18:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:40"
             }
           ],
-          "id": "b3c032cf-50b3-44ec-8991-ebd9c38ab1d4"
+          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef"
+        },
+        {
+          "titulo": "EL CORAZÓN DE LA BESTIA",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "12:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "15:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "17:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "20:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:20"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "14:00"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "16:20"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "18:40"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "21:00"
+            }
+          ],
+          "id": "ebbee9c9-edf1-496c-93bb-0eddc652707c"
+        },
+        {
+          "titulo": "MADRE SINIESTRA",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "13:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "16:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "20:20"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "17:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "19:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:00"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "18:10"
+            },
+            {
+              "idioma": "Subtitulada",
+              "formato": "2D",
+              "horario": "22:30"
+            }
+          ],
+          "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f"
+        },
+        {
+          "titulo": "ENTREGA AL LÍMITE",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "13:30"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "15:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "17:50"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "20:00"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "22:10"
+            }
+          ],
+          "id": "d3225c1b-53e2-4765-b36f-335c9be21a9e"
+        },
+        {
+          "titulo": "ESCUELA DE MONSTRUOS",
+          "horarios": [
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "13:40"
+            },
+            {
+              "idioma": "Doblada",
+              "formato": "2D",
+              "horario": "15:40"
+            }
+          ],
+          "id": "744a7cd0-6e95-4792-ad5b-9f5c5a9b475e"
         }
       ]
     }
   ],
   "cine": "CINEMARK",
-  "fecha": "6/6/2026"
+  "fecha": "19/10/2026"
 }
