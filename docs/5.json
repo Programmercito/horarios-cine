@@ -18,6 +18,11 @@
               "formato": "2D"
             },
             {
+              "horario": "11:05",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
               "horario": "14:40",
               "idioma": "Doblada",
               "formato": "2D"
@@ -34,6 +39,11 @@
           "titulo": "SPIDER-MAN: UN NUEVO DÍA",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
               "horario": "16:05",
               "idioma": "Doblada",
               "formato": "2D"
@@ -41,6 +51,28 @@
             {
               "horario": "21:10",
               "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "c3e3cea7-a8be-4ce1-91d8-bdb648f31a62",
+          "titulo": "SKY KARTING",
+          "horarios": [
+            {
+              "horario": "23:35",
+              "idioma": "",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "d4ee1f19-95cb-45bb-9391-e97d9df6a32c",
+          "titulo": "SKY CRASH",
+          "horarios": [
+            {
+              "horario": "23:30",
+              "idioma": "",
               "formato": "2D"
             }
           ]
@@ -61,6 +93,11 @@
           "titulo": "MADRE SINIESTRA",
           "horarios": [
             {
+              "horario": "12:50",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
               "horario": "16:25",
               "idioma": "Doblada",
               "formato": "2D"
@@ -76,6 +113,11 @@
           "id": "eac0a976-c21b-4deb-882e-76c58ac17b36",
           "titulo": "STREET FIGHTER: LA PELÍCULA",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
             {
               "horario": "15:05",
               "idioma": "Doblada",
@@ -114,6 +156,11 @@
           "titulo": "CLAYFACE",
           "horarios": [
             {
+              "horario": "11:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
               "horario": "13:25",
               "idioma": "Doblada",
               "formato": "2D"
@@ -145,6 +192,11 @@
           "titulo": "EL BOSQUE SALVAJE",
           "horarios": [
             {
+              "horario": "11:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
               "horario": "14:00",
               "idioma": "Doblada",
               "formato": "2D"
@@ -170,6 +222,11 @@
           "id": "ead810e3-c563-4be8-b8de-d777745e1b1b",
           "titulo": "EL HELADERO: DULCE SABOR A MUERTE",
           "horarios": [
+            {
+              "horario": "11:50",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
             {
               "horario": "15:15",
               "idioma": "Doblada",
@@ -212,5 +269,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "1/11/2026"
+  "fecha": "2/11/2026"
 }
