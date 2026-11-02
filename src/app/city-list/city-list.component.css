@@ -18,7 +18,7 @@
   overflow: hidden;
 }
 
-/* animated orb behind header */
+/* Static glow behind header */
 .header::before {
   content: '';
   position: absolute;
@@ -30,7 +30,6 @@
   left: 50%;
   transform: translateX(-50%);
   pointer-events: none;
-  animation: floatY 6s ease-in-out infinite;
 }
 
 .logo-section {
