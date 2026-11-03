@@ -4,47 +4,21 @@
       "ciudad": "Cochabamba",
       "peliculas": [
         {
-          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
-          "titulo": "RESIDENT EVIL: NOCHE CERO",
+          "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
+          "titulo": "GODZILLA MINUS ZERO",
           "horarios": [
             {
-              "horario": "13:30",
+              "horario": "21:50",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "16:55",
+              "horario": "16:10",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "11:05",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:15",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "98dab719-690b-4761-a3b1-93c7ddd416dc",
-          "titulo": "SPIDER-MAN: UN NUEVO DÍA",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:05",
+              "horario": "18:40",
               "idioma": "Doblada",
               "formato": "2D"
             },
@@ -56,211 +30,12 @@
           ]
         },
         {
-          "id": "c3e3cea7-a8be-4ce1-91d8-bdb648f31a62",
-          "titulo": "SKY KARTING",
+          "id": "9e392318-0946-48c4-82d9-8fb4cb7cd633",
+          "titulo": "GODZILLA MINUS ZERO (SUBTITULADO)",
           "horarios": [
-            {
-              "horario": "23:35",
-              "idioma": "",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "d4ee1f19-95cb-45bb-9391-e97d9df6a32c",
-          "titulo": "SKY CRASH",
-          "horarios": [
-            {
-              "horario": "23:30",
-              "idioma": "",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "3bea6614-d0c6-4cac-b70e-f17deeb8d72f",
-          "titulo": "EN EL CORAZÓN DE LA BESTIA",
-          "horarios": [
-            {
-              "horario": "20:00",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f",
-          "titulo": "MADRE SINIESTRA",
-          "horarios": [
-            {
-              "horario": "12:50",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:25",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:55",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "eac0a976-c21b-4deb-882e-76c58ac17b36",
-          "titulo": "STREET FIGHTER: LA PELÍCULA",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:05",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
             {
               "horario": "19:20",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "3629c5b8-6480-4a3e-a288-91b266275a24",
-          "titulo": "LA CAIDA DE LA BALLENA",
-          "horarios": [
-            {
-              "horario": "13:10",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:35",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "10971a95-b0cf-445d-b510-ebca382a5941",
-          "titulo": "CLAYFACE",
-          "horarios": [
-            {
-              "horario": "11:20",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:25",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:35",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "59ae6166-fb97-48e3-9cdb-9c1c3a04aab1",
-          "titulo": "EL BOSQUE SALVAJE",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "ead810e3-c563-4be8-b8de-d777745e1b1b",
-          "titulo": "EL HELADERO: DULCE SABOR A MUERTE",
-          "horarios": [
-            {
-              "horario": "11:50",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:15",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "8174c3dc-df56-4e01-9487-ab2c1dc08755",
-          "titulo": "SENSATEZ Y SENTIMIENTO",
-          "horarios": [
-            {
-              "horario": "13:40",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Doblada",
+              "idioma": "Subtitulada",
               "formato": "2D"
             }
           ]
@@ -269,5 +44,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "2/11/2026"
+  "fecha": "3/11/2026"
 }
