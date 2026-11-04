@@ -8,6 +8,11 @@
           "titulo": "GODZILLA MINUS ZERO",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D XL"
@@ -58,6 +63,11 @@
           "id": "ead810e3-c563-4be8-b8de-d777745e1b1b",
           "titulo": "EL HELADERO: DULCE SABOR A MUERTE",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
             {
               "horario": "12:50",
               "idioma": "Español",
@@ -112,6 +122,27 @@
           ]
         },
         {
+          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
+          "titulo": "COYOTE VS ACME",
+          "horarios": [
+            {
+              "horario": "10:25",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "148a063f-ce94-4d28-9d36-b497d45a2ac3",
           "titulo": "EKEKO",
           "horarios": [
@@ -148,6 +179,22 @@
             },
             {
               "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "96f09dc0-f231-4f54-a74b-403e2fc22c97",
+          "titulo": "CHUCKY: EL MUÑECO DIABÓLICO (1988)",
+          "horarios": [
+            {
+              "horario": "10:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -196,33 +243,6 @@
             },
             {
               "horario": "19:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
-          "horarios": [
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "96f09dc0-f231-4f54-a74b-403e2fc22c97",
-          "titulo": "CHUCKY: EL MUÑECO DIABÓLICO (1988)",
-          "horarios": [
-            {
-              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -301,7 +321,7 @@
             {
               "horario": "21:15",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "3D"
             }
           ]
         },
@@ -321,6 +341,67 @@
     {
       "ciudad": "La Paz - Av Arce",
       "peliculas": [
+        {
+          "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
+          "titulo": "GODZILLA MINUS ZERO",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Japones",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "21:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            }
+          ]
+        },
         {
           "id": "10971a95-b0cf-445d-b510-ebca382a5941",
           "titulo": "CLAYFACE",
@@ -378,65 +459,14 @@
           ]
         },
         {
-          "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
-          "titulo": "GODZILLA MINUS ZERO",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Japones",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            }
-          ]
-        },
-        {
           "id": "59ae6166-fb97-48e3-9cdb-9c1c3a04aab1",
           "titulo": "EL BOSQUE SALVAJE",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:10",
               "idioma": "Español",
@@ -516,40 +546,14 @@
           ]
         },
         {
-          "id": "ead810e3-c563-4be8-b8de-d777745e1b1b",
-          "titulo": "EL HELADERO: DULCE SABOR A MUERTE",
-          "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "ca56fad3-d210-4bce-a6f9-c7de8c81db2c",
           "titulo": "STREET FIGTHER",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "14:30",
               "idioma": "Español",
@@ -574,6 +578,42 @@
               "horario": "20:10",
               "idioma": "Español",
               "formato": "4D E-MOTION"
+            }
+          ]
+        },
+        {
+          "id": "ead810e3-c563-4be8-b8de-d777745e1b1b",
+          "titulo": "EL HELADERO: DULCE SABOR A MUERTE",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -714,22 +754,6 @@
           ]
         },
         {
-          "id": "96f09dc0-f231-4f54-a74b-403e2fc22c97",
-          "titulo": "CHUCKY: EL MUÑECO DIABÓLICO (1988)",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "a0f23c87-419a-463f-ac49-ff218e12438c",
           "titulo": "EL EXORCISTA - VERSIÓN EXTENDIDA DEL DIRECTOR (1973)",
           "horarios": [
@@ -742,6 +766,22 @@
               "horario": "21:25",
               "idioma": "Español",
               "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
+          "id": "96f09dc0-f231-4f54-a74b-403e2fc22c97",
+          "titulo": "CHUCKY: EL MUÑECO DIABÓLICO (1988)",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -980,7 +1020,7 @@
             {
               "horario": "16:50",
               "idioma": "Japones",
-              "formato": "2D SUB"
+              "formato": "2D"
             },
             {
               "horario": "17:20",
@@ -995,7 +1035,7 @@
             {
               "horario": "19:30",
               "idioma": "Japones",
-              "formato": "2D SUB"
+              "formato": "2D"
             },
             {
               "horario": "20:00",
@@ -1011,6 +1051,63 @@
               "horario": "22:40",
               "idioma": "Español",
               "formato": "2D XL"
+            }
+          ]
+        },
+        {
+          "id": "ead810e3-c563-4be8-b8de-d777745e1b1b",
+          "titulo": "EL HELADERO: DULCE SABOR A MUERTE",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:55",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
+          "titulo": "EN EL CORAZON DE LA BESTIA",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -1067,32 +1164,6 @@
           ]
         },
         {
-          "id": "ead810e3-c563-4be8-b8de-d777745e1b1b",
-          "titulo": "EL HELADERO: DULCE SABOR A MUERTE",
-          "horarios": [
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:55",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
           "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
@@ -1114,21 +1185,16 @@
           ]
         },
         {
-          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
-          "titulo": "EN EL CORAZON DE LA BESTIA",
+          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
+          "titulo": "COYOTE VS ACME",
           "horarios": [
             {
-              "horario": "15:10",
+              "horario": "11:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:30",
+              "horario": "13:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1259,17 +1325,6 @@
           ]
         },
         {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
-          "horarios": [
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "96f09dc0-f231-4f54-a74b-403e2fc22c97",
           "titulo": "CHUCKY: EL MUÑECO DIABÓLICO (1988)",
           "horarios": [
@@ -1306,5 +1361,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "3/11/2026"
+  "fecha": "4/11/2026"
 }
