@@ -4,6 +4,58 @@
       "ciudad": "Cochabamba",
       "peliculas": [
         {
+          "id": "98dab719-690b-4761-a3b1-93c7ddd416dc",
+          "titulo": "SPIDER-MAN: UN NUEVO DÍA",
+          "horarios": [
+            {
+              "horario": "13:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "10971a95-b0cf-445d-b510-ebca382a5941",
+          "titulo": "CLAYFACE",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:15",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
           "titulo": "GODZILLA MINUS ZERO",
           "horarios": [
@@ -33,10 +85,151 @@
               "formato": "2D"
             }
           ]
+        },
+        {
+          "id": "59ae6166-fb97-48e3-9cdb-9c1c3a04aab1",
+          "titulo": "EL BOSQUE SALVAJE",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "ead810e3-c563-4be8-b8de-d777745e1b1b",
+          "titulo": "EL HELADERO: DULCE SABOR A MUERTE",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:25",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "9aa2d6d5-a32e-4d75-ac9b-57a2ead561ab",
+          "titulo": "CABALLO SALVAJE NUEVE (SUBTITULADO)",
+          "horarios": [
+            {
+              "horario": "21:30",
+              "idioma": "Subtitulada",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "Subtitulada",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:05",
+              "idioma": "Subtitulada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "0d49a7e0-dad7-43d7-af3d-07e2b297d275",
+          "titulo": "PINOCHO SIN CUERDAS",
+          "horarios": [
+            {
+              "horario": "11:40",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
+          "titulo": "EL GATO CON SOMBRERO",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:15",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:45",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:25",
+              "idioma": "Doblada",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "6bbd80b1-2315-488d-8a51-b887fa7dbfa3",
+          "titulo": "GEORGE MICHAEL: THE FAITH TOUR (SUBTITULADO)",
+          "horarios": [
+            {
+              "horario": "21:00",
+              "idioma": "Subtitulada",
+              "formato": "2D"
+            }
+          ]
         }
       ]
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "4/11/2026"
+  "fecha": "5/11/2026"
 }
