@@ -319,109 +319,33 @@
       "ciudad": "La Paz - Av Arce",
       "peliculas": [
         {
-          "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
-          "titulo": "EL GATO CON SOMBRERO",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "12:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "17:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
           "titulo": "GODZILLA MINUS ZERO",
           "horarios": [
             {
-              "horario": "10:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "11:00",
               "idioma": "Español",
-              "formato": "2D XL"
+              "formato": "2D"
             },
             {
-              "horario": "12:20",
+              "horario": "12:40",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL"
             },
             {
               "horario": "13:40",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D XL"
             },
             {
               "horario": "16:20",
@@ -447,6 +371,11 @@
               "horario": "19:00",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Japones",
+              "formato": "2D SUB"
             },
             {
               "horario": "20:00",
@@ -476,6 +405,87 @@
           ]
         },
         {
+          "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
+          "titulo": "EL GATO CON SOMBRERO",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "12:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "14:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "17:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:00",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "10971a95-b0cf-445d-b510-ebca382a5941",
           "titulo": "CLAYFACE",
           "horarios": [
@@ -483,6 +493,11 @@
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D PLUS"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
               "horario": "16:40",
@@ -493,6 +508,11 @@
               "horario": "17:35",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
             },
             {
               "horario": "19:50",
@@ -512,63 +532,11 @@
           ]
         },
         {
-          "id": "4f9c779e-b81c-471b-8c18-51bf3d562b10",
-          "titulo": "PINOCHO: SIN CUERDAS",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "a86dd32b-8561-46e5-ab91-989ce42ed124",
-          "titulo": "STRAY KIDS WORLD TOUR <RUN IT> LIVE VIEWING",
-          "horarios": [
-            {
-              "horario": "14:00",
-              "idioma": "Coreano",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Coreano",
-              "formato": "LIVE STREAM"
-            },
-            {
-              "horario": "18:15",
-              "idioma": "Coreano",
-              "formato": "LIVE STREAM"
-            },
-            {
-              "horario": "18:15",
-              "idioma": "Coreano",
-              "formato": "LIVE STREAM"
-            }
-          ]
-        },
-        {
           "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
           "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "13:20",
               "idioma": "Español",
               "formato": "2D XL"
             },
@@ -578,7 +546,85 @@
               "formato": "2D PLUS"
             },
             {
-              "horario": "22:25",
+              "horario": "17:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "4f9c779e-b81c-471b-8c18-51bf3d562b10",
+          "titulo": "PINOCHO: SIN CUERDAS",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "59ae6166-fb97-48e3-9cdb-9c1c3a04aab1",
+          "titulo": "EL BOSQUE SALVAJE",
+          "horarios": [
+            {
+              "horario": "10:45",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
+          "titulo": "COYOTE VS ACME",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -627,43 +673,6 @@
           ]
         },
         {
-          "id": "5f6cc51d-0efb-4f47-8519-ff08e82e0d2e",
-          "titulo": "ROCKY (1976)",
-          "horarios": [
-            {
-              "horario": "14:45",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
-          "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "ead810e3-c563-4be8-b8de-d777745e1b1b",
           "titulo": "EL HELADERO: DULCE SABOR A MUERTE",
           "horarios": [
@@ -680,16 +689,32 @@
           ]
         },
         {
-          "id": "59ae6166-fb97-48e3-9cdb-9c1c3a04aab1",
-          "titulo": "EL BOSQUE SALVAJE",
+          "id": "3c561e60-5731-4dba-a34a-5d06a532e0cb",
+          "titulo": "AVENGERS ENDGAME BONUS (Infinity Vision)",
           "horarios": [
             {
-              "horario": "15:10",
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "3D XL"
+            },
+            {
+              "horario": "21:10",
+              "idioma": "Español",
+              "formato": "3D XL"
+            }
+          ]
+        },
+        {
+          "id": "5f6cc51d-0efb-4f47-8519-ff08e82e0d2e",
+          "titulo": "ROCKY (1976)",
+          "horarios": [
+            {
+              "horario": "17:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:45",
+              "horario": "19:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -700,12 +725,12 @@
           "titulo": "EKEKO",
           "horarios": [
             {
-              "horario": "15:30",
+              "horario": "17:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "21:35",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -728,13 +753,24 @@
           ]
         },
         {
-          "id": "8174c3dc-df56-4e01-9487-ab2c1dc08755",
-          "titulo": "SENSATEZ Y SENTIMIENTO",
+          "id": "88298167-b0e1-4d97-9527-929e11e8c6c6",
+          "titulo": "GEORGE MICHAEL: THE FAITH TOUR",
           "horarios": [
             {
               "horario": "12:00",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            }
+          ]
+        },
+        {
+          "id": "4d90b551-a545-4109-90d1-b62d5b32e68e",
+          "titulo": "TERROR EN EL AMAZONAS",
+          "horarios": [
+            {
+              "horario": "12:20",
               "idioma": "Español",
-              "formato": "2D PLUS"
+              "formato": "2D"
             }
           ]
         },
@@ -743,7 +779,7 @@
           "titulo": "CHUCKY: EL MUÑECO DIABÓLICO (1988)",
           "horarios": [
             {
-              "horario": "12:20",
+              "horario": "14:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -772,24 +808,13 @@
           ]
         },
         {
-          "id": "88298167-b0e1-4d97-9527-929e11e8c6c6",
-          "titulo": "GEORGE MICHAEL: THE FAITH TOUR",
-          "horarios": [
-            {
-              "horario": "19:00",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ]
-        },
-        {
-          "id": "3c561e60-5731-4dba-a34a-5d06a532e0cb",
-          "titulo": "AVENGERS ENDGAME BONUS (Infinity Vision)",
+          "id": "50433e10-9c8c-4d9e-a0cf-e2912cafd2f0",
+          "titulo": "ESTACIÓN ZOMBIE (2016)",
           "horarios": [
             {
               "horario": "22:10",
               "idioma": "Español",
-              "formato": "3D XL"
+              "formato": "2D"
             }
           ]
         }
@@ -825,6 +850,27 @@
           ]
         },
         {
+          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
+          "titulo": "EN EL CORAZON DE LA BESTIA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "14:15",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
           "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
           "titulo": "GODZILLA MINUS ZERO",
           "horarios": [
@@ -840,22 +886,6 @@
             },
             {
               "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
-          "titulo": "EN EL CORAZON DE LA BESTIA",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "14:15",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -932,17 +962,6 @@
           "horarios": [
             {
               "horario": "20:30",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ]
-        },
-        {
-          "id": "88298167-b0e1-4d97-9527-929e11e8c6c6",
-          "titulo": "GEORGE MICHAEL: THE FAITH TOUR",
-          "horarios": [
-            {
-              "horario": "21:30",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
             }
@@ -1098,6 +1117,27 @@
           ]
         },
         {
+          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
+          "titulo": "RESIDENT EVIL: NOCHE CERO",
+          "horarios": [
+            {
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "aead9835-00af-46e0-b5e7-1b7fa22df94e",
           "titulo": "LA ISLA OLVIDADA",
           "horarios": [
@@ -1156,22 +1196,6 @@
             },
             {
               "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
-          "titulo": "RESIDENT EVIL: NOCHE CERO",
-          "horarios": [
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:45",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1248,13 +1272,13 @@
           ]
         },
         {
-          "id": "4d90b551-a545-4109-90d1-b62d5b32e68e",
-          "titulo": "TERROR EN EL AMAZONAS",
+          "id": "88298167-b0e1-4d97-9527-929e11e8c6c6",
+          "titulo": "GEORGE MICHAEL: THE FAITH TOUR",
           "horarios": [
             {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
+              "horario": "12:20",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             }
           ]
         },
@@ -1290,21 +1314,10 @@
               "formato": "2D XL"
             }
           ]
-        },
-        {
-          "id": "88298167-b0e1-4d97-9527-929e11e8c6c6",
-          "titulo": "GEORGE MICHAEL: THE FAITH TOUR",
-          "horarios": [
-            {
-              "horario": "18:40",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ]
         }
       ]
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "7/11/2026"
+  "fecha": "8/11/2026"
 }
