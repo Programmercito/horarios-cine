@@ -1,10 +1,102 @@
 {
   "ciudades": [
     {
-      "peliculas": [],
+      "peliculas": [
+        {
+          "id": "10971a95-b0cf-445d-b510-ebca382a5941",
+          "titulo": "CLAYFACE",
+          "horarios": [
+            {
+              "horario": "17:40",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:55",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "563a1c91-91c2-4f12-860f-0c2b668e8ac4",
+          "titulo": "GEORGE MICHAEL",
+          "horarios": [
+            {
+              "horario": "12:45",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:05",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "7c303bd2-38c6-483c-a4de-9efab46e5e94",
+          "titulo": "EL HELADERO",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "c69a664f-be09-43ef-bd8a-a22fa988800d",
+          "titulo": "STREET FIGHTER",
+          "horarios": [
+            {
+              "horario": "10:40",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "da9ea41a-1e41-44cf-821d-88140e83403a",
+          "titulo": "EL PODER DE LA RED",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "c15f0c8b-a381-4418-97c0-0febac47d90c",
+          "titulo": "GODZILLA MINIUS ZERO",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Doblado",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Doblado",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Doblado",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:15",
+              "idioma": "Doblado",
+              "formato": "2D"
+            }
+          ]
+        }
+      ],
       "ciudad": "La Paz"
     }
   ],
   "cine": "MONJE",
-  "fecha": "7/11/2026"
+  "fecha": "8/11/2026"
 }
