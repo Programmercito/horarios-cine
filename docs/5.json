@@ -25,6 +25,28 @@
           ]
         },
         {
+          "id": "c3e3cea7-a8be-4ce1-91d8-bdb648f31a62",
+          "titulo": "SKY KARTING",
+          "horarios": [
+            {
+              "horario": "23:55",
+              "idioma": "",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "d4ee1f19-95cb-45bb-9391-e97d9df6a32c",
+          "titulo": "SKY CRASH",
+          "horarios": [
+            {
+              "horario": "22:55",
+              "idioma": "",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "10971a95-b0cf-445d-b510-ebca382a5941",
           "titulo": "CLAYFACE",
           "horarios": [
@@ -212,7 +234,7 @@
             {
               "horario": "17:25",
               "idioma": "Doblada",
-              "formato": "3D"
+              "formato": "2D"
             }
           ]
         },
@@ -231,5 +253,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "8/11/2026"
+  "fecha": "9/11/2026"
 }
