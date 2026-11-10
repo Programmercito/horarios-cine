@@ -185,22 +185,6 @@
           ]
         },
         {
-          "id": "ead810e3-c563-4be8-b8de-d777745e1b1b",
-          "titulo": "EL HELADERO: DULCE SABOR A MUERTE",
-          "horarios": [
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
           "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
@@ -221,7 +205,7 @@
           "titulo": "CHUCKY: EL MUÑECO DIABÓLICO (1988)",
           "horarios": [
             {
-              "horario": "13:20",
+              "horario": "13:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -244,6 +228,17 @@
           "horarios": [
             {
               "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "ead810e3-c563-4be8-b8de-d777745e1b1b",
+          "titulo": "EL HELADERO: DULCE SABOR A MUERTE",
+          "horarios": [
+            {
+              "horario": "19:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1254,5 +1249,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "9/11/2026"
+  "fecha": "10/11/2026"
 }
