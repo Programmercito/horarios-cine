@@ -8,40 +8,23 @@
           "titulo": "SPIDER-MAN: UN NUEVO DÍA",
           "horarios": [
             {
-              "horario": "13:20",
+              "horario": "12:40",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "17:40",
+              "horario": "17:00",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
+              "horario": "19:40",
               "idioma": "Doblada",
               "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "c3e3cea7-a8be-4ce1-91d8-bdb648f31a62",
-          "titulo": "SKY KARTING",
-          "horarios": [
+            },
             {
-              "horario": "23:55",
-              "idioma": "",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "d4ee1f19-95cb-45bb-9391-e97d9df6a32c",
-          "titulo": "SKY CRASH",
-          "horarios": [
-            {
-              "horario": "22:55",
-              "idioma": "",
+              "horario": "22:20",
+              "idioma": "Doblada",
               "formato": "2D"
             }
           ]
@@ -64,16 +47,6 @@
               "horario": "15:20",
               "idioma": "Doblada",
               "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "Doblada",
-              "formato": "2D"
             }
           ]
         },
@@ -81,6 +54,16 @@
           "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
           "titulo": "GODZILLA MINUS ZERO",
           "horarios": [
+            {
+              "horario": "16:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
             {
               "horario": "11:10",
               "idioma": "Doblada",
@@ -105,6 +88,11 @@
               "horario": "21:10",
               "idioma": "Doblada",
               "formato": "2D"
+            },
+            {
+              "horario": "22:05",
+              "idioma": "Doblada",
+              "formato": "2D"
             }
           ]
         },
@@ -119,11 +107,6 @@
             },
             {
               "horario": "14:00",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
               "idioma": "Doblada",
               "formato": "2D"
             },
@@ -149,7 +132,12 @@
               "formato": "2D"
             },
             {
-              "horario": "19:20",
+              "horario": "17:05",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:45",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -160,17 +148,7 @@
           "titulo": "CABALLO SALVAJE NUEVE (SUBTITULADO)",
           "horarios": [
             {
-              "horario": "21:30",
-              "idioma": "Subtitulada",
-              "formato": "2D"
-            },
-            {
               "horario": "13:10",
-              "idioma": "Subtitulada",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:05",
               "idioma": "Subtitulada",
               "formato": "2D"
             }
@@ -181,17 +159,17 @@
           "titulo": "PINOCHO SIN CUERDAS",
           "horarios": [
             {
-              "horario": "11:40",
+              "horario": "20:25",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "16:00",
+              "horario": "11:00",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "20:20",
+              "horario": "15:20",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -239,12 +217,17 @@
           ]
         },
         {
-          "id": "6bbd80b1-2315-488d-8a51-b887fa7dbfa3",
-          "titulo": "GEORGE MICHAEL: THE FAITH TOUR (SUBTITULADO)",
+          "id": "309e9e5f-a9a5-429c-b802-ea461dc413f6",
+          "titulo": "YO SOY ROCKY",
           "horarios": [
             {
-              "horario": "21:00",
-              "idioma": "Subtitulada",
+              "horario": "19:40",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:05",
+              "idioma": "Doblada",
               "formato": "2D"
             }
           ]
@@ -253,5 +236,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "10/11/2026"
+  "fecha": "11/11/2026"
 }
