@@ -7,50 +7,23 @@
           "titulo": "CLAYFACE",
           "horarios": [
             {
-              "horario": "17:40",
+              "horario": "12:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "19:55",
+              "horario": "",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "563a1c91-91c2-4f12-860f-0c2b668e8ac4",
-          "titulo": "GEORGE MICHAEL",
+          "id": "89031883-dc9b-4993-9f62-4c3c9833e231",
+          "titulo": "SHERK 1 (RE ESTRENO ANIVERSARIO)",
           "horarios": [
             {
-              "horario": "12:45",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:05",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "7c303bd2-38c6-483c-a4de-9efab46e5e94",
-          "titulo": "EL HELADERO",
-          "horarios": [
-            {
-              "horario": "13:00",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "c69a664f-be09-43ef-bd8a-a22fa988800d",
-          "titulo": "STREET FIGHTER",
-          "horarios": [
-            {
-              "horario": "10:40",
+              "horario": "10:50",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -61,9 +34,25 @@
           "titulo": "EL PODER DE LA RED",
           "horarios": [
             {
-              "horario": "15:00",
+              "horario": "10:30",
               "idioma": "DOB. AL ESPAÑOL",
-              "formato": "3D"
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "309e9e5f-a9a5-429c-b802-ea461dc413f6",
+          "titulo": "YO SOY ROCKY",
+          "horarios": [
+            {
+              "horario": "19:55",
+              "idioma": "Doblado",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Doblado",
+              "formato": "2D"
             }
           ]
         },
@@ -77,18 +66,19 @@
               "formato": "2D"
             },
             {
-              "horario": "19:50",
+              "horario": "19:35",
               "idioma": "Doblado",
               "formato": "2D"
-            },
+            }
+          ]
+        },
+        {
+          "id": "ef80e015-df1a-41ef-91a3-cb042e512a1d",
+          "titulo": "COMO ROBAR UN BANCO",
+          "horarios": [
             {
-              "horario": "22:20",
-              "idioma": "Doblado",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:15",
-              "idioma": "Doblado",
+              "horario": "17:05",
+              "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
           ]
@@ -98,5 +88,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "12/11/2026"
+  "fecha": "13/11/2026"
 }
