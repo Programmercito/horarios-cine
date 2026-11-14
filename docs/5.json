@@ -24,11 +24,6 @@
           "titulo": "GODZILLA MINUS ZERO",
           "horarios": [
             {
-              "horario": "11:30",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
               "horario": "14:00",
               "idioma": "Doblada",
               "formato": "2D"
@@ -52,6 +47,11 @@
               "horario": "17:10",
               "idioma": "Doblada",
               "formato": "2D"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "Doblada",
+              "formato": "2D"
             }
           ]
         },
@@ -59,16 +59,6 @@
           "id": "b66fe578-6d53-4a5d-9896-a71aa51cee4d",
           "titulo": "SHREK",
           "horarios": [
-            {
-              "horario": "11:05",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:50",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
             {
               "horario": "14:35",
               "idioma": "Doblada",
@@ -116,16 +106,6 @@
           "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
           "titulo": "EL GATO CON SOMBRERO",
           "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:15",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
             {
               "horario": "15:30",
               "idioma": "Doblada",
@@ -236,5 +216,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "13/11/2026"
+  "fecha": "14/11/2026"
 }
