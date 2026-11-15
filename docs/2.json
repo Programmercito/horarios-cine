@@ -105,7 +105,12 @@
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "13:30",
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -263,7 +268,7 @@
           "titulo": "COYOTE VS ACME",
           "horarios": [
             {
-              "horario": "11:20",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1049,6 +1054,42 @@
           ]
         },
         {
+          "id": "cb350d8c-fd61-41c9-8bd6-7befa596706e",
+          "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            }
+          ]
+        },
+        {
           "id": "309e9e5f-a9a5-429c-b802-ea461dc413f6",
           "titulo": "YO SOY ROCKY",
           "horarios": [
@@ -1085,63 +1126,6 @@
           ]
         },
         {
-          "id": "cb350d8c-fd61-41c9-8bd6-7befa596706e",
-          "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
-          "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            }
-          ]
-        },
-        {
-          "id": "b66fe578-6d53-4a5d-9896-a71aa51cee4d",
-          "titulo": "SHREK",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "10971a95-b0cf-445d-b510-ebca382a5941",
           "titulo": "CLAYFACE",
           "horarios": [
@@ -1159,6 +1143,27 @@
               "horario": "22:15",
               "idioma": "Ingles",
               "formato": "2D SUB"
+            }
+          ]
+        },
+        {
+          "id": "b66fe578-6d53-4a5d-9896-a71aa51cee4d",
+          "titulo": "SHREK",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -1334,5 +1339,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "14/11/2026"
+  "fecha": "15/11/2026"
 }
