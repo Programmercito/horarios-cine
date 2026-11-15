@@ -45,6 +45,16 @@
           "titulo": "YO SOY ROCKY",
           "horarios": [
             {
+              "horario": "12:45",
+              "idioma": "Doblado",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:05",
+              "idioma": "Doblado",
+              "formato": "2D"
+            },
+            {
               "horario": "19:55",
               "idioma": "Doblado",
               "formato": "2D"
@@ -88,5 +98,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "14/11/2026"
+  "fecha": "15/11/2026"
 }
