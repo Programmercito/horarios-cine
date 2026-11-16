@@ -301,6 +301,12 @@ a:focus-visible {
   to { opacity: 1; scale: 1.06; }
 }
 
+@keyframes cinema-heartbeat {
+  0%, 100% { scale: 1; }
+  45% { scale: 1.22; }
+  60% { scale: 1.08; }
+}
+
 @keyframes glow-pulse {
 
   0%,
@@ -449,6 +455,7 @@ a:focus-visible {
   border-top: 1px solid var(--border-subtle);
   margin-top: 3rem;
   background: rgba(9, 23, 35, .7);
+  animation: cinema-reveal .65s .12s cubic-bezier(.2, .7, .2, 1) both;
 }
 
 .app-footer .footer-inner {
@@ -477,6 +484,7 @@ a:focus-visible {
   color: #f472b6;
   font-size: 1rem;
   display: inline-block;
+  animation: cinema-heartbeat 1.8s ease-in-out infinite;
 }
 
 @media (prefers-reduced-motion: reduce) {

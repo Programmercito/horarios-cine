@@ -7,6 +7,7 @@
   background: transparent;
   display: flex;
   flex-direction: column;
+  animation: cinema-fade .4s ease both;
 }
 
 /* ── Header ──────────────────────────────── */
@@ -21,6 +22,7 @@
   z-index: 100;
   text-align: center;
   overflow: hidden;
+  animation: cinema-fade .55s ease both;
 }
 
 /* subtle radial glow behind logo */
@@ -109,6 +111,7 @@
   max-width: 1000px;
   margin: 0 auto;
   width: 100%;
+  animation: cinema-reveal .55s .08s cubic-bezier(.2, .7, .2, 1) both;
 }
 
 .back-button {
@@ -147,6 +150,7 @@
   margin: 0 auto;
   width: 100%;
   flex: 1;
+  animation: cinema-fade .45s ease both;
 }
 
 .page-title {
@@ -261,6 +265,14 @@
   justify-content: center;
   font-size: 1.1rem;
   flex-shrink: 0;
+  transition: transform .3s var(--ease-spring), box-shadow .3s ease;
+}
+
+@media (hover: hover) {
+  .cinema-card:hover .cinema-icon {
+    transform: rotate(-8deg) scale(1.08);
+    box-shadow: 0 0 18px rgba(139, 228, 243, .18);
+  }
 }
 
 .cinema-name {
@@ -303,6 +315,7 @@
   padding: 3.5rem 2rem;
   text-align: center;
   margin-top: 2rem;
+  animation: cinema-reveal .6s ease both;
 }
 
 .no-data p {
@@ -418,10 +431,10 @@
 .navigation { max-width: 1120px; padding: 2rem 2rem .5rem; }
 .back-button { color: var(--text-primary); box-shadow: none; }
 .content { max-width: 1120px; padding: 2rem 2rem; }
-.section-label { color: var(--neon-cyan); font-size: .7rem; font-weight: 700; letter-spacing: .16em; margin-bottom: .65rem; }
+.section-label { color: var(--neon-cyan); font-size: .7rem; font-weight: 700; letter-spacing: .16em; margin-bottom: .65rem; animation: cinema-reveal .5s .08s ease both; }
 .page-title { text-align: left; font-size: clamp(2.2rem, 5vw, 3.8rem); letter-spacing: -.055em; margin-bottom: .65rem; }
 .page-title span { color: var(--neon-cyan); background: none; -webkit-text-fill-color: currentColor; }
-.section-description { color: var(--text-secondary); margin-bottom: 2rem; }
+.section-description { color: var(--text-secondary); margin-bottom: 2rem; animation: cinema-reveal .6s .12s cubic-bezier(.2, .7, .2, 1) both; }
 .cinema-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: .8rem; }
 .cinema-card { max-width: none; min-height: 110px; box-shadow: none; border-radius: 16px; }
 .cinema-card::before, .cinema-card::after { display: none; }
