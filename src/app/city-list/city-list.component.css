@@ -325,7 +325,7 @@
   right: 0;
   transform: none;
   background: radial-gradient(circle, rgba(71, 186, 213, .16), transparent 70%);
-  animation: none;
+  animation: cinema-glow 8s ease-in-out infinite alternate;
 }
 
 .logo-section {
@@ -333,6 +333,7 @@
   justify-content: flex-start;
   gap: .75rem;
   margin-bottom: 5rem;
+  animation: cinema-reveal .7s cubic-bezier(.2, .7, .2, 1) both;
 }
 
 .logo {
@@ -361,6 +362,7 @@
 }
 
 .hero-label { margin-bottom: 1rem; }
+.hero-label { animation: cinema-reveal .65s .08s ease both; }
 
 .subtitle {
   color: var(--text-primary);
@@ -368,6 +370,7 @@
   font-weight: 800;
   letter-spacing: -.065em;
   line-height: 1.05;
+  animation: cinema-reveal .7s .16s cubic-bezier(.2, .7, .2, 1) both;
 }
 
 .subtitle span { color: var(--neon-cyan); }
@@ -377,6 +380,7 @@
   margin-top: 1.25rem;
   color: var(--text-secondary);
   font-size: 1.05rem;
+  animation: cinema-reveal .7s .24s cubic-bezier(.2, .7, .2, 1) both;
 }
 
 .hero-art {
@@ -388,6 +392,7 @@
   display: grid;
   place-items: center;
   pointer-events: none;
+  animation: cinema-reveal .8s .2s cubic-bezier(.2, .7, .2, 1) both;
 }
 .hero-art::before {
   content: '';
@@ -396,6 +401,7 @@
   height: 250px;
   border: 1px solid rgba(139, 228, 243, .16);
   border-radius: 50%;
+  animation: cinema-glow 6s ease-in-out infinite alternate;
 }
 .ticket-art {
   position: relative;
@@ -406,6 +412,7 @@
   background: linear-gradient(145deg, #235064, #162e40 65%);
   box-shadow: 0 24px 60px rgba(0, 0, 0, .3);
   transform: rotate(9deg);
+  animation: cinema-float 6s ease-in-out infinite;
 }
 .ticket-top, .ticket-bottom {
   display: flex;
@@ -460,7 +467,17 @@
   border-radius: 16px;
   text-align: left;
   box-shadow: none;
+  animation: cinema-reveal .55s cubic-bezier(.2, .7, .2, 1) both;
 }
+.city-button:nth-child(1) { animation-delay: .06s; }
+.city-button:nth-child(2) { animation-delay: .12s; }
+.city-button:nth-child(3) { animation-delay: .18s; }
+.city-button:nth-child(4) { animation-delay: .24s; }
+.city-button:nth-child(5) { animation-delay: .3s; }
+.city-button:nth-child(6) { animation-delay: .36s; }
+.city-button:nth-child(7) { animation-delay: .42s; }
+.city-button:nth-child(8) { animation-delay: .48s; }
+.city-button:nth-child(n + 9) { animation: none; }
 .city-button::before, .city-button::after { display: none; }
 .city-button:hover {
   transform: translateY(-3px);

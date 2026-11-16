@@ -45,7 +45,7 @@
 }
 .refresh-button { color: var(--neon-cyan); }
 
-.content { width: 100%; max-width: 1160px; margin: 0 auto; padding: 2rem 1.25rem; flex: 1; }
+.content { width: 100%; max-width: 1160px; margin: 0 auto; padding: 2rem 1.25rem; flex: 1; animation: cinema-fade .45s ease both; }
 .section-label, .movie-label, .schedules-label {
   color: var(--neon-cyan);
   font-size: .7rem;
@@ -85,6 +85,20 @@
   border: 1px solid rgba(255, 255, 255, .09);
   border-radius: 18px;
   box-shadow: 0 12px 35px rgba(0, 0, 0, .12);
+  animation: cinema-reveal .55s cubic-bezier(.2, .7, .2, 1) both;
+  transition: border-color .25s ease, box-shadow .25s ease;
+}
+.movie-card:nth-child(1) { animation-delay: .04s; }
+.movie-card:nth-child(2) { animation-delay: .09s; }
+.movie-card:nth-child(3) { animation-delay: .14s; }
+.movie-card:nth-child(4) { animation-delay: .19s; }
+.movie-card:nth-child(5) { animation-delay: .24s; }
+.movie-card:nth-child(6) { animation-delay: .29s; }
+.movie-card:nth-child(7) { animation-delay: .34s; }
+.movie-card:nth-child(8) { animation-delay: .39s; }
+.movie-card:nth-child(n + 9) { animation: none; }
+@media (hover: hover) {
+  .movie-card:hover { border-color: rgba(139, 228, 243, .28); box-shadow: 0 16px 38px rgba(0, 0, 0, .2); }
 }
 .movie-card:not(:has(.movie-thumb-poster)) { grid-template-columns: minmax(0, 1fr); }
 .movie-thumb-poster {
@@ -130,7 +144,7 @@
   cursor: pointer;
   transition: background .2s, border-color .2s;
 }
-.schedule-badge:hover:not(:disabled) { background: #275568; border-color: var(--neon-cyan); }
+.schedule-badge:hover:not(:disabled) { background: #275568; border-color: var(--neon-cyan); transform: translateY(-2px); box-shadow: 0 7px 18px rgba(79, 207, 232, .14); }
 .schedule-badge:disabled { opacity: .48; cursor: not-allowed; }
 .schedule-time { color: #a2edfa; font-size: 1.15rem; font-weight: 800; line-height: 1.2; }
 .schedule-details { display: flex; flex-direction: column; margin-top: .3rem; line-height: 1.3; }
@@ -233,7 +247,8 @@
 
 .share-btn.whatsapp:hover { box-shadow: 0 8px 22px rgba(22, 141, 89, .55); }
 .share-btn.telegram:hover { box-shadow: 0 8px 22px rgba(22, 138, 196, .55); }
-.schedule-popup { animation: popup-in .35s cubic-bezier(.34, 1.56, .64, 1); }
+.popup-dialog[open] { animation: cinema-fade .2s ease both; }
+.movie-popup, .schedule-popup { animation: popup-in .35s cubic-bezier(.34, 1.56, .64, 1); }
 @keyframes popup-in {
   from { opacity: 0; transform: translateY(20px) scale(.96); }
   to { opacity: 1; transform: none; }
@@ -243,8 +258,3 @@
   to { opacity: 1; transform: none; }
 }
 .schedule-time-large { text-shadow: 0 0 18px rgba(139, 228, 243, .45); }
-
-@media (prefers-reduced-motion: reduce) {
-  .schedule-popup, .movie-trailer-frame { animation: none; }
-  .trailer-toggle { transition: none; }
-}
