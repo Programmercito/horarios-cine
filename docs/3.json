@@ -1,10 +1,102 @@
 {
   "ciudades": [
     {
-      "peliculas": [],
+      "peliculas": [
+        {
+          "id": "10971a95-b0cf-445d-b510-ebca382a5941",
+          "titulo": "CLAYFACE",
+          "horarios": [
+            {
+              "horario": "12:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "89031883-dc9b-4993-9f62-4c3c9833e231",
+          "titulo": "SHERK 1 (RE ESTRENO ANIVERSARIO)",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "da9ea41a-1e41-44cf-821d-88140e83403a",
+          "titulo": "EL PODER DE LA RED",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "309e9e5f-a9a5-429c-b802-ea461dc413f6",
+          "titulo": "YO SOY ROCKY",
+          "horarios": [
+            {
+              "horario": "12:45",
+              "idioma": "Doblado",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:05",
+              "idioma": "Doblado",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:55",
+              "idioma": "Doblado",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Doblado",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "c15f0c8b-a381-4418-97c0-0febac47d90c",
+          "titulo": "GODZILLA MINIUS ZERO",
+          "horarios": [
+            {
+              "horario": "15:00",
+              "idioma": "Doblado",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:35",
+              "idioma": "Doblado",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "ef80e015-df1a-41ef-91a3-cb042e512a1d",
+          "titulo": "COMO ROBAR UN BANCO",
+          "horarios": [
+            {
+              "horario": "17:05",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        }
+      ],
       "ciudad": "La Paz"
     }
   ],
   "cine": "MONJE",
-  "fecha": "1/11/2026"
+  "fecha": "15/11/2026"
 }

@@ -4,146 +4,30 @@
       "ciudad": "Cochabamba",
       "peliculas": [
         {
-          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
-          "titulo": "RESIDENT EVIL: NOCHE CERO",
-          "horarios": [
-            {
-              "horario": "13:30",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:55",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:40",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:15",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "98dab719-690b-4761-a3b1-93c7ddd416dc",
-          "titulo": "SPIDER-MAN: UN NUEVO DÍA",
-          "horarios": [
-            {
-              "horario": "16:05",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "3bea6614-d0c6-4cac-b70e-f17deeb8d72f",
-          "titulo": "EN EL CORAZÓN DE LA BESTIA",
-          "horarios": [
-            {
-              "horario": "20:00",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "7074110a-09ec-46f2-a7c9-ce0d5d857c3f",
-          "titulo": "MADRE SINIESTRA",
-          "horarios": [
-            {
-              "horario": "16:25",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:55",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "eac0a976-c21b-4deb-882e-76c58ac17b36",
-          "titulo": "STREET FIGHTER: LA PELÍCULA",
-          "horarios": [
-            {
-              "horario": "15:05",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "3629c5b8-6480-4a3e-a288-91b266275a24",
-          "titulo": "LA CAIDA DE LA BALLENA",
-          "horarios": [
-            {
-              "horario": "13:10",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:20",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:35",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "10971a95-b0cf-445d-b510-ebca382a5941",
           "titulo": "CLAYFACE",
           "horarios": [
             {
-              "horario": "13:25",
+              "horario": "13:05",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "15:30",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:35",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:45",
+              "horario": "17:15",
               "idioma": "Doblada",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "59ae6166-fb97-48e3-9cdb-9c1c3a04aab1",
-          "titulo": "EL BOSQUE SALVAJE",
+          "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
+          "titulo": "GODZILLA MINUS ZERO",
           "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
             {
               "horario": "14:00",
               "idioma": "Doblada",
@@ -163,15 +47,123 @@
               "horario": "21:30",
               "idioma": "Doblada",
               "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Doblada",
+              "formato": "2D"
             }
           ]
         },
         {
-          "id": "ead810e3-c563-4be8-b8de-d777745e1b1b",
-          "titulo": "EL HELADERO: DULCE SABOR A MUERTE",
+          "id": "b66fe578-6d53-4a5d-9896-a71aa51cee4d",
+          "titulo": "SHREK",
           "horarios": [
             {
-              "horario": "15:15",
+              "horario": "11:05",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:50",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:35",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:05",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:35",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "0d49a7e0-dad7-43d7-af3d-07e2b297d275",
+          "titulo": "PINOCHO SIN CUERDAS",
+          "horarios": [
+            {
+              "horario": "11:40",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
+          "titulo": "EL GATO CON SOMBRERO",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:15",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:45",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:15",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "309e9e5f-a9a5-429c-b802-ea461dc413f6",
+          "titulo": "YO SOY ROCKY",
+          "horarios": [
+            {
+              "horario": "11:25",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:15",
               "idioma": "Doblada",
               "formato": "2D"
             },
@@ -181,28 +173,60 @@
               "formato": "2D"
             },
             {
-              "horario": "20:20",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:00",
+              "horario": "21:05",
               "idioma": "Doblada",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "8174c3dc-df56-4e01-9487-ab2c1dc08755",
-          "titulo": "SENSATEZ Y SENTIMIENTO",
+          "id": "fcf58c3e-29d7-4f53-830b-0c30d3f05b24",
+          "titulo": "EBENEZER: LOS FANTASMAS DE LA NAVIDAD",
           "horarios": [
             {
-              "horario": "13:40",
+              "horario": "15:00",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "18:40",
+              "horario": "19:40",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:50",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "d501b383-565a-40ca-ba4d-3b0c74427969",
+          "titulo": "LA URNA MALDITA",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:10",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "46cd2e5a-24a3-4ba6-9d3c-2e667f19faa5",
+          "titulo": "CÓMO ROBAR UN BANCO",
+          "horarios": [
+            {
+              "horario": "19:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:35",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -212,5 +236,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "1/11/2026"
+  "fecha": "15/11/2026"
 }
