@@ -23,7 +23,7 @@
   justify-content: space-between;
   gap: .75rem;
 }
-.nav-button, .cinema-web-btn, .movie-info-btn-cool {
+.nav-button, .cinema-web-btn, .movie-info-btn-cool, .trailer-toggle {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -39,7 +39,7 @@
   text-decoration: none;
   cursor: pointer;
 }
-.nav-button:hover, .cinema-web-btn:hover, .movie-info-btn-cool:hover {
+.nav-button:hover, .cinema-web-btn:hover, .movie-info-btn-cool:hover, .trailer-toggle:hover {
   border-color: rgba(139, 228, 243, .5);
   background: #26465a;
 }
@@ -135,8 +135,26 @@
 .schedule-time { color: #a2edfa; font-size: 1.15rem; font-weight: 800; line-height: 1.2; }
 .schedule-details { display: flex; flex-direction: column; margin-top: .3rem; line-height: 1.3; }
 .schedule-format, .schedule-language { color: #c1d5de; font-size: .67rem; line-height: 1.35; }
-.movie-trailer { display: flex; justify-content: center; margin-top: 1.25rem; }
-.movie-trailer-frame { width: 100%; max-width: 720px; aspect-ratio: 16 / 9; overflow: hidden; border-radius: 10px; background: #091722; }
+.movie-trailer { display: flex; flex-direction: column; align-items: center; gap: .9rem; margin-top: 1.25rem; }
+.trailer-toggle {
+  gap: .6rem;
+  min-width: 160px;
+  color: var(--neon-cyan);
+}
+.trailer-toggle:focus-visible { outline: 2px solid var(--neon-cyan); outline-offset: 2px; }
+.trailer-toggle-icon { font-size: .75rem; }
+.close-trailer-icon { font-size: 1.25rem; line-height: .75; }
+.movie-trailer-frame {
+  width: 100%;
+  max-width: 720px;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border: 1px solid rgba(139, 228, 243, .2);
+  border-radius: 10px;
+  background: #091722;
+  box-shadow: 0 12px 35px rgba(0, 0, 0, .2);
+  animation: trailer-in .28s ease both;
+}
 .movie-trailer-frame iframe { width: 100%; height: 100%; border: 0; }
 .no-data { padding: 3rem 1.5rem; text-align: center; background: var(--bg-card); border: 1px solid var(--border-card); border-radius: 18px; }
 .no-data p { font-weight: 600; }
@@ -202,6 +220,7 @@
   .schedules-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   .schedule-badge { min-height: 70px; }
   .movie-trailer { margin-top: .35rem; }
+  .trailer-toggle { width: min(100%, 220px); min-height: 44px; }
   .movie-popup, .schedule-popup { padding: 1.5rem; }
   .poster-and-overview { flex-direction: column; }
   .movie-poster { width: 120px; }
@@ -219,8 +238,13 @@
   from { opacity: 0; transform: translateY(20px) scale(.96); }
   to { opacity: 1; transform: none; }
 }
+@keyframes trailer-in {
+  from { opacity: 0; transform: translateY(8px) scale(.985); }
+  to { opacity: 1; transform: none; }
+}
 .schedule-time-large { text-shadow: 0 0 18px rgba(139, 228, 243, .45); }
 
 @media (prefers-reduced-motion: reduce) {
-  .schedule-popup { animation: none; }
+  .schedule-popup, .movie-trailer-frame { animation: none; }
+  .trailer-toggle { transition: none; }
 }

@@ -22,6 +22,7 @@ export class ScheduleListComponent extends EncodingCine implements OnInit, OnDes
   cinemaData: CineData | null = null;
   pelidata: Pelicula[] = [];
   ciudadesFiltradas: Ciudad[] = [];
+  activeTrailerId: string | null = null;
 
   // Popup variables
   showMoviePopup: boolean = false;
@@ -465,6 +466,16 @@ export class ScheduleListComponent extends EncodingCine implements OnInit, OnDes
     const id = (videoId || '').trim();
     const url = id ? `https://www.youtube.com/embed/${id}` : 'about:blank';
     return this.sanitizer.bypassSecurityTrustResourceUrl(url);
+  }
+
+  getYouTubeTrailerUrl(videoId: string | null | undefined): SafeResourceUrl {
+    const id = (videoId || '').trim();
+    const url = id ? `https://www.youtube.com/embed/${id}?autoplay=1&rel=0` : 'about:blank';
+    return this.sanitizer.bypassSecurityTrustResourceUrl(url);
+  }
+
+  toggleTrailer(movie: PeliculaHorario): void {
+    this.activeTrailerId = this.activeTrailerId === movie.id ? null : movie.id;
   }
 
   // Generate share text without emojis

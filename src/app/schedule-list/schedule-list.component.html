@@ -95,12 +95,24 @@
               </div>
               @if (getMovieVideoId(pelicula)) {
               <div class="movie-trailer">
+                <button type="button" class="trailer-toggle" (click)="toggleTrailer(pelicula)"
+                  [attr.aria-expanded]="activeTrailerId === pelicula.id"
+                  [attr.aria-label]="(activeTrailerId === pelicula.id ? 'Cerrar tráiler de ' : 'Ver tráiler de ') + pelicula.titulo">
+                  @if (activeTrailerId === pelicula.id) {
+                  <span class="trailer-toggle-icon close-trailer-icon" aria-hidden="true">×</span>
+                  <span>Cerrar tráiler</span>
+                  } @else {
+                  <span class="trailer-toggle-icon" aria-hidden="true">▶</span>
+                  <span>Ver tráiler</span>
+                  }
+                </button>
+                @if (activeTrailerId === pelicula.id) {
                 <div class="movie-trailer-frame">
-                  <iframe [src]="getYouTubeUrl(getMovieVideoId(pelicula))" title="Tráiler de {{ pelicula.titulo }}"
-                    loading="lazy"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  <iframe [src]="getYouTubeTrailerUrl(getMovieVideoId(pelicula))"
+                    title="Tráiler de {{ pelicula.titulo }}" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     allowfullscreen></iframe>
                 </div>
+                }
               </div>
               }
             </div>
