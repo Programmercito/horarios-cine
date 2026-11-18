@@ -8,12 +8,12 @@
           "titulo": "CLAYFACE",
           "horarios": [
             {
-              "horario": "13:05",
+              "horario": "13:25",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "17:15",
+              "horario": "17:35",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -86,11 +86,6 @@
             },
             {
               "horario": "19:50",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:35",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -180,6 +175,22 @@
           ]
         },
         {
+          "id": "b56d6dfe-61d6-4399-a95c-17936e40790f",
+          "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+          "horarios": [
+            {
+              "horario": "19:40",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:35",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "fcf58c3e-29d7-4f53-830b-0c30d3f05b24",
           "titulo": "EBENEZER: LOS FANTASMAS DE LA NAVIDAD",
           "horarios": [
@@ -192,11 +203,6 @@
               "horario": "19:40",
               "idioma": "Doblada",
               "formato": "2D"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Doblada",
-              "formato": "2D"
             }
           ]
         },
@@ -205,12 +211,12 @@
           "titulo": "LA URNA MALDITA",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "11:20",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "15:30",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -221,12 +227,7 @@
           "titulo": "CÓMO ROBAR UN BANCO",
           "horarios": [
             {
-              "horario": "19:20",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:35",
+              "horario": "22:30",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -236,5 +237,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "17/11/2026"
+  "fecha": "18/11/2026"
 }
