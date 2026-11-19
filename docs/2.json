@@ -4,16 +4,62 @@
       "ciudad": "El Alto",
       "peliculas": [
         {
-          "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
-          "titulo": "GODZILLA MINUS ZERO",
+          "id": "b56d6dfe-61d6-4399-a95c-17936e40790f",
+          "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
           "horarios": [
             {
-              "horario": "11:00",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "11:10",
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:15",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            }
+          ]
+        },
+        {
+          "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
+          "titulo": "GODZILLA MINUS ZERO",
+          "horarios": [
+            {
+              "horario": "13:20",
               "idioma": "Español",
               "formato": "2D XL - 2D XL KRONOS"
             },
@@ -23,19 +69,9 @@
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "13:45",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
-            },
-            {
               "horario": "16:20",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D XL - 2D XL KRONOS"
             },
             {
               "horario": "19:00",
@@ -43,19 +79,14 @@
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
               "horario": "21:40",
               "idioma": "Español",
               "formato": "2D - 2D KRONOS"
             },
             {
-              "horario": "22:40",
+              "horario": "22:20",
               "idioma": "Español",
-              "formato": "2D"
+              "formato": "2D XL - 2D XL KRONOS"
             }
           ]
         },
@@ -64,34 +95,66 @@
           "titulo": "EL GATO CON SOMBRERO",
           "horarios": [
             {
-              "horario": "11:20",
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "3D"
+            },
+            {
+              "horario": "15:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "12:45",
+              "horario": "17:20",
               "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
+              "formato": "2D"
             },
             {
-              "horario": "15:10",
+              "horario": "19:50",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "3D"
+            }
+          ]
+        },
+        {
+          "id": "b7de67bc-20af-4a8d-aaed-26c416f93f38",
+          "titulo": "MASHA Y LOS OSOS",
+          "horarios": [
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
-              "horario": "17:30",
+              "horario": "13:50",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "2D"
             },
             {
-              "horario": "20:00",
+              "horario": "15:30",
               "idioma": "Español",
-              "formato": "3D - 3D KRONOS"
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "a53096c2-8ea7-4791-8b4a-a1a7cbacf343",
+          "titulo": "EXORCISMO EN EL TREN",
+          "horarios": [
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
-              "horario": "22:30",
+              "horario": "17:50",
               "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -100,27 +163,28 @@
           "titulo": "SHREK",
           "horarios": [
             {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D - 2D KRONOS"
-            },
-            {
-              "horario": "14:10",
+              "horario": "12:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:00",
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "309e9e5f-a9a5-429c-b802-ea461dc413f6",
+          "titulo": "YO SOY ROCKY",
+          "horarios": [
+            {
+              "horario": "14:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
+              "horario": "19:40",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -131,14 +195,258 @@
           "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
           "horarios": [
             {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "58c3944b-b7bf-4584-ab87-34199cc9a8e7",
+          "titulo": "EL ÚLTIMO RITUAL",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "09ad8fdc-a2b9-456d-bb15-8cbabaab2cc7",
+          "titulo": "EL PADRINO (1972)",
+          "horarios": [
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "4f9c779e-b81c-471b-8c18-51bf3d562b10",
+          "titulo": "PINOCHO: SIN CUERDAS",
+          "horarios": [
+            {
+              "horario": "21:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
+          "titulo": "RESIDENT EVIL: NOCHE CERO",
+          "horarios": [
+            {
+              "horario": "21:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "d501b383-565a-40ca-ba4d-3b0c74427969",
+          "titulo": "LA URNA MALDITA",
+          "horarios": [
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "46cd2e5a-24a3-4ba6-9d3c-2e667f19faa5",
+          "titulo": "CÓMO ROBAR UN BANCO",
+          "horarios": [
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ciudad": "La Paz - Av Arce",
+      "peliculas": [
+        {
+          "id": "b56d6dfe-61d6-4399-a95c-17936e40790f",
+          "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "19:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "20:50",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "21:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "22:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
+          "titulo": "GODZILLA MINUS ZERO",
+          "horarios": [
+            {
+              "horario": "14:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "19:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            }
+          ]
+        },
+        {
+          "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
+          "titulo": "EL GATO CON SOMBRERO",
+          "horarios": [
+            {
               "horario": "12:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
               "horario": "14:30",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "3D PLUS"
             },
             {
               "horario": "16:50",
@@ -157,14 +465,29 @@
           "titulo": "YO SOY ROCKY",
           "horarios": [
             {
-              "horario": "15:20",
+              "horario": "14:20",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:50",
+              "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:15",
+              "idioma": "Español",
+              "formato": "2D PLUS"
             },
             {
               "horario": "22:20",
@@ -174,290 +497,9 @@
           ]
         },
         {
-          "id": "b56d6dfe-61d6-4399-a95c-17936e40790f",
-          "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-          "horarios": [
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D XL"
-            }
-          ]
-        },
-        {
-          "id": "46cd2e5a-24a3-4ba6-9d3c-2e667f19faa5",
-          "titulo": "CÓMO ROBAR UN BANCO",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "4f9c779e-b81c-471b-8c18-51bf3d562b10",
-          "titulo": "PINOCHO: SIN CUERDAS",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "58c3944b-b7bf-4584-ab87-34199cc9a8e7",
-          "titulo": "EL ÚLTIMO RITUAL",
-          "horarios": [
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "d501b383-565a-40ca-ba4d-3b0c74427969",
-          "titulo": "LA URNA MALDITA",
-          "horarios": [
-            {
-              "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "7843f55d-dce8-4133-9cd8-f258b2ec06af",
-          "titulo": "JU-ON: EL GRITO",
-          "horarios": [
-            {
-              "horario": "14:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
-          "titulo": "RESIDENT EVIL: NOCHE CERO",
-          "horarios": [
-            {
-              "horario": "18:05",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "50433e10-9c8c-4d9e-a0cf-e2912cafd2f0",
-          "titulo": "ESTACIÓN ZOMBIE (2016)",
-          "horarios": [
-            {
-              "horario": "21:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ciudad": "La Paz - Av Arce",
-      "peliculas": [
-        {
-          "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
-          "titulo": "GODZILLA MINUS ZERO",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "11:40",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "15:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:45",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "21:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "b56d6dfe-61d6-4399-a95c-17936e40790f",
-          "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-          "horarios": [
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
-            {
-              "horario": "20:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "21:15",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "21:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Español",
-              "formato": "4D E-MOTION"
-            }
-          ]
-        },
-        {
           "id": "cb350d8c-fd61-41c9-8bd6-7befa596706e",
           "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
           "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
             {
               "horario": "15:30",
               "idioma": "Español",
@@ -479,6 +521,11 @@
               "formato": "2D"
             },
             {
+              "horario": "21:15",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
               "horario": "22:30",
               "idioma": "Español",
               "formato": "2D"
@@ -486,82 +533,52 @@
           ]
         },
         {
-          "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
-          "titulo": "EL GATO CON SOMBRERO",
+          "id": "a53096c2-8ea7-4791-8b4a-a1a7cbacf343",
+          "titulo": "EXORCISMO EN EL TREN",
           "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
             {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "14:30",
+              "horario": "16:25",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "17:00",
+              "horario": "20:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:30",
+              "horario": "22:50",
               "idioma": "Español",
-              "formato": "3D"
+              "formato": "2D"
             }
           ]
         },
         {
-          "id": "309e9e5f-a9a5-429c-b802-ea461dc413f6",
-          "titulo": "YO SOY ROCKY",
+          "id": "b7de67bc-20af-4a8d-aaed-26c416f93f38",
+          "titulo": "MASHA Y LOS OSOS",
           "horarios": [
             {
-              "horario": "11:40",
+              "horario": "12:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "13:20",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "14:20",
+              "horario": "13:50",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "15:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:20",
+              "horario": "17:10",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -572,48 +589,28 @@
           "titulo": "CLAYFACE",
           "horarios": [
             {
-              "horario": "12:10",
+              "horario": "13:40",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:35",
+              "horario": "21:30",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "46cd2e5a-24a3-4ba6-9d3c-2e667f19faa5",
-          "titulo": "CÓMO ROBAR UN BANCO",
+          "id": "687ed0f7-b1f7-44ef-bc86-ba4b1ef375c3",
+          "titulo": "VIDA CON PROPÓSITO",
           "horarios": [
             {
-              "horario": "13:20",
+              "horario": "14:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "15:45",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:10",
+              "horario": "18:25",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -629,92 +626,23 @@
               "formato": "2D"
             },
             {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "09ad8fdc-a2b9-456d-bb15-8cbabaab2cc7",
+          "titulo": "EL PADRINO (1972)",
+          "horarios": [
+            {
               "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "18:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
-          "titulo": "EN EL CORAZON DE LA BESTIA",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "5f6cc51d-0efb-4f47-8519-ff08e82e0d2e",
-          "titulo": "ROCKY (1976)",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "d501b383-565a-40ca-ba4d-3b0c74427969",
-          "titulo": "LA URNA MALDITA",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
-          "titulo": "RESIDENT EVIL: NOCHE CERO",
-          "horarios": [
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "18:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "58c3944b-b7bf-4584-ab87-34199cc9a8e7",
-          "titulo": "EL ÚLTIMO RITUAL",
-          "horarios": [
-            {
-              "horario": "14:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:40",
+              "horario": "19:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -725,31 +653,15 @@
           "titulo": "JU-ON: EL GRITO",
           "horarios": [
             {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
+              "horario": "12:20",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "00d26daf-ec06-4e43-b1a0-be6808f45fd3",
-          "titulo": "COYOTE VS ACME",
-          "horarios": [
-            {
-              "horario": "11:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "ca56fad3-d210-4bce-a6f9-c7de8c81db2c",
-          "titulo": "STREET FIGTHER",
+          "id": "59ae6166-fb97-48e3-9cdb-9c1c3a04aab1",
+          "titulo": "EL BOSQUE SALVAJE",
           "horarios": [
             {
               "horario": "12:50",
@@ -759,44 +671,44 @@
           ]
         },
         {
-          "id": "3c561e60-5731-4dba-a34a-5d06a532e0cb",
-          "titulo": "AVENGERS ENDGAME BONUS (Infinity Vision)",
+          "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
+          "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
             {
-              "horario": "15:25",
-              "idioma": "Español",
-              "formato": "3D XL"
-            }
-          ]
-        },
-        {
-          "id": "59ae6166-fb97-48e3-9cdb-9c1c3a04aab1",
-          "titulo": "EL BOSQUE SALVAJE",
-          "horarios": [
-            {
-              "horario": "16:00",
+              "horario": "13:50",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "f2218314-1732-406d-80bc-b55b508e7775",
-          "titulo": "TIERRA DE MI PADRE",
+          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
+          "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
             {
               "horario": "18:50",
-              "idioma": "Alemán",
-              "formato": "2D SUB"
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
         {
-          "id": "4f9c779e-b81c-471b-8c18-51bf3d562b10",
-          "titulo": "PINOCHO: SIN CUERDAS",
+          "id": "46cd2e5a-24a3-4ba6-9d3c-2e667f19faa5",
+          "titulo": "CÓMO ROBAR UN BANCO",
           "horarios": [
             {
-              "horario": "22:35",
+              "horario": "22:40",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "58c3944b-b7bf-4584-ab87-34199cc9a8e7",
+          "titulo": "EL ÚLTIMO RITUAL",
+          "horarios": [
+            {
+              "horario": "22:55",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -812,6 +724,21 @@
           "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
           "horarios": [
             {
+              "horario": "14:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "16:20",
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
               "horario": "19:30",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
@@ -820,37 +747,6 @@
               "horario": "20:20",
               "idioma": "Español",
               "formato": "2D PLUS"
-            },
-            {
-              "horario": "20:30",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            }
-          ]
-        },
-        {
-          "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
-          "titulo": "EL GATO CON SOMBRERO",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Español",
-              "formato": "3D PLUS"
             }
           ]
         },
@@ -859,12 +755,17 @@
           "titulo": "YO SOY ROCKY",
           "horarios": [
             {
-              "horario": "17:20",
+              "horario": "12:40",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "20:00",
+              "horario": "15:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "20:30",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
@@ -876,76 +777,48 @@
           ]
         },
         {
-          "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
-          "titulo": "GODZILLA MINUS ZERO",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "15:15",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
           "id": "cb350d8c-fd61-41c9-8bd6-7befa596706e",
           "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
           "horarios": [
             {
-              "horario": "13:00",
+              "horario": "13:50",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "17:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
-          "id": "5f6cc51d-0efb-4f47-8519-ff08e82e0d2e",
-          "titulo": "ROCKY (1976)",
-          "horarios": [
-            {
-              "horario": "12:50",
+              "horario": "18:00",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
-            }
-          ]
-        },
-        {
-          "id": "b66fe578-6d53-4a5d-9896-a71aa51cee4d",
-          "titulo": "SHREK",
-          "horarios": [
+            },
             {
-              "horario": "15:20",
+              "horario": "22:00",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
           ]
         },
         {
-          "id": "10971a95-b0cf-445d-b510-ebca382a5941",
-          "titulo": "CLAYFACE",
+          "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
+          "titulo": "EL GATO CON SOMBRERO",
           "horarios": [
             {
-              "horario": "15:30",
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "19:30",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
           ]
         },
         {
-          "id": "46cd2e5a-24a3-4ba6-9d3c-2e667f19faa5",
-          "titulo": "CÓMO ROBAR UN BANCO",
+          "id": "09ad8fdc-a2b9-456d-bb15-8cbabaab2cc7",
+          "titulo": "EL PADRINO (1972)",
           "horarios": [
             {
-              "horario": "17:50",
+              "horario": "16:00",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
             }
@@ -957,14 +830,70 @@
       "ciudad": "Santa Cruz",
       "peliculas": [
         {
-          "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
-          "titulo": "EL GATO CON SOMBRERO",
+          "id": "b56d6dfe-61d6-4399-a95c-17936e40790f",
+          "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
           "horarios": [
             {
-              "horario": "11:20",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             },
+            {
+              "horario": "13:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "15:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:20",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
+              "horario": "20:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:15",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D XL"
+            }
+          ]
+        },
+        {
+          "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
+          "titulo": "EL GATO CON SOMBRERO",
+          "horarios": [
             {
               "horario": "12:10",
               "idioma": "Español",
@@ -972,11 +901,6 @@
             },
             {
               "horario": "14:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
               "idioma": "Español",
               "formato": "2D"
             },
@@ -998,54 +922,13 @@
           ]
         },
         {
-          "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
-          "titulo": "GODZILLA MINUS ZERO",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "16:20",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "18:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:20",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "309e9e5f-a9a5-429c-b802-ea461dc413f6",
           "titulo": "YO SOY ROCKY",
           "horarios": [
             {
-              "horario": "12:00",
+              "horario": "12:20",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
             },
             {
               "horario": "17:00",
@@ -1053,17 +936,75 @@
               "formato": "2D"
             },
             {
-              "horario": "19:50",
+              "horario": "19:30",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:00",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
+              "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "b7de67bc-20af-4a8d-aaed-26c416f93f38",
+          "titulo": "MASHA Y LOS OSOS",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
             },
             {
-              "horario": "22:20",
+              "horario": "16:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:20",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "a53096c2-8ea7-4791-8b4a-a1a7cbacf343",
+          "titulo": "EXORCISMO EN EL TREN",
+          "horarios": [
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:45",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
+          "titulo": "GODZILLA MINUS ZERO",
+          "horarios": [
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1073,16 +1014,6 @@
           "id": "cb350d8c-fd61-41c9-8bd6-7befa596706e",
           "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
           "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
             {
               "horario": "15:30",
               "idioma": "Español",
@@ -1094,56 +1025,52 @@
               "formato": "2D"
             },
             {
-              "horario": "20:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "b56d6dfe-61d6-4399-a95c-17936e40790f",
-          "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-          "horarios": [
-            {
-              "horario": "19:00",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
-            },
-            {
               "horario": "20:30",
               "idioma": "Español",
               "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Español",
-              "formato": "2D XL"
-            },
-            {
-              "horario": "22:40",
-              "idioma": "Ingles",
-              "formato": "2D SUB"
             }
           ]
         },
         {
-          "id": "b66fe578-6d53-4a5d-9896-a71aa51cee4d",
-          "titulo": "SHREK",
+          "id": "687ed0f7-b1f7-44ef-bc86-ba4b1ef375c3",
+          "titulo": "VIDA CON PROPÓSITO",
           "horarios": [
             {
-              "horario": "11:30",
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "14:10",
+              "horario": "16:10",
               "idioma": "Español",
               "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "10971a95-b0cf-445d-b510-ebca382a5941",
+          "titulo": "CLAYFACE",
+          "horarios": [
+            {
+              "horario": "12:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "09ad8fdc-a2b9-456d-bb15-8cbabaab2cc7",
+          "titulo": "EL PADRINO (1972)",
+          "horarios": [
+            {
+              "horario": "13:00",
+              "idioma": "Ingles",
+              "formato": "2D SUB"
             },
             {
               "horario": "18:00",
@@ -1157,92 +1084,6 @@
           "titulo": "CÓMO ROBAR UN BANCO",
           "horarios": [
             {
-              "horario": "12:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "10971a95-b0cf-445d-b510-ebca382a5941",
-          "titulo": "CLAYFACE",
-          "horarios": [
-            {
-              "horario": "10:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
-          "titulo": "RESIDENT EVIL: NOCHE CERO",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "7843f55d-dce8-4133-9cd8-f258b2ec06af",
-          "titulo": "JU-ON: EL GRITO",
-          "horarios": [
-            {
-              "horario": "12:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "58c3944b-b7bf-4584-ab87-34199cc9a8e7",
-          "titulo": "EL ÚLTIMO RITUAL",
-          "horarios": [
-            {
-              "horario": "13:20",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "5f6cc51d-0efb-4f47-8519-ff08e82e0d2e",
-          "titulo": "ROCKY (1976)",
-          "horarios": [
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "ca56fad3-d210-4bce-a6f9-c7de8c81db2c",
-          "titulo": "STREET FIGTHER",
-          "horarios": [
-            {
               "horario": "14:00",
               "idioma": "Español",
               "formato": "2D"
@@ -1250,33 +1091,11 @@
           ]
         },
         {
-          "id": "d501b383-565a-40ca-ba4d-3b0c74427969",
-          "titulo": "LA URNA MALDITA",
+          "id": "b66fe578-6d53-4a5d-9896-a71aa51cee4d",
+          "titulo": "SHREK",
           "horarios": [
             {
-              "horario": "15:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "4f9c779e-b81c-471b-8c18-51bf3d562b10",
-          "titulo": "PINOCHO: SIN CUERDAS",
-          "horarios": [
-            {
-              "horario": "15:15",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "59ae6166-fb97-48e3-9cdb-9c1c3a04aab1",
-          "titulo": "EL BOSQUE SALVAJE",
-          "horarios": [
-            {
-              "horario": "16:20",
+              "horario": "14:20",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1287,20 +1106,20 @@
           "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
             {
-              "horario": "17:15",
+              "horario": "14:50",
               "idioma": "Español",
               "formato": "2D"
             }
           ]
         },
         {
-          "id": "f2218314-1732-406d-80bc-b55b508e7775",
-          "titulo": "TIERRA DE MI PADRE",
+          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
+          "titulo": "RESIDENT EVIL: NOCHE CERO",
           "horarios": [
             {
-              "horario": "19:20",
-              "idioma": "Alemán",
-              "formato": "2D SUB"
+              "horario": "16:25",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         }
@@ -1308,5 +1127,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "18/11/2026"
+  "fecha": "19/11/2026"
 }
