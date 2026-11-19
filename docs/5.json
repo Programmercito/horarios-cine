@@ -4,78 +4,16 @@
       "ciudad": "Cochabamba",
       "peliculas": [
         {
-          "id": "10971a95-b0cf-445d-b510-ebca382a5941",
-          "titulo": "CLAYFACE",
+          "id": "b56d6dfe-61d6-4399-a95c-17936e40790f",
+          "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
           "horarios": [
             {
-              "horario": "13:25",
+              "horario": "12:15",
               "idioma": "Doblada",
               "formato": "2D"
             },
             {
-              "horario": "17:35",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
-          "titulo": "GODZILLA MINUS ZERO",
-          "horarios": [
-            {
-              "horario": "11:30",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:00",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:30",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:00",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:30",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "b66fe578-6d53-4a5d-9896-a71aa51cee4d",
-          "titulo": "SHREK",
-          "horarios": [
-            {
-              "horario": "11:05",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "12:50",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "14:35",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:20",
+              "horario": "15:10",
               "idioma": "Doblada",
               "formato": "2D"
             },
@@ -85,149 +23,7 @@
               "formato": "2D"
             },
             {
-              "horario": "19:50",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "0d49a7e0-dad7-43d7-af3d-07e2b297d275",
-          "titulo": "PINOCHO SIN CUERDAS",
-          "horarios": [
-            {
-              "horario": "11:40",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:20",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
-          "titulo": "EL GATO CON SOMBRERO",
-          "horarios": [
-            {
-              "horario": "11:00",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:15",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:45",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:15",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "309e9e5f-a9a5-429c-b802-ea461dc413f6",
-          "titulo": "YO SOY ROCKY",
-          "horarios": [
-            {
-              "horario": "11:25",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:50",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:15",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "18:40",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:05",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "b56d6dfe-61d6-4399-a95c-17936e40790f",
-          "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-          "horarios": [
-            {
-              "horario": "19:40",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "21:35",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "fcf58c3e-29d7-4f53-830b-0c30d3f05b24",
-          "titulo": "EBENEZER: LOS FANTASMAS DE LA NAVIDAD",
-          "horarios": [
-            {
-              "horario": "15:00",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:40",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "d501b383-565a-40ca-ba4d-3b0c74427969",
-          "titulo": "LA URNA MALDITA",
-          "horarios": [
-            {
-              "horario": "11:20",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "15:30",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "46cd2e5a-24a3-4ba6-9d3c-2e667f19faa5",
-          "titulo": "CÓMO ROBAR UN BANCO",
-          "horarios": [
-            {
-              "horario": "22:30",
+              "horario": "21:00",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -237,5 +33,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "18/11/2026"
+  "fecha": "19/11/2026"
 }
