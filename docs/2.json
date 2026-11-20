@@ -218,17 +218,6 @@
           ]
         },
         {
-          "id": "09ad8fdc-a2b9-456d-bb15-8cbabaab2cc7",
-          "titulo": "EL PADRINO (1972)",
-          "horarios": [
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "4f9c779e-b81c-471b-8c18-51bf3d562b10",
           "titulo": "PINOCHO: SIN CUERDAS",
           "horarios": [
@@ -782,8 +771,8 @@
           "horarios": [
             {
               "horario": "13:50",
-              "idioma": "Español",
-              "formato": "2D PLUS"
+              "idioma": "Ingles",
+              "formato": "2D PLUS SUB"
             },
             {
               "horario": "18:00",
@@ -791,7 +780,7 @@
               "formato": "2D PLUS SUB"
             },
             {
-              "horario": "22:00",
+              "horario": "21:00",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -802,12 +791,12 @@
           "titulo": "EL GATO CON SOMBRERO",
           "horarios": [
             {
-              "horario": "13:30",
+              "horario": "12:30",
               "idioma": "Español",
               "formato": "2D PLUS"
             },
             {
-              "horario": "19:30",
+              "horario": "18:30",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -818,7 +807,7 @@
           "titulo": "EL PADRINO (1972)",
           "horarios": [
             {
-              "horario": "16:00",
+              "horario": "15:00",
               "idioma": "Ingles",
               "formato": "2D PLUS SUB"
             }
@@ -1032,22 +1021,6 @@
           ]
         },
         {
-          "id": "687ed0f7-b1f7-44ef-bc86-ba4b1ef375c3",
-          "titulo": "VIDA CON PROPÓSITO",
-          "horarios": [
-            {
-              "horario": "12:00",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "10971a95-b0cf-445d-b510-ebca382a5941",
           "titulo": "CLAYFACE",
           "horarios": [
@@ -1074,6 +1047,17 @@
             },
             {
               "horario": "18:00",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "687ed0f7-b1f7-44ef-bc86-ba4b1ef375c3",
+          "titulo": "VIDA CON PROPÓSITO",
+          "horarios": [
+            {
+              "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1127,5 +1111,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "19/11/2026"
+  "fecha": "20/11/2026"
 }
