@@ -4,6 +4,125 @@
       "ciudad": "Cochabamba",
       "peliculas": [
         {
+          "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
+          "titulo": "GODZILLA MINUS ZERO",
+          "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "b66fe578-6d53-4a5d-9896-a71aa51cee4d",
+          "titulo": "SHREK",
+          "horarios": [
+            {
+              "horario": "11:35",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:05",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:35",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:05",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
+          "titulo": "EL GATO CON SOMBRERO",
+          "horarios": [
+            {
+              "horario": "13:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:50",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "309e9e5f-a9a5-429c-b802-ea461dc413f6",
+          "titulo": "YO SOY ROCKY",
+          "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "15:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "b56d6dfe-61d6-4399-a95c-17936e40790f",
           "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
           "horarios": [
@@ -26,6 +145,58 @@
               "horario": "21:00",
               "idioma": "Doblada",
               "formato": "2D"
+            },
+            {
+              "horario": "21:55",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:25",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "fcf58c3e-29d7-4f53-830b-0c30d3f05b24",
+          "titulo": "EBENEZER: LOS FANTASMAS DE LA NAVIDAD",
+          "horarios": [
+            {
+              "horario": "14:15",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "b7de67bc-20af-4a8d-aaed-26c416f93f38",
+          "titulo": "MASHA Y LOS OSOS",
+          "horarios": [
+            {
+              "horario": "11:05",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:25",
+              "idioma": "Doblada",
+              "formato": "2D"
             }
           ]
         }
@@ -33,5 +204,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "19/11/2026"
+  "fecha": "20/11/2026"
 }
