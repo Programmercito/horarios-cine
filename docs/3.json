@@ -3,38 +3,16 @@
     {
       "peliculas": [
         {
-          "id": "10971a95-b0cf-445d-b510-ebca382a5941",
-          "titulo": "CLAYFACE",
+          "id": "b56d6dfe-61d6-4399-a95c-17936e40790f",
+          "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
           "horarios": [
             {
-              "horario": "12:50",
+              "horario": "15:10",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             },
             {
-              "horario": "",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "89031883-dc9b-4993-9f62-4c3c9833e231",
-          "titulo": "SHERK 1 (RE ESTRENO ANIVERSARIO)",
-          "horarios": [
-            {
-              "horario": "10:50",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "da9ea41a-1e41-44cf-821d-88140e83403a",
-          "titulo": "EL PODER DE LA RED",
-          "horarios": [
-            {
-              "horario": "10:30",
+              "horario": "20:45",
               "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
@@ -45,23 +23,55 @@
           "titulo": "YO SOY ROCKY",
           "horarios": [
             {
+              "horario": "12:40",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "18:10",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "20:00",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "3bd846ce-4aa1-48fa-9d16-c8147e96e5f4",
+          "titulo": "EBENEZER",
+          "horarios": [
+            {
+              "horario": "10:20",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:40",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
+          "titulo": "EL GATO CON SOMBRERO",
+          "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "DOB. AL ESPAÑOL",
+              "formato": "2D"
+            },
+            {
               "horario": "12:45",
-              "idioma": "Doblado",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:05",
-              "idioma": "Doblado",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:55",
-              "idioma": "Doblado",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:10",
-              "idioma": "Doblado",
+              "idioma": "DOB. AL ESPAÑOL",
               "formato": "2D"
             }
           ]
@@ -74,22 +84,6 @@
               "horario": "15:00",
               "idioma": "Doblado",
               "formato": "2D"
-            },
-            {
-              "horario": "19:35",
-              "idioma": "Doblado",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "ef80e015-df1a-41ef-91a3-cb042e512a1d",
-          "titulo": "COMO ROBAR UN BANCO",
-          "horarios": [
-            {
-              "horario": "17:05",
-              "idioma": "DOB. AL ESPAÑOL",
-              "formato": "2D"
             }
           ]
         }
@@ -98,5 +92,5 @@
     }
   ],
   "cine": "MONJE",
-  "fecha": "19/11/2026"
+  "fecha": "20/11/2026"
 }
