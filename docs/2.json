@@ -59,6 +59,11 @@
           "titulo": "GODZILLA MINUS ZERO",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D - 2D KRONOS"
+            },
+            {
               "horario": "13:20",
               "idioma": "Español",
               "formato": "2D XL - 2D XL KRONOS"
@@ -95,6 +100,11 @@
           "titulo": "EL GATO CON SOMBRERO",
           "horarios": [
             {
+              "horario": "10:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:30",
               "idioma": "Español",
               "formato": "3D"
@@ -121,6 +131,11 @@
           "titulo": "MASHA Y LOS OSOS",
           "horarios": [
             {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:10",
               "idioma": "Español",
               "formato": "2D"
@@ -132,6 +147,27 @@
             },
             {
               "horario": "15:30",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "b66fe578-6d53-4a5d-9896-a71aa51cee4d",
+          "titulo": "SHREK",
+          "horarios": [
+            {
+              "horario": "10:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -153,22 +189,6 @@
             },
             {
               "horario": "19:50",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "b66fe578-6d53-4a5d-9896-a71aa51cee4d",
-          "titulo": "SHREK",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -282,6 +302,16 @@
           "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
           "horarios": [
             {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
@@ -393,6 +423,16 @@
           "titulo": "GODZILLA MINUS ZERO",
           "horarios": [
             {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
+            {
               "horario": "14:10",
               "idioma": "Español",
               "formato": "2D XL"
@@ -430,45 +470,19 @@
           ]
         },
         {
-          "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
-          "titulo": "EL GATO CON SOMBRERO",
-          "horarios": [
-            {
-              "horario": "12:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:30",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "16:00",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "16:50",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:10",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "cb350d8c-fd61-41c9-8bd6-7befa596706e",
           "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
           "horarios": [
+            {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
             {
               "horario": "15:30",
               "idioma": "Español",
@@ -502,9 +516,60 @@
           ]
         },
         {
+          "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
+          "titulo": "EL GATO CON SOMBRERO",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "12:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "13:30",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:00",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "16:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "309e9e5f-a9a5-429c-b802-ea461dc413f6",
           "titulo": "YO SOY ROCKY",
           "horarios": [
+            {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "14:20",
               "idioma": "Español",
@@ -724,6 +789,11 @@
           "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
           "horarios": [
             {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
               "horario": "14:00",
               "idioma": "Español",
               "formato": "2D PLUS"
@@ -814,6 +884,17 @@
           ]
         },
         {
+          "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
+          "titulo": "GODZILLA MINUS ZERO",
+          "horarios": [
+            {
+              "horario": "11:10",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
           "id": "09ad8fdc-a2b9-456d-bb15-8cbabaab2cc7",
           "titulo": "EL PADRINO (1972)",
           "horarios": [
@@ -895,6 +976,11 @@
           "titulo": "EL GATO CON SOMBRERO",
           "horarios": [
             {
+              "horario": "10:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:10",
               "idioma": "Español",
               "formato": "2D"
@@ -916,6 +1002,32 @@
             },
             {
               "horario": "22:10",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
+          "titulo": "GODZILLA MINUS ZERO",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -984,27 +1096,6 @@
             },
             {
               "horario": "22:45",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
-          "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
-          "titulo": "GODZILLA MINUS ZERO",
-          "horarios": [
-            {
-              "horario": "14:30",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "19:50",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -1127,5 +1218,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "24/11/2026"
+  "fecha": "25/11/2026"
 }
