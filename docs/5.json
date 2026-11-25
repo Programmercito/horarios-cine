@@ -31,6 +31,11 @@
               "horario": "21:30",
               "idioma": "Doblada",
               "formato": "2D"
+            },
+            {
+              "horario": "22:05",
+              "idioma": "Doblada",
+              "formato": "2D"
             }
           ]
         },
@@ -65,11 +70,6 @@
             },
             {
               "horario": "20:20",
-              "idioma": "Doblada",
-              "formato": "2D"
-            },
-            {
-              "horario": "22:05",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -205,7 +205,7 @@
           "titulo": "EXORCISMO EN EL TREN",
           "horarios": [
             {
-              "horario": "12:35",
+              "horario": "12:40",
               "idioma": "Doblada",
               "formato": "2D"
             },
@@ -225,5 +225,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "24/11/2026"
+  "fecha": "25/11/2026"
 }
