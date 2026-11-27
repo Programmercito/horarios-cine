@@ -4,17 +4,6 @@
       "ciudad": "Cochabamba",
       "peliculas": [
         {
-          "id": "5e71e106-c1cf-4408-8ebf-83aeaccce176",
-          "titulo": "LOS JUEGOS DEL HAMBRE",
-          "horarios": [
-            {
-              "horario": "22:20",
-              "idioma": "Doblada",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
           "titulo": "GODZILLA MINUS ZERO",
           "horarios": [
@@ -98,6 +87,11 @@
           "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
           "horarios": [
             {
+              "horario": "22:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
               "horario": "11:40",
               "idioma": "Doblada",
               "formato": "2D"
@@ -114,6 +108,32 @@
             },
             {
               "horario": "20:40",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:20",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "16:25",
+              "idioma": "Doblada",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "fcf58c3e-29d7-4f53-830b-0c30d3f05b24",
+          "titulo": "EBENEZER: LOS FANTASMAS DE LA NAVIDAD",
+          "horarios": [
+            {
+              "horario": "14:15",
+              "idioma": "Doblada",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:20",
               "idioma": "Doblada",
               "formato": "2D"
             }
@@ -168,6 +188,11 @@
               "horario": "15:50",
               "idioma": "Doblada",
               "formato": "2D"
+            },
+            {
+              "horario": "21:30",
+              "idioma": "Doblada",
+              "formato": "2D"
             }
           ]
         },
@@ -196,5 +221,5 @@
     }
   ],
   "cine": "SKYBOX",
-  "fecha": "26/11/2026"
+  "fecha": "27/11/2026"
 }
