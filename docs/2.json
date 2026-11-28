@@ -59,6 +59,11 @@
           "titulo": "HECHIZO: BIENVENIDOS A HEXE",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
@@ -72,6 +77,11 @@
               "horario": "15:40",
               "idioma": "Español",
               "formato": "2D"
+            },
+            {
+              "horario": "16:40",
+              "idioma": "Español",
+              "formato": "3D"
             },
             {
               "horario": "18:00",
@@ -125,6 +135,11 @@
           "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
           "titulo": "EL GATO CON SOMBRERO",
           "horarios": [
+            {
+              "horario": "10:10",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "12:30",
               "idioma": "Español",
@@ -270,6 +285,16 @@
           "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
           "horarios": [
             {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "4D E-MOTION"
+            },
+            {
+              "horario": "10:30",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
@@ -376,6 +401,16 @@
           "titulo": "HECHIZO: BIENVENIDOS A HEXE",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
@@ -432,6 +467,11 @@
           "titulo": "LA NUEVA FOCKER",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "13:15",
               "idioma": "Español",
               "formato": "2D"
@@ -469,40 +509,19 @@
           ]
         },
         {
-          "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
-          "titulo": "EL GATO CON SOMBRERO",
-          "horarios": [
-            {
-              "horario": "12:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "13:40",
-              "idioma": "Español",
-              "formato": "3D PLUS"
-            },
-            {
-              "horario": "15:10",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "17:40",
-              "idioma": "Español",
-              "formato": "2D"
-            },
-            {
-              "horario": "20:00",
-              "idioma": "Español",
-              "formato": "2D"
-            }
-          ]
-        },
-        {
           "id": "7447037f-b1de-48d9-a689-2ce3b2463687",
           "titulo": "GODZILLA MINUS ZERO",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "2D XL"
+            },
             {
               "horario": "14:15",
               "idioma": "Español",
@@ -531,26 +550,36 @@
           ]
         },
         {
-          "id": "309e9e5f-a9a5-429c-b802-ea461dc413f6",
-          "titulo": "YO SOY ROCKY",
+          "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
+          "titulo": "EL GATO CON SOMBRERO",
           "horarios": [
             {
-              "horario": "14:20",
+              "horario": "11:20",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "12:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "17:00",
+              "horario": "13:40",
+              "idioma": "Español",
+              "formato": "3D PLUS"
+            },
+            {
+              "horario": "15:10",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "19:40",
+              "horario": "17:40",
               "idioma": "Español",
               "formato": "2D"
             },
             {
-              "horario": "22:20",
+              "horario": "20:00",
               "idioma": "Español",
               "formato": "2D"
             }
@@ -560,6 +589,11 @@
           "id": "cb350d8c-fd61-41c9-8bd6-7befa596706e",
           "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "15:30",
               "idioma": "Español",
@@ -579,6 +613,37 @@
               "horario": "21:15",
               "idioma": "Español",
               "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
+          "id": "309e9e5f-a9a5-429c-b802-ea461dc413f6",
+          "titulo": "YO SOY ROCKY",
+          "horarios": [
+            {
+              "horario": "11:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "14:20",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "17:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "19:40",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
+              "horario": "22:20",
+              "idioma": "Español",
+              "formato": "2D"
             }
           ]
         },
@@ -720,35 +785,14 @@
           ]
         },
         {
-          "id": "fe1fd682-f6a1-4d4e-8cfb-7cd405baefea",
-          "titulo": "LA NUEVA FOCKER",
-          "horarios": [
-            {
-              "horario": "12:30",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "14:45",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            },
-            {
-              "horario": "19:30",
-              "idioma": "Ingles",
-              "formato": "2D PLUS SUB"
-            },
-            {
-              "horario": "21:45",
-              "idioma": "Español",
-              "formato": "2D PLUS"
-            }
-          ]
-        },
-        {
           "id": "36da3469-f2a2-4cbc-95ae-3c9b4e2c73a5",
           "titulo": "HECHIZO: BIENVENIDOS A HEXE",
           "horarios": [
+            {
+              "horario": "11:30",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
             {
               "horario": "13:50",
               "idioma": "Español",
@@ -767,6 +811,32 @@
           ]
         },
         {
+          "id": "fe1fd682-f6a1-4d4e-8cfb-7cd405baefea",
+          "titulo": "LA NUEVA FOCKER",
+          "horarios": [
+            {
+              "horario": "12:00",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "14:15",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            },
+            {
+              "horario": "19:00",
+              "idioma": "Español",
+              "formato": "2D PLUS + STAND UP"
+            },
+            {
+              "horario": "21:45",
+              "idioma": "Español",
+              "formato": "2D PLUS"
+            }
+          ]
+        },
+        {
           "id": "e51e4e45-29e9-448b-a3d2-01a4c0d5d0f1",
           "titulo": "EL GATO CON SOMBRERO",
           "horarios": [
@@ -776,7 +846,7 @@
               "formato": "2D PLUS"
             },
             {
-              "horario": "17:00",
+              "horario": "16:30",
               "idioma": "Español",
               "formato": "2D PLUS"
             }
@@ -875,6 +945,11 @@
           "titulo": "HECHIZO: BIENVENIDOS A HEXE",
           "horarios": [
             {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
+            {
               "horario": "12:00",
               "idioma": "Español",
               "formato": "2D"
@@ -920,6 +995,11 @@
           "id": "fe1fd682-f6a1-4d4e-8cfb-7cd405baefea",
           "titulo": "LA NUEVA FOCKER",
           "horarios": [
+            {
+              "horario": "11:00",
+              "idioma": "Español",
+              "formato": "2D"
+            },
             {
               "horario": "13:10",
               "idioma": "Español",
@@ -1070,6 +1150,28 @@
           ]
         },
         {
+          "id": "ede0f53c-40e3-474f-a8f9-43eee1b868ef",
+          "titulo": "RESIDENT EVIL: NOCHE CERO",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
+          "id": "b66fe578-6d53-4a5d-9896-a71aa51cee4d",
+          "titulo": "SHREK",
+          "horarios": [
+            {
+              "horario": "10:50",
+              "idioma": "Español",
+              "formato": "2D"
+            }
+          ]
+        },
+        {
           "id": "9115ed95-30f0-4d6c-9396-68eb25abcd4f",
           "titulo": "EN EL CORAZON DE LA BESTIA",
           "horarios": [
@@ -1106,5 +1208,5 @@
     }
   ],
   "cine": "MULTICINE",
-  "fecha": "27/11/2026"
+  "fecha": "28/11/2026"
 }
